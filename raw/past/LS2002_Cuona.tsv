@@ -1,0 +1,339 @@
+ID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	CONCEPTICON_ID	DOCULECT	VALUE	FORM	SOURCE
+1	101_ifirstpersonsingular	I [first person singular]	1209	101_ifirstpersonsingular	1209	Mama Cuona Menba	ŋe35		LS2002
+2	11_big	big	1202	11_big	1202	Mama Cuona Menba	then55po53		LS2002
+3	14_black	black	163	14_black	163	Mama Cuona Menba	plɛː35kan55		LS2002
+4	26_coldoftemperature	cold (of temperature)	1287	26_coldoftemperature	1287	Mama Cuona Menba	chek53pa53		LS2002
+5	36_dirty	dirty	1230	36_dirty	1230	Mama Cuona Menba	bɔk35po53		LS2002
+6	40_dry	dry	1398	40_dry	1398	Mama Cuona Menba	cem55pha53		LS2002
+7	48_eight	eight	1705	48_eight	1705	Mama Cuona Menba	cen35		LS2002
+8	50_far	far	1406	50_far	1406	Mama Cuona Menba	thaʔ53riŋ35po53		LS2002
+9	57_five	five	493	57_five	493	Mama Cuona Menba	le31ŋe53		LS2002
+10	67_four	four	1500	67_four	1500	Mama Cuona Menba	pli53		LS2002
+11	73_full	full	1429	73_full	1429	Mama Cuona Menba			
+12	76_good	good	1035	76_good	1035	Mama Cuona Menba	li35khu31		LS2002
+13	78_green	green	1425	78_green	1425	Mama Cuona Menba	dʑaŋ35ku53		LS2002
+14	82_hard	hard	1884	82_hard	1884	Mama Cuona Menba	ʂa55po53		LS2002
+15	83_heorshethirdpersonsingular	he or she [third person singular]	262	83_heorshethirdpersonsingular	262	Mama Cuona Menba	pe35		LS2002
+16	87_heavy	heavy	1210	87_heavy	1210	Mama Cuona Menba	li55po53		LS2002
+17	96_hot	hot	1286	96_hot	1286	Mama Cuona Menba	tshe55po53		LS2002
+18	103_inside	inside	1606	103_inside	1606	Mama Cuona Menba	neŋ35		LS2002
+19	110_late	late	477	110_late	477	Mama Cuona Menba	jyt35po53		LS2002
+20	114_left	left	244	114_left	244	Mama Cuona Menba	jøn55ma53		LS2002
+21	117_lightofweight	light (of weight)	1052	117_lightofweight	1052	Mama Cuona Menba	jaŋ35po53		LS2002
+22	120_long	long	1203	120_long	1203	Mama Cuona Menba	riŋ35ko53		LS2002
+23	124_many	many	1198	124_many	1198	Mama Cuona Menba	maŋ35po53		LS2002
+24	127_middle	middle	1093	127_middle	1093	Mama Cuona Menba	pun35		LS2002
+25	129_morning	morning	1339	129_morning	1339	Mama Cuona Menba	nam55ɕe53		LS2002
+26	139_near	near	1942	139_near	1942	Mama Cuona Menba	thaʔ53len35po53		LS2002
+27	142_new	new	1231	142_new	1231	Mama Cuona Menba	se55ro53		LS2002
+28	143_nine	nine	1483	143_nine	1483	Mama Cuona Menba	tu31ku53		LS2002
+29	148_one	one	1493	148_one	1493	Mama Cuona Menba	theʔ53		LS2002
+30	150_outside	outside	762	150_outside	762	Mama Cuona Menba	tɕhin55		LS2002
+31	158_red	red	156	158_red	156	Mama Cuona Menba	leu55		LS2002
+32	161_right	right	1019	161_right	1019	Mama Cuona Menba	jɛː55pa53		LS2002
+33	166_round	round	1395	166_round	1395	Mama Cuona Menba	chir55mo53		LS2002
+34	175_seven	seven	1704	175_seven	1704	Mama Cuona Menba	nis55		LS2002
+35	176_sharp	sharp	1396	176_sharp	1396	Mama Cuona Menba	tɕhet55po53		LS2002
+36	179_short	short	1645	179_short	1645	Mama Cuona Menba	thuŋ55po53		LS2002
+37	184_six	six	1703	184_six	1703	Mama Cuona Menba	kroʔ35		LS2002
+38	188_small	small	1246	188_small	1246	Mama Cuona Menba	priu53		LS2002
+39	194_soft	soft	1856	194_soft	1856	Mama Cuona Menba	dʑam35mo53		LS2002
+40	204_straight	straight	1404	204_straight	1404	Mama Cuona Menba	kap55tuʔ53		LS2002
+41	207_ten	ten	1515	207_ten	1515	Mama Cuona Menba	tɕi53		LS2002
+42	3_theant	the ant	587	3_theant	587	Mama Cuona Menba	ʂuk55pu53		LS2002
+43	6_thebamboo	the bamboo	1927	6_thebamboo	1927	Mama Cuona Menba	ɲom35		LS2002
+44	9_thebelly	the belly	1251	9_thebelly	1251	Mama Cuona Menba	cɛː55pa53		LS2002
+45	12_thebird	the bird	937	12_thebird	937	Mama Cuona Menba	tɕa35		LS2002
+46	15_theblood	the blood	946	15_theblood	946	Mama Cuona Menba	ceʔ53		LS2002
+47	18_thebone	the bone	1394	18_thebone	1394	Mama Cuona Menba			
+48	19_thebranch	the branch	1531	19_thebranch	1531	Mama Cuona Menba	ʔa55lak53		LS2002
+49	20_thebreastfemale	the breast (female)	1402	20_thebreastfemale	1402	Mama Cuona Menba	jɔ35		LS2002
+50	25_thecloud	the cloud	1489	25_thecloud	1489	Mama Cuona Menba	sa55caʔ53		LS2002
+51	33_thedew	the dew	1977	33_thedew	1977	Mama Cuona Menba	ziː35pa53		LS2002
+52	37_thedog	the dog	2009	37_thedog	2009	Mama Cuona Menba	chi53		LS2002
+53	38_thedream	the dream	2374	38_thedream	2374	Mama Cuona Menba	mi35prem55		LS2002
+54	41_thedust	the dust	2	41_thedust	2	Mama Cuona Menba			
+55	42_theear	the ear	1247	42_theear	1247	Mama Cuona Menba	nem35nɛn53		LS2002
+56	44_theearthsoil	the earth (soil)	1228	44_theearthsoil	1228	Mama Cuona Menba	sa53		LS2002
+57	47_theegg	the egg	744	47_theegg	744	Mama Cuona Menba	khaʔ53lum53		LS2002
+58	49_theeye	the eye	1248	49_theeye	1248	Mama Cuona Menba	meʔ53		LS2002
+59	54_thefire	the fire	221	54_thefire	221	Mama Cuona Menba	me35		LS2002
+60	56_thefish	the fish	227	56_thefish	227	Mama Cuona Menba	ɲa35		LS2002
+61	61_theflower	the flower	239	61_theflower	239	Mama Cuona Menba	min35thoʔ53		LS2002
+62	64_thefoot	the foot	1301	64_thefoot	1301	Mama Cuona Menba	le35mɛʔ53		LS2002
+63	65_theforest	the forest	420	65_theforest	420	Mama Cuona Menba			
+64	69_thefrog	the frog	503	69_thefrog	503	Mama Cuona Menba	bɛː35pa53		LS2002
+65	70_thefrontfrontside	the front (front side)	2194	70_thefrontfrontside	2194	Mama Cuona Menba	ŋɛʔ53		LS2002
+66	72_thefruit	the fruit	1507	72_thefruit	1507	Mama Cuona Menba	ɕeŋ55toʔ53		LS2002
+67	75_thegoat	the goat	1502	75_thegoat	1502	Mama Cuona Menba	ra35		LS2002
+68	79_thehail	the hail	609	79_thehail	609	Mama Cuona Menba	ser55wa53		LS2002
+69	80_thehairofthehead	the hair (of the head)	1040	80_thehairofthehead	1040	Mama Cuona Menba	khra53		LS2002
+70	81_thehand	the hand	1277	81_thehand	1277	Mama Cuona Menba	la55dum55		LS2002
+71	84_thehead	the head	1256	84_thehead	1256	Mama Cuona Menba	kɔk35theʔ53		LS2002
+72	86_theheart	the heart	1223	86_theheart	1223	Mama Cuona Menba	niŋ53		LS2002
+73	94_thehornkeratinizedskin	the horn (keratinized skin)	1393	94_thehornkeratinizedskin	1393	Mama Cuona Menba	ruː35		LS2002
+74	97_thehouse	the house	1252	97_thehouse	1252	Mama Cuona Menba	chem53		LS2002
+75	106_theknee	the knee	1371	106_theknee	1371	Mama Cuona Menba			
+76	112_theleaf	the leaf	628	112_theleaf	628	Mama Cuona Menba	lɔ35ma53		LS2002
+77	119_theliver	the liver	1224	119_theliver	1224	Mama Cuona Menba	tsi55mo53		LS2002
+78	121_thelouse	the louse	1392	121_thelouse	1392	Mama Cuona Menba	ɕeʔ35		LS2002
+79	122_thelung	the lung	688	122_thelung	688	Mama Cuona Menba	lɔː55		LS2002
+80	123_themanmalehuman	the man (male human)	2106	123_themanmalehuman	2106	Mama Cuona Menba	pu35		LS2002
+81	126_themeat	the meat	634	126_themeat	634	Mama Cuona Menba	ɕa53		LS2002
+82	128_themoon	the moon	1313	128_themoon	1313	Mama Cuona Menba	lɛː55tʰøn55		LS2002
+83	132_themountain	the mountain	639	132_themountain	639	Mama Cuona Menba	ri˧˥	ri35	LS1986
+84	133_themouseorrat	the mouse or rat	2139	133_themouseorrat	2139	Mama Cuona Menba	tɕi35po53		LS2002
+85	134_themouth	the mouth	674	134_themouth	674	Mama Cuona Menba	kha53		LS2002
+86	135_themud	the mud	640	135_themud	640	Mama Cuona Menba	dAm˧˥ 	dAm35	LS1986
+87	136_thenailfingernailorclaw	the nail (fingernail or claw)	2128	136_thenailfingernailorclaw	2128	Mama Cuona Menba	ziː35po53		LS2002
+88	137_thename	the name	1405	137_thename	1405	Mama Cuona Menba	meŋ35		LS2002
+89	140_theneck	the neck	1333	140_theneck	1333	Mama Cuona Menba	tak55pa53		LS2002
+90	141_theneedleforsewing	the needle (for sewing)	1382	141_theneedleforsewing	1382	Mama Cuona Menba	khɔm53		LS2002
+91	146_thenose	the nose	1221	146_thenose	1221	Mama Cuona Menba	na53		LS2002
+92	151_thepig	the pig	1337	151_thepig	1337	Mama Cuona Menba	phaʔ53		LS2002
+93	156_therain	the rain	658	156_therain	658	Mama Cuona Menba	nAm˧˥ 	nAm35	LS1986
+94	163_theroad	the road	667	163_theroad	667	Mama Cuona Menba	lem35taŋ55		LS2002
+95	164_theroot	the root	670	164_theroot	670	Mama Cuona Menba	ra35		LS2002
+96	165_therope	the rope	1218	165_therope	1218	Mama Cuona Menba	thek55pa53		LS2002
+97	168_thesalt	the salt	1274	168_thesalt	1274	Mama Cuona Menba	tsha53		LS2002
+98	170_thesand	the sand	671	170_thesand	671	Mama Cuona Menba	tɕe35ma53		LS2002
+99	174_theseed	the seed	714	174_theseed	714	Mama Cuona Menba	tɕu35		LS2002
+100	250_theshit	the shit	676	250_theshit	676	Mama Cuona Menba	ɲiŋ35		LS2002
+101	180_theshoulder	the shoulder	1482	180_theshoulder	1482	Mama Cuona Menba	pu55pa53		LS2002
+102	185_theskin	the skin	763	185_theskin	763	Mama Cuona Menba	phe55khu53		LS2002
+103	186_thesky	the sky	1732	186_thesky	1732	Mama Cuona Menba	nam53		LS2002
+104	190_thesmoke	the smoke	778	190_thesmoke	778	Mama Cuona Menba	me35kun55		LS2002
+105	192_thesnake	the snake	730	192_thesnake	730	Mama Cuona Menba	breː35		LS2002
+106	193_thesnow	the snow	784	193_thesnow	784	Mama Cuona Menba	khA˥ru˥˧	khA55ru51	LS1986
+107	195_theson	the son	1620	195_theson	1620	Mama Cuona Menba	pu35		LS2002
+108	197_thespider	the spider	843	197_thespider	843	Mama Cuona Menba	dʐe35tom55		LS2002
+109	200_thestar	the star	1430	200_thestar	1430	Mama Cuona Menba	kar55ma53		LS2002
+110	202_thestick	the stick	1295	202_thestick	1295	Mama Cuona Menba	cuk55pa53		LS2002
+111	203_thestoneapieceof	the stone (a piece of)	857	203_thestoneapieceof	857	Mama Cuona Menba	kɔr35		LS2002
+112	205_thesun	the sun	1343	205_thesun	1343	Mama Cuona Menba	plaŋ53		LS2002
+113	206_thetail	the tail	1220	206_thetail	1220	Mama Cuona Menba	khlɛʔ53		LS2002
+114	211_thethigh	the thigh	471	211_thethigh	471	Mama Cuona Menba			
+115	218_thethunder	the thunder	1150	218_thethunder	1150	Mama Cuona Menba	bruʔ53		LS2002
+116	222_thetongue	the tongue	1205	222_thetongue	1205	Mama Cuona Menba	le53		LS2002
+117	223_thetoothfront	the tooth (front)	1380	223_thetoothfront	1380	Mama Cuona Menba	wa53		LS2002
+118	229_thewater	the water	948	229_thewater	948	Mama Cuona Menba	tshi53		LS2002
+119	238_thewind	the wind	960	238_thewind	960	Mama Cuona Menba	røn˧˥	røn35	LS1986
+120	239_thewing	the wing	1257	239_thewing	1257	Mama Cuona Menba	ɕɔk55pa53		LS2002
+121	242_thewoman	the woman	962	242_thewoman	962	Mama Cuona Menba	pom35		LS2002
+122	245_theyear	the year	1226	245_theyear	1226	Mama Cuona Menba	niŋ55		LS2002
+123	210_thick	thick	1244	210_thick	1244	Mama Cuona Menba	tuk55po53		LS2002
+124	212_thinobject	thin (object)	2249	212_thinobject	2249	Mama Cuona Menba	bra35mo53		LS2002
+125	215_thousecondpersonsingular	thou [second person singular]	1215	215_thousecondpersonsingular	1215	Mama Cuona Menba	ʔi53		LS2002
+126	216_three	three	492	216_three	492	Mama Cuona Menba	sum53		LS2002
+127	13_tobite	to bite	1403	13_tobite	1403	Mama Cuona Menba	chaʔ53		LS2002
+128	21_toburnintransitive	to burn [intransitive]	1428	21_toburnintransitive	1428	Mama Cuona Menba			
+129	22_tobuy	to buy	1869	22_tobuy	1869	Mama Cuona Menba	ɲer35		LS2002
+130	23_tochew	to chew	321	23_tochew	321	Mama Cuona Menba	kla35		LS2002
+131	27_tocome	to come	1446	27_tocome	1446	Mama Cuona Menba	cɛʔ35		LS2002
+132	29_tocount	to count	1420	29_tocount	1420	Mama Cuona Menba	tsi35ja35		LS2002
+133	30_tocryweep	to cry (weep)	1839	30_tocryweep	1839	Mama Cuona Menba	ŋu35		LS2002
+134	34_todie	to die	1494	34_todie	1494	Mama Cuona Menba	ɕi55po55		LS2002
+135	35_todig	to dig	1418	35_todig	1418	Mama Cuona Menba	koʔ35		LS2002
+136	39_todrink	to drink	1401	39_todrink	1401	Mama Cuona Menba	toŋ55		LS2002
+137	46_toeat	to eat	1336	46_toeat	1336	Mama Cuona Menba	za35		LS2002
+138	53_tofight	to fight	1423	53_tofight	1423	Mama Cuona Menba	thaː55mo53ja35		LS2002
+139	62_toflymovethroughair	to fly (move through air)	1441	62_toflymovethroughair	1441	Mama Cuona Menba	phir55		LS2002
+140	66_toforget	to forget	1523	66_toforget	1523	Mama Cuona Menba	ŋat35ne35		LS2002
+141	74_togive	to give	1447	74_togive	1447	Mama Cuona Menba			
+142	85_tohear	to hear	1408	85_tohear	1408	Mama Cuona Menba	ɲan35		LS2002
+143	89_tohideconceal	to hide (conceal)	602	89_tohideconceal	602	Mama Cuona Menba	tɕhi55ɲi35		LS2002
+144	91_tohold	to hold	1448	91_tohold	1448	Mama Cuona Menba	zuŋ35		LS2002
+145	104_tokill	to kill	1417	104_tokill	1417	Mama Cuona Menba	sɔt53		LS2002
+146	111_tolaugh	to laugh	1355	111_tolaugh	1355	Mama Cuona Menba	cen35tar55		LS2002
+147	115_tolick	to lick	319	115_tolick	319	Mama Cuona Menba	klA˧˥	klA35	LS1986
+148	153_toplay	to play	1413	153_toplay	1413	Mama Cuona Menba	møn35to55pa31ja35		LS2002
+149	155_topush	to push	1452	155_topush	1452	Mama Cuona Menba	tɔk˥thoʔ˥˧sa˧˩ 	tɔk55thoʔ53sa51	LS1986
+150	159_toresidelive	to reside (live)	363	159_toresidelive	363	Mama Cuona Menba	zuk35		LS2002
+151	171_toscratch	to scratch	1436	171_toscratch	1436	Mama Cuona Menba	thoʔ˥˧	thoʔ53	LS1986
+152	173_tosee	to see	1409	173_tosee	1409	Mama Cuona Menba	meʔthoŋ53		LS2002
+153	178_toshootanarrow	to shoot (an arrow)	1172	178_toshootanarrow	1172	Mama Cuona Menba	bla35ja35		LS2002
+154	183_tosing	to sing	1261	183_tosing	1261	Mama Cuona Menba	ʑɛʔ35thoʔ53		LS2002
+155	187_tosleep	to sleep	1585	187_tosleep	1585	Mama Cuona Menba	ɲɛː35		LS2002
+156	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	1586	189_tosmellperceiveodortransitive	1586	Mama Cuona Menba	ʂi53num35		LS2002
+157	198_tospit	to spit	1440	198_tospit	1440	Mama Cuona Menba	kɔp35		LS2002
+158	199_tostand	to stand	1442	199_tostand	1442	Mama Cuona Menba	laŋ35		LS2002
+159	201_tosteal	to steal	713	201_tosteal	713	Mama Cuona Menba	kun53		LS2002
+160	213_tothinkreflect	to think (reflect)	1415	213_tothinkreflect	1415	Mama Cuona Menba	kran35		LS2002
+161	217_tothrow	to throw	1456	217_tothrow	1456	Mama Cuona Menba	ɔt35		LS2002
+162	227_tovomit	to vomit	1278	227_tovomit	1278	Mama Cuona Menba	kɔp35		LS2002
+163	228_towalk	to walk	1443	228_towalk	1443	Mama Cuona Menba	cɛʔ35		LS2002
+164	240_towipe	to wipe	1454	240_towipe	1454	Mama Cuona Menba	tɕhiʔ53		LS2002
+165	226_two	two	1498	226_two	1498	Mama Cuona Menba	nai35		LS2002
+166	231_wet	wet	1726	231_wet	1726	Mama Cuona Menba	ɕer55pa53		LS2002
+167	235_white	white	1335	235_white	1335	Mama Cuona Menba	cher55po53		LS2002
+168	236_who	who	1235	236_who	1235	Mama Cuona Menba	su53		LS2002
+169	246_yellow	yellow	1424	246_yellow	1424	Mama Cuona Menba	si55ru53		LS2002
+170	101_ifirstpersonsingular	I [first person singular]	1209	101_ifirstpersonsingular	1209	Wenlang Cuona Menba	ŋe35		LS2002
+171	11_big	big	1202	11_big	1202	Wenlang Cuona Menba	than55bu55		LS2002
+172	14_black	black	163	14_black	163	Wenlang Cuona Menba	mleŋ55bu55		LS2002
+173	26_coldoftemperature	cold (of temperature)	1287	26_coldoftemperature	1287	Wenlang Cuona Menba	tɕhak55ɲi55		LS2002
+174	36_dirty	dirty	1230	36_dirty	1230	Wenlang Cuona Menba	ʑo35lo55ka55		LS2002
+175	40_dry	dry	1398	40_dry	1398	Wenlang Cuona Menba	kem55ɲi55		LS2002
+176	48_eight	eight	1705	48_eight	1705	Wenlang Cuona Menba	get35		LS2002
+177	50_far	far	1406	50_far	1406	Wenlang Cuona Menba	tha55riŋ35ko55		LS2002
+178	57_five	five	493	57_five	493	Wenlang Cuona Menba	le35ŋa55		LS2002
+179	67_four	four	1500	67_four	1500	Wenlang Cuona Menba	bli35		LS2002
+180	73_full	full	1429	73_full	1429	Wenlang Cuona Menba			
+181	76_good	good	1035	76_good	1035	Wenlang Cuona Menba	leu35		LS2002
+182	78_green	green	1425	78_green	1425	Wenlang Cuona Menba	ŋou55		LS2002
+183	82_hard	hard	1884	82_hard	1884	Wenlang Cuona Menba	ʂau55		LS2002
+184	83_heorshethirdpersonsingular	he or she [third person singular]	262	83_heorshethirdpersonsingular	262	Wenlang Cuona Menba	bi35		LS2002
+185	87_heavy	heavy	1210	87_heavy	1210	Wenlang Cuona Menba	lin55		LS2002
+186	96_hot	hot	1286	96_hot	1286	Wenlang Cuona Menba	tshat55pa55		LS2002
+187	103_inside	inside	1606	103_inside	1606	Wenlang Cuona Menba	neŋ35ŋo35		LS2002
+188	110_late	late	477	110_late	477	Wenlang Cuona Menba	ʑyr35po55		LS2002
+189	114_left	left	244	114_left	244	Wenlang Cuona Menba	jøn55pa55		LS2002
+190	117_lightofweight	light (of weight)	1052	117_lightofweight	1052	Wenlang Cuona Menba	jaŋ35bu55		LS2002
+191	120_long	long	1203	120_long	1203	Wenlang Cuona Menba	riŋ35ko53		LS2002
+192	124_many	many	1198	124_many	1198	Wenlang Cuona Menba	ge35ba35		LS2002
+193	127_middle	middle	1093	127_middle	1093	Wenlang Cuona Menba	but35ka55		LS2002
+194	129_morning	morning	1339	129_morning	1339	Wenlang Cuona Menba	nam35leŋ55		LS2002
+195	139_near	near	1942	139_near	1942	Wenlang Cuona Menba	lan35be55		LS2002
+196	142_new	new	1231	142_new	1231	Wenlang Cuona Menba	se55ru55		LS2002
+197	143_nine	nine	1483	143_nine	1483	Wenlang Cuona Menba	du35gu55		LS2002
+198	148_one	one	1493	148_one	1493	Wenlang Cuona Menba	thi55		LS2002
+199	150_outside	outside	762	150_outside	762	Wenlang Cuona Menba	tɕhi55ka55		LS2002
+200	158_red	red	156	158_red	156	Wenlang Cuona Menba	liu35		LS2002
+201	161_right	right	1019	161_right	1019	Wenlang Cuona Menba	e55pa53		LS2002
+202	166_round	round	1395	166_round	1395	Wenlang Cuona Menba	gor35po35		LS2002
+203	175_seven	seven	1704	175_seven	1704	Wenlang Cuona Menba	ɲi55		LS2002
+204	176_sharp	sharp	1396	176_sharp	1396	Wenlang Cuona Menba	tɕhat55po55		LS2002
+205	179_short	short	1645	179_short	1645	Wenlang Cuona Menba	thoŋ55ko55		LS2002
+206	184_six	six	1703	184_six	1703	Wenlang Cuona Menba	grok35		LS2002
+207	188_small	small	1246	188_small	1246	Wenlang Cuona Menba	breu55ɣu55		LS2002
+208	194_soft	soft	1856	194_soft	1856	Wenlang Cuona Menba	dʑam35bu55		LS2002
+209	204_straight	straight	1404	204_straight	1404	Wenlang Cuona Menba	døt35poŋ55		LS2002
+210	207_ten	ten	1515	207_ten	1515	Wenlang Cuona Menba	tɕi55		LS2002
+211	3_theant	the ant	587	3_theant	587	Wenlang Cuona Menba	xrok55pu55		LS2002
+212	6_thebamboo	the bamboo	1927	6_thebamboo	1927	Wenlang Cuona Menba	so55		LS2002
+213	9_thebelly	the belly	1251	9_thebelly	1251	Wenlang Cuona Menba	ke55pa53		LS2002
+214	12_thebird	the bird	937	12_thebird	937	Wenlang Cuona Menba	ɕa35		LS2002
+215	15_theblood	the blood	946	15_theblood	946	Wenlang Cuona Menba	ki55		LS2002
+216	18_thebone	the bone	1394	18_thebone	1394	Wenlang Cuona Menba			
+217	19_thebranch	the branch	1531	19_thebranch	1531	Wenlang Cuona Menba	a55lak55		LS2002
+218	20_thebreastfemale	the breast (female)	1402	20_thebreastfemale	1402	Wenlang Cuona Menba	jo35		LS2002
+219	25_thecloud	the cloud	1489	25_thecloud	1489	Wenlang Cuona Menba	sa55tɕa55		LS2002
+220	33_thedew	the dew	1977	33_thedew	1977	Wenlang Cuona Menba	ziː35ba55		LS2002
+221	37_thedog	the dog	2009	37_thedog	2009	Wenlang Cuona Menba	khi55		LS2002
+222	38_thedream	the dream	2374	38_thedream	2374	Wenlang Cuona Menba	mre35phre55		LS2002
+223	41_thedust	the dust	2	41_thedust	2	Wenlang Cuona Menba			
+224	42_theear	the ear	1247	42_theear	1247	Wenlang Cuona Menba	na55lap55		LS2002
+225	44_theearthsoil	the earth (soil)	1228	44_theearthsoil	1228	Wenlang Cuona Menba	sa55		LS2002
+226	47_theegg	the egg	744	47_theegg	744	Wenlang Cuona Menba	kha55lum55		LS2002
+227	49_theeye	the eye	1248	49_theeye	1248	Wenlang Cuona Menba	mek55		LS2002
+228	54_thefire	the fire	221	54_thefire	221	Wenlang Cuona Menba	me35		LS2002
+229	56_thefish	the fish	227	56_thefish	227	Wenlang Cuona Menba	ɲa35		LS2002
+230	61_theflower	the flower	239	61_theflower	239	Wenlang Cuona Menba	men55to55		LS2002
+231	64_thefoot	the foot	1301	64_thefoot	1301	Wenlang Cuona Menba	li35min55		LS2002
+232	65_theforest	the forest	420	65_theforest	420	Wenlang Cuona Menba			
+233	69_thefrog	the frog	503	69_thefrog	503	Wenlang Cuona Menba	pai55po55		LS2002
+234	70_thefrontfrontside	the front (front side)	2194	70_thefrontfrontside	2194	Wenlang Cuona Menba	ɲi55ka55		LS2002
+235	72_thefruit	the fruit	1507	72_thefruit	1507	Wenlang Cuona Menba	ɕeŋ55tuk55		LS2002
+236	75_thegoat	the goat	1502	75_thegoat	1502	Wenlang Cuona Menba	ra35		LS2002
+237	79_thehail	the hail	609	79_thehail	609	Wenlang Cuona Menba	ser55ba55		LS2002
+238	80_thehairofthehead	the hair (of the head)	1040	80_thehairofthehead	1040	Wenlang Cuona Menba	khra55		LS2002
+239	81_thehand	the hand	1277	81_thehand	1277	Wenlang Cuona Menba	lak55tɕuŋ55		LS2002
+240	84_thehead	the head	1256	84_thehead	1256	Wenlang Cuona Menba	go35te55		LS2002
+241	86_theheart	the heart	1223	86_theheart	1223	Wenlang Cuona Menba	neŋ55		LS2002
+242	94_thehornkeratinizedskin	the horn (keratinized skin)	1393	94_thehornkeratinizedskin	1393	Wenlang Cuona Menba	ru35wa55		LS2002
+243	97_thehouse	the house	1252	97_thehouse	1252	Wenlang Cuona Menba	khem55		LS2002
+244	106_theknee	the knee	1371	106_theknee	1371	Wenlang Cuona Menba			
+245	112_theleaf	the leaf	628	112_theleaf	628	Wenlang Cuona Menba	blap35ma55		LS2002
+246	119_theliver	the liver	1224	119_theliver	1224	Wenlang Cuona Menba	tin55po55		LS2002
+247	121_thelouse	the louse	1392	121_thelouse	1392	Wenlang Cuona Menba	ɕi55		LS2002
+248	122_thelung	the lung	688	122_thelung	688	Wenlang Cuona Menba	lo55wa55		LS2002
+249	123_themanmalehuman	the man (male human)	2106	123_themanmalehuman	2106	Wenlang Cuona Menba	phø55tsa55		LS2002
+250	126_themeat	the meat	634	126_themeat	634	Wenlang Cuona Menba	ɕa53		LS2002
+251	128_themoon	the moon	1313	128_themoon	1313	Wenlang Cuona Menba	le55		LS2002
+252	132_themountain	the mountain	639	132_themountain	639	Wenlang Cuona Menba	ri˧˥	ri35	LS1986
+253	133_themouseorrat	the mouse or rat	2139	133_themouseorrat	2139	Wenlang Cuona Menba	ɕu35		LS2002
+254	134_themouth	the mouth	674	134_themouth	674	Wenlang Cuona Menba	kha53		LS2002
+255	135_themud	the mud	640	135_themud	640	Wenlang Cuona Menba	ɲin˧˥tsaŋ˥	ɲin35tsaŋ55	LS1986
+256	136_thenailfingernailorclaw	the nail (fingernail or claw)	2128	136_thenailfingernailorclaw	2128	Wenlang Cuona Menba	zim35poŋ55		LS2002
+257	137_thename	the name	1405	137_thename	1405	Wenlang Cuona Menba	meŋ35		LS2002
+258	140_theneck	the neck	1333	140_theneck	1333	Wenlang Cuona Menba	tap55pa55		LS2002
+259	141_theneedleforsewing	the needle (for sewing)	1382	141_theneedleforsewing	1382	Wenlang Cuona Menba	khop55		LS2002
+260	146_thenose	the nose	1221	146_thenose	1221	Wenlang Cuona Menba	na55		LS2002
+261	151_thepig	the pig	1337	151_thepig	1337	Wenlang Cuona Menba	pha55		LS2002
+262	156_therain	the rain	658	156_therain	658	Wenlang Cuona Menba	nɑm˧˥	nɑm35	LS1986
+263	163_theroad	the road	667	163_theroad	667	Wenlang Cuona Menba	lem35daŋ55		LS2002
+264	164_theroot	the root	670	164_theroot	670	Wenlang Cuona Menba	tsa55		LS2002
+265	165_therope	the rope	1218	165_therope	1218	Wenlang Cuona Menba	thek55pa55		LS2002
+266	168_thesalt	the salt	1274	168_thesalt	1274	Wenlang Cuona Menba	tsha55		LS2002
+267	170_thesand	the sand	671	170_thesand	671	Wenlang Cuona Menba	dʑe35ma55		LS2002
+268	174_theseed	the seed	714	174_theseed	714	Wenlang Cuona Menba	la55		LS2002
+269	250_theshit	the shit	676	250_theshit	676	Wenlang Cuona Menba	ɲiŋ35		LS2002
+270	180_theshoulder	the shoulder	1482	180_theshoulder	1482	Wenlang Cuona Menba	pum55pa55		LS2002
+271	185_theskin	the skin	763	185_theskin	763	Wenlang Cuona Menba	phiu55		LS2002
+272	186_thesky	the sky	1732	186_thesky	1732	Wenlang Cuona Menba	nam53		LS2002
+273	190_thesmoke	the smoke	778	190_thesmoke	778	Wenlang Cuona Menba	me35gun55		LS2002
+274	192_thesnake	the snake	730	192_thesnake	730	Wenlang Cuona Menba	mu35ri55		LS2002
+275	193_thesnow	the snow	784	193_thesnow	784	Wenlang Cuona Menba	khɑ˥wɑ˥	khɑ55wɑ55	LS1986
+276	195_theson	the son	1620	195_theson	1620	Wenlang Cuona Menba	bu35		LS2002
+277	197_thespider	the spider	843	197_thespider	843	Wenlang Cuona Menba	kaŋ55pra55mo55		LS2002
+278	200_thestar	the star	1430	200_thestar	1430	Wenlang Cuona Menba	kar55ma55		LS2002
+279	202_thestick	the stick	1295	202_thestick	1295	Wenlang Cuona Menba	khar55ba53		LS2002
+280	203_thestoneapieceof	the stone (a piece of)	857	203_thestoneapieceof	857	Wenlang Cuona Menba	gor35		LS2002
+281	205_thesun	the sun	1343	205_thesun	1343	Wenlang Cuona Menba	plaŋ55		LS2002
+282	206_thetail	the tail	1220	206_thetail	1220	Wenlang Cuona Menba	khrek55		LS2002
+283	211_thethigh	the thigh	471	211_thethigh	471	Wenlang Cuona Menba			
+284	218_thethunder	the thunder	1150	218_thethunder	1150	Wenlang Cuona Menba	bruk35		LS2002
+285	222_thetongue	the tongue	1205	222_thetongue	1205	Wenlang Cuona Menba	le55		LS2002
+286	223_thetoothfront	the tooth (front)	1380	223_thetoothfront	1380	Wenlang Cuona Menba	wa55		LS2002
+287	229_thewater	the water	948	229_thewater	948	Wenlang Cuona Menba	tshi55		LS2002
+288	238_thewind	the wind	960	238_thewind	960	Wenlang Cuona Menba	xrot˥	xrot55	LS1986
+289	239_thewing	the wing	1257	239_thewing	1257	Wenlang Cuona Menba	ɕom55pek55		LS2002
+290	242_thewoman	the woman	962	242_thewoman	962	Wenlang Cuona Menba	mø35tsha55		LS2002
+291	245_theyear	the year	1226	245_theyear	1226	Wenlang Cuona Menba	niŋ55		LS2002
+292	210_thick	thick	1244	210_thick	1244	Wenlang Cuona Menba	tuk55po55		LS2002
+293	212_thinobject	thin (object)	2249	212_thinobject	2249	Wenlang Cuona Menba	ŋra35pu55		LS2002
+294	215_thousecondpersonsingular	thou [second person singular]	1215	215_thousecondpersonsingular	1215	Wenlang Cuona Menba	i55		LS2002
+295	216_three	three	492	216_three	492	Wenlang Cuona Menba	som55		LS2002
+296	13_tobite	to bite	1403	13_tobite	1403	Wenlang Cuona Menba	ŋom55mu55		LS2002
+297	21_toburnintransitive	to burn [intransitive]	1428	21_toburnintransitive	1428	Wenlang Cuona Menba			
+298	22_tobuy	to buy	1869	22_tobuy	1869	Wenlang Cuona Menba	ɲeu35		LS2002
+299	23_tochew	to chew	321	23_tochew	321	Wenlang Cuona Menba	ŋlak35		LS2002
+300	27_tocome	to come	1446	27_tocome	1446	Wenlang Cuona Menba	gai35		LS2002
+301	29_tocount	to count	1420	29_tocount	1420	Wenlang Cuona Menba	tsi55		LS2002
+302	30_tocryweep	to cry (weep)	1839	30_tocryweep	1839	Wenlang Cuona Menba	ŋru35		LS2002
+303	34_todie	to die	1494	34_todie	1494	Wenlang Cuona Menba	ɕiu55		LS2002
+304	35_todig	to dig	1418	35_todig	1418	Wenlang Cuona Menba	ko55pu55		LS2002
+305	39_todrink	to drink	1401	39_todrink	1401	Wenlang Cuona Menba	thoŋ55ɲa55		LS2002
+306	46_toeat	to eat	1336	46_toeat	1336	Wenlang Cuona Menba	za35		LS2002
+307	53_tofight	to fight	1423	53_tofight	1423	Wenlang Cuona Menba	tet55tet55ma55		LS2002
+308	62_toflymovethroughair	to fly (move through air)	1441	62_toflymovethroughair	1441	Wenlang Cuona Menba	phen55		LS2002
+309	66_toforget	to forget	1523	66_toforget	1523	Wenlang Cuona Menba	ŋat35ɲi55		LS2002
+310	74_togive	to give	1447	74_togive	1447	Wenlang Cuona Menba			
+311	85_tohear	to hear	1408	85_tohear	1408	Wenlang Cuona Menba	ɲa35na55		LS2002
+312	89_tohideconceal	to hide (conceal)	602	89_tohideconceal	602	Wenlang Cuona Menba	phi55		LS2002
+313	91_tohold	to hold	1448	91_tohold	1448	Wenlang Cuona Menba	zuŋ35		LS2002
+314	104_tokill	to kill	1417	104_tokill	1417	Wenlang Cuona Menba	sot53		LS2002
+315	111_tolaugh	to laugh	1355	111_tolaugh	1355	Wenlang Cuona Menba	git35tha55ru55		LS2002
+316	115_tolick	to lick	319	115_tolick	319	Wenlang Cuona Menba	ŋlɑk˧˥	ŋlɑk35	LS1986
+317	153_toplay	to play	1413	153_toplay	1413	Wenlang Cuona Menba	wa35thoŋ55		LS2002
+318	155_topush	to push	1452	155_topush	1452	Wenlang Cuona Menba	to˥gɑ˥	to55gɑ55	LS1986
+319	159_toresidelive	to reside (live)	363	159_toresidelive	363	Wenlang Cuona Menba	zu35ga35		LS2002
+320	171_toscratch	to scratch	1436	171_toscratch	1436	Wenlang Cuona Menba	re˧˥	re35	LS1986
+321	173_tosee	to see	1409	173_tosee	1409	Wenlang Cuona Menba	toŋ55ŋu55		LS2002
+322	178_toshootanarrow	to shoot (an arrow)	1172	178_toshootanarrow	1172	Wenlang Cuona Menba	phoŋ55		LS2002
+323	183_tosing	to sing	1261	183_tosing	1261	Wenlang Cuona Menba	ʨe35thoŋ55ŋa55		LS2002
+324	187_tosleep	to sleep	1585	187_tosleep	1585	Wenlang Cuona Menba	ɲe35		LS2002
+325	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	1586	189_tosmellperceiveodortransitive	1586	Wenlang Cuona Menba	nem35do55		LS2002
+326	198_tospit	to spit	1440	198_tospit	1440	Wenlang Cuona Menba	gop35		LS2002
+327	199_tostand	to stand	1442	199_tostand	1442	Wenlang Cuona Menba	laŋ55ŋa55		LS2002
+328	201_tosteal	to steal	713	201_tosteal	713	Wenlang Cuona Menba	kun55		LS2002
+329	213_tothinkreflect	to think (reflect)	1415	213_tothinkreflect	1415	Wenlang Cuona Menba	sem55dʐa35thaŋ55		LS2002
+330	217_tothrow	to throw	1456	217_tothrow	1456	Wenlang Cuona Menba	wat35		LS2002
+331	227_tovomit	to vomit	1278	227_tovomit	1278	Wenlang Cuona Menba	gop35		LS2002
+332	228_towalk	to walk	1443	228_towalk	1443	Wenlang Cuona Menba	ga35la55		LS2002
+333	240_towipe	to wipe	1454	240_towipe	1454	Wenlang Cuona Menba	tɕhi55		LS2002
+334	226_two	two	1498	226_two	1498	Wenlang Cuona Menba	nai35		LS2002
+335	231_wet	wet	1726	231_wet	1726	Wenlang Cuona Menba	dʑap35dʑap35		LS2002
+336	235_white	white	1335	235_white	1335	Wenlang Cuona Menba	khe55ru55		LS2002
+337	236_who	who	1235	236_who	1235	Wenlang Cuona Menba	su55		LS2002
+338	246_yellow	yellow	1424	246_yellow	1424	Wenlang Cuona Menba	ser55pu55		LS2002

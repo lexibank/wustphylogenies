@@ -1,0 +1,220 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCEPTICON	LATITUDE	LONGITUDE	COGNACY	COGID	LOAN	SOURCE	NOTES	MORPHEMES
+7169	101_ifirstpersonsingular	I [first person singular]	DikhyangBugun	Bugun	ko	ko	k o	dikh1234	1209	27.320448	92.454924	799	799	FALSE	TB		ifirstpersonsingular
+8	1_above	above	DikhyangBugun	Bugun	sa.ba.kʰuŋ	sa.ba.kʰuŋ	s a + b a + kʰ u ŋ	dikh1234	1741	27.320448	92.454924	785	785	FALSE	TB		_above _above _above
+81	2_all	all	DikhyangBugun	Bugun	zap.pʰa	zap.pʰa	z a p + pʰ a	dikh1234	98	27.320448	92.454924	795	795	FALSE	TB		_all _all
+274	5_bad	bad	DikhyangBugun	Bugun	a.vʲə	a.vʲə	a + v j ə	dikh1234	1292	27.320448	92.454924	800	800	FALSE	TB		_bad _bad
+618	10_belowunder	below, under	DikhyangBugun	Bugun	kʰə.luə	kʰə.luə	kʰ ə + l u/w ə	dikh1234	1485	27.320448	92.454924	808	808	FALSE	TB		_belowunder _belowunder
+695	11_big	big	DikhyangBugun	Bugun	ə.põ	ə.põ	ə + p õ	dikh1234	1202	27.320448	92.454924	584	584	FALSE	TB		_big _big
+931	14_black	black	DikhyangBugun	Bugun	ə.saj	ə.saj	ə + s a j	dikh1234	163	27.320448	92.454924	19	19	FALSE	TB		_black _black
+1792	26_coldoftemperature	cold (of temperature)	DikhyangBugun	Bugun	ə.tɕʰaj	ə.tɕʰaj	ə + tɕʰ a j	dikh1234	1287	27.320448	92.454924	1083	1083	FALSE	TB		_coldoftemperature _coldoftemperature
+1968	28_correctright	correct (right)	DikhyangBugun	Bugun	ə.suɛ	ə.suɛ	ə + s u/w ɛ	dikh1234	1725	27.320448	92.454924	812	812	FALSE	TB		_correctright _correctright
+2532	36_dirty	dirty	DikhyangBugun	Bugun	ə.sʲɔ	ə.sʲɔ	ə + s j ɔ	dikh1234	1230	27.320448	92.454924	824	824	FALSE	TB		_dirty _dirty
+2835	40_dry	dry	DikhyangBugun	Bugun	ə.kau	ə.kau	ə + k au	dikh1234	1398	27.320448	92.454924	1092	1092	FALSE	TB		_dry _dry
+3415	48_eight	eight	DikhyangBugun	Bugun	mə.la	mə.la	m ə + l a	dikh1234	1705	27.320448	92.454924	2282	2282	FALSE	TB		_eight _eight
+3561	50_far	far	DikhyangBugun	Bugun	hõ rɛ.ɛ ruaŋ	hõ_rɛ.ɛ_ruaŋ	h õ + r ɛ + ɛ + r u/w a ŋ	dikh1234	1406	27.320448	92.454924	4053	4053	FALSE	TB		_far _far _far _far
+3931	55_firewood	firewood	DikhyangBugun	Bugun	hiŋ	hiŋ	h i ŋ	dikh1234	10	27.320448	92.454924		0	FALSE	TB		firewood
+4064	57_five	five	DikhyangBugun	Bugun	gu.wə	gu.wə	g u + w ə	dikh1234	493	27.320448	92.454924	10357	10357	FALSE	TB		_five _five
+4755	67_four	four	DikhyangBugun	Bugun	vi	vi	v i	dikh1234	1500	27.320448	92.454924	263	263	FALSE	TB		four
+5150	73_full	full	DikhyangBugun	Bugun	ə.li.je	ə.li.je	ə + l i + j e	dikh1234	1429	27.320448	92.454924	832	832	FALSE	TB		_full _full _full
+5381	76_good	good	DikhyangBugun	Bugun	ə.vʲə	ə.vʲə	ə + v j ə	dikh1234	1035	27.320448	92.454924	833	833	FALSE	TB		_good _good
+5545	78_green	green	DikhyangBugun	Bugun	ə.rɛ	ə.rɛ	ə + r ɛ	dikh1234	1425	27.320448	92.454924	839	839	FALSE	TB		_green _green
+5837	82_hard	hard	DikhyangBugun	Bugun	ə.kɔŋ	ə.kɔŋ	ə + k ɔ ŋ	dikh1234	1884	27.320448	92.454924	10568	10568	FALSE	TB		_hard _hard
+5913	83_heorshethirdpersonsingular	he or she [third person singular]	DikhyangBugun	Bugun	oɛ	oɛ	oɛ	dikh1234	262	27.320448	92.454924	846	846	FALSE	TB		heorshethirdpersonsingular
+6223	87_heavy	heavy	DikhyangBugun	Bugun	ə.laj	ə.laj	ə + l a j	dikh1234	1210	27.320448	92.454924	10379	10379	FALSE	TB		_heavy _heavy
+6299	88_here	here	DikhyangBugun	Bugun	e.tɕʰə̃	e.tɕʰə̃	e + tɕʰ ə̃	dikh1234	136	27.320448	92.454924	851	851	FALSE	TB		_here _here
+6808	96_hot	hot	DikhyangBugun	Bugun	ə.tɕʰɛk	ə.tɕʰɛk	ə + tɕʰ ɛ k	dikh1234	1286	27.320448	92.454924	857	857	FALSE	TB		_hot _hot
+6960	98_hundred	hundred	DikhyangBugun	Bugun	viɛm dʑa	viɛm_dʑa	v iɛ m + dʑ a	dikh1234	1634	27.320448	92.454924	185	185	FALSE	TB		_hundred _hundred
+7307	103_inside	inside	DikhyangBugun	Bugun	p.tɕʰaw	p.tɕʰaw	p + tɕʰ au	dikh1234	1606	27.320448	92.454924	861	861	FALSE	TB		_inside _inside
+7579	107_knife	knife	DikhyangBugun	Bugun	mə.dua	mə.dua	m ə + d u/w a	dikh1234	1352	27.320448	92.454924	588	588	FALSE	TB		_knife _knife
+8056	114_left	left	DikhyangBugun	Bugun	pʰa.wik rəj	pʰa.wik_rəj	pʰ a + w i k + r ə j	dikh1234	244	27.320448	92.454924	422	422	FALSE	TB		_left _left _left
+8279	117_lightofweight	light (of weight)	DikhyangBugun	Bugun	ə.tʰow	ə.tʰow	ə + tʰ ou	dikh1234	1052	27.320448	92.454924	31	31	FALSE	TB		_lightofweight _lightofweight
+8490	120_long	long	DikhyangBugun	Bugun	ə.pʰjaŋ	ə.pʰjaŋ	ə + pʰ j a ŋ	dikh1234	1203	27.320448	92.454924	2336	2336	FALSE	TB		_long _long
+8792	124_many	many	DikhyangBugun	Bugun	ba.me	ba.me	b a + m e	dikh1234	1198	27.320448	92.454924	1027	1027	FALSE	TB		_many _many
+9135	129_morning	morning	DikhyangBugun	Bugun	ha.mʲaŋ	ha.mʲaŋ	h a + m j a ŋ	dikh1234	1339	27.320448	92.454924	610	610	FALSE	TB		_morning _morning
+9826	138_narrow	narrow	DikhyangBugun	Bugun	ə+dua	ə+dua	ə + d u/w a	dikh1234	1267	27.320448	92.454924		0	FALSE	TB		_narrow _narrow
+9896	139_near	near	DikhyangBugun	Bugun	hõ m.wɔj	hõ_m.wɔj	h õ + m + w ɔ j	dikh1234	1942	27.320448	92.454924	616	616	FALSE	TB		_near _near _near
+10129	142_new	new	DikhyangBugun	Bugun	e.voŋ	e.voŋ	e + v o ŋ	dikh1234	1231	27.320448	92.454924	643	643	FALSE	TB		_new _new
+10204	143_nine	nine	DikhyangBugun	Bugun	ti.ke	ti.ke	t i + k e	dikh1234	1483	27.320448	92.454924	24	24	FALSE	TB		_nine _nine
+10309	145_noon	noon	DikhyangBugun	Bugun	ha.nɛŋ	ha.nɛŋ	h a + n ɛ ŋ	dikh1234	12	27.320448	92.454924	445	445	FALSE	TB		_noon _noon
+10457	147_oldofperson	old (of person)	DikhyangBugun	Bugun	ə.hɛk	ə.hɛk	ə + h ɛ k	dikh1234	2112	27.320448	92.454924		0	FALSE	TB		_oldofperson _oldofperson
+10533	148_one	one	DikhyangBugun	Bugun	tsʲɔ̃	tsʲɔ̃	ts j ɔ̃	dikh1234	1493	27.320448	92.454924	655	655	FALSE	TB		one
+11250	158_red	red	DikhyangBugun	Bugun	ə.ɕɛk	ə.ɕɛk	ə + ɕ ɛ k	dikh1234	156	27.320448	92.454924	3656	3656	FALSE	TB		_red _red
+11462	161_right	right	DikhyangBugun	Bugun	pʰa.zoj rəj	pʰa.zoj_rəj	pʰ a + z o j + r ə j	dikh1234	1019	27.320448	92.454924	660	660	FALSE	TB		_right _right _right
+11845	166_round	round	DikhyangBugun	Bugun	ə.buj	ə.buj	ə + b u j	dikh1234	1395	27.320448	92.454924	667	667	FALSE	TB		_round _round
+12469	175_seven	seven	DikhyangBugun	Bugun	mə.li.ja	mə.li.ja	m ə + l i + j a	dikh1234	1704	27.320448	92.454924	43	43	FALSE	TB		_seven _seven _seven
+12540	176_sharp	sharp	DikhyangBugun	Bugun	ʨʰəp	ʨʰəp	tɕʰ ə p	dikh1234	1396	27.320448	92.454924	568	568	FALSE	TB		sharp
+12744	179_short	short	DikhyangBugun	Bugun	ə.dum	ə.dum	ə + d u m	dikh1234	1645	27.320448	92.454924	4170	4170	FALSE	TB		_short _short
+12887	181_shy	shy	DikhyangBugun	Bugun	wɔ̃.ma	wɔ̃.ma	w ɔ̃ + m a	dikh1234	487	27.320448	92.454924	2476	2476	FALSE	TB		_shy _shy
+13068	184_six	six	DikhyangBugun	Bugun	rap	rap	r a p	dikh1234	1703	27.320448	92.454924	702	702	FALSE	TB		six
+13371	188_small	small	DikhyangBugun	Bugun	ə+ti+dua	ə+ti+dua	ə + t i + d u/w a	dikh1234	1246	27.320448	92.454924		0	FALSE	TB		_small _small _small
+13593	191_smooth	smooth	DikhyangBugun	Bugun	ə.dʑum	ə.dʑum	ə + dʑ u m	dikh1234	1234	27.320448	92.454924		0	FALSE	TB		_smooth _smooth
+13808	194_soft	soft	DikhyangBugun	Bugun	ə.dʑum	ə.dʑum	ə + dʑ u m	dikh1234	1856	27.320448	92.454924	573	573	FALSE	TB		_soft _soft
+14533	204_straight	straight	DikhyangBugun	Bugun	mʲəŋ	mʲəŋ	m j ə ŋ	dikh1234	1404	27.320448	92.454924	717	717	FALSE	TB		straight
+14763	207_ten	ten	DikhyangBugun	Bugun	su.wã	su.wã	s u + w ã	dikh1234	1515	27.320448	92.454924	364	364	FALSE	TB		_ten _ten
+153	3_theant	the ant	DikhyangBugun	Bugun	ɕi.ɲiŋ	ɕi.ɲiŋ	ɕ i + ɲ i ŋ	dikh1234	587	27.320448	92.454924	29744	29744	FALSE	TB		_theant _theant
+357	6_thebamboo	the bamboo	DikhyangBugun	Bugun	moɛ	moɛ	m oɛ	dikh1234	1927	27.320448	92.454924	3481	3481	FALSE	TB		thebamboo
+434	7_thebarleytibetanorhighland	the barley (tibetan or highland)	DikhyangBugun	Bugun	pʰʲuk	pʰʲuk	pʰ j u k	dikh1234	932	27.320448	92.454924	48	48	FALSE	TB		thebarleytibetanorhighland
+542	9_thebelly	the belly	DikhyangBugun	Bugun	luj	luj	l u j	dikh1234	1251	27.320448	92.454924	884	884	FALSE	TB		thebelly
+775	12_thebird	the bird	DikhyangBugun	Bugun	fuə	fuə	f u/w ə	dikh1234	937	27.320448	92.454924	10267	10267	FALSE	TB		thebird
+1012	15_theblood	the blood	DikhyangBugun	Bugun	ə.fuɛ	ə.fuɛ	ə + f u/w ɛ	dikh1234	946	27.320448	92.454924	29703	29703	FALSE	TB		_theblood _theblood
+1147	17_thebodyhairhairorfur	the body hair (hair or fur)	DikhyangBugun	Bugun	i.man	i.man	i + m a n	dikh1234	189	27.320448	92.454924	141	141	FALSE	TB		_thebodyhairhairorfur _thebodyhairhairorfur
+1215	18_thebone	the bone	DikhyangBugun	Bugun	ə.zɛŋ	ə.zɛŋ	ə + z ɛ ŋ	dikh1234	1394	27.320448	92.454924	112	112	FALSE	TB		_thebone _thebone
+1293	19_thebranch	the branch	DikhyangBugun	Bugun	ə.pʰɔŋ	ə.pʰɔŋ	ə + pʰ ɔ ŋ	dikh1234	1531	27.320448	92.454924	2062	2062	FALSE	TB		_thebranch _thebranch
+1365	20_thebreastfemale	the breast (female)	DikhyangBugun	Bugun	ɲeo	ɲeo	ɲ eo	dikh1234	1402	27.320448	92.454924	10186	10186	FALSE	TB		thebreastfemale
+1654	24_thechildyounghuman	the child (young human)	DikhyangBugun	Bugun	a.ny	a.ny	a + n y	dikh1234	1304	27.320448	92.454924	890	890	FALSE	TB		_thechildyounghuman _thechildyounghuman
+1716	25_thecloud	the cloud	DikhyangBugun	Bugun	sə.kʰa.maw	sə.kʰa.maw	s ə + kʰ a + m au	dikh1234	1489	27.320448	92.454924	89	89	FALSE	TB		_thecloud _thecloud _thecloud
+2238	32_thedaughter	the daughter	DikhyangBugun	Bugun	də.mi	də.mi	d ə + m i	dikh1234	1357	27.320448	92.454924	1150	1150	FALSE	TB		_thedaughter _thedaughter
+2603	37_thedog	the dog	DikhyangBugun	Bugun	tɕɔj	tɕɔj	tɕ ɔ j	dikh1234	2009	27.320448	92.454924	10554	10554	FALSE	TB		thedog
+2680	38_thedream	the dream	DikhyangBugun	Bugun	ə.bɔŋ.bɔŋ	ə.bɔŋ.bɔŋ	ə + b ɔ ŋ + b ɔ ŋ	dikh1234	2374	27.320448	92.454924	10217	10217	FALSE	TB		_thedream _thedream _thedream
+2913	41_thedust	the dust	DikhyangBugun	Bugun	ɲa.pʰlap	ɲa.pʰlap	ɲ a + pʰ l a p	dikh1234	2	27.320448	92.454924	911	911	FALSE	TB		_thedust _thedust
+2989	42_theear	the ear	DikhyangBugun	Bugun	kʰɔ̃	kʰɔ̃	kʰ ɔ̃	dikh1234	1247	27.320448	92.454924	913	913	FALSE	TB		theear
+3121	44_theearthsoil	the earth (soil)	DikhyangBugun	Bugun	ɲak	ɲak	ɲ a k	dikh1234	1228	27.320448	92.454924	921	921	FALSE	TB		theearthsoil
+3196	45_theearthworm	the earthworm	DikhyangBugun	Bugun	ta.tʰi	ta.tʰi	t a + tʰ i	dikh1234	2350	27.320448	92.454924	1158	1158	FALSE	TB		_theearthworm _theearthworm
+3336	47_theegg	the egg	DikhyangBugun	Bugun	ə.ri	ə.ri	ə + r i	dikh1234	744	27.320448	92.454924	3399	3399	FALSE	TB		_theegg _theegg
+3486	49_theeye	the eye	DikhyangBugun	Bugun	mʲɛk	mʲɛk	m j ɛ k	dikh1234	1248	27.320448	92.454924	4	4	FALSE	TB		theeye
+3637	51_thefather	the father	DikhyangBugun	Bugun	a.pʰua	a.pʰua	a + pʰ u/w a	dikh1234	1217	27.320448	92.454924	107	107	FALSE	TB		_thefather _thefather
+3715	52_thefeather	the feather	DikhyangBugun	Bugun	i.man	i.man	i + m a n	dikh1234	1201	27.320448	92.454924		0	FALSE	TB		_thefeather _thefeather
+3854	54_thefire	the fire	DikhyangBugun	Bugun	boɛ	boɛ	b oɛ	dikh1234	221	27.320448	92.454924	1746	1746	FALSE	TB		thefire
+3988	56_thefish	the fish	DikhyangBugun	Bugun	ũə	ũə	ũə	dikh1234	227	27.320448	92.454924	186	186	FALSE	TB		thefish
+4313	61_theflower	the flower	DikhyangBugun	Bugun	ə.bua	ə.bua	ə + b u/w a	dikh1234	239	27.320448	92.454924	10205	10205	FALSE	TB		_theflower _theflower
+4465	63_thefog	the fog	DikhyangBugun	Bugun	sə.kʰa.maw	sə.kʰa.maw	s ə + kʰ a + m au	dikh1234	249	27.320448	92.454924		0	FALSE	TB		_thefog _thefog _thefog
+4529	64_thefoot	the foot	DikhyangBugun	Bugun	loɛ	loɛ	l oɛ	dikh1234	1301	27.320448	92.454924	2602	2602	FALSE	TB		thefoot
+4605	65_theforest	the forest	DikhyangBugun	Bugun	tɕa.pɔm	tɕa.pɔm	tɕ a + p ɔ m	dikh1234	420	27.320448	92.454924	281	281	FALSE	TB		_theforest _theforest
+4827	68_thefox	the fox	DikhyangBugun	Bugun	su.lu.gur	su.lu.gur	s u + l u + g u r	dikh1234	1312	27.320448	92.454924	1352	1352	FALSE	TB		_thefox _thefox _thefox
+4873	69_thefrog	the frog	DikhyangBugun	Bugun	rap	rap	r a p	dikh1234	503	27.320448	92.454924	307	307	FALSE	TB		thefrog
+5073	72_thefruit	the fruit	DikhyangBugun	Bugun	ə.vɔj	ə.vɔj	ə + v ɔ j	dikh1234	1507	27.320448	92.454924	360	360	FALSE	TB		_thefruit _thefruit
+5305	75_thegoat	the goat	DikhyangBugun	Bugun	sə.pʰin	sə.pʰin	s ə + pʰ i n	dikh1234	1502	27.320448	92.454924	376	376	FALSE	TB		_thegoat _thegoat
+5472	77_thegrass	the grass	DikhyangBugun	Bugun	saiŋ	saiŋ	s a i ŋ	dikh1234	606	27.320448	92.454924		0	FALSE	TB		thegrass
+5621	79_thehail	the hail	DikhyangBugun	Bugun	ha.bʲɛn	ha.bʲɛn	h a + b j ɛ n	dikh1234	609	27.320448	92.454924	766	766	FALSE	TB		_thehail _thehail
+5686	80_thehairofthehead	the hair (of the head)	DikhyangBugun	Bugun	kʰa.zi.jɔŋ	kʰa.zi.jɔŋ	kʰ a + z i + j ɔ ŋ	dikh1234	1040	27.320448	92.454924	426	426	FALSE	TB		_thehairofthehead _thehairofthehead _thehairofthehead
+5762	81_thehand	the hand	DikhyangBugun	Bugun	wat	wat	w a t	dikh1234	1277	27.320448	92.454924	1398	1398	FALSE	TB		thehand
+5984	84_thehead	the head	DikhyangBugun	Bugun	kʰ.ruk	kʰ.ruk	kʰ + r u k	dikh1234	1256	27.320448	92.454924	1388	1388	FALSE	TB		_thehead _thehead
+6145	86_theheart	the heart	DikhyangBugun	Bugun	ə.lə.baw	ə.lə.baw	ə + l ə + b au	dikh1234	1223	27.320448	92.454924	436	436	FALSE	TB		_theheart _theheart _theheart
+6675	94_thehornkeratinizedskin	the horn (keratinized skin)	DikhyangBugun	Bugun	ə.rʲɔŋ	ə.rʲɔŋ	ə + r j ɔ ŋ	dikh1234	1393	27.320448	92.454924	29719	29719	FALSE	TB		_thehornkeratinizedskin _thehornkeratinizedskin
+6750	95_thehorse	the horse	DikhyangBugun	Bugun	sə.tʰua	sə.tʰua	s ə + tʰ u/w a	dikh1234	615	27.320448	92.454924	3150	3150	FALSE	TB		_thehorse _thehorse
+6889	97_thehouse	the house	DikhyangBugun	Bugun	hõ	hõ	h õ	dikh1234	1252	27.320448	92.454924	213	213	FALSE	TB		thehouse
+7101	100_thehusband	the husband	DikhyangBugun	Bugun	kɛ	kɛ	k ɛ	dikh1234	1200	27.320448	92.454924	224	224	FALSE	TB		thehusband
+7246	102_theice	the ice	DikhyangBugun	Bugun	sa.pʰryp	sa.pʰryp	s a + pʰ r y p	dikh1234	617	27.320448	92.454924	16	16	FALSE	TB		_theice _theice
+7501	106_theknee	the knee	DikhyangBugun	Bugun	la.gʲuŋ	la.gʲuŋ	l a + g j u ŋ	dikh1234	1371	27.320448	92.454924	738	738	FALSE	TB		_theknee _theknee
+7711	109_thelake	the lake	DikhyangBugun	Bugun	kʰa.bɔŋ	kʰa.bɔŋ	kʰ a + b ɔ ŋ	dikh1234	624	27.320448	92.454924	748	748	FALSE	TB		_thelake _thelake
+7919	112_theleaf	the leaf	DikhyangBugun	Bugun	ə.rap	ə.rap	ə + r a p	dikh1234	628	27.320448	92.454924	234	234	FALSE	TB		_theleaf _theleaf
+8416	119_theliver	the liver	DikhyangBugun	Bugun	ə.pʰin	ə.pʰin	ə + pʰ i n	dikh1234	1224	27.320448	92.454924	2076	2076	FALSE	TB		_theliver _theliver
+8570	121_thelouse	the louse	DikhyangBugun	Bugun	dʑy.ry.juŋ	dʑy.ry.juŋ	dʑ y + r y + j u ŋ	dikh1234	1392	27.320448	92.454924	235	235	FALSE	TB		_thelouse _thelouse _thelouse
+8642	122_thelung	the lung	DikhyangBugun	Bugun	ə.raw	ə.raw	ə + r au	dikh1234	688	27.320448	92.454924	761	761	FALSE	TB		_thelung _thelung
+8714	123_themanmalehuman	the man (male human)	DikhyangBugun	Bugun	bu.fua	bu.fua	b u + f u/w a	dikh1234	2106	27.320448	92.454924	753	753	FALSE	TB		_themanmalehuman _themanmalehuman
+8913	126_themeat	the meat	DikhyangBugun	Bugun	ə.ɕaw	ə.ɕaw	ə + ɕ au	dikh1234	634	27.320448	92.454924	10227	10227	FALSE	TB		_themeat _themeat
+9059	128_themoon	the moon	DikhyangBugun	Bugun	ha.bʲe	ha.bʲe	h a + b j e	dikh1234	1313	27.320448	92.454924	2081	2081	FALSE	TB		_themoon _themoon
+9213	130_themosquito	the mosquito	DikhyangBugun	Bugun	tsy.kə.dzɔŋ	tsy.kə.dzɔŋ	ts y + k ə + dz ɔ ŋ	dikh1234	1509	27.320448	92.454924	2908	2908	FALSE	TB		_themosquito _themosquito _themosquito
+9280	131_themother	the mother	DikhyangBugun	Bugun	a.mua	a.mua	a + m u/w a	dikh1234	1216	27.320448	92.454924	937	937	FALSE	TB		_themother _themother
+9361	132_themountain	the mountain	DikhyangBugun	Bugun	pʰam	pʰam	pʰ a m	dikh1234	639	27.320448	92.454924	1274	1274	FALSE	TB		themountain
+9440	133_themouseorrat	the mouse or rat	DikhyangBugun	Bugun	tʰuŋ	tʰuŋ	tʰ u ŋ	dikh1234	2139	27.320448	92.454924	2423	2423	FALSE	TB		themouseorrat
+9518	134_themouth	the mouth	DikhyangBugun	Bugun	sʲam	sʲam	s j a m	dikh1234	674	27.320448	92.454924	944	944	FALSE	TB		themouth
+9598	135_themud	the mud	DikhyangBugun	Bugun	ka.ɕɔŋ	ka.ɕɔŋ	k a + ɕ ɔ ŋ	dikh1234	640	27.320448	92.454924	960	960	FALSE	TB		_themud _themud
+9670	136_thenailfingernailorclaw	the nail (fingernail or claw)	DikhyangBugun	Bugun	bə.sɛn	bə.sɛn	b ə + s ɛ n	dikh1234	2128	27.320448	92.454924	88	88	FALSE	TB		_thenailfingernailorclaw _thenailfingernailorclaw
+9749	137_thename	the name	DikhyangBugun	Bugun	ə.bɛŋ	ə.bɛŋ	ə + b ɛ ŋ	dikh1234	1405	27.320448	92.454924	18	18	FALSE	TB		_thename _thename
+9975	140_theneck	the neck	DikhyangBugun	Bugun	ra.guŋ ju.ŋã	ra.guŋ_ju.ŋã	r a + g u ŋ + j u + ŋ ã	dikh1234	1333	27.320448	92.454924	971	971	FALSE	TB		_theneck _theneck _theneck _theneck
+10056	141_theneedleforsewing	the needle (for sewing)	DikhyangBugun	Bugun	sə.mɛn	sə.mɛn	s ə + m ɛ n	dikh1234	1382	27.320448	92.454924	819	819	FALSE	TB		_theneedleforsewing _theneedleforsewing
+10380	146_thenose	the nose	DikhyangBugun	Bugun	e.pʰuŋ	e.pʰuŋ	e + pʰ u ŋ	dikh1234	1221	27.320448	92.454924	2108	2108	FALSE	TB		_thenose _thenose
+10611	149_theotter	the otter	DikhyangBugun	Bugun	ũ.mɔk	ũ.mɔk	ũ + m ɔ k	dikh1234	15	27.320448	92.454924	156	156	FALSE	TB		_theotter _theotter
+10732	151_thepig	the pig	DikhyangBugun	Bugun	wɔk	wɔk	w ɔ k	dikh1234	1337	27.320448	92.454924	2092	2092	FALSE	TB		thepig
+11104	156_therain	the rain	DikhyangBugun	Bugun	ha.pʰʲɛ	ha.pʰʲɛ	h a + pʰ j ɛ	dikh1234	658	27.320448	92.454924	982	982	FALSE	TB		_therain _therain
+11182	157_therainbow	the rainbow	DikhyangBugun	Bugun	pʰa.ruaŋ ma.kʰuaŋ	pʰa.ruaŋ_ma.kʰuaŋ	pʰ a + r u/w a ŋ + m a + kʰ u/w a ŋ	dikh1234	1733	27.320448	92.454924	987	987	FALSE	TB		_therainbow _therainbow _therainbow _therainbow
+11410	160_thericeplant	the rice plant	DikhyangBugun	Bugun	ɲɛn.kau	ɲɛn.kau	ɲ ɛ n + k au	dikh1234	2026	27.320448	92.454924	9001	9001	FALSE	TB		_thericeplant _thericeplant
+11538	162_theriver	the river	DikhyangBugun	Bugun	kʰo.bo	kʰo.bo	kʰ o + b o	dikh1234	666	27.320448	92.454924	995	995	FALSE	TB		_theriver _theriver
+11619	163_theroad	the road	DikhyangBugun	Bugun	lə.muə	lə.muə	l ə + m u/w ə	dikh1234	667	27.320448	92.454924	2206	2206	FALSE	TB		_theroad _theroad
+11696	164_theroot	the root	DikhyangBugun	Bugun	ə.rəŋ	ə.rəŋ	ə + r ə ŋ	dikh1234	670	27.320448	92.454924	225	225	FALSE	TB		_theroot _theroot
+11773	165_therope	the rope	DikhyangBugun	Bugun	ra.tʰɔŋ	ra.tʰɔŋ	r a + tʰ ɔ ŋ	dikh1234	1218	27.320448	92.454924	1011	1011	FALSE	TB		_therope _therope
+11993	168_thesalt	the salt	DikhyangBugun	Bugun	sə.ruə	sə.ruə	s ə + r u/w ə	dikh1234	1274	27.320448	92.454924	1017	1017	FALSE	TB		_thesalt _thesalt
+12122	170_thesand	the sand	DikhyangBugun	Bugun	ba.li	ba.li	b a + l i	dikh1234	671	27.320448	92.454924	10565	10565	TRUE	TB		_thesand _thesand
+12393	174_theseed	the seed	DikhyangBugun	Bugun	ə.raj	ə.raj	ə + r a j	dikh1234	714	27.320448	92.454924	4165	4165	FALSE	TB		_theseed _theseed
+12608	177_thesheep	the sheep	DikhyangBugun	Bugun	sə.ɕuɛ	sə.ɕuɛ	s ə + ɕ u/w ɛ	dikh1234	1331	27.320448	92.454924	3028	3028	FALSE	TB		_thesheep _thesheep
+17802	250_theshit	the shit	DikhyangBugun	Bugun	əɛ̃	əɛ̃	ə ɛ̃	dikh1234	676	27.320448	92.454924	120	120	FALSE	TB		theshit
+12816	180_theshoulder	the shoulder	DikhyangBugun	Bugun	pʰa.bum	pʰa.bum	pʰ a + b u m	dikh1234	1482	27.320448	92.454924	10168	10168	FALSE	TB		_theshoulder _theshoulder
+13138	185_theskin	the skin	DikhyangBugun	Bugun	e.kʰuk	e.kʰuk	e + kʰ u k	dikh1234	763	27.320448	92.454924	689	689	FALSE	TB		_theskin _theskin
+13217	186_thesky	the sky	DikhyangBugun	Bugun	ha.maw	ha.maw	h a + m au	dikh1234	1732	27.320448	92.454924	499	499	FALSE	TB		_thesky _thesky
+13518	190_thesmoke	the smoke	DikhyangBugun	Bugun	ba.kʰaw	ba.kʰaw	b a + kʰ au	dikh1234	778	27.320448	92.454924	68	68	FALSE	TB		_thesmoke _thesmoke
+13661	192_thesnake	the snake	DikhyangBugun	Bugun	pʰaw	pʰaw	pʰ au	dikh1234	730	27.320448	92.454924	3590	3590	FALSE	TB		thesnake
+13739	193_thesnow	the snow	DikhyangBugun	Bugun	ha.jyn	ha.jyn	h a + j y n	dikh1234	784	27.320448	92.454924	3886	3886	FALSE	TB		_thesnow _thesnow
+13885	195_theson	the son	DikhyangBugun	Bugun	do.hua	do.hua	d o + h u/w a	dikh1234	1620	27.320448	92.454924	1075	1075	FALSE	TB		_theson _theson
+13961	196_thesparrow	the sparrow	DikhyangBugun	Bugun	tsʰe.la.luŋ	tsʰe.la.luŋ	tsʰ e + l a + l u ŋ	dikh1234	1854	27.320448	92.454924	6022	6022	FALSE	TB		_thesparrow _thesparrow _thesparrow
+14008	197_thespider	the spider	DikhyangBugun	Bugun	sar.kaw	sar.kaw	s a r + k au	dikh1234	843	27.320448	92.454924	1096	1096	FALSE	TB		_thespider _thespider
+14236	200_thestar	the star	DikhyangBugun	Bugun	tsa.trɔŋ	tsa.trɔŋ	ts a + t r ɔ ŋ	dikh1234	1430	27.320448	92.454924	1114	1114	FALSE	TB		_thestar _thestar
+14389	202_thestick	the stick	DikhyangBugun	Bugun	tʰa.gyn	tʰa.gyn	tʰ a + g y n	dikh1234	1295	27.320448	92.454924	1129	1129	FALSE	TB		_thestick _thestick
+14459	203_thestoneapieceof	the stone (a piece of)	DikhyangBugun	Bugun	lə.bau	lə.bau	l ə + b au	dikh1234	857	27.320448	92.454924	81	81	FALSE	TB		_thestoneapieceof _thestoneapieceof
+14605	205_thesun	the sun	DikhyangBugun	Bugun	ha.nɛŋ	ha.nɛŋ	h a + n ɛ ŋ	dikh1234	1343	27.320448	92.454924	1131	1131	FALSE	TB		_thesun _thesun
+14683	206_thetail	the tail	DikhyangBugun	Bugun	ə.ɲuj	ə.ɲuj	ə + ɲ u j	dikh1234	1220	27.320448	92.454924	84	84	FALSE	TB		_thetail _thetail
+15030	211_thethigh	the thigh	DikhyangBugun	Bugun	la.pʰɔk	la.pʰɔk	l a + pʰ ɔ k	dikh1234	471	27.320448	92.454924	1149	1149	FALSE	TB		_thethigh _thethigh
+15545	218_thethunder	the thunder	DikhyangBugun	Bugun	ha.kʰlam	ha.kʰlam	h a + kʰ l a m	dikh1234	1150	27.320448	92.454924	1154	1154	FALSE	TB		_thethunder _thethunder
+15621	219_thetiger	the tiger	DikhyangBugun	Bugun	mɔ̃	mɔ̃	m ɔ̃	dikh1234	846	27.320448	92.454924	1237	1237	FALSE	TB		thetiger
+15853	222_thetongue	the tongue	DikhyangBugun	Bugun	ryj	ryj	r y j	dikh1234	1205	27.320448	92.454924	4190	4190	FALSE	TB		thetongue
+15930	223_thetoothfront	the tooth (front)	DikhyangBugun	Bugun	ɕi.ɲɛn	ɕi.ɲɛn	ɕ i + ɲ ɛ n	dikh1234	1380	27.320448	92.454924	1162	1162	FALSE	TB		_thetoothfront _thetoothfront
+16008	224_thetree	the tree	DikhyangBugun	Bugun	hiŋ+mua	hiŋ+mua	h i ŋ + m u/w a	dikh1234	906	27.320448	92.454924		0	FALSE	TB		_thetree _thetree
+16374	229_thewater	the water	DikhyangBugun	Bugun	kʰo	kʰo	kʰ o	dikh1234	948	27.320448	92.454924	1425	1425	FALSE	TB		thewater
+16936	237_thewife	the wife	DikhyangBugun	Bugun	ɲie	ɲie	ɲ i e	dikh1234	1199	27.320448	92.454924	1177	1177	FALSE	TB		thewife
+17009	238_thewind	the wind	DikhyangBugun	Bugun	ha.sam	ha.sam	h a + s a m	dikh1234	960	27.320448	92.454924	206	206	FALSE	TB		_thewind _thewind
+17088	239_thewing	the wing	DikhyangBugun	Bugun	ə.jik	ə.jik	ə + j i k	dikh1234	1257	27.320448	92.454924	1187	1187	FALSE	TB		_thewing _thewing
+17270	242_thewoman	the woman	DikhyangBugun	Bugun	a.mua.pʰam	a.mua.pʰam	a + m u/w a + pʰ a m	dikh1234	962	27.320448	92.454924	1196	1196	FALSE	TB		_thewoman _thewoman _thewoman
+17352	243_thewoodmaterial	the wood (material)	DikhyangBugun	Bugun	hiŋ	hiŋ	h i ŋ	dikh1234	1803	27.320448	92.454924	8175	8175	FALSE	TB		thewoodmaterial
+17464	245_theyear	the year	DikhyangBugun	Bugun	tau.dʑa	tau.dʑa	t au + dʑ a	dikh1234	1226	27.320448	92.454924	2220	2220	FALSE	TB		_theyear _theyear
+14899	209_there	there	DikhyangBugun	Bugun	də+sɔ̃	də+sɔ̃	d ə + s ɔ̃	dikh1234	1937	27.320448	92.454924		0	FALSE	TB		_there _there
+14963	210_thick	thick	DikhyangBugun	Bugun	ə.kʰla.bou	ə.kʰla.bou	ə + kʰ l a + b ou	dikh1234	1244	27.320448	92.454924	457	457	FALSE	TB		_thick _thick _thick
+15094	212_thinobject	thin (object)	DikhyangBugun	Bugun	ə.tɕʰɔ̃.dua	ə.tɕʰɔ̃.dua	ə + tɕʰ ɔ̃ + d u/w a	dikh1234	2249	27.320448	92.454924	466	466	FALSE	TB		_thinobject _thinobject _thinobject
+15244	214_this	this	DikhyangBugun	Bugun	hej.pʰo.mo.no	hej.pʰo.mo.no	h e j + pʰ o + m o + n o	dikh1234	1214	27.320448	92.454924	467	467	FALSE	TB		_this _this _this _this
+15312	215_thousecondpersonsingular	thou [second person singular]	DikhyangBugun	Bugun	nɔ	nɔ	n ɔ	dikh1234	1215	27.320448	92.454924	10475	10475	FALSE	TB		thousecondpersonsingular
+15388	216_three	three	DikhyangBugun	Bugun	ũm	ũm	ũ m	dikh1234	492	27.320448	92.454924	283	283	FALSE	TB		three
+473	8_tobealive	to be alive	DikhyangBugun	Bugun	ə+kɔŋ	ə+kɔŋ	ə + k ɔ ŋ	dikh1234	1422	27.320448	92.454924		0	FALSE	TB		_tobealive _tobealive
+853	13_tobite	to bite	DikhyangBugun	Bugun	kʰrik	kʰrik	kʰ r i k	dikh1234	1403	27.320448	92.454924	474	474	FALSE	TB		tobite
+1437	21_toburnintransitive	to burn [intransitive]	DikhyangBugun	Bugun	hõe	hõe	h õe	dikh1234	1428	27.320448	92.454924	1563	1563	FALSE	TB		toburnintransitive
+1512	22_tobuy	to buy	DikhyangBugun	Bugun	pʰɛk	pʰɛk	pʰ ɛ k	dikh1234	1869	27.320448	92.454924	685	685	FALSE	TB		tobuy
+1883	27_tocome	to come	DikhyangBugun	Bugun	tʰa.wuə	tʰa.wuə	tʰ a + w u/w ə	dikh1234	1446	27.320448	92.454924	498	498	FALSE	TB		_tocome _tocome
+2027	29_tocount	to count	DikhyangBugun	Bugun	tʰa u	tʰa_u	tʰ a + u	dikh1234	1420	27.320448	92.454924	500	500	FALSE	TB		_tocount _tocount
+2099	30_tocryweep	to cry (weep)	DikhyangBugun	Bugun	ʨʰõ	ʨʰõ	tɕʰ õ	dikh1234	1839	27.320448	92.454924	504	504	FALSE	TB		tocryweep
+2381	34_todie	to die	DikhyangBugun	Bugun	i	i	i	dikh1234	1494	27.320448	92.454924	163	163	FALSE	TB		todie
+2462	35_todig	to dig	DikhyangBugun	Bugun	tɕʰok	tɕʰok	tɕʰ o k	dikh1234	1418	27.320448	92.454924	510	510	FALSE	TB		todig
+2756	39_todrink	to drink	DikhyangBugun	Bugun	naŋ	naŋ	n a ŋ	dikh1234	1401	27.320448	92.454924	516	516	FALSE	TB		todrink
+3257	46_toeat	to eat	DikhyangBugun	Bugun	tsʲə	tsʲə	ts j ə	dikh1234	1336	27.320448	92.454924	3419	3419	FALSE	TB		toeat
+4192	59_tofloat	to float	DikhyangBugun	Bugun	kʰo+ɕa	kʰo+ɕa	kʰ o + ɕ a	dikh1234	1574	27.320448	92.454924		0	FALSE	TB		_tofloat _tofloat
+4255	60_toflow	to flow	DikhyangBugun	Bugun	kʰo roɛ	kʰo_roɛ	kʰ o + r oɛ	dikh1234	2003	27.320448	92.454924	525	525	FALSE	TB		_toflow _toflow
+4389	62_toflymovethroughair	to fly (move through air)	DikhyangBugun	Bugun	kʰe	kʰe	kʰ e	dikh1234	1441	27.320448	92.454924	528	528	FALSE	TB		toflymovethroughair
+4678	66_toforget	to forget	DikhyangBugun	Bugun	bĩ.jə	bĩ.jə	b ĩ + j ə	dikh1234	1523	27.320448	92.454924	531	531	FALSE	TB		_toforget _toforget
+5224	74_togive	to give	DikhyangBugun	Bugun	pʰi	pʰi	pʰ i	dikh1234	1447	27.320448	92.454924	1913	1913	FALSE	TB		togive
+6069	85_tohear	to hear	DikhyangBugun	Bugun	nu ə.rək	nu_ə.rək	n u + ə + r ə k	dikh1234	1408	27.320448	92.454924	3004	3004	FALSE	TB		_tohear _tohear _tohear
+6361	89_tohideconceal	to hide (conceal)	DikhyangBugun	Bugun	uk	uk	u k	dikh1234	602	27.320448	92.454924	533	533	FALSE	TB		tohideconceal
+6502	91_tohold	to hold	DikhyangBugun	Bugun	zum	zum	z u m	dikh1234	1448	27.320448	92.454924	1215	1215	FALSE	TB		tohold
+7028	99_tohunt	to hunt	DikhyangBugun	Bugun	ɕa+pɔ+ wuə	ɕa+pɔ+_wuə	ɕ a + p ɔ + + w u/w ə	dikh1234	1435	27.320448	92.454924		0	FALSE	TB		_tohunt _tohunt _tohunt _tohunt
+7378	104_tokill	to kill	DikhyangBugun	Bugun	uə	uə	u/w ə	dikh1234	1417	27.320448	92.454924	3125	3125	FALSE	TB		tokill
+7638	108_toknowsomething	to know (something)	DikhyangBugun	Bugun	ĩt	ĩt	ĩ t	dikh1234	1410	27.320448	92.454924	2279	2279	FALSE	TB		toknowsomething
+7841	111_tolaugh	to laugh	DikhyangBugun	Bugun	sʲɔk	sʲɔk	s j ɔ k	dikh1234	1355	27.320448	92.454924	268	268	FALSE	TB		tolaugh
+8133	115_tolick	to lick	DikhyangBugun	Bugun	lʲak	lʲak	l j a k	dikh1234	319	27.320448	92.454924	101	101	FALSE	TB		tolick
+8208	116_toliedown	to lie down	DikhyangBugun	Bugun	mɛn+rɔ+wɛ	mɛn+rɔ+wɛ	m ɛ n + r ɔ + w ɛ	dikh1234	215	27.320448	92.454924		0	FALSE	TB		_toliedown _toliedown _toliedown
+10871	153_toplay	to play	DikhyangBugun	Bugun	b.ruj	b.ruj	b + r u j	dikh1234	1413	27.320448	92.454924	1225	1225	FALSE	TB		_toplay _toplay
+10949	154_topull	to pull	DikhyangBugun	Bugun	ri	ri	r i	dikh1234	1455	27.320448	92.454924	1229	1229	FALSE	TB		topull
+11025	155_topush	to push	DikhyangBugun	Bugun	rɛŋ	rɛŋ	r ɛ ŋ	dikh1234	1452	27.320448	92.454924	1301	1301	FALSE	TB		topush
+11328	159_toresidelive	to reside (live)	DikhyangBugun	Bugun	roɛ	roɛ	r oɛ	dikh1234	363	27.320448	92.454924	1233	1233	FALSE	TB		toresidelive
+11927	167_torun	to run	DikhyangBugun	Bugun	ran	ran	r a n	dikh1234	1519	27.320448	92.454924	1235	1235	FALSE	TB		torun
+12195	171_toscratch	to scratch	DikhyangBugun	Bugun	o	o	o	dikh1234	1436	27.320448	92.454924	3055	3055	FALSE	TB		toscratch
+12313	173_tosee	to see	DikhyangBugun	Bugun	gə.rak	gə.rak	g ə + r a k	dikh1234	1409	27.320448	92.454924	1251	1251	FALSE	TB		_tosee _tosee
+12674	178_toshootanarrow	to shoot (an arrow)	DikhyangBugun	Bugun	rək u.wə	rək_u.wə	r ə k + u + w ə	dikh1234	1172	27.320448	92.454924	1970	1970	FALSE	TB		_toshootanarrow _toshootanarrow _toshootanarrow
+12989	183_tosing	to sing	DikhyangBugun	Bugun	ɛ.poɛ poɛ	ɛ.poɛ_poɛ	ɛ + p oɛ + p oɛ	dikh1234	1261	27.320448	92.454924	1266	1266	FALSE	TB		_tosing _tosing _tosing
+13293	187_tosleep	to sleep	DikhyangBugun	Bugun	mʲɛn	mʲɛn	m j ɛ n	dikh1234	1585	27.320448	92.454924	3668	3668	FALSE	TB		tosleep
+14086	198_tospit	to spit	DikhyangBugun	Bugun	tɕʰaw.na	tɕʰaw.na	tɕʰ au + n a	dikh1234	1440	27.320448	92.454924	1304	1304	FALSE	TB		_tospit _tospit
+14158	199_tostand	to stand	DikhyangBugun	Bugun	tsaj	tsaj	ts a j	dikh1234	1442	27.320448	92.454924	3914	3914	FALSE	TB		tostand
+14313	201_tosteal	to steal	DikhyangBugun	Bugun	mə.kau.kau	mə.kau.kau	m ə + k au + k au	dikh1234	713	27.320448	92.454924	1310	1310	FALSE	TB		_tosteal _tosteal _tosteal
+15170	213_tothinkreflect	to think (reflect)	DikhyangBugun	Bugun	naw	naw	n au	dikh1234	1415	27.320448	92.454924	1323	1323	FALSE	TB		tothinkreflect
+15463	217_tothrow	to throw	DikhyangBugun	Bugun	fʲɛn	fʲɛn	f j ɛ n	dikh1234	1456	27.320448	92.454924	1334	1334	FALSE	TB		tothrow
+16223	227_tovomit	to vomit	DikhyangBugun	Bugun	mɔj	mɔj	m ɔ j	dikh1234	1278	27.320448	92.454924	2365	2365	FALSE	TB		tovomit
+16292	228_towalk	to walk	DikhyangBugun	Bugun	luə	luə	l u/w ə	dikh1234	1443	27.320448	92.454924	3003	3003	FALSE	TB		towalk
+17155	240_towipe	to wipe	DikhyangBugun	Bugun	sat	sat	s a t	dikh1234	1454	27.320448	92.454924	1001	1001	FALSE	TB		towipe
+15698	220_today	today	DikhyangBugun	Bugun	sə.to	sə.to	s ə + t o	dikh1234	1283	27.320448	92.454924	2250	2250	FALSE	TB		_today _today
+15775	221_tomorrow	tomorrow	DikhyangBugun	Bugun	tʰə.mʲaŋ	tʰə.mʲaŋ	tʰ ə + m j a ŋ	dikh1234	1329	27.320448	92.454924	537	537	FALSE	TB		_tomorrow _tomorrow
+16086	225_twenty	twenty	DikhyangBugun	Bugun	i.tɕʰək	i.tɕʰək	i + tɕʰ ə k	dikh1234	1710	27.320448	92.454924	551	551	FALSE	TB		_twenty _twenty
+16147	226_two	two	DikhyangBugun	Bugun	ɲɛŋ	ɲɛŋ	ɲ ɛ ŋ	dikh1234	1498	27.320448	92.454924	102	102	FALSE	TB		two
+16452	230_wefirstpersonpluralinclusive	we [first person plural inclusive]	DikhyangBugun	Bugun	ka.tʰə̃	ka.tʰə̃	k a + tʰ ə̃	dikh1234	1131	27.320448	92.454924	553	553	FALSE	TB		_wefirstpersonpluralinclusive _wefirstpersonpluralinclusive
+16517	231_wet	wet	DikhyangBugun	Bugun	e.ʃoj	e.ʃoj	e + ʃ o j	dikh1234	1726	27.320448	92.454924	570	570	FALSE	TB		_wet _wet
+16593	232_what	what	DikhyangBugun	Bugun	ɲu	ɲu	ɲ u	dikh1234	1236	27.320448	92.454924	1351	1351	FALSE	TB		what
+16718	234_where	where	DikhyangBugun	Bugun	kʰ.sõ	kʰ.sõ	kʰ + s õ	dikh1234	1237	27.320448	92.454924	1360	1360	FALSE	TB		_where _where
+16781	235_white	white	DikhyangBugun	Bugun	ə.mou	ə.mou	ə + m ou	dikh1234	1335	27.320448	92.454924	3709	3709	FALSE	TB		_white _white
+16858	236_who	who	DikhyangBugun	Bugun	ha.ɲu	ha.ɲu	h a + ɲ u	dikh1234	1235	27.320448	92.454924	576	576	FALSE	TB		_who _who
+17541	246_yellow	yellow	DikhyangBugun	Bugun	ə.dʑɔj	ə.dʑɔj	ə + dʑ ɔ j	dikh1234	1424	27.320448	92.454924	1371	1371	FALSE	TB		_yellow _yellow
+17615	247_yesterday	yesterday	DikhyangBugun	Bugun	di.jaw	di.jaw	d i + j au	dikh1234	1174	27.320448	92.454924	3471	3471	FALSE	TB		_yesterday _yesterday
+17693	248_yousecondpersonplural	you [second person plural]	DikhyangBugun	Bugun	na.tʰə̃	na.tʰə̃	n a + tʰ ə̃	dikh1234	1213	27.320448	92.454924	3007	3007	FALSE	TB		_yousecondpersonplural _yousecondpersonplural

@@ -1,0 +1,171 @@
+RID	CONCEPTICON_GLOSS	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE
+1	I [first person singular]	101_ifirstpersonsingular	1209	ngat	ŋat	VDriem15
+2	big	11_big	1202	chetpu	tɕʰet+pu	VDriem15
+3	black	14_black	163	nyun di	ɲun+di	DDC2018
+4	cold (of temperature)	26_coldoftemperature	1287		ŋa+pa 	TB
+5	dirty	36_dirty	1230		kʰam+lok+lok+tɕʰak+tɕʰak	TB
+6	dry	40_dry	1398	kam	kam	DDC2018
+7	eight	48_eight	1705	dʑat	dʑat	VDriem15
+8	far	50_far	1406		tʰa+riŋ+ɕiŋ	TB
+9	five	57_five	493	yanga	ja+ŋa	VDriem15
+10	four	67_four	1500	ble	ble	VDriem15
+11	full	73_full	1429		tʰɛm+tʰɛm	TB
+12	good	76_good	1035	kakcan	kak+tɕan	VDriem15
+13	green	78_green	1425	jang khu	dʑaŋ+kʰu	DDC2018
+14	hard	82_hard	1884		sa+tak+tak	TB
+15	he or she [third person singular]	83_heorshethirdpersonsingular	262	khit	kʰit	VDriem15
+16	heavy	87_heavy	1210		dʑut+dʑan	TB
+17	hot	96_hot	1286		tsʰa+tʰom	TB
+18	inside	103_inside	1606	nang	naŋ	VDriem15
+19	late	110_late	477		pe+na	TB
+20	left	114_left	244		jon+pa	TB
+21	light (of weight)	117_lightofweight	1052		jaŋ+som+som	TB
+22	long	120_long	1203	khangma	kʰaŋ+ma	VDriem15
+23	many	124_many	1198		dʑak+tse	TB
+24	middle	127_middle	1093		bar+do	TB
+25	morning	129_morning	1339	ngadza	ŋa+dza	VDriem15
+26	near	139_near	1942		tʰa+ma+ro	TB
+27	new	142_new	1231		sar+pa	TB
+28	nine	143_nine	1483	dogo	do+go	VDriem15
+29	one	148_one	1493	thek	tʰek	VDriem15
+30	outside	150_outside	762		be+tʰu	TB
+31	red	158_red	156	zhin di	ʑin+di	DDC2018
+32	right	161_right	1019		ja+pa	TB
+33	round	166_round	1395		tʰɛ+ri+ri	TB
+34	seven	175_seven	1704	'nyit, ‘nyis	ɲit55	VDriem15
+35	sharp	176_sharp	1396		ja55	TB
+36	short	179_short	1645	thing ku la	tʰiŋ+ku+la	DDC2018
+37	six	184_six	1703	grok	grok	VDriem15
+38	small	188_small	1246	cingku	tɕiŋ+ku	VDriem15
+39	soft	194_soft	1856		dʑam+tɕʰuk+tɕʰuk	TB
+40	straight	204_straight	1404	thrang tang tang	ʈʰaŋ+taŋ+taŋ	DDC2018
+41	ten	207_ten	1515	che	tɕʰe	VDriem15
+42	the ant	3_theant	587	bruk to la	bruk+to+la	DDC2018
+43	the bamboo	6_thebamboo	1927	'rat	rat55	VDriem15
+44	the belly	9_thebelly	1251		dʑo+ma	TB
+45	the bird	12_thebird	937	jau ya	dʑau+ja	DDC2018
+46	the blood	15_theblood	946	kak	kak	VDriem15
+47	the bone	18_thebone	1394	rotpa	rot+pa	VDriem15
+48	the branch	19_thebranch	1531	zha la, yag thang	jak+tʰaŋ	DDC2018
+49	the breast (female)	20_thebreastfemale	1402	dʑu	dʑu	VDriem15
+50	the cloud	25_thecloud	1489		sar+dʑa	TB
+51	the dew	33_thedew	1977		zɛk	TB
+52	the dog	37_thedog	2009	khwi, khü	kʰwi	VDriem15
+53	the dream	38_thedream	2374		me+maŋ	TB
+54	the dust	41_thedust	2		tsʰu+ma	TB
+55	the ear	42_theear	1247	na	na	VDriem15
+56	the earth (soil)	44_theearthsoil	1228	sa	sa	DDC2018
+57	the egg	47_theegg	744	khawate	kʰa+wa+te	VDriem15
+58	the eye	49_theeye	1248	mek	mek	VDriem15
+59	the fire	54_thefire	221	gami	ga+mi	VDriem15
+60	the fish	56_thefish	227	nya	ɲa	VDriem15
+61	the flower	61_theflower	239	mento	men+to	VDriem15
+62	the foot	64_thefoot	1301		ta+wa	TB
+63	the forest	65_theforest	420	bung	buŋ 	DDC2018
+64	the frog	69_thefrog	503	ba bai	ba+bai	DDC2018
+65	the front (front side)	70_thefrontfrontside	2194		doŋ+ŋo	TB
+66	the fruit	72_thefruit	1507	zat, zas	zat	DDC2018
+67	the goat	75_thegoat	1502	ra	ra	VDriem15
+68	the hail	79_thehail	609	ser ba, ser wa	sɛr+ba	DDC2018
+69	the hair (of the head)	80_thehairofthehead	1040	'ra	ra55	VDriem15
+70	the hand	81_thehand	1277	yak	jak	VDriem15
+71	the head	84_thehead	1256	guyung	gu+juŋ	VDriem15
+72	the heart	86_theheart	1223	nengma	neŋ55+ma	VDriem15
+73	the horn (keratinized skin)	94_thehornkeratinizedskin	1393		ro	TB
+74	the house	97_thehouse	1252	mai	mai	VDriem15
+75	the knee	106_theknee	1371	patmong	pat+moŋ	VDriem15
+76	the leaf	112_theleaf	628	‘lam ba	lam55+ba	DDC2018
+77	the liver	119_theliver	1224	chimbo	tɕʰim+bo	VDriem15
+78	the louse	121_thelouse	1392		sɛk	DDC2018
+79	the lung	122_thelung	688	zhruwa	ɼu+wa	VDriem15
+80	the man (male human)	123_themanmalehuman	2106	phodʑa	pʰo+dʑa	VDriem15
+81	the meat	126_themeat	634	shra	r̥a	VDriem15
+82	the moon	128_themoon	1313	‘la	la55	DDC2018
+83	the mountain	132_themountain	639	ri	ri	VDriem15
+84	the mouse or rat	133_themouseorrat	2139	‘nyi wa	ɲi55+wa	DDC2018
+85	the mouth	134_themouth	674	kha	kʰa	VDriem15
+86	the mud	135_themud	640	dam	dam	DDC2018
+87	the nail (fingernail or claw)	136_thenailfingernailorclaw	2128	sima	si+ma	VDriem15
+88	the name	137_thename	1405	meng	meŋ	VDriem15
+89	the neck	140_theneck	1333	takpa	tak+pa	VDriem15
+90	the needle (for sewing)	141_theneedleforsewing	1382	tshem khap	kʰap	DDC2018
+91	the nose	146_thenose	1221	'naphang	na55+pʰaŋ	VDriem15
+92	the pig	151_thepig	1337	phak	pʰak	DDC2018
+93	the rain	156_therain	658	yö	jɶ	VDriem15
+94	the road	163_theroad	667	yam	jam	VDriem15
+95	the root	164_theroot	670	rato	ra+to	VDriem15
+96	the rope	165_therope	1218	thak pa	tʰak+pa	DDC2018
+97	the salt	168_thesalt	1274	tsha	tsʰa	DDC2018
+98	the sand	170_thesand	671		be+ma	TB
+99	the seed	174_theseed	714	son	son	DDC2018
+100	the shit	250_theshit	676	cok	tɕok	VDriem15
+101	the shoulder	180_theshoulder	1482	pongma	poŋ+ma	VDriem15
+102	the skin	185_theskin	763	pak	pak	VDriem15
+103	the sky	186_thesky	1732		nam	TB
+104	the smoke	190_thesmoke	778		du+wa	TB
+105	the snake	192_thesnake	730	po	po	VDriem15
+106	the snow	193_thesnow	784	ka	ka	VDriem15
+107	the son	195_theson	1620	botsa	bo+tsa	VDriem15
+108	the spider	197_thespider	843		pʰrun+zan	TB
+109	the star	200_thestar	1430		kar+ma	TB
+110	the stick	202_thestick	1295	‘lak phang	lak55+pʰaŋ	DDC2018
+111	the stone (a piece of)	203_thestoneapieceof	857		gor	DDC2018
+112	the sun	205_thesun	1343	nyi	ɲi	DDC2018
+113	the tail	206_thetail	1220	'nyiphang	ɲi55+pʰaŋ	VDriem15
+114	the thigh	211_thethigh	471	nyamgong	ɲam+goŋ	VDriem15
+115	the thunder	218_thethunder	1150		ɖuk+dɛr+sa	TB
+116	the tongue	222_thetongue	1205	'li	li55	VDriem15
+117	the tooth (front)	223_thetoothfront	1380	kwa	kwa	VDriem15
+118	the water	229_thewater	948	khwe	kʰwe	VDriem15
+119	the wind	238_thewind	960	'long	loŋ55	VDriem15
+120	the wing	239_thewing	1257	shok pa	ɕok+pa	DDC2018
+121	the woman	242_thewoman	962	minbotsa	min+bo+tsa	VDriem15
+122	the year	245_theyear	1226	‘neng	neŋ55	DDC2018
+123	thick	210_thick	1244		tʰok+dʑan	TB
+124	thin (object)	212_thinobject	2249		tɕʰa+tiŋ+tiŋ	TB
+125	thou [second person singular]	215_thousecondpersonsingular	1215	wet	wet	VDriem15
+126	three	216_three	492	sum	sum	VDriem15
+127	to bite	13_tobite	1403		daŋ	TB
+128	to burn [intransitive]	21_toburnintransitive	1428		bur	TB
+129	to buy	22_tobuy	1869	'ngüi	ŋyi55	VDriem15
+130	to chew	23_tochew	321		mur	TB
+131	to come	27_tocome	1446	ra	ra	VDriem15
+132	to count	29_tocount	1420	grang	graŋ	VDriem15
+133	to cry (weep)	30_tocryweep	1839		ŋo	TB
+134	to die	34_todie	1494	se	se	VDriem15
+135	to dig	35_todig	1418		ku+saŋ	TB
+136	to drink	39_todrink	1401	thong	tʰoŋ	VDriem15
+137	to eat	46_toeat	1336	zu	zu	VDriem15
+138	to fight	53_tofight	1423	prat	prat	VDriem15
+139	to fly (move through air)	62_toflymovethroughair	1441		pʰur 	TB
+140	to forget	66_toforget	1523	zhit	ʑit	VDriem15
+141	to give	74_togive	1447	bi	bi	VDriem15
+142	to hear	85_tohear	1408		nan	TB
+143	to hide (conceal)	89_tohideconceal	602		lɶm	TB
+144	to hold	91_tohold	1448		zoŋ	TB
+145	to kill	104_tokill	1417	sut	sut	VDriem15
+146	to laugh	111_tolaugh	1355		ga	TB
+147	to lick	115_tolick	319		plɛn	TB
+148	to play	153_toplay	1413		pʰui	TB
+149	to push	155_topush	1452		tʰuŋ	TB
+150	to reside (live)	159_toresidelive	363	nyit	ɲit	VDriem15
+151	to scratch	171_toscratch	1436	brat	brat	VDriem15
+152	to see	173_tosee	1409	thung	tʰuŋ	VDriem15
+153	to shoot (an arrow)	178_toshootanarrow	1172		tʰuŋ	TB
+154	to sing	183_tosing	1261		tʰaŋ	TB
+155	to sleep	187_tosleep	1585	dot	dot	VDriem15
+156	to smell (perceive odor) [transitive]	189_tosmellperceiveodortransitive	1586	num	num	VDriem15
+157	to spit	198_tospit	1440		tʰɛp+tʰuk	TB
+158	to stand	199_tostand	1442	yang	jaŋ	VDriem15
+159	to steal	201_tosteal	713		ʑu+bu	TB
+160	to think (reflect)	213_tothinkreflect	1415		nok+sam	TB
+161	to throw	217_tothrow	1456		tɕʰaŋ	TB
+162	to vomit	227_tovomit	1278		tɕʰuk	TB
+163	to walk	228_towalk	1443		jam+go	TB
+164	to wipe	240_towipe	1454		pʰik	TB
+165	two	226_two	1498	zon	zon	VDriem15
+166	wet	231_wet	1726	shir phan	ɕir+pʰan	DDC2018
+167	white	235_white	1335	kharkharma	kʰar+kʰar+ma	VDriem15
+168	who	236_who	1235	'adʑi	a55+dʑi	VDriem15
+169	yellow	246_yellow	1424	sirsirma	sir+sir+ma	VDriem15
+170	the fog	63_thefog	249	tɕirdʑi	tɕir+dʑi	TB

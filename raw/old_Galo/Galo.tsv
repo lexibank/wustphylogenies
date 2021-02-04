@@ -1,0 +1,293 @@
+RID	CONCEPT	CONCEPTICON_GLOSS	DOCULECT	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE	NOTES	SEGMENTS
+1	101_ifirstpersonsingular	I [first person singular]	Galo	101_ifirstpersonsingular	1209	ŋó	ŋo55	Post07	*ŋoo	ŋ o 55
+2	101_ifirstpersonsingular	I [first person singular]	ProtoGalo	101_ifirstpersonsingular	1209	ŋoo	ŋoo	Post07	ŋoo	ŋ oo
+30	103_inside	inside	Galo	103_inside	1606	a-ràa	a+raː51	Post07	*raŋ ~ *roŋ ‘empty’	a + r a � 51
+31	103_inside	inside	ProtoGalo	103_inside	1606	raŋ ~ roŋ ‘empty’	raŋ	Post07	raŋ ~ roŋ ‘empty’	r a ŋ
+127	106_theknee	the knee	Galo	106_theknee	1371	lə-bɨɨ̀	lə+bɨː51	Post07	*bɨŋ ‘shoulder/knee’	l ə + b ɨ � 51
+128	106_theknee	the knee	ProtoGalo	106_theknee	1371	bɨŋ ‘shoulder/knee’	bɨŋ	Post07	bɨŋ ‘shoulder/knee’	b ɨ ŋ
+255	111_tolaugh	to laugh	Galo	111_tolaugh	1355	ɲɨrH	ɲɨr55	Post07	*ŋil	ɲ ɨ r 55
+256	111_tolaugh	to laugh	ProtoGalo	111_tolaugh	1355	ŋil	ŋil	Post07	ŋil	ŋ i l
+129	112_theleaf	the leaf	Galo	112_theleaf	628	a-nə́	a+nə55	Post07	*nə	a + n ə 55
+130	112_theleaf	the leaf	ProtoGalo	112_theleaf	628	nə	nə	Post07	nə	n ə
+32	114_left	left	Galo	114_left	244	ciL	tɕi51	Post07	*(lak-)ke	tɕ i 51
+33	114_left	left	ProtoGalo	114_left	244	(lak-)ke	lak-ke	Post07	(lak-)ke	l a k � k e
+257	115_tolick	to lick	Galo	115_tolick	319	rakH	rak55	Post07	*rjak	r a k 55
+258	115_tolick	to lick	ProtoGalo	115_tolick	319	rjak	rjak	Post07	rjak	r j a k
+131	119_theliver	the liver	Galo	119_theliver	1224	a-hín	a+hin55	Post07	*ʑin	a + h i n 55
+132	119_theliver	the liver	ProtoGalo	119_theliver	1224	ʑin	ʑin	Post07	ʑin	ʑ i n
+3	11_big	big	Galo	11_big	1202	kaí	kai55	Post07	í	k a i 55
+4	11_big	big	ProtoGalo	11_big	1202	í	í	Post07	í	í
+34	120_long	long	Galo	120_long	1203	a-hòr	a+hor51	Post07		a + h o r 51
+133	121_thelouse	the louse	Galo	121_thelouse	1392	ta-ɨk̀	ta+ɨk51	Post07	*fɨk ‘louse (of head)’	t a + ɨ k 51
+134	121_thelouse	the louse	ProtoGalo	121_thelouse	1392	fɨk ‘louse (of head)’	fɨk	Post07	fɨk ‘louse (of head)’	f ɨ k
+135	122_thelung	the lung	Galo	122_thelung	688	aa-rò	aː+ro51	Post07	*haŋ(-puk) ‘heart’ + *(mə-)ru ‘torch (n.)’	a � + r o 51
+136	122_thelung	the lung	ProtoGalo	122_thelung	688	haŋ(-puk) ‘heart’ + (mə-)ru ‘torch (n.)’	haŋ-puk	Post07	haŋ(-puk) ‘heart’ + (mə-)ru ‘torch (n.)’	h a ŋ � p u k
+137	123_themanmalehuman	the man (male human)	Galo	123_themanmalehuman	2106	boH	bo55	Post07	*bo ‘father’	b o 55
+138	123_themanmalehuman	the man (male human)	ProtoGalo	123_themanmalehuman	2106	bo ‘father’	bo	Post07	bo ‘father’	b o
+35	124_many	many	Galo	124_many	1198	jaa-jàa	jaː+jaː51	Post07	*jaŋ ‘more’	j a � + j a � 51
+36	124_many	many	ProtoGalo	124_many	1198	jaŋ ‘more’	jaŋ	Post07	jaŋ ‘more’	j a ŋ
+139	126_themeat	the meat	Galo	126_themeat	634	a-dín	a+din55	Post07	*dɨn	a + d i n 55
+140	126_themeat	the meat	ProtoGalo	126_themeat	634	dɨn	dɨn	Post07	dɨn	d ɨ n
+37	127_middle	middle	Galo	127_middle	1093	ləpàa	lə+paː51	Post07	*praŋ ‘shin/shank’	l ə + p a � 51
+38	127_middle	middle	ProtoGalo	127_middle	1093	praŋ ‘shin/shank’	praŋ	Post07	praŋ ‘shin/shank’	p r a ŋ
+141	128_themoon	the moon	Galo	128_themoon	1313	poo-lò	poː+lo51	Post07	*po(-lo)	p o � + l o 51
+142	128_themoon	the moon	ProtoGalo	128_themoon	1313	po(-lo)	po-lo	Post07	po(-lo)	p o � l o
+39	129_morning	morning	Galo	129_morning	1339	arò	a+ro51	Post07	*ro	a + r o 51
+40	129_morning	morning	ProtoGalo	129_morning	1339	ro	ro	Post07	ro	r o
+72	12_thebird	the bird	Galo	12_thebird	937	pə-táa	pə+taː55	Post07	*taŋ	p ə + t a � 55
+73	12_thebird	the bird	ProtoGalo	12_thebird	937	taŋ	taŋ	Post07	taŋ	t a ŋ
+143	132_themountain	the mountain	Galo	132_themountain	639	moo-dìi	moː+diː51	Post07	*di	m o � + d i � 51
+144	132_themountain	the mountain	ProtoGalo	132_themountain	639	di	di	Post07	di	d i
+145	133_themouseorrat	the mouse or rat	Galo	133_themouseorrat	2139	buuL	buː51	Post07	*(ku-)buŋ	b u � 51
+146	133_themouseorrat	the mouse or rat	ProtoGalo	133_themouseorrat	2139	(ku-)buŋ	ku-buŋ	Post07	(ku-)buŋ	k u � b u ŋ
+147	134_themouth	the mouth	Galo	134_themouth	674	nap-páa	nap+paː55	Post07	*nap	n a p + p a � 55
+148	134_themouth	the mouth	ProtoGalo	134_themouth	674	nap	nap	Post07	nap	n a p
+149	135_themud	the mud	Galo	135_themud	640	hi-túm	hi+tum55	Post07		h i + t u m 55
+150	136_thenailfingernailorclaw	the nail (fingernail or claw)	Galo	136_thenailfingernailorclaw	2128	lak-sín	lak+sin55	Post07	*(lak-)ʑin	l a k + s i n 55
+151	136_thenailfingernailorclaw	the nail (fingernail or claw)	ProtoGalo	136_thenailfingernailorclaw	2128	(lak-)ʑin	lak-ʑin	Post07	(lak-)ʑin	l a k � ʑ i n
+152	137_thename	the name	Galo	137_thename	1405	a-mìn	a+min51	Post07	*mɨn ~ *mrɨn	a + m i n 51
+153	137_thename	the name	ProtoGalo	137_thename	1405	mɨn ~ mrɨn	mɨn	Post07	mɨn ~ mrɨn	m ɨ n
+41	139_near	near	Galo	139_near	1942	nɨkH	nɨk55	Post07		n ɨ k 55
+225	13_tobite	to bite	Galo	13_tobite	1403	gamL ~ ŋamL	gam51	Post07	*gjam	g a m 51
+226	13_tobite	to bite	ProtoGalo	13_tobite	1403	gjam	gjam	Post07	gjam	g j a m
+154	140_theneck	the neck	Galo	140_theneck	1333	lɨɨ-gòo	lɨː+goː51	Post07	*lɨŋ	l ɨ � + g o � 51
+155	140_theneck	the neck	ProtoGalo	140_theneck	1333	lɨŋ	lɨŋ	Post07	lɨŋ	l ɨ ŋ
+42	142_new	new	Galo	142_new	1231	a-lìi	a+liː51	Post07		a + l i � 51
+43	143_nine	nine	Galo	143_nine	1483	keŋŋàa	keŋ+ŋaː51	Post07	*kV(n)aŋ	k e ŋ + ŋ a � 51
+44	143_nine	nine	ProtoGalo	143_nine	1483	kV(n)aŋ	kVnaŋ	Post07	kV(n)aŋ	k � n a ŋ
+156	146_thenose	the nose	Galo	146_thenose	1221	ɲe-pùm	ɲe+pum51	Post07	*ɲa	ɲ e + p u m 51
+157	146_thenose	the nose	ProtoGalo	146_thenose	1221	ɲa	ɲa	Post07	ɲa	ɲ a
+45	148_one	one	Galo	148_one	1493	akèn	a+ken51	Post07	*kon	a + k e n 51
+46	148_one	one	ProtoGalo	148_one	1493	kon	kon	Post07	kon	k o n
+5	14_black	black	Galo	14_black	163	kajàa	ka+jaː51	Post07	kaL	k a + j a � 51
+6	14_black	black	ProtoGalo	14_black	163	kaL	kaL	Post07	kaL	k a �
+47	150_outside	outside	Galo	150_outside	762	búu	buː55	Post07		b u � 55
+158	151_thepig	the pig	Galo	151_thepig	1337	ə-rə́k	ə+rək55	Post07	*rjek	ə + r ə k 55
+159	151_thepig	the pig	ProtoGalo	151_thepig	1337	rjek	rjek	Post07	rjek	r j e k
+259	153_toplay	to play	Galo	153_toplay	1413	menL	men51	Post07	*(soŋ- )man	m e n 51
+260	153_toplay	to play	ProtoGalo	153_toplay	1413	(soŋ- )man	soŋ-	Post07	(soŋ- )man	s o ŋ �
+261	155_topush	to push	Galo	155_topush	1452	tuuL	tuː51	Post07		t u � 51
+160	156_therain	the rain	Galo	156_therain	658	ɲi-dóo	ɲi+doː55	Post07	*doŋ	ɲ i + d o � 55
+161	156_therain	the rain	ProtoGalo	156_therain	658	doŋ	doŋ	Post07	doŋ	d o ŋ
+48	158_red	red	Galo	158_red	156	lɨɨ-cɨɨ́	lɨː+tɕɨ́ː55	Post07	*lɨŋ	l ɨ � + tɕ ɨ � � 55
+49	158_red	red	ProtoGalo	158_red	156	lɨŋ	lɨŋ	Post07	lɨŋ	l ɨ ŋ
+262	159_toresidelive	to reside (live)	Galo	159_toresidelive	363	duuL	duː51	Post07	*duŋ	d u � 51
+263	159_toresidelive	to reside (live)	ProtoGalo	159_toresidelive	363	duŋ	duŋ	Post07	duŋ	d u ŋ
+74	15_theblood	the blood	Galo	15_theblood	946	iì	iː51	Post07	*vii	i � 51
+75	15_theblood	the blood	ProtoGalo	15_theblood	946	vii	vii	Post07	vii	v ii
+50	161_right	right	Galo	161_right	1019	bəkL	bək51	Post07	*(lak-)brɨk	b ə k 51
+51	161_right	right	ProtoGalo	161_right	1019	(lak-)brɨk	lak-brɨk	Post07	(lak-)brɨk	l a k � b r ɨ k
+162	163_theroad	the road	Galo	163_theroad	667	bə-dáa	bə+daː55	Post07	*bə(ə) ‘way’	b ə + d a � 55
+163	163_theroad	the road	ProtoGalo	163_theroad	667	bə(ə) ‘way’	bəə	Post07	bə(ə) ‘way’	b əə
+164	164_theroot	the root	Galo	164_theroot	670	a-pɨŕ	a+pɨr55	Post07	*pɨr?	a + p ɨ r 55
+165	164_theroot	the root	ProtoGalo	164_theroot	670	pɨr?	pɨr?	Post07	pɨr?	p ɨ r �
+166	165_therope	the rope	Galo	165_therope	1218	o-hóo	o+hoː55	Post07	*ɕoŋ ‘Clf: Long, Slender’ (?)	o + h o � 55
+167	165_therope	the rope	ProtoGalo	165_therope	1218	ɕoŋ ‘Clf: Long, Slender’ (?)	ɕoŋ	Post07	ɕoŋ ‘Clf: Long, Slender’ (?)	ɕ o ŋ
+52	166_round	round	Galo	166_round	1395	pə-góo	pə+goː55	Post07		p ə + g o � 55
+168	168_thesalt	the salt	Galo	168_thesalt	1274	a-ló	a+lo55	Post07	*lo	a + l o 55
+169	168_thesalt	the salt	ProtoGalo	168_thesalt	1274	lo	lo	Post07	lo	l o
+170	170_thesand	the sand	Galo	170_thesand	671	hi-lìi	hi+liː51	Post07	"*ɕi ‘water; urine’ + "	h i + l i � 51
+171	170_thesand	the sand	ProtoGalo	170_thesand	671	"ɕi ‘water; urine’ + "	"ɕi	Post07	"ɕi ‘water; urine’ + "	� ɕ i
+264	171_toscratch	to scratch	Galo	171_toscratch	1436	gaaH	gaː55	Post07	*gaŋ ‘scratch with claws’	g a � 55
+265	171_toscratch	to scratch	ProtoGalo	171_toscratch	1436	gaŋ ‘scratch with claws’	gaŋ	Post07	gaŋ ‘scratch with claws’	g a ŋ
+266	173_tosee	to see	Galo	173_tosee	1409	káa	kaː55	Post07	*kaŋ	k a � 55
+267	173_tosee	to see	ProtoGalo	173_tosee	1409	kaŋ	kaŋ	Post07	kaŋ	k a ŋ
+172	174_theseed	the seed	Galo	174_theseed	714	liiH	liː55	Post07	*li	l i � 55
+173	174_theseed	the seed	ProtoGalo	174_theseed	714	li	li	Post07	li	l i
+53	175_seven	seven	Galo	175_seven	1704	kanə̀	ka+nə51	Post07	(kV-)nɨt	k a + n ə 51
+54	175_seven	seven	ProtoGalo	175_seven	1704	(kV-)nɨt	kV-nɨt	Post07	(kV-)nɨt	k � � n ɨ t
+55	176_sharp	sharp	Galo	176_sharp	1396	a-rék	a+rek55	Post07	*rat1	a + r e k 55
+56	176_sharp	sharp	ProtoGalo	176_sharp	1396	rat1	rat1	Post07	rat1	r a t �
+268	178_toshootanarrow	to shoot (an arrow)	Galo	178_toshootanarrow	1172	àp	ap51	Post07	*ap	a p 51
+269	178_toshootanarrow	to shoot (an arrow)	ProtoGalo	178_toshootanarrow	1172	ap	ap	Post07	ap	a p
+57	179_short	short	Galo	179_short	1645	a-də́ə	a+dəː55	Post07	*təŋ ~ *dəŋ	a + d ə � 55
+58	179_short	short	ProtoGalo	179_short	1645	təŋ ~ dəŋ	təŋ	Post07	təŋ ~ dəŋ	t ə ŋ
+176	180_theshoulder	the shoulder	Galo	180_theshoulder	1482	ləə-bɨɨ́	ləː+bɨː55	Post07	*bɨŋ ‘shoulder/knee’	l ə � + b ɨ � 55
+177	180_theshoulder	the shoulder	ProtoGalo	180_theshoulder	1482	bɨŋ ‘shoulder/knee’	bɨŋ	Post07	bɨŋ ‘shoulder/knee’	b ɨ ŋ
+59	184_six	six	Galo	184_six	1703	akkə́	ak+kə55	Post07	*krə	a k + k ə 55
+60	184_six	six	ProtoGalo	184_six	1703	krə	krə	Post07	krə	k r ə
+178	185_theskin	the skin	Galo	185_theskin	763	a-pìn	a+pin51	Post07	*pɨn	a + p i n 51
+179	185_theskin	the skin	ProtoGalo	185_theskin	763	pɨn	pɨn	Post07	pɨn	p ɨ n
+180	186_thesky	the sky	Galo	186_thesky	1732	ta-lə́ə	ta+ləː55	Post07	*rɨŋ ‘deep’ (?)	t a + l ə � 55
+181	186_thesky	the sky	ProtoGalo	186_thesky	1732	rɨŋ ‘deep’ (?)	rɨŋ	Post07	rɨŋ ‘deep’ (?)	r ɨ ŋ
+270	187_tosleep	to sleep	Galo	187_tosleep	1585	jupL	jup51	Post07	*jup	j u p 51
+271	187_tosleep	to sleep	ProtoGalo	187_tosleep	1585	jup	jup	Post07	jup	j u p
+61	188_small	small	Galo	188_small	1246	a-jáa	a+jaː55	Post07		a + j a � 55
+272	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	Galo	189_tosmellperceiveodortransitive	1586	namL	nam51	Post07	*nam	n a m 51
+273	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	ProtoGalo	189_tosmellperceiveodortransitive	1586	nam	nam	Post07	nam	n a m
+76	18_thebone	the bone	Galo	18_thebone	1394	a-lóo	a+loː55	Post07	*loŋ	a + l o � 55
+77	18_thebone	the bone	ProtoGalo	18_thebone	1394	loŋ	loŋ	Post07	loŋ	l o ŋ
+182	190_thesmoke	the smoke	Galo	190_thesmoke	778	mɨ-kə̀	mɨ+kə51	Post07	*(mə-)kɨ	m ɨ + k ə 51
+183	190_thesmoke	the smoke	ProtoGalo	190_thesmoke	778	(mə-)kɨ	mə-kɨ	Post07	(mə-)kɨ	m ə � k ɨ
+184	192_thesnake	the snake	Galo	192_thesnake	730	bɨH	bɨ55	Post07	*bɨ	b ɨ 55
+185	192_thesnake	the snake	ProtoGalo	192_thesnake	730	bɨ	bɨ	Post07	bɨ	b ɨ
+186	193_thesnow	the snow	Galo	193_thesnow	784	ta-pám	ta+pam55	Post07	*pam	t a + p a m 55
+187	193_thesnow	the snow	ProtoGalo	193_thesnow	784	pam	pam	Post07	pam	p a m
+62	194_soft	soft	Galo	194_soft	1856	ɲakL	ɲak51	Post07	*mjak	ɲ a k 51
+63	194_soft	soft	ProtoGalo	194_soft	1856	mjak	mjak	Post07	mjak	m j a k
+188	195_theson	the son	Galo	195_theson	1620	o-rə̀	o+rə51	Post07	*ɦo ‘child (offspring)’	o + r ə 51
+189	195_theson	the son	ProtoGalo	195_theson	1620	ɦo ‘child (offspring)’	ɦo	Post07	ɦo ‘child (offspring)’	� o
+190	197_thespider	the spider	Galo	197_thespider	843	tatùm-beelùm	ta+tum51+bee+lum51	Post07	*rum	t a + t u m 51 + b e e + l u m 51
+191	197_thespider	the spider	ProtoGalo	197_thespider	843	rum	rum	Post07	rum	r u m
+274	199_tostand	to stand	Galo	199_tostand	1442	dakL	dak51	Post07	*dak	d a k 51
+275	199_tostand	to stand	ProtoGalo	199_tostand	1442	dak	dak	Post07	dak	d a k
+78	19_thebranch	the branch	Galo	19_thebranch	1531	ak-cə́	ak+tɕə55	Post07	*ɦak	a k + tɕ ə 55
+79	19_thebranch	the branch	ProtoGalo	19_thebranch	1531	ɦak	ɦak	Post07	ɦak	� a k
+192	200_thestar	the star	Galo	200_thestar	1430	ta-kár	ta+kar55	Post07	*kar	t a + k a r 55
+193	200_thestar	the star	ProtoGalo	200_thestar	1430	kar	kar	Post07	kar	k a r
+276	201_tosteal	to steal	Galo	201_tosteal	713	cooH	tɕoː55	Post07	*pjoŋ	tɕ o � 55
+277	201_tosteal	to steal	ProtoGalo	201_tosteal	713	pjoŋ	pjoŋ	Post07	pjoŋ	p j o ŋ
+194	202_thestick	the stick	Galo	202_thestick	1295	a-dáa	a+daː55	Post07		a + d a � 55
+195	203_thestoneapieceof	the stone (a piece of)	Galo	203_thestoneapieceof	857	ɨ-lɨɨ̀	ɨ+lɨː51	Post07	*lɨŋ	ɨ + l ɨ � 51
+196	203_thestoneapieceof	the stone (a piece of)	ProtoGalo	203_thestoneapieceof	857	lɨŋ	lɨŋ	Post07	lɨŋ	l ɨ ŋ
+64	204_straight	straight	Galo	204_straight	1404	damL	dam51	Post07		d a m 51
+197	205_thesun	the sun	Galo	205_thesun	1343	doo-ɲí	doː+ɲi55	Post07	*ɲi	d o � + ɲ i 55
+198	205_thesun	the sun	ProtoGalo	205_thesun	1343	ɲi	ɲi	Post07	ɲi	ɲ i
+199	206_thetail	the tail	Galo	206_thetail	1220	ɲe-bùu	ɲe+buː51	Post07	*me ~ *mjo	ɲ e + b u � 51
+200	206_thetail	the tail	ProtoGalo	206_thetail	1220	me ~ mjo	me	Post07	me ~ mjo	m e
+65	207_ten	ten	Galo	207_ten	1515	ɨrɨɨ́	ɨ+rɨː55	Post07	*rjɨŋ	ɨ + r ɨ � 55
+66	207_ten	ten	ProtoGalo	207_ten	1515	rjɨŋ	rjɨŋ	Post07	rjɨŋ	r j ɨ ŋ
+80	20_thebreastfemale	the breast (female)	Galo	20_thebreastfemale	1402	a-cò	a+tɕo51	Post07		a + tɕ o 51
+218	210_thick	thick	Galo	210_thick	1244	zɨɨ-càm	dʑɨː+tɕam51	Post07		dʑ ɨ � + tɕ a m 51
+201	211_thethigh	the thigh	Galo	211_thethigh	471	ar-báa	ar+baː55	Post07	*far	a r + b a � 55
+202	211_thethigh	the thigh	ProtoGalo	211_thethigh	471	far	far	Post07	far	f a r
+219	212_thinobject	thin (object)	Galo	212_thinobject	2249	bo-còr	bo+tɕor51	Post07	"*(bV-)cor ‘shallow; thin (paper)’"	b o + tɕ o r 51
+220	212_thinobject	thin (object)	ProtoGalo	212_thinobject	2249	"(bV-)cor ‘shallow; thin (paper)’"	"bV-cor	Post07	"(bV-)cor ‘shallow; thin (paper)’"	� b � � c o r
+278	213_tothinkreflect	to think (reflect)	Galo	213_tothinkreflect	1415	məəH	məː55	Post07	*mɨŋ	m ə � 55
+279	213_tothinkreflect	to think (reflect)	ProtoGalo	213_tothinkreflect	1415	mɨŋ	mɨŋ	Post07	mɨŋ	m ɨ ŋ
+221	215_thousecondpersonsingular	thou [second person singular]	Galo	215_thousecondpersonsingular	1215	nó	no55	Post07	*noo	n o 55
+222	215_thousecondpersonsingular	thou [second person singular]	ProtoGalo	215_thousecondpersonsingular	1215	noo	noo	Post07	noo	n oo
+223	216_three	three	Galo	216_three	492	aúm	a+um55	Post07	*a- +*ɦum	a + u m 55
+224	216_three	three	ProtoGalo	216_three	492	a- +ɦum	a-	Post07	a- +ɦum	a �
+280	217_tothrow	to throw	Galo	217_tothrow	1456	naaH	naː55	Post07		n a � 55
+203	218_thethunder	the thunder	Galo	218_thethunder	1150	doo-gúm	doː+gum55	Post07	*gum	d o � + g u m 55
+204	218_thethunder	the thunder	ProtoGalo	218_thethunder	1150	gum	gum	Post07	gum	g u m
+227	21_toburnintransitive	to burn [intransitive]	Galo	21_toburnintransitive	1428	guL	gu51	Post07	*gu	g u 51
+228	21_toburnintransitive	to burn [intransitive]	ProtoGalo	21_toburnintransitive	1428	gu	gu	Post07	gu	g u
+205	222_thetongue	the tongue	Galo	222_thetongue	1205	a-ró	a+ro55	Post07	*rjo	a + r o 55
+206	222_thetongue	the tongue	ProtoGalo	222_thetongue	1205	rjo	rjo	Post07	rjo	r j o
+207	223_thetoothfront	the tooth (front)	Galo	223_thetoothfront	1380	a-íi	a+iː55	Post07	*fii	a + i � 55
+208	223_thetoothfront	the tooth (front)	ProtoGalo	223_thetoothfront	1380	fii	fii	Post07	fii	f ii
+286	226_two	two	Galo	226_two	1498	aɲì	a+ɲi51	Post07	*ɲi	a + ɲ i 51
+287	226_two	two	ProtoGalo	226_two	1498	ɲi	ɲi	Post07	ɲi	ɲ i
+281	227_tovomit	to vomit	Galo	227_tovomit	1278	baH	ba55	Post07	*b(r)at2	b a 55
+282	227_tovomit	to vomit	ProtoGalo	227_tovomit	1278	b(r)at2	brat2	Post07	b(r)at2	b r a t �
+283	228_towalk	to walk	Galo	228_towalk	1443	inH	in55	Post07	*in	i n 55
+284	228_towalk	to walk	ProtoGalo	228_towalk	1443	in	in	Post07	in	i n
+209	229_thewater	the water	Galo	229_thewater	948	hiH	hi55	Post07	"*ɕi ‘water; urine’"	h i 55
+210	229_thewater	the water	ProtoGalo	229_thewater	948	"ɕi ‘water; urine’"	"ɕi	Post07	"ɕi ‘water; urine’"	� ɕ i
+229	22_tobuy	to buy	Galo	22_tobuy	1869	rəH	rə55	Post07	*rəə	r ə 55
+230	22_tobuy	to buy	ProtoGalo	22_tobuy	1869	rəə	rəə	Post07	rəə	r əə
+288	231_wet	wet	Galo	231_wet	1726	kapL	kap51	Post07		k a p 51
+289	235_white	white	Galo	235_white	1335	ja-púu	ja+puː55	Post07	*pun ~ *puŋ	j a + p u � 55
+290	235_white	white	ProtoGalo	235_white	1335	pun ~ puŋ	pun	Post07	pun ~ puŋ	p u n
+291	236_who	who	Galo	236_who	1235	jә̀ә	jәː51	Post07		j � � 51
+211	238_thewind	the wind	Galo	238_thewind	960	doo-rə́	doː+rə55	Post07	*rji	d o � + r ə 55
+212	238_thewind	the wind	ProtoGalo	238_thewind	960	rji	rji	Post07	rji	r j i
+213	239_thewing	the wing	Galo	239_thewing	1257	a-láp	a+lap55	Post07	*lap	a + l a p 55
+214	239_thewing	the wing	ProtoGalo	239_thewing	1257	lap	lap	Post07	lap	l a p
+231	23_tochew	to chew	Galo	23_tochew	321	zamH	dʑam55	Post07		dʑ a m 55
+285	240_towipe	to wipe	Galo	240_towipe	1454	peKH	peK55	Post07		p e � 55
+215	242_thewoman	the woman	Galo	242_thewoman	962	məH	mə55	Post07		m ə 55
+216	245_theyear	the year	Galo	245_theyear	1226	a-ɲɨɨ̀	a+ɲɨː51	Post07	*ɲiŋ	a + ɲ ɨ � 51
+217	245_theyear	the year	ProtoGalo	245_theyear	1226	ɲiŋ	ɲiŋ	Post07	ɲiŋ	ɲ i ŋ
+292	246_yellow	yellow	Galo	246_yellow	1424	ja-zì	ja+dʑi51	Post07		j a + dʑ i 51
+174	250_theshit	the shit	Galo	250_theshit	676	eè	eː51	Post07	*ee	e � 51
+175	250_theshit	the shit	ProtoGalo	250_theshit	676	ee	ee	Post07	ee	e e
+81	25_thecloud	the cloud	Galo	25_thecloud	1489	doo-mə̀	doː+mə51	Post07	*mək ~ *muk	d o � + m ə 51
+82	25_thecloud	the cloud	ProtoGalo	25_thecloud	1489	mək ~ muk	mək	Post07	mək ~ muk	m ə k
+7	26_coldoftemperature	cold (of temperature)	Galo	26_coldoftemperature	1287	a-rɨk̀, anL	a+rɨk51	Post07		a + r ɨ k 51
+232	27_tocome	to come	Galo	27_tocome	1446	aaH	aː55	Post07	*vaŋ	a � 55
+233	27_tocome	to come	ProtoGalo	27_tocome	1446	vaŋ	vaŋ	Post07	vaŋ	v a ŋ
+234	29_tocount	to count	Galo	29_tocount	1420	hapH	hap55	Post07		h a p 55
+235	30_tocryweep	to cry (weep)	Galo	30_tocryweep	1839	kapH	kap55	Post07	*krap	k a p 55
+236	30_tocryweep	to cry (weep)	ProtoGalo	30_tocryweep	1839	krap	krap	Post07	krap	k r a p
+83	33_thedew	the dew	Galo	33_thedew	1977	ŋar-sí	ŋar+si55	Post07		ŋ a r + s i 55
+237	34_todie	to die	Galo	34_todie	1494	hiH	hi55	Post07	*ɕi	h i 55
+238	34_todie	to die	ProtoGalo	34_todie	1494	ɕi	ɕi	Post07	ɕi	ɕ i
+239	35_todig	to dig	Galo	35_todig	1418	koL	ko51	Post07	*ko ~ kjo	k o 51
+240	35_todig	to dig	ProtoGalo	35_todig	1418	ko ~ kjo	ko	Post07	ko ~ kjo	k o
+8	36_dirty	dirty	Galo	36_dirty	1230	gèk	gek51	Post07		g e k 51
+84	37_thedog	the dog	Galo	37_thedog	2009	i-kìi	i+kiː51	Post07	*kwii	i + k i � 51
+85	37_thedog	the dog	ProtoGalo	37_thedog	2009	kwii	kwii	Post07	kwii	k w ii
+86	38_thedream	the dream	Galo	38_thedream	2374	ju-màa	ju+maː51	Post07	*maŋ	j u + m a � 51
+87	38_thedream	the dream	ProtoGalo	38_thedream	2374	maŋ	maŋ	Post07	maŋ	m a ŋ
+241	39_todrink	to drink	Galo	39_todrink	1401	tɨɨH	tɨː55	Post07	*tɨŋ	t ɨ � 55
+242	39_todrink	to drink	ProtoGalo	39_todrink	1401	tɨŋ	tɨŋ	Post07	tɨŋ	t ɨ ŋ
+67	3_theant	the ant	Galo	3_theant	587	ta-rùk	ta+ruk51	Post07	*ruk ~ *rup	t a + r u k 51
+68	3_theant	the ant	ProtoGalo	3_theant	587	ruk ~ rup	ruk	Post07	ruk ~ rup	r u k
+9	40_dry	dry	Galo	40_dry	1398	pɨL	pɨ51	Post07		p ɨ 51
+88	41_thedust	the dust	Galo	41_thedust	2	pə-mɨŕ	pə+mɨr55	Post07	mɨŕ	p ə + m ɨ r 55
+89	41_thedust	the dust	ProtoGalo	41_thedust	2	mɨŕ	mɨŕ	Post07	mɨŕ	m ɨ �
+90	42_theear	the ear	Galo	42_theear	1247	ɲe-rùu	ɲe+ruː51	Post07	"*ruŋ ‘hole; ear’"	ɲ e + r u � 51
+91	42_theear	the ear	ProtoGalo	42_theear	1247	"ruŋ ‘hole; ear’"	"ruŋ	Post07	"ruŋ ‘hole; ear’"	� r u ŋ
+92	44_theearthsoil	the earth (soil)	Galo	44_theearthsoil	1228	ko-dée	ko+deː55	Post07		k o + d e � 55
+243	46_toeat	to eat	Galo	46_toeat	1336	doH	do55	Post07	*do	d o 55
+244	46_toeat	to eat	ProtoGalo	46_toeat	1336	do	do	Post07	do	d o
+93	47_theegg	the egg	Galo	47_theegg	744	pɨH	pɨ55	Post07	*pɨ	p ɨ 55
+94	47_theegg	the egg	ProtoGalo	47_theegg	744	pɨ	pɨ	Post07	pɨ	p ɨ
+10	48_eight	eight	Galo	48_eight	1705	pii-nə̀	pii+nə51	Post07	*pri +	p ii + n ə 51
+11	48_eight	eight	ProtoGalo	48_eight	1705	pri +	pri	Post07	pri +	p r i
+95	49_theeye	the eye	Galo	49_theeye	1248	a-ɲɨḱ	a+ɲɨk55	Post07	*mik	a + ɲ ɨ k 55
+96	49_theeye	the eye	ProtoGalo	49_theeye	1248	mik	mik	Post07	mik	m i k
+12	50_far	far	Galo	50_far	1406	o-dòo	o+doː51	Post07	*do	o + d o � 51
+13	50_far	far	ProtoGalo	50_far	1406	do	do	Post07	do	d o
+97	54_thefire	the fire	Galo	54_thefire	221	ə-mə ̀	ə+mə51	Post07	*mə	ə + m ə 51
+98	54_thefire	the fire	ProtoGalo	54_thefire	221	mə	mə	Post07	mə	m ə
+99	56_thefish	the fish	Galo	56_thefish	227	ŋo-í	ŋo+i55	Post07	*ŋo	ŋ o + i 55
+100	56_thefish	the fish	ProtoGalo	56_thefish	227	ŋo	ŋo	Post07	ŋo	ŋ o
+14	57_five	five	Galo	57_five	493	aŋ-ŋó	aŋ+ŋo55	Post07	*ŋo	a ŋ + ŋ o 55
+15	57_five	five	ProtoGalo	57_five	493	ŋo	ŋo	Post07	ŋo	ŋ o
+101	61_theflower	the flower	Galo	61_theflower	239	a-púu	a+puː55	Post07	*pun	a + p u � 55
+102	61_theflower	the flower	ProtoGalo	61_theflower	239	pun	pun	Post07	pun	p u n
+245	62_toflymovethroughair	to fly (move through air)	Galo	62_toflymovethroughair	1441	zarH	dʑar55	Post07	*bjar	dʑ a r 55
+246	62_toflymovethroughair	to fly (move through air)	ProtoGalo	62_toflymovethroughair	1441	bjar	bjar	Post07	bjar	b j a r
+103	64_thefoot	the foot	Galo	64_thefoot	1301	a-lə ̀	a+lə51	Post07	*lə (~ *le?)	a + l ə 51
+104	64_thefoot	the foot	ProtoGalo	64_thefoot	1301	lə (~ le?)	lə	Post07	lə (~ le?)	l ə
+105	65_theforest	the forest	Galo	65_theforest	420	moo-tùm	moː+tum51	Post07	*mroŋ ‘world/land/earth’	m o � + t u m 51
+106	65_theforest	the forest	ProtoGalo	65_theforest	420	mroŋ ‘world/land/earth’	mroŋ	Post07	mroŋ ‘world/land/earth’	m r o ŋ
+247	66_toforget	to forget	Galo	66_toforget	1523	ɲoo-pèn	ɲoː+pen51	Post07	"*(ɦo-)pran ‘orphan; forget’"	ɲ o � + p e n 51
+248	66_toforget	to forget	ProtoGalo	66_toforget	1523	"(ɦo-)pran ‘orphan; forget’"	"ɦo-pran	Post07	"(ɦo-)pran ‘orphan; forget’"	� � o � p r a n
+16	67_four	four	Galo	67_four	1500	piiH	piː55	Post07	*pri	p i � 55
+17	67_four	four	ProtoGalo	67_four	1500	pri	pri	Post07	pri	p r i
+107	69_thefrog	the frog	Galo	69_thefrog	503	ta-tɨḱ	ta+tɨk55	Post07	*tɨk	t a + t ɨ k 55
+108	69_thefrog	the frog	ProtoGalo	69_thefrog	503	tɨk	tɨk	Post07	tɨk	t ɨ k
+69	6_thebamboo	the bamboo	Galo	6_thebamboo	1927	iiH	iː55	Post07		i � 55
+109	70_thefrontfrontside	the front (front side)	Galo	70_thefrontfrontside	2194	aa-bóo	aː+boː55	Post07		a � + b o � 55
+110	72_thefruit	the fruit	Galo	72_thefruit	1507	apə́-ahèe	a+pə55+a+heː51	Post07	heeL < *ʑe	a + p ə 55 + a + h e � 51
+111	72_thefruit	the fruit	ProtoGalo	72_thefruit	1507	heeL < ʑe	heeL	Post07	heeL < ʑe	h e e �
+18	73_full	full	Galo	73_full	1429	cɨrH	tɕɨr55	Post07		tɕ ɨ r 55
+249	74_togive	to give	Galo	74_togive	1447	ziH	dʑi55	Post07	*bi	dʑ i 55
+250	74_togive	to give	ProtoGalo	74_togive	1447	bi	bi	Post07	bi	b i
+112	75_thegoat	the goat	Galo	75_thegoat	1502	ho-bìn	ho+bin51	Post07	*ben ~ *bren ‘takin’	h o + b i n 51
+113	75_thegoat	the goat	ProtoGalo	75_thegoat	1502	ben ~ bren ‘takin’	ben	Post07	ben ~ bren ‘takin’	b e n
+19	76_good	good	Galo	76_good	1035	a-lə ́	a+lə55	Post07	*la	a + l ə 55
+20	76_good	good	ProtoGalo	76_good	1035	la	la	Post07	la	l a
+21	78_green	green	Galo	78_green	1425	ja-zèe	ja+dʑeː51	Post07		j a + dʑ e � 51
+114	79_thehail	the hail	Galo	79_thehail	609	ta-ɨ ́	ta+ɨ55	Post07		t a + ɨ 55
+115	80_thehairofthehead	the hair (of the head)	Galo	80_thehairofthehead	1040	a-dúm	a+dum55	Post07	*dum ‘head’	a + d u m 55
+116	80_thehairofthehead	the hair (of the head)	ProtoGalo	80_thehairofthehead	1040	dum ‘head’	dum	Post07	dum ‘head’	d u m
+117	81_thehand	the hand	Galo	81_thehand	1277	a-lák	a+lak55	Post07	*lak	a + l a k 55
+118	81_thehand	the hand	ProtoGalo	81_thehand	1277	lak	lak	Post07	lak	l a k
+22	82_hard	hard	Galo	82_hard	1884	torH	tor55	Post07	*tol	t o r 55
+23	82_hard	hard	ProtoGalo	82_hard	1884	tol	tol	Post07	tol	t o l
+24	83_heorshethirdpersonsingular	he or she [third person singular]	Galo	83_heorshethirdpersonsingular	262	bɨɨ̀	bɨː̀51	Post07	*baL + *ɨH	b ɨ � � 51
+25	83_heorshethirdpersonsingular	he or she [third person singular]	ProtoGalo	83_heorshethirdpersonsingular	262	baL + ɨH	baL	Post07	baL + ɨH	b a �
+119	84_thehead	the head	Galo	84_thehead	1256	dum-póo	dum+poː55	Post07	*dum ‘head’	d u m + p o � 55
+120	84_thehead	the head	ProtoGalo	84_thehead	1256	dum ‘head’	dum	Post07	dum ‘head’	d u m
+251	85_tohear	to hear	Galo	85_tohear	1408	taH	ta55	Post07	*tat2	t a 55
+252	85_tohear	to hear	ProtoGalo	85_tohear	1408	tat2	tat2	Post07	tat2	t a t �
+121	86_theheart	the heart	Galo	86_theheart	1223	aa-pùk	aː+puk51	Post07	*haŋ(-puk) ‘heart’	a � + p u k 51
+122	86_theheart	the heart	ProtoGalo	86_theheart	1223	haŋ(-puk) ‘heart’	haŋ-puk	Post07	haŋ(-puk) ‘heart’	h a ŋ � p u k
+26	87_heavy	heavy	Galo	87_heavy	1210	a-ìi	a+iː51	Post07	*ɦit	a + i � 51
+27	87_heavy	heavy	ProtoGalo	87_heavy	1210	ɦit	ɦit	Post07	ɦit	� i t
+253	89_tohideconceal	to hide (conceal)	Galo	89_tohideconceal	602	kahí-	ka+hi55	Post07		k a + h i 55
+254	91_tohold	to hold	Galo	91_tohold	1448	bəəH	bəː55	Post07		b ə � 55
+123	94_thehornkeratinizedskin	the horn (keratinized skin)	Galo	94_thehornkeratinizedskin	1393	rəə-búu	rəː+buː55	Post07	*rəŋ	r ə � + b u � 55
+124	94_thehornkeratinizedskin	the horn (keratinized skin)	ProtoGalo	94_thehornkeratinizedskin	1393	rəŋ	rəŋ	Post07	rəŋ	r ə ŋ
+28	96_hot	hot	Galo	96_hot	1286	goL	go51	Post07	*gu ~ *gju	g o 51
+29	96_hot	hot	ProtoGalo	96_hot	1286	gu ~ gju	gu	Post07	gu ~ gju	g u
+125	97_thehouse	the house	Galo	97_thehouse	1252	namH	nam55	Post07	*nam	n a m 55
+126	97_thehouse	the house	ProtoGalo	97_thehouse	1252	nam	nam	Post07	nam	n a m
+70	9_thebelly	the belly	Galo	9_thebelly	1251	a-kíi	a+kiː55	Post07	*kri ‘guts’	a + k i � 55
+71	9_thebelly	the belly	ProtoGalo	9_thebelly	1251	kri ‘guts’	kri	Post07	kri ‘guts’	k r i
