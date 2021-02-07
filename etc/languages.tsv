@@ -42,8 +42,8 @@ Rangoon	Rangoon	Rangoon	Burmish	nucl1310	96.190785	16.874207	Huang1992,Hill2017
 Xiandao	Xiandao	Xiandao	Burmish	xian1249	97.753173	24.494153	Huang1992,Hill2017
 Chepang	Chepang	Chepang		chep1245	84.908801	27.785164	Caughley2000
 Hakha	Hakha	Hakha	Chin	haka1240	92.820021	22.870089	VanBik2014
-DarangTaraon	DarangTaraon	Darang Taraon	Deng	diga1241	97.469136	28.657986	Huang1992
-Yidu	Yidu	Yidu	Deng	idum1241	95.650179	29.448172	Huang1992
+DarangTaraon	DarangTaraon	Darang Taraon	Mishmi	diga1241	97.469136	28.657986	Huang1992
+Yidu	Yidu	Yidu	Mishmi	idum1241	95.650179	29.448172	Huang1992
 Garo	Garo	Garo	Garo	garo1247	90.333226	25.504744	Burling2003
 KarbiMikir	Mikir	Karbi (Mikir)	Mizo	karb1241	93.050494	25.735084	Walker1925,KonnerthFC,GruessnerNoDate
 WobziKhroskyabs	WobziKhroskyabs	Khroskyabs Wobzi	rGyalrong	eree1240	101.427999	31.62758	Lai2017
@@ -83,4 +83,5 @@ Rongpo	Rongpo	Rongpo	TibetoKinauri	rong1264	79.569987	30.530044	Sharma2003
 Jingpho	Jingpho	Jingpho	Jingpho	jing1260	97.329866	25.461826	Huang1992
 KBEastPuroikSoja	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	RS2009, AT90
 KBEastPuroikRemsangpuia	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	Remsangpuia2008
-KBEastPuroikSun	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	SunHongkai
+KBEastPuroikSun	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	Sun1992
+MishmiKaman	Kaman	Miju	Mishmi	miju1243			
