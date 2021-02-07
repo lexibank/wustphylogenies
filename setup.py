@@ -9,6 +9,9 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'bodtstnew=lexibank_bodtstnew:Dataset',
+        ],
+        'cldfbench.commands':[
+            'bodtphylogeny = bodtphylogenycommands',
         ]
     },
     install_requires=[
