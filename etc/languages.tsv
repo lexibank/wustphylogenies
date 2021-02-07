@@ -1,36 +1,36 @@
 ID	Name	Doculect	Subgroup	Glottocode	Longitude	Latitude	Source
-DirangTshangla	DirangTshangla	Dirang Tshangla	Bodic	dira1243	92.273057	27.343674	TB
-BhutanTshangla	BhutanTshangla	Bhutan Tshangla	Bodic	tsha1245	91.551505	27.332081	TB
-MotuoMenba	MotuoMenba	Motuo Cangluo Tshangla	Bodic	tsha1245	95.319922	29.321347	Huang1992
-Galo	Galo	Galo	Tani	galo1242	94.69	27.98	Post07
-Tangam	Tangam	Tangam	Tani	tang1377	94.990737	28.956354	Post07
-BuluPuroik	BuluPuroik	Puroik	KhoBwa	bulu1255	92.44627	27.451029	Lieberherr2017
-DikhyangBugun	DikhyangBugun	Bugun	KhoBwa	dikh1234	92.454924	27.320448	TB
-WanghoBugun	WanghoBugun	Bugun	KhoBwa	wang1301	92.420806	27.24169	Abraham
-BichomBugun	BichomBugun	Bugun	KhoBwa	bich1234	92.592007	27.31177	Abraham
-SingchungBugun	SingchungBugun	Bugun	KhoBwa	sing1271	92.474176	27.191743	Abraham
-KaspiBugun	KaspiBugun	Bugun	KhoBwa	kasp1234	92.564228	27.204536	Abraham
-NamphriBugun	NamphriBugun	Bugun	KhoBwa	namp1239	92.52836	27.24403	Abraham
-Duhumbi	Duhumbi	Duhumbi	WesternKhoBwa	chug1252	92.212034	27.416112	TB
-Khispi	Khispi	Khispi	WesternKhoBwa	lish1235	92.223221	27.378042	TB
-Khoina	Khoina	Sartang	WesternKhoBwa	khoi1253	92.52994	27.334981	TB
-Khoitam	Khoitam	Sartang	WesternKhoBwa	khoi1252	92.439455	27.327487	TB
-Rahung	Rahung	Sartang	WesternKhoBwa	rahu1234	92.395028	27.310778	TB
-Rupa	Rupa	Sherdukpen	WesternKhoBwa	rupa1234	92.398757	27.203065	TB
-Shergaon	Shergaon	Sherdukpen	WesternKhoBwa	sher1261	92.272133	27.105018	TB
-Jerigaon	Jerigaon	Sartang	WesternKhoBwa	jeri1243	92.486595	27.340629	TB
-Khengkha	Khengkha	Khengkha	East Bodish	khen1241	90.689999	27.144878	TB, A&Y96
-Dzalakha	Dzalakha	Dzalakha	East Bodish	dzal1238	91.494864	27.605989	DDC2017, TB
-Bumthang	Bumthang	Bumthang	East Bodish	khen1241	90.753738	27.549248	TB
-MamaCuonaMenba	MamaCuonaMenba	Tshona Dakpa	East Bodish	dakp1242	91.798576	27.872413	LS2002, LS1986
-WenlangCuonaMenba	WenlangCuonaMenba	Tawang Dakpa	East Bodish	dakp1242	95.339063	29.367765	LS2002, LS1986
-HrusoAkaJamiri	HrusoAkaJamiri	Hruso Aka	Hrusish	hrus1242	92.590615	27.203617	B&L15, TB
-Bangru	Bangru	Bangru	Hrusish	bang1369	93.164169	27.952786	B&L15, TB
-NamreiBisai	NamreiBisai	Namrei	Hrusish	hrus1242	92.699998	27.680112	B&L15, TB
-NamreiNabolang	NamreiNabolang	Namrei	Hrusish	hrus1242	92.789317	27.558051	B&L15, TB
-DammaiDibin	DammaiDibin	Miji	Hrusish	hrus1242	92.511881	27.444541	B&L15, TB
-DammaiRurang	DammaiRurang	Miji	Hrusish	hrus1242	92.48215	27.368891	B&L15, TB
-MijiNafra	MijiNafra	Miji	Hrusish	hrus1242	92.544458	27.371831	B&L15, TB
+TshDirangTshangla	DirangTshangla	Dirang Tshangla	Bodic	dira1243	92.273057	27.343674	TB
+TshBhutanTshangla	BhutanTshangla	Bhutan Tshangla	Bodic	tsha1245	91.551505	27.332081	TB
+TshMotuoMenba	MotuoMenba	Motuo Cangluo Tshangla	Bodic	tsha1245	95.319922	29.321347	Huang1992
+TaniGalo	Galo	Galo	Tani	galo1242	94.69	27.98	Post2007
+TaniTangam	Tangam	Tangam	Tani	tang1377	94.990737	28.956354	Post2007
+KBWestPuroikLieberherr	BuluPuroik	Puroik	KhoBwa	bulu1255	92.44627	27.451029	Lieberherr2017
+KBDikhyangBugun	DikhyangBugun	Bugun	KhoBwa	dikh1234	92.454924	27.320448	TB
+KBWanghoBugun	WanghoBugun	Bugun	KhoBwa	wang1301	92.420806	27.24169	Abraham2018
+KBBichomBugun	BichomBugun	Bugun	KhoBwa	bich1234	92.592007	27.31177	Abraham2018
+KBSingchungBugun	SingchungBugun	Bugun	KhoBwa	sing1271	92.474176	27.191743	Abraham2018
+KBKaspiBugun	KaspiBugun	Bugun	KhoBwa	kasp1234	92.564228	27.204536	Abraham2018
+KBNamphriBugun	NamphriBugun	Bugun	KhoBwa	namp1239	92.52836	27.24403	Abraham2018
+KBWDuhumbi	Duhumbi	Duhumbi	WesternKhoBwa	chug1252	92.212034	27.416112	TB
+KBWKhispi	Khispi	Khispi	WesternKhoBwa	lish1235	92.223221	27.378042	TB
+KBWKhoina	Khoina	Sartang	WesternKhoBwa	khoi1253	92.52994	27.334981	TB
+KBWKhoitam	Khoitam	Sartang	WesternKhoBwa	khoi1252	92.439455	27.327487	TB
+KBWRahung	Rahung	Sartang	WesternKhoBwa	rahu1234	92.395028	27.310778	TB
+KBWRupa	Rupa	Sherdukpen	WesternKhoBwa	rupa1234	92.398757	27.203065	TB
+KBWShergaon	Shergaon	Sherdukpen	WesternKhoBwa	sher1261	92.272133	27.105018	TB
+KBWJerigaon	Jerigaon	Sartang	WesternKhoBwa	jeri1243	92.486595	27.340629	TB
+EBKhengkha	Khengkha	Khengkha	East Bodish	khen1241	90.689999	27.144878	TB, AandY1996
+EBDzalakha	Dzalakha	Dzalakha	East Bodish	dzal1238	91.494864	27.605989	DDC2017, TB
+EBBumthang	Bumthang	Bumthang	East Bodish	khen1241	90.753738	27.549248	vanDriem2015
+EBMamaCuonaMenba	MamaCuonaMenba	Tshona Dakpa	East Bodish	dakp1242	91.798576	27.872413	Lu2002, Lu1986
+EBWenlangCuonaMenba	WenlangCuonaMenba	Tawang Dakpa	East Bodish	dakp1242	95.339063	29.367765	Lu2002, Lu1986
+HruHrusoAkaJamiri	HrusoAkaJamiri	Hruso Aka	Hrusish	hrus1242	92.590615	27.203617	Simon1993, TB
+HruBangru	Bangru	Bangru	Hrusish	bang1369	93.164169	27.952786	BandL2015, TB
+HruNamreiBisai	NamreiBisai	Namrei	Hrusish	hrus1242	92.699998	27.680112	BandL2015, TB
+HruNamreiNabolang	NamreiNabolang	Namrei	Hrusish	hrus1242	92.789317	27.558051	BandL2015, TB
+HruDammaiDibin	DammaiDibin	Miji	Hrusish	hrus1242	92.511881	27.444541	BandL2015, TB
+HruDammaiRurang	DammaiRurang	Miji	Hrusish	hrus1242	92.48215	27.368891	BandL2015, TB
+HruMijiNafra	MijiNafra	Miji	Hrusish	hrus1242	92.544458	27.371831	Simon1979, TB
 Kusunda	KusundaK	Kusunda		kusu1250	82.802796	28.431855	TB
 Achang	Achang	Achang	Burmish	acha1249	97.89503	24.466605	Huang1992,Hill2017
 Atsi	Atsi	Atsi	Burmish	zaiw1241	97.806689	24.193367	Huang1992,Hill2017
@@ -71,7 +71,7 @@ Longgang	Longgang	Longgang	Sinitic	hakk1236	114.243825	22.725545	Lai2017FN
 OldChinese	OldChinese	Old Chinese	Sinitic	oldc1244	108.777868	34.101745	Baxter2014
 Xingning	Xingning	Xingning	Sinitic	hakk1236	115.732382	24.13674	Lai2017FN
 Tangut	Tangut	Tangut	Tangut	tang1334	106.285383	38.477453	Li1997
-Bokar	Bokar	Bokar	Tani	boka1249	93.15717	27.554547	Huang1992
+TaniBokar	Bokar	Bokar	Tani	boka1249	93.15717	27.554547	Huang1992
 Alike	Alike	Alike	Tibetan	amdo1237	92.839938	38.318508	Huang1992
 Batang	Batang	Batang	Tibetan	kham1282	99.111944	30.00795	Huang1992
 Lhasa	Lhasa	Lhasa	Tibetan	utsa1239	91.171493	29.653441	Huang1992
@@ -80,3 +80,7 @@ Xiahe	Xiahe	Xiahe	Tibetan	amdo1237	102.524979	35.210549	Huang1992
 Bunan	Bunan	Bunan	TibetoKinauri	gahr1239	77.076283	32.554766	Widmer2014
 Byangsi	Byangsi	Byangsi	TibetoKinauri	byan1241	80.22309	29.583838	Sharma2003a
 Rongpo	Rongpo	Rongpo	TibetoKinauri	rong1264	79.569987	30.530044	Sharma2003
+Jingpho	Jingpho	Jingpho	Jingpho	jing1260	97.329866	25.461826	Huang1992
+KBEastPuroikSoja	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	RS2009, AT90
+KBEastPuroikRemsangpuia	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	Remsangpuia2008
+KBEastPuroikSun	EasternPuroik	Puroik	Kho-Bwa	sulu1241	92.38	27.32	SunHongkai
