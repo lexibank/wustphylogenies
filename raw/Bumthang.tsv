@@ -1,251 +1,251 @@
-RID	CONCEPT	CONCEPTICON_GLOSS	DOCULECT	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE	NOTES
-1	101_ifirstpersonsingular	I [first person singular]	Bumthang	101_ifirstpersonsingular	1209	ngat	ŋat	VDriem15	
-2	11_big	big	Bumthang	11_big	1202	chetpu	tɕʰet+pu	VDriem15	
-3	14_black	black	Bumthang	14_black	163	nyun di	ɲun+di	DDC2018	
-4	26_coldoftemperature	cold (of temperature)	Bumthang	26_coldoftemperature	1287		ŋa+pa 	TB	
-5	36_dirty	dirty	Bumthang	36_dirty	1230		kʰam+lok+lok+tɕʰak+tɕʰak	TB	
-6	40_dry	dry	Bumthang	40_dry	1398	kam	kam	DDC2018	
-7	48_eight	eight	Bumthang	48_eight	1705	dʑat	dʑat	VDriem15	
-8	50_far	far	Bumthang	50_far	1406		tʰa+riŋ+ɕiŋ	TB	
-9	57_five	five	Bumthang	57_five	493	yanga	ja+ŋa	VDriem15	
-10	67_four	four	Bumthang	67_four	1500	ble	ble	VDriem15	
-11	73_full	full	Bumthang	73_full	1429		tʰɛm+tʰɛm	TB	
-12	76_good	good	Bumthang	76_good	1035	kakcan	kak+tɕan	VDriem15	
-13	78_green	green	Bumthang	78_green	1425	jang khu	dʑaŋ+kʰu	DDC2018	
-14	82_hard	hard	Bumthang	82_hard	1884		sa+tak+tak	TB	
-15	83_heorshethirdpersonsingular	he or she [third person singular]	Bumthang	83_heorshethirdpersonsingular	262	khit	kʰit	VDriem15	
-16	87_heavy	heavy	Bumthang	87_heavy	1210		dʑut+dʑan	TB	
-17	96_hot	hot	Bumthang	96_hot	1286		tsʰa+tʰom	TB	
-18	103_inside	inside	Bumthang	103_inside	1606	nang	naŋ	VDriem15	
-19	110_late	late	Bumthang	110_late	477		pe+na	TB	
-20	114_left	left	Bumthang	114_left	244		jon+pa	TB	
-21	117_lightofweight	light (of weight)	Bumthang	117_lightofweight	1052		jaŋ+som+som	TB	
-22	120_long	long	Bumthang	120_long	1203	khangma	kʰaŋ+ma	VDriem15	
-23	124_many	many	Bumthang	124_many	1198		dʑak+tse	TB	
-24	127_middle	middle	Bumthang	127_middle	1093		bar+do	TB	
-25	129_morning	morning	Bumthang	129_morning	1339	ngadza	ŋa+dza	VDriem15	
-26	139_near	near	Bumthang	139_near	1942		tʰa+ma+ro	TB	
-27	142_new	new	Bumthang	142_new	1231		sar+pa	TB	
-28	143_nine	nine	Bumthang	143_nine	1483	dogo	do+go	VDriem15	
-29	148_one	one	Bumthang	148_one	1493	thek	tʰek	VDriem15	
-30	150_outside	outside	Bumthang	150_outside	762		be+tʰu	TB	
-31	158_red	red	Bumthang	158_red	156	zhin di	ʑin+di	DDC2018	
-32	161_right	right	Bumthang	161_right	1019		ja+pa	TB	
-33	166_round	round	Bumthang	166_round	1395		tʰɛ+ri+ri	TB	
-34	175_seven	seven	Bumthang	175_seven	1704	'nyit, ‘nyis	ɲit55	VDriem15	
-35	176_sharp	sharp	Bumthang	176_sharp	1396		ja55	TB	
-36	179_short	short	Bumthang	179_short	1645	thing ku la	tʰiŋ+ku+la	DDC2018	
-37	184_six	six	Bumthang	184_six	1703	grok	grok	VDriem15	
-38	188_small	small	Bumthang	188_small	1246	cingku	tɕiŋ+ku	VDriem15	
-39	194_soft	soft	Bumthang	194_soft	1856		dʑam+tɕʰuk+tɕʰuk	TB	
-40	204_straight	straight	Bumthang	204_straight	1404	thrang tang tang	ʈʰaŋ+taŋ+taŋ	DDC2018	
-41	207_ten	ten	Bumthang	207_ten	1515	che	tɕʰe	VDriem15	
-42	3_theant	the ant	Bumthang	3_theant	587	bruk to la	bruk+to+la	DDC2018	
-43	6_thebamboo	the bamboo	Bumthang	6_thebamboo	1927	'rat	rat55	VDriem15	
-44	9_thebelly	the belly	Bumthang	9_thebelly	1251		dʑo+ma	TB	
-45	12_thebird	the bird	Bumthang	12_thebird	937	jau ya	dʑau+ja	DDC2018	
-46	15_theblood	the blood	Bumthang	15_theblood	946	kak	kak	VDriem15	
-47	18_thebone	the bone	Bumthang	18_thebone	1394	rotpa	rot+pa	VDriem15	
-48	19_thebranch	the branch	Bumthang	19_thebranch	1531	zha la, yag thang	jak+tʰaŋ	DDC2018	
-49	20_thebreastfemale	the breast (female)	Bumthang	20_thebreastfemale	1402	dʑu	dʑu	VDriem15	
-50	25_thecloud	the cloud	Bumthang	25_thecloud	1489		sar+dʑa	TB	
-51	33_thedew	the dew	Bumthang	33_thedew	1977		zɛk	TB	
-52	37_thedog	the dog	Bumthang	37_thedog	2009	khwi, khü	kʰwi	VDriem15	
-53	38_thedream	the dream	Bumthang	38_thedream	2374		me+maŋ	TB	
-54	41_thedust	the dust	Bumthang	41_thedust	2		tsʰu+ma	TB	
-55	42_theear	the ear	Bumthang	42_theear	1247	na	na	VDriem15	
-56	44_theearthsoil	the earth (soil)	Bumthang	44_theearthsoil	1228	sa	sa	DDC2018	
-57	47_theegg	the egg	Bumthang	47_theegg	744	khawate	kʰa+wa+te	VDriem15	
-58	49_theeye	the eye	Bumthang	49_theeye	1248	mek	mek	VDriem15	
-59	54_thefire	the fire	Bumthang	54_thefire	221	gami	ga+mi	VDriem15	
-60	56_thefish	the fish	Bumthang	56_thefish	227	nya	ɲa	VDriem15	
-61	61_theflower	the flower	Bumthang	61_theflower	239	mento	men+to	VDriem15	
-62	64_thefoot	the foot	Bumthang	64_thefoot	1301		ta+wa	TB	
-63	65_theforest	the forest	Bumthang	65_theforest	420	bung	buŋ 	DDC2018	
-64	69_thefrog	the frog	Bumthang	69_thefrog	503	ba bai	ba+bai	DDC2018	
-65	70_thefrontfrontside	the front (front side)	Bumthang	70_thefrontfrontside	2194		doŋ+ŋo	TB	
-66	72_thefruit	the fruit	Bumthang	72_thefruit	1507	zat, zas	zat	DDC2018	
-67	75_thegoat	the goat	Bumthang	75_thegoat	1502	ra	ra	VDriem15	
-68	79_thehail	the hail	Bumthang	79_thehail	609	ser ba, ser wa	sɛr+ba	DDC2018	
-69	80_thehairofthehead	the hair (of the head)	Bumthang	80_thehairofthehead	1040	'ra	ra55	VDriem15	
-70	81_thehand	the hand	Bumthang	81_thehand	1277	yak	jak	VDriem15	
-71	84_thehead	the head	Bumthang	84_thehead	1256	guyung	gu+juŋ	VDriem15	
-72	86_theheart	the heart	Bumthang	86_theheart	1223	nengma	neŋ55+ma	VDriem15	
-73	94_thehornkeratinizedskin	the horn (keratinized skin)	Bumthang	94_thehornkeratinizedskin	1393		ro	TB	
-74	97_thehouse	the house	Bumthang	97_thehouse	1252	mai	mai	VDriem15	
-75	106_theknee	the knee	Bumthang	106_theknee	1371	patmong	pat+moŋ	VDriem15	
-76	112_theleaf	the leaf	Bumthang	112_theleaf	628	‘lam ba	lam55+ba	DDC2018	
-77	119_theliver	the liver	Bumthang	119_theliver	1224	chimbo	tɕʰim+bo	VDriem15	
-78	121_thelouse	the louse	Bumthang	121_thelouse	1392		sɛk	DDC2018	
-79	122_thelung	the lung	Bumthang	122_thelung	688	zhruwa	ɼu+wa	VDriem15	
-80	123_themanmalehuman	the man (male human)	Bumthang	123_themanmalehuman	2106	phodʑa	pʰo+dʑa	VDriem15	
-81	126_themeat	the meat	Bumthang	126_themeat	634	shra	r̥a	VDriem15	
-82	128_themoon	the moon	Bumthang	128_themoon	1313	‘la	la55	DDC2018	
-83	132_themountain	the mountain	Bumthang	132_themountain	639	ri	ri	VDriem15	
-84	133_themouseorrat	the mouse or rat	Bumthang	133_themouseorrat	2139	‘nyi wa	ɲi55+wa	DDC2018	
-85	134_themouth	the mouth	Bumthang	134_themouth	674	kha	kʰa	VDriem15	
-86	135_themud	the mud	Bumthang	135_themud	640	dam	dam	DDC2018	
-87	136_thenailfingernailorclaw	the nail (fingernail or claw)	Bumthang	136_thenailfingernailorclaw	2128	sima	si+ma	VDriem15	
-88	137_thename	the name	Bumthang	137_thename	1405	meng	meŋ	VDriem15	
-89	140_theneck	the neck	Bumthang	140_theneck	1333	takpa	tak+pa	VDriem15	
-90	141_theneedleforsewing	the needle (for sewing)	Bumthang	141_theneedleforsewing	1382	tshem khap	kʰap	DDC2018	
-91	146_thenose	the nose	Bumthang	146_thenose	1221	'naphang	na55+pʰaŋ	VDriem15	
-92	151_thepig	the pig	Bumthang	151_thepig	1337	phak	pʰak	DDC2018	
-93	156_therain	the rain	Bumthang	156_therain	658	yö	jɶ	VDriem15	
-94	163_theroad	the road	Bumthang	163_theroad	667	yam	jam	VDriem15	
-95	164_theroot	the root	Bumthang	164_theroot	670	rato	ra+to	VDriem15	
-96	165_therope	the rope	Bumthang	165_therope	1218	thak pa	tʰak+pa	DDC2018	
-97	168_thesalt	the salt	Bumthang	168_thesalt	1274	tsha	tsʰa	DDC2018	
-98	170_thesand	the sand	Bumthang	170_thesand	671		be+ma	TB	
-99	174_theseed	the seed	Bumthang	174_theseed	714	son	son	DDC2018	
-100	250_theshit	the shit	Bumthang	250_theshit	676	cok	tɕok	VDriem15	
-101	180_theshoulder	the shoulder	Bumthang	180_theshoulder	1482	pongma	poŋ+ma	VDriem15	
-102	185_theskin	the skin	Bumthang	185_theskin	763	pak	pak	VDriem15	
-103	186_thesky	the sky	Bumthang	186_thesky	1732		nam	TB	
-104	190_thesmoke	the smoke	Bumthang	190_thesmoke	778		du+wa	TB	
-105	192_thesnake	the snake	Bumthang	192_thesnake	730	po	po	VDriem15	
-106	193_thesnow	the snow	Bumthang	193_thesnow	784	ka	ka	VDriem15	
-107	195_theson	the son	Bumthang	195_theson	1620	botsa	bo+tsa	VDriem15	
-108	197_thespider	the spider	Bumthang	197_thespider	843		pʰrun+zan	TB	
-109	200_thestar	the star	Bumthang	200_thestar	1430		kar+ma	TB	
-110	202_thestick	the stick	Bumthang	202_thestick	1295	‘lak phang	lak55+pʰaŋ	DDC2018	
-111	203_thestoneapieceof	the stone (a piece of)	Bumthang	203_thestoneapieceof	857		gor	DDC2018	
-112	205_thesun	the sun	Bumthang	205_thesun	1343	nyi	ɲi	DDC2018	
-113	206_thetail	the tail	Bumthang	206_thetail	1220	'nyiphang	ɲi55+pʰaŋ	VDriem15	
-114	211_thethigh	the thigh	Bumthang	211_thethigh	471	nyamgong	ɲam+goŋ	VDriem15	
-115	218_thethunder	the thunder	Bumthang	218_thethunder	1150		ɖuk+dɛr+sa	TB	
-116	222_thetongue	the tongue	Bumthang	222_thetongue	1205	'li	li55	VDriem15	
-117	223_thetoothfront	the tooth (front)	Bumthang	223_thetoothfront	1380	kwa	kwa	VDriem15	
-118	229_thewater	the water	Bumthang	229_thewater	948	khwe	kʰwe	VDriem15	
-119	238_thewind	the wind	Bumthang	238_thewind	960	'long	loŋ55	VDriem15	
-120	239_thewing	the wing	Bumthang	239_thewing	1257	shok pa	ɕok+pa	DDC2018	
-121	242_thewoman	the woman	Bumthang	242_thewoman	962	minbotsa	min+bo+tsa	VDriem15	
-122	245_theyear	the year	Bumthang	245_theyear	1226	‘neng	neŋ55	DDC2018	
-123	210_thick	thick	Bumthang	210_thick	1244		tʰok+dʑan	TB	
-124	212_thinobject	thin (object)	Bumthang	212_thinobject	2249		tɕʰa+tiŋ+tiŋ	TB	
-125	215_thousecondpersonsingular	thou [second person singular]	Bumthang	215_thousecondpersonsingular	1215	wet	wet	VDriem15	
-126	216_three	three	Bumthang	216_three	492	sum	sum	VDriem15	
-127	13_tobite	to bite	Bumthang	13_tobite	1403		daŋ	TB	
-128	21_toburnintransitive	to burn [intransitive]	Bumthang	21_toburnintransitive	1428		bur	TB	
-129	22_tobuy	to buy	Bumthang	22_tobuy	1869	'ngüi	ŋyi55	VDriem15	
-130	23_tochew	to chew	Bumthang	23_tochew	321		mur	TB	
-131	27_tocome	to come	Bumthang	27_tocome	1446	ra	ra	VDriem15	
-132	29_tocount	to count	Bumthang	29_tocount	1420	grang	graŋ	VDriem15	
-133	30_tocryweep	to cry (weep)	Bumthang	30_tocryweep	1839		ŋo	TB	
-134	34_todie	to die	Bumthang	34_todie	1494	se	se	VDriem15	
-135	35_todig	to dig	Bumthang	35_todig	1418		ku+saŋ	TB	
-136	39_todrink	to drink	Bumthang	39_todrink	1401	thong	tʰoŋ	VDriem15	
-137	46_toeat	to eat	Bumthang	46_toeat	1336	zu	zu	VDriem15	
-138	53_tofight	to fight	Bumthang	53_tofight	1423	prat	prat	VDriem15	
-139	62_toflymovethroughair	to fly (move through air)	Bumthang	62_toflymovethroughair	1441		pʰur 	TB	
-140	66_toforget	to forget	Bumthang	66_toforget	1523	zhit	ʑit	VDriem15	
-141	74_togive	to give	Bumthang	74_togive	1447	bi	bi	VDriem15	
-142	85_tohear	to hear	Bumthang	85_tohear	1408		nan	TB	
-143	89_tohideconceal	to hide (conceal)	Bumthang	89_tohideconceal	602		lɶm	TB	
-144	91_tohold	to hold	Bumthang	91_tohold	1448		zoŋ	TB	
-145	104_tokill	to kill	Bumthang	104_tokill	1417	sut	sut	VDriem15	
-146	111_tolaugh	to laugh	Bumthang	111_tolaugh	1355		ga	TB	
-147	115_tolick	to lick	Bumthang	115_tolick	319		plɛn	TB	
-148	153_toplay	to play	Bumthang	153_toplay	1413		pʰui	TB	
-149	155_topush	to push	Bumthang	155_topush	1452		tʰuŋ	TB	
-150	159_toresidelive	to reside (live)	Bumthang	159_toresidelive	363	nyit	ɲit	VDriem15	
-151	171_toscratch	to scratch	Bumthang	171_toscratch	1436	brat	brat	VDriem15	
-152	173_tosee	to see	Bumthang	173_tosee	1409	thung	tʰuŋ	VDriem15	
-153	178_toshootanarrow	to shoot (an arrow)	Bumthang	178_toshootanarrow	1172		tʰuŋ	TB	
-154	183_tosing	to sing	Bumthang	183_tosing	1261		tʰaŋ	TB	
-155	187_tosleep	to sleep	Bumthang	187_tosleep	1585	dot	dot	VDriem15	
-156	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	Bumthang	189_tosmellperceiveodortransitive	1586	num	num	VDriem15	
-157	198_tospit	to spit	Bumthang	198_tospit	1440		tʰɛp+tʰuk	TB	
-158	199_tostand	to stand	Bumthang	199_tostand	1442	yang	jaŋ	VDriem15	
-159	201_tosteal	to steal	Bumthang	201_tosteal	713		ʑu+bu	TB	
-160	213_tothinkreflect	to think (reflect)	Bumthang	213_tothinkreflect	1415		nok+sam	TB	
-161	217_tothrow	to throw	Bumthang	217_tothrow	1456		tɕʰaŋ	TB	
-162	227_tovomit	to vomit	Bumthang	227_tovomit	1278		tɕʰuk	TB	
-163	228_towalk	to walk	Bumthang	228_towalk	1443		jam+go	TB	
-164	240_towipe	to wipe	Bumthang	240_towipe	1454		pʰik	TB	
-165	226_two	two	Bumthang	226_two	1498	zon	zon	VDriem15	
-166	231_wet	wet	Bumthang	231_wet	1726	shir phan	ɕir+pʰan	DDC2018	
-167	235_white	white	Bumthang	235_white	1335	kharkharma	kʰar+kʰar+ma	VDriem15	
-168	236_who	who	Bumthang	236_who	1235	'adʑi	a55+dʑi	VDriem15	
-169	246_yellow	yellow	Bumthang	246_yellow	1424	sirsirma	sir+sir+ma	VDriem15	
-170	1_above	above	Bumthang	1_above	1741	jai	dʑai	VDriem15	
-171	10_belowunder	below, under	Bumthang	10_belowunder	1485		su+tu	TB	
-172	100_thehusband	the husband	Bumthang	100_thehusband	1200	makpa	mak+pa	VDriem15	
-173	102_theice	the ice	Bumthang	102_theice	617	kit pa	kit+pa	DDC2018	
-174	105_toknead	to knead	Bumthang	105_toknead	274		tʰɛ	TB	
-175	107_knife	knife	Bumthang	107_knife	1352	yur ba	jur+ba	DDC2018	
-176	108_toknowsomething	to know (something)	Bumthang	108_toknowsomething	1410	khan	kʰan	VDriem15	
-177	109_thelake	the lake	Bumthang	109_thelake	624	tsho	tsʰo	DDC2018	
-178	113_tolearn	to learn	Bumthang	113_tolearn	504		lu+bui	TB	
-179	116_toliedown	to lie down	Bumthang	116_toliedown	215		ni+lai	TB	
-180	118_thelipthelips	the lip (the lips)	Bumthang	118_thelipthelips	478	chi	tɕʰi	VDriem15	
-181	130_themosquito	the mosquito	Bumthang	130_themosquito	1509		zɛn+dom	TB	
-182	131_themother	the mother	Bumthang	131_themother	1216	ama	a+ma	VDriem15	
-183	138_narrow	narrow	Bumthang	138_narrow	1267		go+do+kʰa+kʰa	TB	
-184	144_thenit	the nit	Bumthang	144_thenit	267		ɕɛk+gi+kʰau+te	TB	
-185	145_noon	noon	Bumthang	145_noon	12		nɛn+ɖa	TB	
-186	147_oldofperson	old (of person)	Bumthang	147_oldofperson	2112		gat+po	TB	
-187	149_theotter	the otter	Bumthang	149_theotter	15		sam	TB	
-188	152_toplantvegetalsrice	to plant (vegetals, rice)	Bumthang	152_toplantvegetalsrice	1486	Ø	Ø	Ø	
-189	154_topull	to pull	Bumthang	154_topull	1455		tʰan+lai	TB	
-190	157_therainbow	the rainbow	Bumthang	157_therainbow	1733		ga+dʑom	TB	
-191	16_toblowofwind	to blow (of wind)	Bumthang	16_toblowofwind	175	long ra	loŋ55+ra	VDriem15	ra = come
-192	160_thericeplant	the rice plant	Bumthang	160_thericeplant	2026	mrat	mrat	VDriem15	
-193	162_theriver	the river	Bumthang	162_theriver	666	rok	rok55	VDriem15	
-194	167_torun	to run	Bumthang	167_torun	1519		dʑuk+ge	TB	
-195	169_salty	salty	Bumthang	169_salty	1091	tsha khu	tsʰa+kʰu	DDC2018	
-196	17_thebodyhairhairorfur	the body hair (hair or fur)	Bumthang	17_thebodyhairhairorfur	189	po	po	VDriem15	
-197	172_thesea	the sea	Bumthang	172_thesea	1474		gʲam+tsʰo	TB	
-198	177_thesheep	the sheep	Bumthang	177_thesheep	1331	wai	wai	DDC2018	
-199	181_shy	shy	Bumthang	181_shy	487		ŋe+tsʰa	TB	
-200	182_thesickle	the sickle	Bumthang	182_thesickle	341	zor ba	zor+ba	DDC2018	
-201	191_smooth	smooth	Bumthang	191_smooth	1234		dʑam+tɕʰuk+tɕʰuk	TB	
-202	196_thesparrow	the sparrow	Bumthang	196_thesparrow	1854	sam ci ling	sam+tɕi+liŋ	DDC2018	
-203	2_all	all	Bumthang	2_all	98	gampo	gam+po	VDriem15	
-204	208_that	that	Bumthang	208_that	78	aji	a+dʑi55	VDriem15	
-205	209_there	there	Bumthang	209_there	1937		o+tʰu	TB	
-206	214_this	this	Bumthang	214_this	1214		o+si	TB	
-207	219_thetiger	the tiger	Bumthang	219_thetiger	846	tak	tak	DDC2018	
-208	220_today	today	Bumthang	220_today	1283	dusum	du+sum	VDriem15	
-209	221_tomorrow	tomorrow	Bumthang	221_tomorrow	1329	yampat	jam+pat	VDriem15	
-210	224_thetree	the tree	Bumthang	224_thetree	906	seng	seŋ	VDriem15	
-211	225_twenty	twenty	Bumthang	225_twenty	1710	khae-thek	kʰai+tʰek	VDriem15	
-212	230_wefirstpersonpluralinclusive	we [first person plural inclusive]	Bumthang	230_wefirstpersonpluralinclusive	1131	nget	ŋet	VDriem15	
-213	232_what	what	Bumthang	232_what	1236	zhra	r̥a	VDriem15	
-214	233_thewheat	the wheat	Bumthang	233_thewheat	1077	go	go	DDC2018	
-215	234_where	where	Bumthang	234_where	1237	ao	ao55	VDriem15	
-216	237_thewife	the wife	Bumthang	237_thewife	1199	namo	na+mo	VDriem15	
-217	24_thechildyounghuman	the child (young human)	Bumthang	24_thechildyounghuman	1304	onga	o55+ŋa	VDriem15	
-218	241_thewolf	the wolf	Bumthang	241_thewolf	522	sa war	sa+war	DDC2018	dhole?
-219	243_thewoodmaterial	the wood (material)	Bumthang	243_thewoodmaterial	1803	seng	seŋ	VDriem15	
-220	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	Bumthang	244_tosowbroadcastscatterseeds	748	tor-mala	tor	VDriem15	
-221	247_yesterday	yesterday	Bumthang	247_yesterday	1174	dangma	daŋ+ma	VDriem15	
-222	248_yousecondpersonplural	you [second person plural]	Bumthang	248_yousecondpersonplural	1213	wet	wet	VDriem15	
-223	249_young	young	Bumthang	249_young	1207		ʑøn+pø	TB	
-224	28_correctright	correct (right)	Bumthang	28_correctright	1725		wɛn	TB	
-225	31_dark	dark	Bumthang	31_dark	706		na+duŋ+duŋ	TB	
-226	32_thedaughter	the daughter	Bumthang	32_thedaughter	1357	bomet	bo+met	VDriem15	
-227	4_thearmpit	the armpit	Bumthang	4_thearmpit	1886	gajolewang	ga+dʑo+le+waŋ	VDriem15	
-228	43_early	early	Bumthang	43_early	672	ngar wa	ŋar55+wa	DDC2018	
-229	45_theearthworm	the earthworm	Bumthang	45_theearthworm	2350		ɲar+gu+la	TB	
-230	5_bad	bad	Bumthang	5_bad	1292		ŋe+pa	TB	
-231	51_thefather	the father	Bumthang	51_thefather	1217	apa	a+pa	VDriem15	
-232	52_thefeather	the feather	Bumthang	52_thefeather	1201	dro	ɖo	DDC2018	
-233	55_firewood	firewood	Bumthang	55_firewood	10	thap shing	tʰap+ɕiŋ	DDC2018	
-234	58_theflea	the flea	Bumthang	58_theflea	232	li wa	li55+wa	DDC2018	
-235	59_tofloat	to float	Bumthang	59_tofloat	1574		pon+ʑi	TB	
-236	60_toflow	to flow	Bumthang	60_toflow	2003		dʑuk+pa	TB	
-237	63_thefog	the fog	Bumthang	63_thefog	249	tɕirdʑi	tɕir+dʑi	TB	
-238	68_thefox	the fox	Bumthang	68_thefox	1312	au ya	au+ja	DDC2018	
-239	7_thebarleytibetanorhighland	the barley (tibetan or highland)	Bumthang	7_thebarleytibetanorhighland	932	nas	nas	DDC2018	
-240	71_thefrost	the frost	Bumthang	71_thefrost	2034	chak pa	tɕʰak+pa	DDC2018	
-241	77_thegrass	the grass	Bumthang	77_thegrass	606	ngon	ŋon55	VDriem15	
-242	8_tobealive	to be alive	Bumthang	8_tobealive	1422		jyn+ne+pa	TB	
-243	88_here	here	Bumthang	88_here	136	cho	tɕʰo	VDriem15	
-244	90_hightall	high / tall	Bumthang	90_hightall	1265	khangma	kʰaŋ+ma	VDriem15	
-245	92_thehoof	the hoof	Bumthang	92_thehoof	152	mik pat	mik+pat	DDC2018	
-246	93_horizontal	horizontal	Bumthang	93_horizontal	2376		ke+ka	TB	
-247	95_thehorse	the horse	Bumthang	95_thehorse	615	ta	ta	DDC2018	
-248	98_hundred	hundred	Bumthang	98_hundred	1634	khai ya nga	kʰai+ja+ŋa	DDC2018	
-249	99_tohunt	to hunt	Bumthang	99_tohunt	1435		sem+tɕan+sy	TB	
-250	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	Bumthang	125_tomarryamanmarriesawoman	2164		ɲe+tʰu+ŋai	TB	
+RID	CONCEPT	CONCEPTICON_IN_SAGART	CONCEPTICON_GLOSS	DOCULECT	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE	NOTES
+1	101_ifirstpersonsingular	I [first person singular]	I	Bumthang	101_ifirstpersonsingular	1209	ngat	ŋat	vanDriem2015	
+2	11_big	big	BIG	Bumthang	11_big	1202	chetpu	tɕʰet+pu	vanDriem2015	
+3	14_black	black	BLACK	Bumthang	14_black	163	nyun di	ɲun+di	DDC2018	
+4	26_coldoftemperature	cold (of temperature)	COLD	Bumthang	26_coldoftemperature	1287		ŋa+pa	TB	
+5	36_dirty	dirty	DIRTY	Bumthang	36_dirty	1230		kʰam+lok+lok+tɕʰak+tɕʰak	TB	
+6	40_dry	dry	DRY	Bumthang	40_dry	1398	kam	kam	DDC2018	
+7	48_eight	eight	EIGHT	Bumthang	48_eight	1705	dʑat	dʑat	vanDriem2015	
+8	50_far	far	FAR	Bumthang	50_far	1406		tʰa+riŋ+ɕiŋ	TB	
+9	57_five	five	FIVE	Bumthang	57_five	493	yanga	ja+ŋa	vanDriem2015	
+10	67_four	four	FOUR	Bumthang	67_four	1500	ble	ble	vanDriem2015	
+11	73_full	full	FULL	Bumthang	73_full	1429		tʰɛm+tʰɛm	TB	
+12	76_good	good	GOOD	Bumthang	76_good	1035	kakcan	kak+tɕan	vanDriem2015	
+13	78_green	green	GREEN	Bumthang	78_green	1425	jang khu	dʑaŋ+kʰu	DDC2018	
+14	82_hard	hard	HARD	Bumthang	82_hard	1884		sa+tak+tak	TB	
+15	83_heorshethirdpersonsingular	he or she [third person singular]	HE OR SHE OR IT	Bumthang	83_heorshethirdpersonsingular	262	khit	kʰit	vanDriem2015	
+16	87_heavy	heavy	HEAVY	Bumthang	87_heavy	1210		dʑut+dʑan	TB	
+17	96_hot	hot	HOT	Bumthang	96_hot	1286		tsʰa+tʰom	TB	
+18	103_inside	inside	INSIDE	Bumthang	103_inside	1606	nang	naŋ	vanDriem2015	
+19	110_late	late	LATE	Bumthang	110_late	477		pe+na	TB	
+20	114_left	left	LEFT	Bumthang	114_left	244		jon+pa	TB	
+21	117_lightofweight	light (of weight)	LIGHT (WEIGHT)	Bumthang	117_lightofweight	1052		jaŋ+som+som	TB	
+22	120_long	long	LONG	Bumthang	120_long	1203	khangma	kʰaŋ+ma	vanDriem2015	
+23	124_many	many	MANY	Bumthang	124_many	1198		dʑak+tse	TB	
+24	127_middle	middle	MIDDLE	Bumthang	127_middle	1093		bar+do	TB	
+25	129_morning	morning	MORNING	Bumthang	129_morning	1339	ngadza	ŋa+dza	vanDriem2015	
+26	139_near	near	NEAR	Bumthang	139_near	1942		tʰa+ma+ro	TB	
+27	142_new	new	NEW	Bumthang	142_new	1231		sar+pa	TB	
+28	143_nine	nine	NINE	Bumthang	143_nine	1483	dogo	do+go	vanDriem2015	
+29	148_one	one	ONE	Bumthang	148_one	1493	thek	tʰek	vanDriem2015	
+30	150_outside	outside	OUTSIDE	Bumthang	150_outside	762		be+tʰu	TB	
+31	158_red	red	RED	Bumthang	158_red	156	zhin di	ʑin+di	DDC2018	
+32	161_right	right	RIGHT	Bumthang	161_right	1019		ja+pa	TB	
+33	166_round	round	ROUND	Bumthang	166_round	1395		tʰɛ+ri+ri	TB	
+34	175_seven	seven	SEVEN	Bumthang	175_seven	1704	nyit, ‘nyis	ɲit55	vanDriem2015	
+35	176_sharp	sharp	SHARP	Bumthang	176_sharp	1396		ja55	TB	
+36	179_short	short	SHORT	Bumthang	179_short	1645	thing ku la	tʰiŋ+ku+la	DDC2018	
+37	184_six	six	SIX	Bumthang	184_six	1703	grok	grok	vanDriem2015	
+38	188_small	small	SMALL	Bumthang	188_small	1246	cingku	tɕiŋ+ku	vanDriem2015	
+39	194_soft	soft	SOFT	Bumthang	194_soft	1856		dʑam+tɕʰuk+tɕʰuk	TB	
+40	204_straight	straight	STRAIGHT	Bumthang	204_straight	1404	thrang tang tang	ʈʰaŋ+taŋ+taŋ	DDC2018	
+41	207_ten	ten	TEN	Bumthang	207_ten	1515	che	tɕʰe	vanDriem2015	
+42	3_theant	the ant	ANT	Bumthang	3_theant	587	bruk to la	bruk+to+la	DDC2018	
+43	6_thebamboo	the bamboo	BAMBOO	Bumthang	6_thebamboo	1927	rat	rat55	vanDriem2015	
+44	9_thebelly	the belly	BELLY	Bumthang	9_thebelly	1251		dʑo+ma	TB	
+45	12_thebird	the bird	BIRD	Bumthang	12_thebird	937	jau ya	dʑau+ja	DDC2018	
+46	15_theblood	the blood	BLOOD	Bumthang	15_theblood	946	kak	kak	vanDriem2015	
+47	18_thebone	the bone	BONE	Bumthang	18_thebone	1394	rotpa	rot+pa	vanDriem2015	
+48	19_thebranch	the branch	BRANCH	Bumthang	19_thebranch	1531	zha la, yag thang	jak+tʰaŋ	DDC2018	
+49	20_thebreastfemale	the breast (female)	BREAST	Bumthang	20_thebreastfemale	1402	dʑu	dʑu	vanDriem2015	
+50	25_thecloud	the cloud	CLOUD	Bumthang	25_thecloud	1489		sar+dʑa	TB	
+51	33_thedew	the dew	DEW	Bumthang	33_thedew	1977		zɛk	TB	
+52	37_thedog	the dog	DOG	Bumthang	37_thedog	2009	khwi, khü	kʰwi	vanDriem2015	
+53	38_thedream	the dream	DREAM	Bumthang	38_thedream	2374		me+maŋ	TB	
+54	41_thedust	the dust	DUST	Bumthang	41_thedust	2		tsʰu+ma	TB	
+55	42_theear	the ear	EAR	Bumthang	42_theear	1247	na	na	vanDriem2015	
+56	44_theearthsoil	the earth (soil)	EARTH (SOIL)	Bumthang	44_theearthsoil	1228	sa	sa	DDC2018	
+57	47_theegg	the egg	EGG	Bumthang	47_theegg	744	khawate	kʰa+wa+te	vanDriem2015	
+58	49_theeye	the eye	EYE	Bumthang	49_theeye	1248	mek	mek	vanDriem2015	
+59	54_thefire	the fire	FIRE	Bumthang	54_thefire	221	gami	ga+mi	vanDriem2015	
+60	56_thefish	the fish	FISH	Bumthang	56_thefish	227	nya	ɲa	vanDriem2015	
+61	61_theflower	the flower	FLOWER	Bumthang	61_theflower	239	mento	men+to	vanDriem2015	
+62	64_thefoot	the foot	FOOT	Bumthang	64_thefoot	1301		ta+wa	TB	
+63	65_theforest	the forest	FOREST	Bumthang	65_theforest	420	bung	buŋ	DDC2018	
+64	69_thefrog	the frog	FROG	Bumthang	69_thefrog	503	ba bai	ba+bai	DDC2018	
+65	70_thefrontfrontside	the front (front side)	FRONT (PART)	Bumthang	70_thefrontfrontside	2194		doŋ+ŋo	TB	
+66	72_thefruit	the fruit	FRUIT	Bumthang	72_thefruit	1507	zat, zas	zat	DDC2018	
+67	75_thegoat	the goat	GOAT	Bumthang	75_thegoat	1502	ra	ra	vanDriem2015	
+68	79_thehail	the hail	HAIL	Bumthang	79_thehail	609	ser ba, ser wa	sɛr+ba	DDC2018	
+69	80_thehairofthehead	the hair (of the head)	HAIR	Bumthang	80_thehairofthehead	1040	ra	ra55	vanDriem2015	
+70	81_thehand	the hand	HAND	Bumthang	81_thehand	1277	yak	jak	vanDriem2015	
+71	84_thehead	the head	HEAD	Bumthang	84_thehead	1256	guyung	gu+juŋ	vanDriem2015	
+72	86_theheart	the heart	HEART	Bumthang	86_theheart	1223	nengma	neŋ55+ma	vanDriem2015	
+73	94_thehornkeratinizedskin	the horn (keratinized skin)	HORN (ANATOMY)	Bumthang	94_thehornkeratinizedskin	1393		ro	TB	
+74	97_thehouse	the house	HOUSE	Bumthang	97_thehouse	1252	mai	mai	vanDriem2015	
+75	106_theknee	the knee	KNEE	Bumthang	106_theknee	1371	patmong	pat+moŋ	vanDriem2015	
+76	112_theleaf	the leaf	LEAF	Bumthang	112_theleaf	628	‘lam ba	lam55+ba	DDC2018	
+77	119_theliver	the liver	LIVER	Bumthang	119_theliver	1224	chimbo	tɕʰim+bo	vanDriem2015	
+78	121_thelouse	the louse	LOUSE	Bumthang	121_thelouse	1392		sɛk	DDC2018	
+79	122_thelung	the lung	LUNG	Bumthang	122_thelung	688	zhruwa	ɼu+wa	vanDriem2015	
+80	123_themanmalehuman	the man (male human)	MALE PERSON	Bumthang	123_themanmalehuman	2106	phodʑa	pʰo+dʑa	vanDriem2015	
+81	126_themeat	the meat	MEAT	Bumthang	126_themeat	634	shra	r̥a	vanDriem2015	
+82	128_themoon	the moon	MOON	Bumthang	128_themoon	1313	‘la	la55	DDC2018	
+83	132_themountain	the mountain	MOUNTAIN	Bumthang	132_themountain	639	ri	ri	vanDriem2015	
+84	133_themouseorrat	the mouse or rat	MUROID (MOUSE OR RAT)	Bumthang	133_themouseorrat	2139	‘nyi wa	ɲi55+wa	DDC2018	
+85	134_themouth	the mouth	MOUTH	Bumthang	134_themouth	674	kha	kʰa	vanDriem2015	
+86	135_themud	the mud	MUD	Bumthang	135_themud	640	dam	dam	DDC2018	
+87	136_thenailfingernailorclaw	the nail (fingernail or claw)	CLAW OR NAIL	Bumthang	136_thenailfingernailorclaw	2128	sima	si+ma	vanDriem2015	
+88	137_thename	the name	NAME	Bumthang	137_thename	1405	meng	meŋ	vanDriem2015	
+89	140_theneck	the neck	NECK	Bumthang	140_theneck	1333	takpa	tak+pa	vanDriem2015	
+90	141_theneedleforsewing	the needle (for sewing)	NEEDLE (FOR SEWING)	Bumthang	141_theneedleforsewing	1382	tshem khap	kʰap	DDC2018	
+91	146_thenose	the nose	NOSE	Bumthang	146_thenose	1221	naphang	na55+pʰaŋ	vanDriem2015	
+92	151_thepig	the pig	PIG	Bumthang	151_thepig	1337	phak	pʰak	DDC2018	
+93	156_therain	the rain	RAIN (PRECIPITATION)	Bumthang	156_therain	658	yö	jɶ	vanDriem2015	
+94	163_theroad	the road	ROAD	Bumthang	163_theroad	667	yam	jam	vanDriem2015	
+95	164_theroot	the root	ROOT	Bumthang	164_theroot	670	rato	ra+to	vanDriem2015	
+96	165_therope	the rope	ROPE	Bumthang	165_therope	1218	thak pa	tʰak+pa	DDC2018	
+97	168_thesalt	the salt	SALT	Bumthang	168_thesalt	1274	tsha	tsʰa	DDC2018	
+98	170_thesand	the sand	SAND	Bumthang	170_thesand	671		be+ma	TB	
+99	174_theseed	the seed	SEED	Bumthang	174_theseed	714	son	son	DDC2018	
+100	250_theshit	the shit	SHIT (DEFECATE)	Bumthang	250_theshit	676	cok	tɕok	vanDriem2015	
+101	180_theshoulder	the shoulder	SHOULDER	Bumthang	180_theshoulder	1482	pongma	poŋ+ma	vanDriem2015	
+102	185_theskin	the skin	SKIN	Bumthang	185_theskin	763	pak	pak	vanDriem2015	
+103	186_thesky	the sky	SKY	Bumthang	186_thesky	1732		nam	TB	
+104	190_thesmoke	the smoke	SMOKE (EXHAUST)	Bumthang	190_thesmoke	778		du+wa	TB	
+105	192_thesnake	the snake	SNAKE	Bumthang	192_thesnake	730	po	po	vanDriem2015	
+106	193_thesnow	the snow	SNOW	Bumthang	193_thesnow	784	ka	ka	vanDriem2015	
+107	195_theson	the son	SON	Bumthang	195_theson	1620	botsa	bo+tsa	vanDriem2015	
+108	197_thespider	the spider	SPIDER	Bumthang	197_thespider	843		pʰrun+zan	TB	
+109	200_thestar	the star	STAR	Bumthang	200_thestar	1430		kar+ma	TB	
+110	202_thestick	the stick	STICK	Bumthang	202_thestick	1295	‘lak phang	lak55+pʰaŋ	DDC2018	
+111	203_thestoneapieceof	the stone (a piece of)	STONE	Bumthang	203_thestoneapieceof	857		gor	DDC2018	
+112	205_thesun	the sun	SUN	Bumthang	205_thesun	1343	nyi	ɲi	DDC2018	
+113	206_thetail	the tail	TAIL	Bumthang	206_thetail	1220	nyiphang	ɲi55+pʰaŋ	vanDriem2015	
+114	211_thethigh	the thigh	UPPER LEG (THIGH)	Bumthang	211_thethigh	471	nyamgong	ɲam+goŋ	vanDriem2015	
+115	218_thethunder	the thunder	THUNDER	Bumthang	218_thethunder	1150		ɖuk+dɛr+sa	TB	
+116	222_thetongue	the tongue	TONGUE	Bumthang	222_thetongue	1205	li	li55	vanDriem2015	
+117	223_thetoothfront	the tooth (front)	TOOTH	Bumthang	223_thetoothfront	1380	kwa	kwa	vanDriem2015	
+118	229_thewater	the water	WATER	Bumthang	229_thewater	948	khwe	kʰwe	vanDriem2015	
+119	238_thewind	the wind	WIND	Bumthang	238_thewind	960	long	loŋ55	vanDriem2015	
+120	239_thewing	the wing	WING	Bumthang	239_thewing	1257	shok pa	ɕok+pa	DDC2018	
+121	242_thewoman	the woman	WOMAN	Bumthang	242_thewoman	962	minbotsa	min+bo+tsa	vanDriem2015	
+122	245_theyear	the year	YEAR	Bumthang	245_theyear	1226	‘neng	neŋ55	DDC2018	
+123	210_thick	thick	THICK	Bumthang	210_thick	1244		tʰok+dʑan	TB	
+124	212_thinobject	thin (object)	THIN (OF SHAPE OF OBJECT)	Bumthang	212_thinobject	2249		tɕʰa+tiŋ+tiŋ	TB	
+125	215_thousecondpersonsingular	thou [second person singular]	THOU	Bumthang	215_thousecondpersonsingular	1215	wet	wet	vanDriem2015	
+126	216_three	three	THREE	Bumthang	216_three	492	sum	sum	vanDriem2015	
+127	13_tobite	to bite	BITE	Bumthang	13_tobite	1403		daŋ	TB	
+128	21_toburnintransitive	to burn [intransitive]	BURNING	Bumthang	21_toburnintransitive	1428		bur	TB	
+129	22_tobuy	to buy	BUY	Bumthang	22_tobuy	1869	ngüi	ŋyi55	vanDriem2015	
+130	23_tochew	to chew	CHEW	Bumthang	23_tochew	321		mur	TB	
+131	27_tocome	to come	COME	Bumthang	27_tocome	1446	ra	ra	vanDriem2015	
+132	29_tocount	to count	COUNT	Bumthang	29_tocount	1420	grang	graŋ	vanDriem2015	
+133	30_tocryweep	to cry (weep)	CRY	Bumthang	30_tocryweep	1839		ŋo	TB	
+134	34_todie	to die	DIE	Bumthang	34_todie	1494	se	se	vanDriem2015	
+135	35_todig	to dig	DIG	Bumthang	35_todig	1418		ku+saŋ	TB	
+136	39_todrink	to drink	DRINK	Bumthang	39_todrink	1401	thong	tʰoŋ	vanDriem2015	
+137	46_toeat	to eat	EAT	Bumthang	46_toeat	1336	zu	zu	vanDriem2015	
+138	53_tofight	to fight	FIGHT	Bumthang	53_tofight	1423	prat	prat	vanDriem2015	
+139	62_toflymovethroughair	to fly (move through air)	FLY (MOVE THROUGH AIR)	Bumthang	62_toflymovethroughair	1441		pʰur	TB	
+140	66_toforget	to forget	FORGET	Bumthang	66_toforget	1523	zhit	ʑit	vanDriem2015	
+141	74_togive	to give	GIVE	Bumthang	74_togive	1447	bi	bi	vanDriem2015	
+142	85_tohear	to hear	HEAR	Bumthang	85_tohear	1408		nan	TB	
+143	89_tohideconceal	to hide (conceal)	HIDE (CONCEAL)	Bumthang	89_tohideconceal	602		lɶm	TB	
+144	91_tohold	to hold	HOLD	Bumthang	91_tohold	1448		zoŋ	TB	
+145	104_tokill	to kill	KILL	Bumthang	104_tokill	1417	sut	sut	vanDriem2015	
+146	111_tolaugh	to laugh	LAUGH	Bumthang	111_tolaugh	1355		ga	TB	
+147	115_tolick	to lick	LICK	Bumthang	115_tolick	319		plɛn	TB	
+148	153_toplay	to play	PLAY	Bumthang	153_toplay	1413		pʰui	TB	
+149	155_topush	to push	PUSH	Bumthang	155_topush	1452		tʰuŋ	TB	
+150	159_toresidelive	to reside (live)	DWELL (LIVE, RESIDE)	Bumthang	159_toresidelive	363	nyit	ɲit	vanDriem2015	
+151	171_toscratch	to scratch	SCRATCH	Bumthang	171_toscratch	1436	brat	brat	vanDriem2015	
+152	173_tosee	to see	SEE	Bumthang	173_tosee	1409	thung	tʰuŋ	vanDriem2015	
+153	178_toshootanarrow	to shoot (an arrow)	SHOOT	Bumthang	178_toshootanarrow	1172		tʰuŋ	TB	
+154	183_tosing	to sing	SING	Bumthang	183_tosing	1261		tʰaŋ	TB	
+155	187_tosleep	to sleep	SLEEP	Bumthang	187_tosleep	1585	dot	dot	vanDriem2015	
+156	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	SMELL (PERCEIVE)	Bumthang	189_tosmellperceiveodortransitive	1586	num	num	vanDriem2015	
+157	198_tospit	to spit	SPIT	Bumthang	198_tospit	1440		tʰɛp+tʰuk	TB	
+158	199_tostand	to stand	STAND	Bumthang	199_tostand	1442	yang	jaŋ	vanDriem2015	
+159	201_tosteal	to steal	STEAL	Bumthang	201_tosteal	713		ʑu+bu	TB	
+160	213_tothinkreflect	to think (reflect)	THINK (REFLECT)	Bumthang	213_tothinkreflect	1415		nok+sam	TB	
+161	217_tothrow	to throw	THROW	Bumthang	217_tothrow	1456		tɕʰaŋ	TB	
+162	227_tovomit	to vomit	VOMIT	Bumthang	227_tovomit	1278		tɕʰuk	TB	
+163	228_towalk	to walk	WALK	Bumthang	228_towalk	1443		jam+go	TB	
+164	240_towipe	to wipe	WIPE	Bumthang	240_towipe	1454		pʰik	TB	
+165	226_two	two	TWO	Bumthang	226_two	1498	zon	zon	vanDriem2015	
+166	231_wet	wet	WET	Bumthang	231_wet	1726	shir phan	ɕir+pʰan	DDC2018	
+167	235_white	white	WHITE	Bumthang	235_white	1335	kharkharma	kʰar+kʰar+ma	vanDriem2015	
+168	236_who	who	WHO	Bumthang	236_who	1235	adʑi	a55+dʑi	vanDriem2015	
+169	246_yellow	yellow	YELLOW	Bumthang	246_yellow	1424	sirsirma	sir+sir+ma	vanDriem2015	
+170	1_above	above	ABOVE	Bumthang	1_above	1741	jai	dʑai	vanDriem2015	
+171	10_belowunder	below, under	BELOW OR UNDER	Bumthang	10_belowunder	1485		su+tu	TB	
+172	100_thehusband	the husband	HUSBAND	Bumthang	100_thehusband	1200	makpa	mak+pa	vanDriem2015	
+173	102_theice	the ice	ICE	Bumthang	102_theice	617	kit pa	kit+pa	DDC2018	
+174	105_toknead	to knead	KNEAD	Bumthang	105_toknead	274		tʰɛ	TB	
+175	107_knife	knife	KNIFE	Bumthang	107_knife	1352	yur ba	jur+ba	DDC2018	
+176	108_toknowsomething	to know (something)	KNOW (SOMETHING)	Bumthang	108_toknowsomething	1410	khan	kʰan	vanDriem2015	
+177	109_thelake	the lake	LAKE	Bumthang	109_thelake	624	tsho	tsʰo	DDC2018	
+178	113_tolearn	to learn	LEARN	Bumthang	113_tolearn	504		lu+bui	TB	
+179	116_toliedown	to lie down	LIE DOWN	Bumthang	116_toliedown	215		ni+lai	TB	
+180	118_thelipthelips	the lip (the lips)	LIP	Bumthang	118_thelipthelips	478	chi	tɕʰi	vanDriem2015	
+181	130_themosquito	the mosquito	MOSQUITO	Bumthang	130_themosquito	1509		zɛn+dom	TB	
+182	131_themother	the mother	MOTHER	Bumthang	131_themother	1216	ama	a+ma	vanDriem2015	
+183	138_narrow	narrow	NARROW	Bumthang	138_narrow	1267		go+do+kʰa+kʰa	TB	
+184	144_thenit	the nit	NIT	Bumthang	144_thenit	267		ɕɛk+gi+kʰau+te	TB	
+185	145_noon	noon	MIDDAY	Bumthang	145_noon	12		nɛn+ɖa	TB	
+186	147_oldofperson	old (of person)	OLD (AGED)	Bumthang	147_oldofperson	2112		gat+po	TB	
+187	149_theotter	the otter	OTTER	Bumthang	149_theotter	15		sam	TB	
+188	152_toplantvegetalsrice	to plant (vegetals, rice)	PLANT (SOMETHING)	Bumthang	152_toplantvegetalsrice	1486	Ø	Ø	Ø	
+189	154_topull	to pull	PULL	Bumthang	154_topull	1455		tʰan+lai	TB	
+190	157_therainbow	the rainbow	RAINBOW	Bumthang	157_therainbow	1733		ga+dʑom	TB	
+191	16_toblowofwind	to blow (of wind)	BLOW (OF WIND)	Bumthang	16_toblowofwind	175	long ra	loŋ55+ra	vanDriem2015	ra = come
+192	160_thericeplant	the rice plant	RICE PLANT	Bumthang	160_thericeplant	2026	mrat	mrat	vanDriem2015	
+193	162_theriver	the river	RIVER	Bumthang	162_theriver	666	rok	rok55	vanDriem2015	
+194	167_torun	to run	RUN	Bumthang	167_torun	1519		dʑuk+ge	TB	
+195	169_salty	salty	SALTY	Bumthang	169_salty	1091	tsha khu	tsʰa+kʰu	DDC2018	
+196	17_thebodyhairhairorfur	the body hair (hair or fur)	HAIR (BODY)	Bumthang	17_thebodyhairhairorfur	189	po	po	vanDriem2015	
+197	172_thesea	the sea	SEA	Bumthang	172_thesea	1474		gʲam+tsʰo	TB	
+198	177_thesheep	the sheep	SHEEP	Bumthang	177_thesheep	1331	wai	wai	DDC2018	
+199	181_shy	shy	SHY	Bumthang	181_shy	487		ŋe+tsʰa	TB	
+200	182_thesickle	the sickle	SICKLE	Bumthang	182_thesickle	341	zor ba	zor+ba	DDC2018	
+201	191_smooth	smooth	SMOOTH	Bumthang	191_smooth	1234		dʑam+tɕʰuk+tɕʰuk	TB	
+202	196_thesparrow	the sparrow	SPARROW	Bumthang	196_thesparrow	1854	sam ci ling	sam+tɕi+liŋ	DDC2018	
+203	2_all	all	ALL	Bumthang	2_all	98	gampo	gam+po	vanDriem2015	
+204	208_that	that	THAT	Bumthang	208_that	78	aji	a+dʑi55	vanDriem2015	
+205	209_there	there	THERE	Bumthang	209_there	1937		o+tʰu	TB	
+206	214_this	this	THIS	Bumthang	214_this	1214		o+si	TB	
+207	219_thetiger	the tiger	TIGER	Bumthang	219_thetiger	846	tak	tak	DDC2018	
+208	220_today	today	TODAY	Bumthang	220_today	1283	dusum	du+sum	vanDriem2015	
+209	221_tomorrow	tomorrow	TOMORROW	Bumthang	221_tomorrow	1329	yampat	jam+pat	vanDriem2015	
+210	224_thetree	the tree	TREE	Bumthang	224_thetree	906	seng	seŋ	vanDriem2015	
+211	225_twenty	twenty	TWENTY	Bumthang	225_twenty	1710	khae-thek	kʰai+tʰek	vanDriem2015	
+212	230_wefirstpersonpluralinclusive	we [first person plural inclusive]	WE (INCLUSIVE)	Bumthang	230_wefirstpersonpluralinclusive	1131	nget	ŋet	vanDriem2015	
+213	232_what	what	WHAT	Bumthang	232_what	1236	zhra	r̥a	vanDriem2015	
+214	233_thewheat	the wheat	WHEAT	Bumthang	233_thewheat	1077	go	go	DDC2018	
+215	234_where	where	WHERE	Bumthang	234_where	1237	ao	ao55	vanDriem2015	
+216	237_thewife	the wife	WIFE	Bumthang	237_thewife	1199	namo	na+mo	vanDriem2015	
+217	24_thechildyounghuman	the child (young human)	CHILD (YOUNG HUMAN)	Bumthang	24_thechildyounghuman	1304	onga	o55+ŋa	vanDriem2015	
+218	241_thewolf	the wolf	WOLF	Bumthang	241_thewolf	522	sa war	sa+war	DDC2018	dhole?
+219	243_thewoodmaterial	the wood (material)	WOOD	Bumthang	243_thewoodmaterial	1803	seng	seŋ	vanDriem2015	
+220	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	SOW SEEDS	Bumthang	244_tosowbroadcastscatterseeds	748	tor-mala	tor	vanDriem2015	
+221	247_yesterday	yesterday	YESTERDAY	Bumthang	247_yesterday	1174	dangma	daŋ+ma	vanDriem2015	
+222	248_yousecondpersonplural	you [second person plural]	YOU	Bumthang	248_yousecondpersonplural	1213	yin	yin	vanDriem2015	
+223	249_young	young	YOUNG	Bumthang	249_young	1207		ʑøn+pø	TB	
+224	28_correctright	correct (right)	CORRECT (RIGHT)	Bumthang	28_correctright	1725		wɛn	TB	
+225	31_dark	dark	DARK	Bumthang	31_dark	706		na+duŋ+duŋ	TB	
+226	32_thedaughter	the daughter	DAUGHTER	Bumthang	32_thedaughter	1357	bomet	bo+met	vanDriem2015	
+227	4_thearmpit	the armpit	ARMPIT	Bumthang	4_thearmpit	1886	gajolewang	ga+dʑo+le+waŋ	vanDriem2015	
+228	43_early	early	EARLY	Bumthang	43_early	672	ngar wa	ŋar55+wa	DDC2018	
+229	45_theearthworm	the earthworm	EARTHWORM	Bumthang	45_theearthworm	2350		ɲar+gu+la	TB	
+230	5_bad	bad	BAD	Bumthang	5_bad	1292		ŋe+pa	TB	
+231	51_thefather	the father	FATHER	Bumthang	51_thefather	1217	apa	a+pa	vanDriem2015	
+232	52_thefeather	the feather	FEATHER	Bumthang	52_thefeather	1201	dro	ɖo	DDC2018	
+233	55_firewood	firewood	FIREWOOD	Bumthang	55_firewood	10	thap shing	tʰap+ɕiŋ	DDC2018	
+234	58_theflea	the flea	FLEA	Bumthang	58_theflea	232	li wa	li55+wa	DDC2018	
+235	59_tofloat	to float	FLOAT	Bumthang	59_tofloat	1574		pon+ʑi	TB	
+236	60_toflow	to flow	FLOW	Bumthang	60_toflow	2003		dʑuk+pa	TB	
+237	63_thefog	the fog	FOG	Bumthang	63_thefog	249	tɕirdʑi	tɕir+dʑi	TB	
+238	68_thefox	the fox	FOX	Bumthang	68_thefox	1312	au ya	au+ja	DDC2018	
+239	7_thebarleytibetanorhighland	the barley (tibetan or highland)	BARLEY	Bumthang	7_thebarleytibetanorhighland	932	nas	nas	DDC2018	
+240	71_thefrost	the frost	FROST	Bumthang	71_thefrost	2034	chak pa	tɕʰak+pa	DDC2018	
+241	77_thegrass	the grass	GRASS	Bumthang	77_thegrass	606	ngon	ŋon55	vanDriem2015	
+242	8_tobealive	to be alive	BE ALIVE	Bumthang	8_tobealive	1422		jyn+ne+pa	TB	
+243	88_here	here	HERE	Bumthang	88_here	136	cho	tɕʰo	vanDriem2015	
+244	90_hightall	high / tall	HIGH	Bumthang	90_hightall	1265	khangma	kʰaŋ+ma	vanDriem2015	
+245	92_thehoof	the hoof	HOOF	Bumthang	92_thehoof	152	mik pat	mik+pat	DDC2018	
+246	93_horizontal	horizontal	HORIZONTAL	Bumthang	93_horizontal	2376		ke+ka	TB	
+247	95_thehorse	the horse	HORSE	Bumthang	95_thehorse	615	ta	ta	DDC2018	
+248	98_hundred	hundred	HUNDRED	Bumthang	98_hundred	1634	khai ya nga	kʰai+ja+ŋa	DDC2018	
+249	99_tohunt	to hunt	HUNT	Bumthang	99_tohunt	1435		sem+tɕan+sy	TB	
+250	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	MARRY (AS MAN)	Bumthang	125_tomarryamanmarriesawoman	2164		ɲe+tʰu+ŋai	TB	

@@ -1,251 +1,251 @@
-RID	DOCULECT	CONCEPT	CONCEPTICON_GLOSS	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE	SEGMENTS
-1	DirangTshangla	11_big	big	11_big	1202	taŋ+pu	taŋ+pu	TB	t a ŋ + p u
-2	DirangTshangla	14_black	black	14_black	163	ʨʰaŋ+lu	tʃʰaŋ+lu	TB	tʃ � a ŋ + l u
-3	DirangTshangla	26_coldoftemperature	cold (of temperature)	26_coldoftemperature	1287	kʰur+bu	kʰur+bu	TB	kʰ u r + b u
-4	DirangTshangla	36_dirty	dirty	36_dirty	1230	ʑei lok+pan	ʑei+lok+pan	TB	ʑ ei + l o k + p a n
-5	DirangTshangla	40_dry	dry	40_dry	1398	saŋ+bu	saŋ+bu	TB	s a ŋ + b u
-6	DirangTshangla	48_eight	eight	48_eight	1705	jɛn	jɛn	TB	j ɛ n
-7	DirangTshangla	50_far	far	50_far	1406	tʰa riŋ+bu	tʰa+riŋ+bu	TB	tʰ a + r i ŋ + b u
-8	DirangTshangla	57_five	five	57_five	493	ŋa	ŋa	TB	ŋ a
-9	DirangTshangla	67_four	four	67_four	1500	bi+tʃi	bi+tʃi	TB	b i + tʃ i
-10	DirangTshangla	73_full	full	73_full	1429	pʰuŋ+bei	pʰuŋ+bei	TB	pʰ u ŋ + b ei
-11	DirangTshangla	76_good	good	76_good	1035	pʰe+lu	pʰe+lu	TB	pʰ e + l u
-12	DirangTshangla	78_green	green	78_green	1425	jaŋ+lu	jaŋ+lu	TB	j a ŋ + l u
-13	DirangTshangla	82_hard	hard	82_hard	1884	kak+ta+ra	kak+ta+ra	TB	k a k + t a + r a
-14	DirangTshangla	83_heorshethirdpersonsingular	he or she [third person singular]	83_heorshethirdpersonsingular	262	dan	dan	TB	d a n
-15	DirangTshangla	87_heavy	heavy	87_heavy	1210	ʨʰit+pu	tʃʰit+pu	TB	tʃ � i t + p u
-16	DirangTshangla	96_hot	hot	96_hot	1286	tsʰou	tsʰou	TB	tsʰ ou
-17	DirangTshangla	101_ifirstpersonsingular	I [first person singular]	101_ifirstpersonsingular	1209	ʥaŋ	dʒaŋ	TB	dʒ a ŋ
-18	DirangTshangla	103_inside	inside	103_inside	1606	naŋ	naŋ	TB	n a ŋ
-19	DirangTshangla	110_late	late	110_late	477	jɛt+kʰan	jɛt+kʰan	TB	j ɛ t + kʰ a n
-20	DirangTshangla	114_left	left	114_left	244	jɔm+lak+pa	jɔm+lak+pa	TB	j ɔ m + l a k + p a
-21	DirangTshangla	117_lightofweight	light (of weight)	117_lightofweight	1052	jaŋ+pu	jaŋ+pu	TB	j a ŋ + p u
-22	DirangTshangla	120_long	long	120_long	1203	riŋ+bu	riŋ+bu	TB	r i ŋ + b u
-23	DirangTshangla	124_many	many	124_many	1198	tɕa.tɕa	tɕa.tɕa	TB	tɕ a . tɕ a
-24	DirangTshangla	127_middle	middle	127_middle	1093	bar+ma	bar+ma	TB	b a r + m a
-25	DirangTshangla	129_morning	morning	129_morning	1339	ŋam+niŋ	ŋam+niŋ	TB	ŋ a m + n i ŋ
-26	DirangTshangla	139_near	near	139_near	1942	tɛp+ka	tɛp+ka	TB	t ɛ p + k a
-27	DirangTshangla	142_new	new	142_new	1231	siŋ+ba	siŋ+ba	TB	s i ŋ + b a
-28	DirangTshangla	143_nine	nine	143_nine	1483	gu	gu	TB	g u
-29	DirangTshangla	148_one	one	148_one	1493	tʰur	tʰur	TB	tʰ u r
-30	DirangTshangla	150_outside	outside	150_outside	762	psi+ka	psi+ka	TB	ps i + k a
-31	DirangTshangla	158_red	red	158_red	156	tsʰa+lu	tsʰa+lu	TB	tsʰ a + l u
-32	DirangTshangla	161_right	right	161_right	1019	pʰe+lu+tɕok	pʰe+lu+tɕok	TB	pʰ e + l u + tɕ o k
-33	DirangTshangla	166_round	round	166_round	1395	gɔr+gɔr+kei	gɔr+gɔr+kei	TB	g ɔ r + g ɔ r + k ei
-34	DirangTshangla	175_seven	seven	175_seven	1704	zum	zum	TB	z u m
-35	DirangTshangla	176_sharp	sharp	176_sharp	1396	tɕʰat+pu	tɕʰat+pu	TB	tɕʰ a t + p u
-36	DirangTshangla	179_short	short	179_short	1645	kʰan+da	kʰan+da	TB	kʰ a n + d a
-37	DirangTshangla	184_six	six	184_six	1703	kʰuŋ	kʰuŋ	TB	kʰ u ŋ
-38	DirangTshangla	188_small	small	188_small	1246	a+iŋ+za	a+iŋ+za	TB	a + i ŋ + z a
-39	DirangTshangla	194_soft	soft	194_soft	1856	diu+za	diu+za	TB	d i u + z a
-40	DirangTshangla	204_straight	straight	204_straight	1404	laŋ+bu	laŋ+bu	TB	l a ŋ + b u
-41	DirangTshangla	207_ten	ten	207_ten	1515	se	se	TB	s e
-42	DirangTshangla	3_theant	the ant	3_theant	587	kʰaŋ+dʑi+la	kʰaŋ+dʒi+la	TB	kʰ a ŋ + dʒ i + l a
-43	DirangTshangla	6_thebamboo	the bamboo	6_thebamboo	1927	ɕi	ɕi	TB	ɕ i
-44	DirangTshangla	9_thebelly	the belly	9_thebelly	1251	pʰu+tɕi	pʰu+tɕi	TB	pʰ u + tɕ i
-45	DirangTshangla	12_thebird	the bird	12_thebird	937	kʰa	kʰa	TB	kʰ a
-46	DirangTshangla	15_theblood	the blood	15_theblood	946	ʑi	ʑi	TB	ʑ i
-47	DirangTshangla	18_thebone	the bone	18_thebone	1394	kʰaŋ	kʰaŋ	TB	kʰ a ŋ
-48	DirangTshangla	19_thebranch	the branch	19_thebranch	1531	ɕiŋ+da	ɕiŋ+da	TB	ɕ i ŋ + d a
-49	DirangTshangla	20_thebreastfemale	the breast (female)	20_thebreastfemale	1402	nu	nu	TB	n u
-50	DirangTshangla	25_thecloud	the cloud	25_thecloud	1489	muk+pa	muk+pa	TB	m u k + p a
-51	DirangTshangla	33_thedew	the dew	33_thedew	1977	jɔr+nak	jɔr+nak	TB	j ɔ r + n a k
-52	DirangTshangla	37_thedog	the dog	37_thedog	2009	kʰu	kʰu	TB	kʰ u
-53	DirangTshangla	38_thedream	the dream	38_thedream	2374	mɔŋ+ɕu	mɔŋ+ɕu	TB	m ɔ ŋ + ɕ u
-54	DirangTshangla	41_thedust	the dust	41_thedust	2	dui+pa	dui+pa	TB	d u i + p a
-55	DirangTshangla	42_theear	the ear	42_theear	1247	nei+gaŋ	nei+gaŋ	TB	n ei + g a ŋ
-56	DirangTshangla	44_theearthsoil	the earth (soil)	44_theearthsoil	1228	sa	sa	TB	s a
-57	DirangTshangla	47_theegg	the egg	47_theegg	744	goi+tʰam	goi+tʰam	TB	g o i + tʰ a m
-58	DirangTshangla	49_theeye	the eye	49_theeye	1248	miŋ	miŋ	TB	m i ŋ
-59	DirangTshangla	54_thefire	the fire	54_thefire	221	mi	mi	TB	m i
-60	DirangTshangla	56_thefish	the fish	56_thefish	227	ŋa	ŋa	TB	ŋ a
-61	DirangTshangla	61_theflower	the flower	61_theflower	239	mɔm+naŋ	mɔm+naŋ	TB	m ɔ m + n a ŋ
-62	DirangTshangla	64_thefoot	the foot	64_thefoot	1301	bi+bak+taŋ	bi+bak+taŋ	TB	b i + b a k + t a ŋ
-63	DirangTshangla	65_theforest	the forest	65_theforest	420	mun	mun	TB	m u n
-64	DirangTshangla	69_thefrog	the frog	69_thefrog	503	tak+tak+pa	tak+tak+pa	TB	t a k + t a k + p a
-65	DirangTshangla	70_thefrontfrontside	the front (front side)	70_thefrontfrontside	2194	gum	gum	TB	g u m
-66	DirangTshangla	72_thefruit	the fruit	72_thefruit	1507	kʰap+zas	kʰap+zas	TB	kʰ a p + z a s
-67	DirangTshangla	75_thegoat	the goat	75_thegoat	1502	ra+wa	ra+wa	TB	r a + w a
-68	DirangTshangla	79_thehail	the hail	79_thehail	609	sɛr+ba	sɛr+ba	TB	s ɛ r + b a
-69	DirangTshangla	80_thehairofthehead	the hair (of the head)	80_thehairofthehead	1040	ʦʰam	ʦʰam	TB	ʦʰ a m
-70	DirangTshangla	81_thehand	the hand	81_thehand	1277	ga+raŋ	ga+raŋ	TB	g a + r a ŋ
-71	DirangTshangla	84_thehead	the head	84_thehead	1256	ɕa+raŋ	ɕa+raŋ	TB	ɕ a + r a ŋ
-72	DirangTshangla	86_theheart	the heart	86_theheart	1223	tʰim+luŋ	tʰim+luŋ	TB	tʰ i m + l u ŋ
-73	DirangTshangla	94_thehornkeratinizedskin	the horn (keratinized skin)	94_thehornkeratinizedskin	1393	wa+rɔŋ	wa+rɔŋ	TB	w a + r ɔ ŋ
-74	DirangTshangla	97_thehouse	the house	97_thehouse	1252	pʰei	pʰei	TB	pʰ ei
-75	DirangTshangla	106_theknee	the knee	106_theknee	1371	gum+ziŋ	gum+ziŋ	TB	g u m + z i ŋ
-76	DirangTshangla	112_theleaf	the leaf	112_theleaf	628	ɕa+wa	ɕa+wa	TB	ɕ a + w a
-77	DirangTshangla	119_theliver	the liver	119_theliver	1224	sa+sum	sa+sum	TB	s a + s u m
-78	DirangTshangla	121_thelouse	the louse	121_thelouse	1392	ɕiŋ	ɕiŋ	TB	ɕ i ŋ
-79	DirangTshangla	122_thelung	the lung	122_thelung	688	ɕo	ɕo	TB	ɕ o
-80	DirangTshangla	123_themanmalehuman	the man (male human)	123_themanmalehuman	2106	soŋ+ŋa ʑan	soŋ+ŋa+ʑan	TB	s o ŋ + ŋ a + ʑ a n
-81	DirangTshangla	126_themeat	the meat	126_themeat	634	ɕa	ɕa	TB	ɕ a
-82	DirangTshangla	128_themoon	the moon	128_themoon	1313	la+ɲi	la+ɲi	TB	l a + ɲ i
-83	DirangTshangla	132_themountain	the mountain	132_themountain	639	la	la	TB	l a
-84	DirangTshangla	133_themouseorrat	the mouse or rat	133_themouseorrat	2139	tɕʰu	tɕʰu	TB	tɕʰ u
-85	DirangTshangla	134_themouth	the mouth	134_themouth	674	no+waŋ	no+waŋ	TB	n o + w a ŋ
-86	DirangTshangla	135_themud	the mud	135_themud	640	ʑin+tsʰaŋ	ʑin+tsʰaŋ	TB	ʑ i n + tsʰ a ŋ
-87	DirangTshangla	136_thenailfingernailorclaw	the nail (fingernail or claw)	136_thenailfingernailorclaw	2128	tsiŋ+naŋ	tsiŋ+naŋ	TB	ts i ŋ + n a ŋ
-88	DirangTshangla	137_thename	the name	137_thename	1405	miŋ	miŋ	TB	m i ŋ
-89	DirangTshangla	140_theneck	the neck	140_theneck	1333	ŋaŋ	ŋaŋ	TB	ŋ a ŋ
-90	DirangTshangla	141_theneedleforsewing	the needle (for sewing)	141_theneedleforsewing	1382	kʰam	kʰam	TB	kʰ a m
-91	DirangTshangla	146_thenose	the nose	146_thenose	1221	na+uŋ	na+uŋ	TB	n a + u ŋ
-92	DirangTshangla	151_thepig	the pig	151_thepig	1337	pʰak+pa	pʰak+pa	TB	pʰ a k + p a
-93	DirangTshangla	156_therain	the rain	156_therain	658	ŋam+tɕʰu	ŋam+tʃʰu	TB	ŋ a m + tʃ � u
-94	DirangTshangla	163_theroad	the road	163_theroad	667	lam	lam	TB	l a m
-95	DirangTshangla	164_theroot	the root	164_theroot	670	ɕiŋ+ra	ɕiŋ+ra	TB	ɕ i ŋ + r a
-96	DirangTshangla	165_therope	the rope	165_therope	1218	lan	lan	TB	l a n
-97	DirangTshangla	168_thesalt	the salt	168_thesalt	1274	in+ʨʰa	in+tʃʰa	TB	i n + tʃ � a
-98	DirangTshangla	170_thesand	the sand	170_thesand	671	be+ʦa	be+ʦa	TB	b e + ʦ a
-99	DirangTshangla	174_theseed	the seed	174_theseed	714	li	li	TB	l i
-100	DirangTshangla	250_theshit	the shit	250_theshit	676	ɕi	ɕi	TB	ɕ i
-101	DirangTshangla	180_theshoulder	the shoulder	180_theshoulder	1482	pʰaŋ+ma	pʰaŋ+ma	TB	pʰ a ŋ + m a
-102	DirangTshangla	185_theskin	the skin	185_theskin	763	kʰɔp+taŋ	kʰɔp+taŋ	TB	kʰ ɔ p + t a ŋ
-103	DirangTshangla	186_thesky	the sky	186_thesky	1732	ŋam	ŋam	TB	ŋ a m
-104	DirangTshangla	190_thesmoke	the smoke	190_thesmoke	778	mu+gi	mu+gi	TB	m u + g i
-105	DirangTshangla	192_thesnake	the snake	192_thesnake	730	bu+ʨʰi+la	bu+tʃʰi+la	TB	b u + tʃ � i + l a
-106	DirangTshangla	193_thesnow	the snow	193_thesnow	784	pʰo+mu	pʰo+mu	TB	pʰ o + m u
-107	DirangTshangla	195_theson	the son	195_theson	1620	za	za	TB	z a
-108	DirangTshangla	197_thespider	the spider	197_thespider	843	bu+rɔŋ+bu	bu+rɔŋ+bu	TB	b u + r ɔ ŋ + b u
-109	DirangTshangla	200_thestar	the star	200_thestar	1430	kar+ma	kar+ma	TB	k a r + m a
-110	DirangTshangla	202_thestick	the stick	202_thestick	1295	dɔŋ+raŋ	dɔŋ+raŋ	TB	d ɔ ŋ + r a ŋ
-111	DirangTshangla	203_thestoneapieceof	the stone (a piece of)	203_thestoneapieceof	857	luŋ	luŋ	TB	l u ŋ
-112	DirangTshangla	205_thesun	the sun	205_thesun	1343	ŋam	ŋam	TB	ŋ a m
-113	DirangTshangla	206_thetail	the tail	206_thetail	1220	ɕam+pʰi	ɕam+pʰi	TB	ɕ a m + pʰ i
-114	DirangTshangla	211_thethigh	the thigh	211_thethigh	471	lum+tɕi	lum+tʃi	TB	l u m + tʃ i
-115	DirangTshangla	218_thethunder	the thunder	218_thethunder	1150	bruŋ	bruŋ	TB	b r u ŋ
-116	DirangTshangla	222_thetongue	the tongue	222_thetongue	1205	le	le	TB	l e
-117	DirangTshangla	223_thetoothfront	the tooth (front)	223_thetoothfront	1380	ɕa	ɕa	TB	ɕ a
-118	DirangTshangla	229_thewater	the water	229_thewater	948	ri	ri	TB	r i
-119	DirangTshangla	238_thewind	the wind	238_thewind	960	ri+di	ri+di	TB	r i + d i
-120	DirangTshangla	239_thewing	the wing	239_thewing	1257	oi+lɔm	oi+lɔm	TB	o i + l ɔ m
-121	DirangTshangla	242_thewoman	the woman	242_thewoman	962	ɲi+za	ɲi+za	TB	ɲ i + z a
-122	DirangTshangla	245_theyear	the year	245_theyear	1226	ɲiŋ	ɲiŋ	TB	ɲ i ŋ
-123	DirangTshangla	210_thick	thick	210_thick	1244	tʰɛt+pu	tʰɛt+pu	TB	tʰ ɛ t + p u
-124	DirangTshangla	212_thinobject	thin (object)	212_thinobject	2249	ba+lu	ba+lu	TB	b a + l u
-125	DirangTshangla	215_thousecondpersonsingular	thou [second person singular]	215_thousecondpersonsingular	1215	nan	nan	TB	n a n
-126	DirangTshangla	216_three	three	216_three	492	sam	sam	TB	s a m
-127	DirangTshangla	13_tobite	to bite	13_tobite	1403	ŋam	ŋam	TB	ŋ a m
-128	DirangTshangla	21_toburnintransitive	to burn [intransitive]	21_toburnintransitive	1428	bar	bar	TB	b a r
-129	DirangTshangla	22_tobuy	to buy	22_tobuy	1869	lɛŋ	lɛŋ	TB	l ɛ ŋ
-130	DirangTshangla	23_tochew	to chew	23_tochew	321	ŋam	ŋam	TB	ŋ a m
-131	DirangTshangla	27_tocome	to come	27_tocome	1446	u	u	TB	u
-132	DirangTshangla	29_tocount	to count	29_tocount	1420	kʰa+ɖaŋ a	kʰa+ɖaŋ+a	TB	kʰ a + ɖ a ŋ + a
-133	DirangTshangla	30_tocryweep	to cry (weep)	30_tocryweep	1839	gɛp	gɛp	TB	g ɛ p
-134	DirangTshangla	34_todie	to die	34_todie	1494	ɕi	ɕi	TB	ɕ i
-135	DirangTshangla	35_todig	to dig	35_todig	1418	bak	bak	TB	b a k
-136	DirangTshangla	39_todrink	to drink	39_todrink	1401	ʥam	dʒam	TB	dʒ a m
-137	DirangTshangla	46_toeat	to eat	46_toeat	1336	za	za	TB	z a
-138	DirangTshangla	53_tofight	to fight	53_tofight	1423	kʰo+kʰo a	kʰo+kʰo+a	TB	kʰ o + kʰ o + a
-139	DirangTshangla	62_toflymovethroughair	to fly (move through air)	62_toflymovethroughair	1441	psi+daŋ	psi+daŋ	TB	ps i + d a ŋ
-140	DirangTshangla	66_toforget	to forget	66_toforget	1523	ŋat	ŋat	TB	ŋ a t
-141	DirangTshangla	74_togive	to give	74_togive	1447	bi	bi	TB	b i
-142	DirangTshangla	85_tohear	to hear	85_tohear	1408	tʰa	tʰa	TB	tʰ a
-143	DirangTshangla	89_tohideconceal	to hide (conceal)	89_tohideconceal	602	gum	gum	TB	g u m
-144	DirangTshangla	91_tohold	to hold	91_tohold	1448	ʦʰuŋ	ʦʰuŋ	TB	ʦʰ u ŋ
-145	DirangTshangla	104_tokill	to kill	104_tokill	1417	ɕe	ɕe	TB	ɕ e
-146	DirangTshangla	111_tolaugh	to laugh	111_tolaugh	1355	ŋar	ŋar	TB	ŋ a r
-147	DirangTshangla	115_tolick	to lick	115_tolick	319	bɛn	bɛn	TB	b ɛ n
-148	DirangTshangla	153_toplay	to play	153_toplay	1413	ɲɛp	ɲɛp	TB	ɲ ɛ p
-149	DirangTshangla	155_topush	to push	155_topush	1452	brʲɛk	brʲɛk	TB	b rʲ ɛ k
-150	DirangTshangla	159_toresidelive	to reside (live)	159_toresidelive	363	ʨʰo	tʃʰo	TB	tʃ � o
-151	DirangTshangla	171_toscratch	to scratch	171_toscratch	1436	brat	brat	TB	b r a t
-152	DirangTshangla	173_tosee	to see	173_tosee	1409	tʰɔŋ	tʰɔŋ	TB	tʰ ɔ ŋ
-153	DirangTshangla	178_toshootanarrow	to shoot (an arrow)	178_toshootanarrow	1172	gap	gap	TB	g a p
-154	DirangTshangla	183_tosing	to sing	183_tosing	1261	ŋaŋ ɲur	ŋaŋ+ɲur	TB	ŋ a ŋ + ɲ u r
-155	DirangTshangla	187_tosleep	to sleep	187_tosleep	1585	ip	ip	TB	i p
-156	DirangTshangla	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	189_tosmellperceiveodortransitive	1586	nam	nam	TB	n a m
-157	DirangTshangla	198_tospit	to spit	198_tospit	1440	tʰɔp+taŋ pʰir	tʰɔp+taŋ+pʰir	TB	tʰ ɔ p + t a ŋ + pʰ i r
-158	DirangTshangla	199_tostand	to stand	199_tostand	1442	tʰiŋ	tʰiŋ	TB	tʰ i ŋ
-159	DirangTshangla	201_tosteal	to steal	201_tosteal	713	gro+wan a	gro+wan+a	TB	g r o + w a n + a
-160	DirangTshangla	213_tothinkreflect	to think (reflect)	213_tothinkreflect	1415	sam	sam	TB	s a m
-161	DirangTshangla	217_tothrow	to throw	217_tothrow	1456	pʰir	pʰir	TB	pʰ i r
-162	DirangTshangla	227_tovomit	to vomit	227_tovomit	1278	pʰrɔs	pʰrɔs	TB	pʰ r ɔ s
-163	DirangTshangla	228_towalk	to walk	228_towalk	1443	daŋ	daŋ	TB	d a ŋ
-164	DirangTshangla	240_towipe	to wipe	240_towipe	1454	pʰak	pʰak	TB	pʰ a k
-165	DirangTshangla	226_two	two	226_two	1498	ɲi+tsiŋ	ɲi+tsiŋ	TB	ɲ i + ts i ŋ
-166	DirangTshangla	231_wet	wet	231_wet	1726	ɕi+ri	ɕi+ri	TB	ɕ i + r i
-167	DirangTshangla	235_white	white	235_white	1335	ba+luŋ+bu	ba+luŋ+bu	TB	b a + l u ŋ + b u
-168	DirangTshangla	236_who	who	236_who	1235	si	si	TB	s i
-169	DirangTshangla	246_yellow	yellow	246_yellow	1424	sɛr+bu	sɛr+bu	TB	s ɛ r + b u
-170	DirangTshangla	1_above	above	1_above	1741	tʰuŋ+ga	tʰuŋ+ga	TB	
-171	DirangTshangla	2_all	all	2_all	98	gaŋ+pu	gaŋ+pu	TB	
-172	DirangTshangla	4_thearmpit	the armpit	4_thearmpit	1886			TB	
-173	DirangTshangla	5_bad	bad	5_bad	1292	duk+pu	duk+pu	TB	
-174	DirangTshangla	7_thebarleytibetanorhighland	the barley (tibetan or highland)	7_thebarleytibetanorhighland	932	pʰe+muŋ	pʰe+muŋ	TB	
-175	DirangTshangla	8_tobealive	to be alive	8_tobealive	1422			TB	
-176	DirangTshangla	10_belowunder	below, under	10_belowunder	1485	pʰra+kʰa	pʰra+kʰa	TB	
-177	DirangTshangla				175	pʰe	pʰe	TB	
-178	DirangTshangla				189	pu	pu	TB	
-179	DirangTshangla				1304	nu+nu	nu+nu	TB	
-180	DirangTshangla				1725	tik+pa+raŋ	tik+pa+raŋ	TB	
-181	DirangTshangla				706	lak+sum	lak+sum	TB	
-182	DirangTshangla				1357	za+min	za+min	TB	
-183	DirangTshangla				672	dʑok+pu	dʒok+pu	TB	
-184	DirangTshangla				2350	nam+tsʰe+raŋ	nam+tsʰe+raŋ	TB	
-185	DirangTshangla				1217	a+pa	a+pa	TB	
-186	DirangTshangla				1201	pu	pu	TB	
-187	DirangTshangla				10	tʰap+ɕiŋ	tʰap+ɕiŋ	TB	
-188	DirangTshangla				232	nep+taŋ	nep+taŋ	TB	
-189	DirangTshangla				1574	bon	bon	TB	
-190	DirangTshangla				2003	di	di	TB	
-191	DirangTshangla				249			TB	
-192	DirangTshangla				1312			TB	
-193	DirangTshangla				2034	ba	ba	TB	
-194	DirangTshangla				606	tsi	tsi	TB	
-195	DirangTshangla				136	a-tʰa	a-tʰa	TB	
-196	DirangTshangla				1265	tʰo+lu	tʰo+lu	TB	
-197	DirangTshangla				152	mik+pa	mik+pa	TB	
-198	DirangTshangla				2376			TB	
-199	DirangTshangla				615	kur+ta	kur+ta	TB	
-200	DirangTshangla				1634	gʲa+tʰur	gʲa+tʰur	TB	
-201	DirangTshangla				1435	ɕa+kʰon	ɕa+kʰon	TB	
-202	DirangTshangla				1200	juŋ+pʰa	juŋ+pʰa	TB	
-203	DirangTshangla				617	tɕʰes	tʃʰes	TB	
-204	DirangTshangla				274	ɲe	ɲe	TB	
-205	DirangTshangla				1352	tɕʰo+waŋ	tʃʰo+waŋ	TB	
-206	DirangTshangla				1410	se	se	TB	
-207	DirangTshangla				624	tsʰo	tsʰo	TB	
-208	DirangTshangla				504	lamp	lamp	TB	
-209	DirangTshangla				215	rin	rin	TB	
-210	DirangTshangla				478	no+waŋ+kʰop+taŋ	no+waŋ+kʰop+taŋ	TB	
-211	DirangTshangla				2164	pʰei+a+ma+la	pʰei+a+ma+la	TB	
-212	DirangTshangla				1509	kroŋ+tɕuŋ+bu	kroŋ+tʃuŋ+bu	TB	
-213	DirangTshangla				1216	a+ma	a+ma	TB	
-214	DirangTshangla				1267	pʰa+ra+a+ɲiŋ+za	pʰa+ra+a+ɲiŋ+za	TB	
-215	DirangTshangla				267			TB	
-216	DirangTshangla				12	je+naŋ	je+naŋ	TB	
-217	DirangTshangla				2112	gat+pu	gat+pu	TB	
-218	DirangTshangla				15	sam	sam	TB	
-219	DirangTshangla				1486	jaŋ	jaŋ	TB	
-220	DirangTshangla				1455	dʑak	dʒak	TB	
-221	DirangTshangla				1733	mu+di+jaŋ+ma	mu+di+jaŋ+ma	TB	
-222	DirangTshangla				2026	ra	ra	TB	
-223	DirangTshangla				666	goŋ+ri	goŋ+ri	TB	
-224	DirangTshangla				1519	jar	jar	TB	
-225	DirangTshangla				1091	in+tɕʰa+kʰa+lan	in+tʃʰa+kʰa+lan	TB	
-226	DirangTshangla				1474	dʑam+tsʰo	dʒam+tsʰo	TB	
-227	DirangTshangla				1331	ɕi+ɕa	ɕi+ɕa	TB	
-228	DirangTshangla				487	tsʰer+ban	tsʰer+ban	TB	
-229	DirangTshangla				341	ba+ri+woŋ	ba+ri+woŋ	TB	
-230	DirangTshangla				1234	dʑam+bu	dʒam+bu	TB	
-231	DirangTshangla				1854	tɕʰu+kʰa	tʃʰu+kʰa	TB	
-232	DirangTshangla				78	u+ɲu	u+ɲu	TB	
-233	DirangTshangla				1937	a+ɲa	a+ɲa	TB	
-234	DirangTshangla				1214	u+tʰu	u+tʰu	TB	
-235	DirangTshangla				846	bu+ɕu	bu+ɕu	TB	
-236	DirangTshangla				1283	tʰi+nuŋ	tʰi+nuŋ	TB	
-237	DirangTshangla				1329	ŋam+tɕʰa	ŋam+tʃʰa	TB	
-238	DirangTshangla				906	ɕiŋ	ɕiŋ	TB	
-239	DirangTshangla				1710	kʰei	kʰei	TB	
-240	DirangTshangla				1131	a+ɕi	a+ɕi	TB	
-241	DirangTshangla				1236	haŋ	haŋ	TB	
-242	DirangTshangla				1077	rem+pʰoŋ	rem+pʰoŋ	TB	
-243	DirangTshangla				1237	ba	ba	TB	
-244	DirangTshangla				1199	ɲi+zi	ɲi+zi	TB	
-245	DirangTshangla				522			TB	
-246	DirangTshangla				1803	ɕiŋ	ɕiŋ	TB	
-247	DirangTshangla				748	jaŋ	jaŋ	TB	
-248	DirangTshangla				1174	iŋ	iŋ	TB	
-249	DirangTshangla				1213	nan	nan	TB	
-250	DirangTshangla				1207	jam+naŋ	jam+naŋ	TB	
+RID	DOCULECT	CONCEPT	CONCEPTICON_IN_SAGART	CONCEPTICON_GLOSS	PARAMETER_ID	CONCEPTICON_ID	VALUE	FORM	SOURCE	SEGMENTS
+1	DirangTshangla	11_big	big	BIG	11_big	1202	taŋ+pu	taŋ+pu	TB	t a ŋ + p u
+2	DirangTshangla	14_black	black	BLACK	14_black	163	ʨʰaŋ+lu	tʃʰaŋ+lu	TB	tʃʰ a ŋ + l u
+3	DirangTshangla	26_coldoftemperature	cold (of temperature)	COLD	26_coldoftemperature	1287	kʰur+bu	kʰur+bu	TB	kʰ u r + b u
+4	DirangTshangla	36_dirty	dirty	DIRTY	36_dirty	1230	ʑei lok+pan	ʑei+lok+pan	TB	ʑ ei + l o k + p a n
+5	DirangTshangla	40_dry	dry	DRY	40_dry	1398	saŋ+bu	saŋ+bu	TB	s a ŋ + b u
+6	DirangTshangla	48_eight	eight	EIGHT	48_eight	1705	jɛn	jɛn	TB	j ɛ n
+7	DirangTshangla	50_far	far	FAR	50_far	1406	tʰa riŋ+bu	tʰa+riŋ+bu	TB	tʰ a + r i ŋ + b u
+8	DirangTshangla	57_five	five	FIVE	57_five	493	ŋa	ŋa	TB	ŋ a
+9	DirangTshangla	67_four	four	FOUR	67_four	1500	bi+tʃi	bi+tʃi	TB	b i + tʃ i
+10	DirangTshangla	73_full	full	FULL	73_full	1429	pʰuŋ+bei	pʰuŋ+bei	TB	pʰ u ŋ + b ei
+11	DirangTshangla	76_good	good	GOOD	76_good	1035	pʰe+lu	pʰe+lu	TB	pʰ e + l u
+12	DirangTshangla	78_green	green	GREEN	78_green	1425	jaŋ+lu	jaŋ+lu	TB	j a ŋ + l u
+13	DirangTshangla	82_hard	hard	HARD	82_hard	1884	kak+ta+ra	kak+ta+ra	TB	k a k + t a + r a
+14	DirangTshangla	83_heorshethirdpersonsingular	he or she [third person singular]	HE OR SHE OR IT	83_heorshethirdpersonsingular	262	dan	dan	TB	d a n
+15	DirangTshangla	87_heavy	heavy	HEAVY	87_heavy	1210	ʨʰit+pu	tʃʰit+pu	TB	tʃʰ i t + p u
+16	DirangTshangla	96_hot	hot	HOT	96_hot	1286	tsʰou	tsʰou	TB	tsʰ ou
+17	DirangTshangla	101_ifirstpersonsingular	I [first person singular]	I	101_ifirstpersonsingular	1209	ʥaŋ	dʒaŋ	TB	dʒ a ŋ
+18	DirangTshangla	103_inside	inside	INSIDE	103_inside	1606	naŋ	naŋ	TB	n a ŋ
+19	DirangTshangla	110_late	late	LATE	110_late	477	jɛt+kʰan	jɛt+kʰan	TB	j ɛ t + kʰ a n
+20	DirangTshangla	114_left	left	LEFT	114_left	244	jɔm+lak+pa	jɔm+lak+pa	TB	j ɔ m + l a k + p a
+21	DirangTshangla	117_lightofweight	light (of weight)	LIGHT (WEIGHT)	117_lightofweight	1052	jaŋ+pu	jaŋ+pu	TB	j a ŋ + p u
+22	DirangTshangla	120_long	long	LONG	120_long	1203	riŋ+bu	riŋ+bu	TB	r i ŋ + b u
+23	DirangTshangla	124_many	many	MANY	124_many	1198	tɕa.tɕa	tɕa.tɕa	TB	tɕ a . tɕ a
+24	DirangTshangla	127_middle	middle	MIDDLE	127_middle	1093	bar+ma	bar+ma	TB	b a r + m a
+25	DirangTshangla	129_morning	morning	MORNING	129_morning	1339	ŋam+niŋ	ŋam+niŋ	TB	ŋ a m + n i ŋ
+26	DirangTshangla	139_near	near	NEAR	139_near	1942	tɛp+ka	tɛp+ka	TB	t ɛ p + k a
+27	DirangTshangla	142_new	new	NEW	142_new	1231	siŋ+ba	siŋ+ba	TB	s i ŋ + b a
+28	DirangTshangla	143_nine	nine	NINE	143_nine	1483	gu	gu	TB	g u
+29	DirangTshangla	148_one	one	ONE	148_one	1493	tʰur	tʰur	TB	tʰ u r
+30	DirangTshangla	150_outside	outside	OUTSIDE	150_outside	762	psi+ka	psi+ka	TB	ps i + k a
+31	DirangTshangla	158_red	red	RED	158_red	156	tsʰa+lu	tsʰa+lu	TB	tsʰ a + l u
+32	DirangTshangla	161_right	right	RIGHT	161_right	1019	pʰe+lu+tɕok	pʰe+lu+tɕok	TB	pʰ e + l u + tɕ o k
+33	DirangTshangla	166_round	round	ROUND	166_round	1395	gɔr+gɔr+kei	gɔr+gɔr+kei	TB	g ɔ r + g ɔ r + k ei
+34	DirangTshangla	175_seven	seven	SEVEN	175_seven	1704	zum	zum	TB	z u m
+35	DirangTshangla	176_sharp	sharp	 SHARP	176_sharp	1396	tɕʰat+pu	tɕʰat+pu	TB	tɕʰ a t + p u
+36	DirangTshangla	179_short	short	SHORT	179_short	1645	kʰan+da	kʰan+da	TB	kʰ a n + d a
+37	DirangTshangla	184_six	six	SIX	184_six	1703	kʰuŋ	kʰuŋ	TB	kʰ u ŋ
+38	DirangTshangla	188_small	small	SMALL	188_small	1246	a+iŋ+za	a+iŋ+za	TB	a + i ŋ + z a
+39	DirangTshangla	194_soft	soft	SOFT	194_soft	1856	diu+za	diu+za	TB	d i u + z a
+40	DirangTshangla	204_straight	straight	STRAIGHT	204_straight	1404	laŋ+bu	laŋ+bu	TB	l a ŋ + b u
+41	DirangTshangla	207_ten	ten	TEN	207_ten	1515	se	se	TB	s e
+42	DirangTshangla	3_theant	the ant	ANT	3_theant	587	kʰaŋ+dʑi+la	kʰaŋ+dʒi+la	TB	kʰ a ŋ + dʒ i + l a
+43	DirangTshangla	6_thebamboo	the bamboo	BAMBOO	6_thebamboo	1927	ɕi	ɕi	TB	ɕ i
+44	DirangTshangla	9_thebelly	the belly	BELLY	9_thebelly	1251	pʰu+tɕi	pʰu+tɕi	TB	pʰ u + tɕ i
+45	DirangTshangla	12_thebird	the bird	BIRD	12_thebird	937	kʰa	kʰa	TB	kʰ a
+46	DirangTshangla	15_theblood	the blood	BLOOD	15_theblood	946	ʑi	ʑi	TB	ʑ i
+47	DirangTshangla	18_thebone	the bone	BONE	18_thebone	1394	kʰaŋ	kʰaŋ	TB	kʰ a ŋ
+48	DirangTshangla	19_thebranch	the branch	BRANCH	19_thebranch	1531	ɕiŋ+da	ɕiŋ+da	TB	ɕ i ŋ + d a
+49	DirangTshangla	20_thebreastfemale	the breast (female)	BREAST	20_thebreastfemale	1402	nu	nu	TB	n u
+50	DirangTshangla	25_thecloud	the cloud	CLOUD	25_thecloud	1489	muk+pa	muk+pa	TB	m u k + p a
+51	DirangTshangla	33_thedew	the dew	DEW	33_thedew	1977	jɔr+nak	jɔr+nak	TB	j ɔ r + n a k
+52	DirangTshangla	37_thedog	the dog	DOG	37_thedog	2009	kʰu	kʰu	TB	kʰ u
+53	DirangTshangla	38_thedream	the dream	DREAM	38_thedream	2374	mɔŋ+ɕu	mɔŋ+ɕu	TB	m ɔ ŋ + ɕ u
+54	DirangTshangla	41_thedust	the dust	DUST	41_thedust	2	dui+pa	dui+pa	TB	d u i + p a
+55	DirangTshangla	42_theear	the ear	EAR	42_theear	1247	nei+gaŋ	nei+gaŋ	TB	n ei + g a ŋ
+56	DirangTshangla	44_theearthsoil	the earth (soil)	EARTH (SOIL)	44_theearthsoil	1228	sa	sa	TB	s a
+57	DirangTshangla	47_theegg	the egg	EGG	47_theegg	744	goi+tʰam	goi+tʰam	TB	g o i + tʰ a m
+58	DirangTshangla	49_theeye	the eye	EYE	49_theeye	1248	miŋ	miŋ	TB	m i ŋ
+59	DirangTshangla	54_thefire	the fire	FIRE	54_thefire	221	mi	mi	TB	m i
+60	DirangTshangla	56_thefish	the fish	FISH	56_thefish	227	ŋa	ŋa	TB	ŋ a
+61	DirangTshangla	61_theflower	the flower	FLOWER	61_theflower	239	mɔm+naŋ	mɔm+naŋ	TB	m ɔ m + n a ŋ
+62	DirangTshangla	64_thefoot	the foot	FOOT	64_thefoot	1301	bi+bak+taŋ	bi+bak+taŋ	TB	b i + b a k + t a ŋ
+63	DirangTshangla	65_theforest	the forest	FOREST	65_theforest	420	mun	mun	TB	m u n
+64	DirangTshangla	69_thefrog	the frog	FROG	69_thefrog	503	tak+tak+pa	tak+tak+pa	TB	t a k + t a k + p a
+65	DirangTshangla	70_thefrontfrontside	the front (front side)	FRONT (PART)	70_thefrontfrontside	2194	gum	gum	TB	g u m
+66	DirangTshangla	72_thefruit	the fruit	FRUIT	72_thefruit	1507	kʰap+zas	kʰap+zas	TB	kʰ a p + z a s
+67	DirangTshangla	75_thegoat	the goat	GOAT	75_thegoat	1502	ra+wa	ra+wa	TB	r a + w a
+68	DirangTshangla	79_thehail	the hail	HAIL	79_thehail	609	sɛr+ba	sɛr+ba	TB	s ɛ r + b a
+69	DirangTshangla	80_thehairofthehead	the hair (of the head)	HAIR	80_thehairofthehead	1040	ʦʰam	ʦʰam	TB	ʦʰ a m
+70	DirangTshangla	81_thehand	the hand	HAND	81_thehand	1277	ga+raŋ	ga+raŋ	TB	g a + r a ŋ
+71	DirangTshangla	84_thehead	the head	HEAD	84_thehead	1256	ɕa+raŋ	ɕa+raŋ	TB	ɕ a + r a ŋ
+72	DirangTshangla	86_theheart	the heart	HEART	86_theheart	1223	tʰim+luŋ	tʰim+luŋ	TB	tʰ i m + l u ŋ
+73	DirangTshangla	94_thehornkeratinizedskin	the horn (keratinized skin)	HORN (ANATOMY)	94_thehornkeratinizedskin	1393	wa+rɔŋ	wa+rɔŋ	TB	w a + r ɔ ŋ
+74	DirangTshangla	97_thehouse	the house	HOUSE	97_thehouse	1252	pʰei	pʰei	TB	pʰ ei
+75	DirangTshangla	106_theknee	the knee	KNEE	106_theknee	1371	gum+ziŋ	gum+ziŋ	TB	g u m + z i ŋ
+76	DirangTshangla	112_theleaf	the leaf	LEAF	112_theleaf	628	ɕa+wa	ɕa+wa	TB	ɕ a + w a
+77	DirangTshangla	119_theliver	the liver	LIVER	119_theliver	1224	sa+sum	sa+sum	TB	s a + s u m
+78	DirangTshangla	121_thelouse	the louse	LOUSE	121_thelouse	1392	ɕiŋ	ɕiŋ	TB	ɕ i ŋ
+79	DirangTshangla	122_thelung	the lung	LUNG	122_thelung	688	ɕo	ɕo	TB	ɕ o
+80	DirangTshangla	123_themanmalehuman	the man (male human)	MALE PERSON	123_themanmalehuman	2106	soŋ+ŋa ʑan	soŋ+ŋa+ʑan	TB	s o ŋ + ŋ a + ʑ a n
+81	DirangTshangla	126_themeat	the meat	MEAT	126_themeat	634	ɕa	ɕa	TB	ɕ a
+82	DirangTshangla	128_themoon	the moon	MOON	128_themoon	1313	la+ɲi	la+ɲi	TB	l a + ɲ i
+83	DirangTshangla	132_themountain	the mountain	MOUNTAIN	132_themountain	639	la	la	TB	l a
+84	DirangTshangla	133_themouseorrat	the mouse or rat	MUROID (MOUSE OR RAT)	133_themouseorrat	2139	tɕʰu	tɕʰu	TB	tɕʰ u
+85	DirangTshangla	134_themouth	the mouth	MOUTH	134_themouth	674	no+waŋ	no+waŋ	TB	n o + w a ŋ
+86	DirangTshangla	135_themud	the mud	MUD	135_themud	640	ʑin+tsʰaŋ	ʑin+tsʰaŋ	TB	ʑ i n + tsʰ a ŋ
+87	DirangTshangla	136_thenailfingernailorclaw	the nail (fingernail or claw)	CLAW OR NAIL	136_thenailfingernailorclaw	2128	tsiŋ+naŋ	tsiŋ+naŋ	TB	ts i ŋ + n a ŋ
+88	DirangTshangla	137_thename	the name	NAME	137_thename	1405	miŋ	miŋ	TB	m i ŋ
+89	DirangTshangla	140_theneck	the neck	NECK	140_theneck	1333	ŋaŋ	ŋaŋ	TB	ŋ a ŋ
+90	DirangTshangla	141_theneedleforsewing	the needle (for sewing)	NEEDLE (FOR SEWING)	141_theneedleforsewing	1382	kʰam	kʰam	TB	kʰ a m
+91	DirangTshangla	146_thenose	the nose	NOSE	146_thenose	1221	na+uŋ	na+uŋ	TB	n a + u ŋ
+92	DirangTshangla	151_thepig	the pig	PIG	151_thepig	1337	pʰak+pa	pʰak+pa	TB	pʰ a k + p a
+93	DirangTshangla	156_therain	the rain	RAIN (PERCEPTTATION)	156_therain	658	ŋam+tɕʰu	ŋam+tʃʰu	TB	ŋ a m + tʃʰ u
+94	DirangTshangla	163_theroad	the road	ROAD	163_theroad	667	lam	lam	TB	l a m
+95	DirangTshangla	164_theroot	the root	ROOT	164_theroot	670	ɕiŋ+ra	ɕiŋ+ra	TB	ɕ i ŋ + r a
+96	DirangTshangla	165_therope	the rope	ROPE	165_therope	1218	lan	lan	TB	l a n
+97	DirangTshangla	168_thesalt	the salt	SALT	168_thesalt	1274	in+ʨʰa	in+tʃʰa	TB	i n + tʃʰ a
+98	DirangTshangla	170_thesand	the sand	SAND	170_thesand	671	be+ʦa	be+ʦa	TB	b e + ʦ a
+99	DirangTshangla	174_theseed	the seed	SEED	174_theseed	714	li	li	TB	l i
+100	DirangTshangla	250_theshit	the shit	SHIT (DEFECATE)	250_theshit	676	ɕi	ɕi	TB	ɕ i
+101	DirangTshangla	180_theshoulder	the shoulder	SHOULDER	180_theshoulder	1482	pʰaŋ+ma	pʰaŋ+ma	TB	pʰ a ŋ + m a
+102	DirangTshangla	185_theskin	the skin	SKIN	185_theskin	763	kʰɔp+taŋ	kʰɔp+taŋ	TB	kʰ ɔ p + t a ŋ
+103	DirangTshangla	186_thesky	the sky	SKY	186_thesky	1732	ŋam	ŋam	TB	ŋ a m
+104	DirangTshangla	190_thesmoke	the smoke	SMOKE (EXHAUST)	190_thesmoke	778	mu+gi	mu+gi	TB	m u + g i
+105	DirangTshangla	192_thesnake	the snake	SNAKE	192_thesnake	730	bu+ʨʰi+la	bu+tʃʰi+la	TB	b u + tʃʰ i + l a
+106	DirangTshangla	193_thesnow	the snow	SNOW	193_thesnow	784	pʰo+mu	pʰo+mu	TB	pʰ o + m u
+107	DirangTshangla	195_theson	the son	SON	195_theson	1620	za	za	TB	z a
+108	DirangTshangla	197_thespider	the spider	SPIDER	197_thespider	843	bu+rɔŋ+bu	bu+rɔŋ+bu	TB	b u + r ɔ ŋ + b u
+109	DirangTshangla	200_thestar	the star	STAR	200_thestar	1430	kar+ma	kar+ma	TB	k a r + m a
+110	DirangTshangla	202_thestick	the stick	STICK	202_thestick	1295	dɔŋ+raŋ	dɔŋ+raŋ	TB	d ɔ ŋ + r a ŋ
+111	DirangTshangla	203_thestoneapieceof	the stone (a piece of)	STONE	203_thestoneapieceof	857	luŋ	luŋ	TB	l u ŋ
+112	DirangTshangla	205_thesun	the sun	SUN	205_thesun	1343	ŋam	ŋam	TB	ŋ a m
+113	DirangTshangla	206_thetail	the tail	TAIL	206_thetail	1220	ɕam+pʰi	ɕam+pʰi	TB	ɕ a m + pʰ i
+114	DirangTshangla	211_thethigh	the thigh	UPPER LEG (THIGH)	211_thethigh	471	lum+tɕi	lum+tʃi	TB	l u m + tʃ i
+115	DirangTshangla	218_thethunder	the thunder	THUNDER	218_thethunder	1150	bruŋ	bruŋ	TB	b r u ŋ
+116	DirangTshangla	222_thetongue	the tongue	TONGUE	222_thetongue	1205	le	le	TB	l e
+117	DirangTshangla	223_thetoothfront	the tooth (front)	TOOTH	223_thetoothfront	1380	ɕa	ɕa	TB	ɕ a
+118	DirangTshangla	229_thewater	the water	WATER	229_thewater	948	ri	ri	TB	r i
+119	DirangTshangla	238_thewind	the wind	WIND	238_thewind	960	ri+di	ri+di	TB	r i + d i
+120	DirangTshangla	239_thewing	the wing	WING	239_thewing	1257	oi+lɔm	oi+lɔm	TB	o i + l ɔ m
+121	DirangTshangla	242_thewoman	the woman	WOMAN	242_thewoman	962	ɲi+za	ɲi+za	TB	ɲ i + z a
+122	DirangTshangla	245_theyear	the year	YEAR	245_theyear	1226	ɲiŋ	ɲiŋ	TB	ɲ i ŋ
+123	DirangTshangla	210_thick	thick	THICK	210_thick	1244	tʰɛt+pu	tʰɛt+pu	TB	tʰ ɛ t + p u
+124	DirangTshangla	212_thinobject	thin (object)	THIN (OF SHAPE OF OBJECT)	212_thinobject	2249	ba+lu	ba+lu	TB	b a + l u
+125	DirangTshangla	215_thousecondpersonsingular	thou [second person singular]	THOU	215_thousecondpersonsingular	1215	nan	nan	TB	n a n
+126	DirangTshangla	216_three	three	THREE	216_three	492	sam	sam	TB	s a m
+127	DirangTshangla	13_tobite	to bite	BITE	13_tobite	1403	ŋam	ŋam	TB	ŋ a m
+128	DirangTshangla	21_toburnintransitive	to burn [intransitive]	BURNING	21_toburnintransitive	1428	bar	bar	TB	b a r
+129	DirangTshangla	22_tobuy	to buy	BUY	22_tobuy	1869	lɛŋ	lɛŋ	TB	l ɛ ŋ
+130	DirangTshangla	23_tochew	to chew	CHEW	23_tochew	321	ŋam	ŋam	TB	ŋ a m
+131	DirangTshangla	27_tocome	to come	COME	27_tocome	1446	u	u	TB	u
+132	DirangTshangla	29_tocount	to count	COUNT	29_tocount	1420	kʰa+ɖaŋ a	kʰa+ɖaŋ+a	TB	kʰ a + ɖ a ŋ + a
+133	DirangTshangla	30_tocryweep	to cry (weep)	CRY	30_tocryweep	1839	gɛp	gɛp	TB	g ɛ p
+134	DirangTshangla	34_todie	to die	DIE	34_todie	1494	ɕi	ɕi	TB	ɕ i
+135	DirangTshangla	35_todig	to dig	DIG	35_todig	1418	bak	bak	TB	b a k
+136	DirangTshangla	39_todrink	to drink	DRINK	39_todrink	1401	ʥam	dʒam	TB	dʒ a m
+137	DirangTshangla	46_toeat	to eat	EAT	46_toeat	1336	za	za	TB	z a
+138	DirangTshangla	53_tofight	to fight	FIGHT	53_tofight	1423	kʰo+kʰo a	kʰo+kʰo+a	TB	kʰ o + kʰ o + a
+139	DirangTshangla	62_toflymovethroughair	to fly (move through air)	FLY (MOVE THROUGH AIR)	62_toflymovethroughair	1441	psi+daŋ	psi+daŋ	TB	ps i + d a ŋ
+140	DirangTshangla	66_toforget	to forget	FORGET	66_toforget	1523	ŋat	ŋat	TB	ŋ a t
+141	DirangTshangla	74_togive	to give	GIVE	74_togive	1447	bi	bi	TB	b i
+142	DirangTshangla	85_tohear	to hear	HEAR	85_tohear	1408	tʰa	tʰa	TB	tʰ a
+143	DirangTshangla	89_tohideconceal	to hide (conceal)	HIDE (CONCEAL)	89_tohideconceal	602	gum	gum	TB	g u m
+144	DirangTshangla	91_tohold	to hold	HOLD	91_tohold	1448	ʦʰuŋ	ʦʰuŋ	TB	ʦʰ u ŋ
+145	DirangTshangla	104_tokill	to kill	KILL	104_tokill	1417	ɕe	ɕe	TB	ɕ e
+146	DirangTshangla	111_tolaugh	to laugh	LAUGH	111_tolaugh	1355	ŋar	ŋar	TB	ŋ a r
+147	DirangTshangla	115_tolick	to lick	LICK	115_tolick	319	bɛn	bɛn	TB	b ɛ n
+148	DirangTshangla	153_toplay	to play	PLAY	153_toplay	1413	ɲɛp	ɲɛp	TB	ɲ ɛ p
+149	DirangTshangla	155_topush	to push	PUSH	155_topush	1452	brʲɛk	brʲɛk	TB	b rʲ ɛ k
+150	DirangTshangla	159_toresidelive	to reside (live)	DWELL (LIVE, RESIDE)	159_toresidelive	363	ʨʰo	tʃʰo	TB	tʃʰ o
+151	DirangTshangla	171_toscratch	to scratch	SCRATCH	171_toscratch	1436	brat	brat	TB	b r a t
+152	DirangTshangla	173_tosee	to see	SEE	173_tosee	1409	tʰɔŋ	tʰɔŋ	TB	tʰ ɔ ŋ
+153	DirangTshangla	178_toshootanarrow	to shoot (an arrow)	SHOOT	178_toshootanarrow	1172	gap	gap	TB	g a p
+154	DirangTshangla	183_tosing	to sing	SING	183_tosing	1261	ŋaŋ ɲur	ŋaŋ+ɲur	TB	ŋ a ŋ + ɲ u r
+155	DirangTshangla	187_tosleep	to sleep	SLEEP	187_tosleep	1585	ip	ip	TB	i p
+156	DirangTshangla	189_tosmellperceiveodortransitive	to smell (perceive odor) [transitive]	SMELL (PERCEIVE)	189_tosmellperceiveodortransitive	1586	nam	nam	TB	n a m
+157	DirangTshangla	198_tospit	to spit	SPIT	198_tospit	1440	tʰɔp+taŋ pʰir	tʰɔp+taŋ+pʰir	TB	tʰ ɔ p + t a ŋ + pʰ i r
+158	DirangTshangla	199_tostand	to stand	STAND	199_tostand	1442	tʰiŋ	tʰiŋ	TB	tʰ i ŋ
+159	DirangTshangla	201_tosteal	to steal	STEAL	201_tosteal	713	gro+wan a	gro+wan+a	TB	g r o + w a n + a
+160	DirangTshangla	213_tothinkreflect	to think (reflect)	THINK (REFLECT)	213_tothinkreflect	1415	sam	sam	TB	s a m
+161	DirangTshangla	217_tothrow	to throw	THROW	217_tothrow	1456	pʰir	pʰir	TB	pʰ i r
+162	DirangTshangla	227_tovomit	to vomit	VOMIT	227_tovomit	1278	pʰrɔs	pʰrɔs	TB	pʰ r ɔ s
+163	DirangTshangla	228_towalk	to walk	WALK	228_towalk	1443	daŋ	daŋ	TB	d a ŋ
+164	DirangTshangla	240_towipe	to wipe	WIPE	240_towipe	1454	pʰak	pʰak	TB	pʰ a k
+165	DirangTshangla	226_two	two	TWO	226_two	1498	ɲi+tsiŋ	ɲi+tsiŋ	TB	ɲ i + ts i ŋ
+166	DirangTshangla	231_wet	wet	WET	231_wet	1726	ɕi+ri	ɕi+ri	TB	ɕ i + r i
+167	DirangTshangla	235_white	white	WHITE	235_white	1335	ba+luŋ+bu	ba+luŋ+bu	TB	b a + l u ŋ + b u
+168	DirangTshangla	236_who	who	WHO	236_who	1235	si	si	TB	s i
+169	DirangTshangla	246_yellow	yellow	YELLOW	246_yellow	1424	sɛr+bu	sɛr+bu	TB	s ɛ r + b u
+170	DirangTshangla	1_above	above	ABOVE	1_above	1741	tʰuŋ+ga	tʰuŋ+ga	TB	tʰ u ŋ + g a
+171	DirangTshangla	2_all	all	ALL	2_all	98	gaŋ+pu	gaŋ+pu	TB	g a ŋ + p u
+172	DirangTshangla	4_thearmpit	the armpit	ARMPIT	4_thearmpit	1886			TB	
+173	DirangTshangla	5_bad	bad	BAD	5_bad	1292	duk+pu	duk+pu	TB	d u k + p u
+174	DirangTshangla	7_thebarleytibetanorhighland	the barley (tibetan or highland)	BARLEY	7_thebarleytibetanorhighland	932	pʰe+muŋ	pʰe+muŋ	TB	pʰ e + m u ŋ
+175	DirangTshangla	8_tobealive	to be alive	BE ALIVE	8_tobealive	1422			TB	
+176	DirangTshangla	10_belowunder	below, under	BELOW OR UNDER	10_belowunder	1485	pʰra+kʰa	pʰra+kʰa	TB	pʰ r a + kʰ a
+177	DirangTshangla	16_toblowofwind	to blow (of wind)	BLOW (OF WIND)	16_toblowofwind	175	pʰe	pʰe	TB	pʰ e
+178	DirangTshangla	17_thebodyhairhairorfur	the body hair (hair or fur)	HAIR (BODY)	17_thebodyhairhairorfur	189	pu	pu	TB	p u
+179	DirangTshangla	24_thechildyounghuman	the child (young human)	CHILD (YOUNG HUMAN)	24_thechildyounghuman	1304	nu+nu	nu+nu	TB	n u + n u
+180	DirangTshangla	28_correctright	correct (right)	CORRECT (RIGHT)	28_correctright	1725	tik+pa+raŋ	tik+pa+raŋ	TB	t i k + p a + r a ŋ
+181	DirangTshangla	31_dark	dark	DARK	31_dark	706	lak+sum	lak+sum	TB	l a k + s u m
+182	DirangTshangla	32_thedaughter	the daughter	DAUGHTER	32_thedaughter	1357	za+min	za+min	TB	z a + m i n
+183	DirangTshangla	43_early	early	EARLY	43_early	672	dʑok+pu	dʒok+pu	TB	dʒ o k + p u
+184	DirangTshangla	45_theearthworm	the earthworm	EARTHWORM	45_theearthworm	2350	nam+tsʰe+raŋ	nam+tsʰe+raŋ	TB	n a m + tsʰ e + r a ŋ
+185	DirangTshangla	51_thefather	the father	FATHER	51_thefather	1217	a+pa	a+pa	TB	a + p a
+186	DirangTshangla	52_thefeather	the feather	FEATHER	52_thefeather	1201	pu	pu	TB	p u
+187	DirangTshangla	55_firewood	firewood	FIREWOOD	55_firewood	10	tʰap+ɕiŋ	tʰap+ɕiŋ	TB	tʰ a p + ɕ i ŋ
+188	DirangTshangla	58_theflea	the flea	FLEA	58_theflea	232	nep+taŋ	nep+taŋ	TB	n e p + t a ŋ
+189	DirangTshangla	59_tofloat	to float	FLOAT	59_tofloat	1574	bon	bon	TB	b o n
+190	DirangTshangla	60_toflow	to flow	FLOW	60_toflow	2003	di	di	TB	d i
+191	DirangTshangla	63_thefog	the fog	FOG	63_thefog	249			TB	
+192	DirangTshangla	68_thefox	the fox	FOX	68_thefox	1312			TB	
+193	DirangTshangla	71_thefrost	the frost	FROST	71_thefrost	2034	ba	ba	TB	b a
+194	DirangTshangla	77_thegrass	the grass	GRASS	77_thegrass	606	tsi	tsi	TB	ts i
+195	DirangTshangla	88_here	here	HERE	88_here	136	a-tʰa	a-tʰa	TB	a + tʰ a
+196	DirangTshangla	90_hightall	high / tall	HIGH	90_hightall	1265	tʰo+lu	tʰo+lu	TB	tʰ o + l u
+197	DirangTshangla	92_thehoof	the hoof	HOOF	92_thehoof	152	mik+pa	mik+pa	TB	m i k + p a
+198	DirangTshangla	93_horizontal	horizontal	HORIZONTAL	93_horizontal	2376			TB	
+199	DirangTshangla	95_thehorse	the horse	HORSE	95_thehorse	615	kur+ta	kur+ta	TB	k u r + t a
+200	DirangTshangla	98_hundred	hundred	HUNDRED	98_hundred	1634	gʲa+tʰur	gʲa+tʰur	TB	gʲ a + tʰ u r
+201	DirangTshangla	99_tohunt	to hunt	HUNT	99_tohunt	1435	ɕa+kʰon	ɕa+kʰon	TB	ɕ a + kʰ o n
+202	DirangTshangla	100_thehusband	the husband	HUSBAND	100_thehusband	1200	juŋ+pʰa	juŋ+pʰa	TB	j u ŋ + pʰ a
+203	DirangTshangla	102_theice	the ice	ICE	102_theice	617	tɕʰes	tʃʰes	TB	tʃʰ e s
+204	DirangTshangla	105_toknead	to knead	KNEAD	105_toknead	274	ɲe	ɲe	TB	ɲ e
+205	DirangTshangla	107_knife	knife	KNIFE	107_knife	1352	tɕʰo+waŋ	tʃʰo+waŋ	TB	tʃʰ o + w a ŋ
+206	DirangTshangla	108_toknowsomething	to know (something)	KNOW (SOMETHING)	108_toknowsomething	1410	se	se	TB	s e
+207	DirangTshangla	109_thelake	the lake	LAKE	109_thelake	624	tsʰo	tsʰo	TB	tsʰ o
+208	DirangTshangla	113_tolearn	to learn	LEARN	113_tolearn	504	lamp	lamp	TB	l a m p
+209	DirangTshangla	116_toliedown	to lie down	LIE DOWN	116_toliedown	215	rin	rin	TB	r i n
+210	DirangTshangla	118_thelipthelips	the lip (the lips)	LIP	118_thelipthelips	478	no+waŋ+kʰop+taŋ	no+waŋ+kʰop+taŋ	TB	n o + w a ŋ + kʰ o p + t a ŋ
+211	DirangTshangla	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	MARRY (AS MAN)	125_tomarryamanmarriesawoman	2164	pʰei+a+ma+la	pʰei+a+ma+la	TB	pʰ ei + a + m a + l a
+212	DirangTshangla	130_themosquito	the mosquito	MOSQUITO	130_themosquito	1509	kroŋ+tɕuŋ+bu	kroŋ+tʃuŋ+bu	TB	k r o ŋ + tʃ u ŋ + b u
+213	DirangTshangla	131_themother	the mother	MOTHER	131_themother	1216	a+ma	a+ma	TB	a + m a
+214	DirangTshangla	138_narrow	narrow	NARROW	138_narrow	1267	pʰa+ra+a+ɲiŋ+za	pʰa+ra+a+ɲiŋ+za	TB	pʰ a + r a + a + ɲ i ŋ + z a
+215	DirangTshangla	144_thenit	the nit	NIT	144_thenit	267			TB	
+216	DirangTshangla	145_noon	noon	MIDDAY	145_noon	12	je+naŋ	je+naŋ	TB	j e + n a ŋ
+217	DirangTshangla	147_oldofperson	old (of person)	OLD (AGED)	147_oldofperson	2112	gat+pu	gat+pu	TB	g a t + p u
+218	DirangTshangla	149_theotter	the otter	OTTER	149_theotter	15	sam	sam	TB	s a m
+219	DirangTshangla	152_toplantvegetalsrice	to plant (vegetals, rice)	PLANT (SOMETHING)	152_toplantvegetalsrice	1486	jaŋ	jaŋ	TB	j a ŋ
+220	DirangTshangla	154_topull	to pull	PULL	154_topull	1455	dʑak	dʒak	TB	dʒ a k
+221	DirangTshangla	157_therainbow	the rainbow	RAINBOW	157_therainbow	1733	mu+di+jaŋ+ma	mu+di+jaŋ+ma	TB	m u + d i + j a ŋ + m a
+222	DirangTshangla	160_thericeplant	the rice plant	RICE PLANT	160_thericeplant	2026	ra	ra	TB	r a
+223	DirangTshangla	162_theriver	the river	RIVER	162_theriver	666	goŋ+ri	goŋ+ri	TB	g o ŋ + r i
+224	DirangTshangla	167_torun	to run	RUN	167_torun	1519	jar	jar	TB	j a r
+225	DirangTshangla	169_salty	salty	SALTY	169_salty	1091	in+tɕʰa+kʰa+lan	in+tʃʰa+kʰa+lan	TB	i n + tʃʰ a + kʰ a + l a n
+226	DirangTshangla	172_thesea	the sea	SEA	172_thesea	1474	dʑam+tsʰo	dʒam+tsʰo	TB	dʒ a m + tsʰ o
+227	DirangTshangla	177_thesheep	the sheep	SHEEP	177_thesheep	1331	ɕi+ɕa	ɕi+ɕa	TB	ɕ i + ɕ a
+228	DirangTshangla	181_shy	shy	SHY	181_shy	487	tsʰer+ban	tsʰer+ban	TB	tsʰ e r + b a n
+229	DirangTshangla	182_thesickle	the sickle	SICKLE	182_thesickle	341	ba+ri+woŋ	ba+ri+woŋ	TB	b a + r i + w o ŋ
+230	DirangTshangla	191_smooth	smooth	SMOOTH	191_smooth	1234	dʑam+bu	dʒam+bu	TB	dʒ a m + b u
+231	DirangTshangla	196_thesparrow	the sparrow	SPARROW	196_thesparrow	1854	tɕʰu+kʰa	tʃʰu+kʰa	TB	tʃʰ u + kʰ a
+232	DirangTshangla	208_that	that	THAT	208_that	78	u+ɲu	u+ɲu	TB	u + ɲ u
+233	DirangTshangla	209_there	there	THERE	209_there	1937	a+ɲa	a+ɲa	TB	a + ɲ a
+234	DirangTshangla	214_this	this	THIS	214_this	1214	u+tʰu	u+tʰu	TB	u + tʰ u
+235	DirangTshangla	219_thetiger	the tiger	TIGER	219_thetiger	846	bu+ɕu	bu+ɕu	TB	b u + ɕ u
+236	DirangTshangla	220_today	today	TODAY	220_today	1283	tʰi+nuŋ	tʰi+nuŋ	TB	tʰ i + n u ŋ
+237	DirangTshangla	221_tomorrow	tomorrow	TOMORROW	221_tomorrow	1329	ŋam+tɕʰa	ŋam+tʃʰa	TB	ŋ a m + tʃʰ a
+238	DirangTshangla	224_thetree	the tree	TREE	224_thetree	906	ɕiŋ	ɕiŋ	TB	ɕ i ŋ
+239	DirangTshangla	225_twenty	twenty	TWENTY	225_twenty	1710	kʰei	kʰei	TB	kʰ ei
+240	DirangTshangla	230_wefirstpersonpluralinclusive	we [first person plural inclusive]	WE (INCLUSIVE)	230_wefirstpersonpluralinclusive	1131	a+ɕi	a+ɕi	TB	a + ɕ i
+241	DirangTshangla	232_what	what	WHAT	232_what	1236	haŋ	haŋ	TB	h a ŋ
+242	DirangTshangla	233_thewheat	the wheat	WHEAT	233_thewheat	1077	rem+pʰoŋ	rem+pʰoŋ	TB	r e m + pʰ o ŋ
+243	DirangTshangla	234_where	where	WHERE	234_where	1237	ba	ba	TB	b a
+244	DirangTshangla	237_thewife	the wife	WIFE	237_thewife	1199	ɲi+zi	ɲi+zi	TB	ɲ i + z i
+245	DirangTshangla	241_thewolf	the wolf	WOLF	241_thewolf	522			TB	
+246	DirangTshangla	243_thewoodmaterial	the wood (material)	WOOD	243_thewoodmaterial	1803	ɕiŋ	ɕiŋ	TB	ɕ i ŋ
+247	DirangTshangla	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	SOW SEEDS	244_tosowbroadcastscatterseeds	748	jaŋ	jaŋ	TB	j a ŋ
+248	DirangTshangla	247_yesterday	yesterday	YESTERDAY	247_yesterday	1174	iŋ	iŋ	TB	i ŋ
+249	DirangTshangla	248_yousecondpersonplural	you [second person plural]	YOU	248_yousecondpersonplural	1213	nan	nan	TB	n a n
+250	DirangTshangla	249_young	young	YOUNG	249_young	1207	jam+naŋ	jam+naŋ	TB	j a m + n a ŋ
