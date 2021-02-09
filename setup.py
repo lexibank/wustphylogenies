@@ -2,13 +2,13 @@ from setuptools import setup
 
 
 setup(
-    name='lexibank_bodtstnew',
-    py_modules=['lexibank_bodtstnew'],
+    name='lexibank_bodtphylogeny',
+    py_modules=['lexibank_bodtphylogeny'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'bodtstnew=lexibank_bodtstnew:Dataset',
+            'bodtphylogeny=lexibank_bodtphylogeny:Dataset',
         ],
         'cldfbench.commands':[
             'bodtphylogeny = bodtphylogenycommands',

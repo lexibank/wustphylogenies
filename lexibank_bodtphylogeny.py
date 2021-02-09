@@ -84,7 +84,7 @@ class Dataset(BaseDataset):
         languages_lookup = args.writer.add_languages(
             id_factory=lambda l: l["ID"], lookup_factory="Name"
         )
-        # read in data
+        # start working on data.
         for c in progressbar(concepts_lookup, desc="cldfify"):
             if c in Tshangla_concepticon:
                 for idx, cid, fm in Tshangla_wl.iter_rows("concepticon_id", "form"):
@@ -97,7 +97,7 @@ class Dataset(BaseDataset):
                             Parameter_ID=concepts_lookup[c],
                             Value=Tshangla_wl[idx, "value"],
                             Form=Tshangla_wl[idx, "form"],
-                            Source="TB",
+                            Source=["TB"],
                             NOTES="",
                         )
             # now check Galo
@@ -114,7 +114,7 @@ class Dataset(BaseDataset):
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
                             Form=fm,
-                            Source="Post07",
+                            Source=["Post07"],
                             NOTES=Galo_wl[idx, "notes"],
                         )
             # now check Tangam
@@ -217,7 +217,7 @@ class Dataset(BaseDataset):
                             Value=WKB_wl[idx, "value"],
                             Form=WKB_wl[idx, "form"],
                             Segments=WKB_wl[idx, "tokens"],
-                            Source="TB",
+                            Source=["TB"],
                             NOTES="",
                             LOAN=WKB_wl[idx, "loan"],
                             Cognacy=WKB_wl[idx, "cognacy"],
@@ -226,7 +226,7 @@ class Dataset(BaseDataset):
                             args.writer.add_cognate(
                                 lexeme=row,
                                 Cognateset_ID=WKB_wl[idx, "cognacy"],
-                                Source="TB",
+                                Source=["TB"],
                                 Alignment="",
                                 Alignment_Source="",
                             )
