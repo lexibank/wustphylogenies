@@ -1,36 +1,36 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Doculect,Subgroup,Source
-DirangTshangla,DirangTshangla,dira1243,Dirang Tshangla,,Eurasia,27.343674,92.273057,Sino-Tibetan,Dirang Tshangla,Bodic,TB
-BhutanTshangla,BhutanTshangla,tsha1245,Tshangla,tsj,Eurasia,27.332081,91.551505,Sino-Tibetan,Bhutan Tshangla,Bodic,TB
-MotuoMenba,MotuoMenba,tsha1245,Tshangla,tsj,Eurasia,29.321347,95.319922,Sino-Tibetan,Motuo Cangluo Tshangla,Bodic,Huang1992
-Galo,Galo,galo1242,Galo,adl,Eurasia,27.98,94.69,Sino-Tibetan,Galo,Tani,Post07
-Tangam,Tangam,tang1377,Tangam,,Eurasia,28.956354,94.990737,Sino-Tibetan,Tangam,Tani,Post07
-BuluPuroik,BuluPuroik,bulu1255,Bulu,,Eurasia,27.451029,92.44627,Sino-Tibetan,Puroik,KhoBwa,Lieberherr2017
-DikhyangBugun,DikhyangBugun,dikh1234,Dikhyang,,Eurasia,27.320448,92.454924,Sino-Tibetan,Bugun,KhoBwa,TB
-WanghoBugun,WanghoBugun,wang1301,Wangho,,Eurasia,27.24169,92.420806,Sino-Tibetan,Bugun,KhoBwa,Abraham
-BichomBugun,BichomBugun,bich1234,Bichom,,Eurasia,27.31177,92.592007,Sino-Tibetan,Bugun,KhoBwa,Abraham
-SingchungBugun,SingchungBugun,sing1271,Singchung,,Eurasia,27.191743,92.474176,Sino-Tibetan,Bugun,KhoBwa,Abraham
-KaspiBugun,KaspiBugun,kasp1234,Kaspi,,Eurasia,27.204536,92.564228,Sino-Tibetan,Bugun,KhoBwa,Abraham
-NamphriBugun,NamphriBugun,namp1239,Namphri,,Eurasia,27.24403,92.52836,Sino-Tibetan,Bugun,KhoBwa,Abraham
-Duhumbi,Duhumbi,chug1252,Duhumbi,cvg,Eurasia,27.416112,92.212034,Sino-Tibetan,Duhumbi,WesternKhoBwa,TB
-Khispi,Khispi,lish1235,Khispi,lsh,Eurasia,27.378042,92.223221,Sino-Tibetan,Khispi,WesternKhoBwa,TB
-Khoina,Khoina,khoi1253,Khoina,,Eurasia,27.334981,92.52994,Sino-Tibetan,Sartang,WesternKhoBwa,TB
-Khoitam,Khoitam,khoi1252,Khoitam,,Eurasia,27.327487,92.439455,Sino-Tibetan,Sartang,WesternKhoBwa,TB
-Rahung,Rahung,rahu1234,Rahung,,Eurasia,27.310778,92.395028,Sino-Tibetan,Sartang,WesternKhoBwa,TB
-Rupa,Rupa,rupa1234,Rupa,,Eurasia,27.203065,92.398757,Sino-Tibetan,Sherdukpen,WesternKhoBwa,TB
-Shergaon,Shergaon,sher1261,Shergaon,,Eurasia,27.105018,92.272133,Sino-Tibetan,Sherdukpen,WesternKhoBwa,TB
-Jerigaon,Jerigaon,jeri1243,Jerigaon,,Eurasia,27.340629,92.486595,Sino-Tibetan,Sartang,WesternKhoBwa,TB
-Khengkha,Khengkha,khen1241,Khengkha,xkf,Eurasia,27.144878,90.689999,Sino-Tibetan,Khengkha,East Bodish,"TB, A&Y96"
-Dzalakha,Dzalakha,dzal1238,Dzalakha,dzl,Eurasia,27.605989,91.494864,Sino-Tibetan,Dzalakha,East Bodish,"DDC2017, TB"
-Bumthang,Bumthang,khen1241,Khengkha,xkf,Eurasia,27.549248,90.753738,Sino-Tibetan,Bumthang,East Bodish,TB
-MamaCuonaMenba,MamaCuonaMenba,dakp1242,Dakpakha,dka,Eurasia,27.872413,91.798576,Sino-Tibetan,Tshona Dakpa,East Bodish,"LS2002, LS1986"
-WenlangCuonaMenba,WenlangCuonaMenba,dakp1242,Dakpakha,dka,Eurasia,29.367765,95.339063,Sino-Tibetan,Tawang Dakpa,East Bodish,"LS2002, LS1986"
-HrusoAkaJamiri,HrusoAkaJamiri,hrus1242,Hruso,hru,Eurasia,27.203617,92.590615,Hruso,Hruso Aka,Hrusish,"B&L15, TB"
-Bangru,Bangru,bang1369,Bangru,,Eurasia,27.952786,93.164169,Sino-Tibetan,Bangru,Hrusish,"B&L15, TB"
-NamreiBisai,NamreiBisai,hrus1242,Hruso,hru,Eurasia,27.680112,92.699998,Hruso,Namrei,Hrusish,"B&L15, TB"
-NamreiNabolang,NamreiNabolang,hrus1242,Hruso,hru,Eurasia,27.558051,92.789317,Hruso,Namrei,Hrusish,"B&L15, TB"
-DammaiDibin,DammaiDibin,hrus1242,Hruso,hru,Eurasia,27.444541,92.511881,Hruso,Miji,Hrusish,"B&L15, TB"
-DammaiRurang,DammaiRurang,hrus1242,Hruso,hru,Eurasia,27.368891,92.48215,Hruso,Miji,Hrusish,"B&L15, TB"
-MijiNafra,MijiNafra,hrus1242,Hruso,hru,Eurasia,27.371831,92.544458,Hruso,Miji,Hrusish,"B&L15, TB"
+TshDirangTshangla,DirangTshangla,dira1243,Dirang Tshangla,,Eurasia,27.343674,92.273057,Sino-Tibetan,Dirang Tshangla,Bodic,TB
+TshBhutanTshangla,BhutanTshangla,tsha1245,Tshangla,tsj,Eurasia,27.332081,91.551505,Sino-Tibetan,Bhutan Tshangla,Bodic,TB
+TshMotuoMenba,MotuoMenba,tsha1245,Tshangla,tsj,Eurasia,29.321347,95.319922,Sino-Tibetan,Motuo Cangluo Tshangla,Bodic,Huang1992
+TaniGalo,Galo,galo1242,Galo,adl,Eurasia,27.98,94.69,Sino-Tibetan,Galo,Tani,Post2007
+TaniTangam,Tangam,tang1377,Tangam,,Eurasia,28.956354,94.990737,Sino-Tibetan,Tangam,Tani,Post2007
+KBWestPuroikLieberherr,BuluPuroik,bulu1255,Bulu,,Eurasia,27.451029,92.44627,Sino-Tibetan,Puroik,KhoBwa,Lieberherr2017
+KBDikhyangBugun,DikhyangBugun,dikh1234,Dikhyang,,Eurasia,27.320448,92.454924,Sino-Tibetan,Bugun,KhoBwa,TB
+KBWanghoBugun,WanghoBugun,wang1301,Wangho,,Eurasia,27.24169,92.420806,Sino-Tibetan,Bugun,KhoBwa,Abraham2018
+KBBichomBugun,BichomBugun,bich1234,Bichom,,Eurasia,27.31177,92.592007,Sino-Tibetan,Bugun,KhoBwa,Abraham2018
+KBSingchungBugun,SingchungBugun,sing1271,Singchung,,Eurasia,27.191743,92.474176,Sino-Tibetan,Bugun,KhoBwa,Abraham2018
+KBKaspiBugun,KaspiBugun,kasp1234,Kaspi,,Eurasia,27.204536,92.564228,Sino-Tibetan,Bugun,KhoBwa,Abraham2018
+KBNamphriBugun,NamphriBugun,namp1239,Namphri,,Eurasia,27.24403,92.52836,Sino-Tibetan,Bugun,KhoBwa,Abraham2018
+KBWDuhumbi,Duhumbi,chug1252,Duhumbi,cvg,Eurasia,27.416112,92.212034,Sino-Tibetan,Duhumbi,WesternKhoBwa,TB
+KBWKhispi,Khispi,lish1235,Khispi,lsh,Eurasia,27.378042,92.223221,Sino-Tibetan,Khispi,WesternKhoBwa,TB
+KBWKhoina,Khoina,khoi1253,Khoina,,Eurasia,27.334981,92.52994,Sino-Tibetan,Sartang,WesternKhoBwa,TB
+KBWKhoitam,Khoitam,khoi1252,Khoitam,,Eurasia,27.327487,92.439455,Sino-Tibetan,Sartang,WesternKhoBwa,TB
+KBWRahung,Rahung,rahu1234,Rahung,,Eurasia,27.310778,92.395028,Sino-Tibetan,Sartang,WesternKhoBwa,TB
+KBWRupa,Rupa,rupa1234,Rupa,,Eurasia,27.203065,92.398757,Sino-Tibetan,Sherdukpen,WesternKhoBwa,TB
+KBWShergaon,Shergaon,sher1261,Shergaon,,Eurasia,27.105018,92.272133,Sino-Tibetan,Sherdukpen,WesternKhoBwa,TB
+KBWJerigaon,Jerigaon,jeri1243,Jerigaon,,Eurasia,27.340629,92.486595,Sino-Tibetan,Sartang,WesternKhoBwa,TB
+EBKhengkha,Khengkha,khen1241,Khengkha,xkf,Eurasia,27.144878,90.689999,Sino-Tibetan,Khengkha,East Bodish,"TB, AandY1996"
+EBDzalakha,Dzalakha,dzal1238,Dzalakha,dzl,Eurasia,27.605989,91.494864,Sino-Tibetan,Dzalakha,East Bodish,"DDC2017, TB"
+EBBumthang,Bumthang,khen1241,Khengkha,xkf,Eurasia,27.549248,90.753738,Sino-Tibetan,Bumthang,East Bodish,vanDriem2015
+EBMamaCuonaMenba,MamaCuonaMenba,dakp1242,Dakpakha,dka,Eurasia,27.872413,91.798576,Sino-Tibetan,Tshona Dakpa,East Bodish,"Lu2002, Lu1986"
+EBWenlangCuonaMenba,WenlangCuonaMenba,dakp1242,Dakpakha,dka,Eurasia,29.367765,95.339063,Sino-Tibetan,Tawang Dakpa,East Bodish,"Lu2002, Lu1986"
+HruHrusoAkaJamiri,HrusoAkaJamiri,hrus1242,Hruso,hru,Eurasia,27.203617,92.590615,Hruso,Hruso Aka,Hrusish,"Simon1993, TB"
+HruBangru,Bangru,bang1369,Bangru,,Eurasia,27.952786,93.164169,Sino-Tibetan,Bangru,Hrusish,"BandL2015, TB"
+HruNamreiBisai,NamreiBisai,hrus1242,Hruso,hru,Eurasia,27.680112,92.699998,Hruso,Namrei,Hrusish,"BandL2015, TB"
+HruNamreiNabolang,NamreiNabolang,hrus1242,Hruso,hru,Eurasia,27.558051,92.789317,Hruso,Namrei,Hrusish,"BandL2015, TB"
+HruDammaiDibin,DammaiDibin,hrus1242,Hruso,hru,Eurasia,27.444541,92.511881,Hruso,Miji,Hrusish,"BandL2015, TB"
+HruDammaiRurang,DammaiRurang,hrus1242,Hruso,hru,Eurasia,27.368891,92.48215,Hruso,Miji,Hrusish,"BandL2015, TB"
+HruMijiNafra,MijiNafra,hrus1242,Hruso,hru,Eurasia,27.371831,92.544458,Hruso,Miji,Hrusish,"Simon1979, TB"
 Kusunda,KusundaK,kusu1250,Kusunda,kgg,Eurasia,28.431855,82.802796,Kusunda,Kusunda,,TB
 Achang,Achang,acha1249,Longchuan Achang,acn,Eurasia,24.466605,97.89503,Sino-Tibetan,Achang,Burmish,"Huang1992,Hill2017"
 Atsi,Atsi,zaiw1241,Zaiwa,atb,Eurasia,24.193367,97.806689,Sino-Tibetan,Atsi,Burmish,"Huang1992,Hill2017"
@@ -42,8 +42,8 @@ Rangoon,Rangoon,nucl1310,Burmese,mya,Eurasia,16.874207,96.190785,Sino-Tibetan,Ra
 Xiandao,Xiandao,xian1249,Xiandao,xia,Eurasia,24.494153,97.753173,Sino-Tibetan,Xiandao,Burmish,"Huang1992,Hill2017"
 Chepang,Chepang,chep1245,Chepang,cdm,Eurasia,27.785164,84.908801,Sino-Tibetan,Chepang,,Caughley2000
 Hakha,Hakha,haka1240,Haka Chin,cnh,Eurasia,22.870089,92.820021,Sino-Tibetan,Hakha,Chin,VanBik2014
-DarangTaraon,DarangTaraon,diga1241,Tawra,mhu,Eurasia,28.657986,97.469136,Sino-Tibetan,Darang Taraon,Deng,Huang1992
-Yidu,Yidu,idum1241,Idu,clk,Eurasia,29.448172,95.650179,Sino-Tibetan,Yidu,Deng,Huang1992
+DarangTaraon,DarangTaraon,diga1241,Tawra,mhu,Eurasia,28.657986,97.469136,Sino-Tibetan,Darang Taraon,Mishmi,Huang1992
+Yidu,Yidu,idum1241,Idu,clk,Eurasia,29.448172,95.650179,Sino-Tibetan,Yidu,Mishmi,Huang1992
 Garo,Garo,garo1247,Garo,grt,Eurasia,25.504744,90.333226,Sino-Tibetan,Garo,Garo,Burling2003
 KarbiMikir,Mikir,karb1241,Hills Karbi,mjw,Eurasia,25.735084,93.050494,Sino-Tibetan,Karbi (Mikir),Mizo,"Walker1925,KonnerthFC,GruessnerNoDate"
 WobziKhroskyabs,WobziKhroskyabs,eree1240,Ere (China),,Eurasia,31.62758,101.427999,Sino-Tibetan,Khroskyabs Wobzi,rGyalrong,Lai2017
@@ -62,7 +62,7 @@ Zhaba,Zhaba,zhab1238,Zhaba,zhb,Eurasia,30.538892,101.058397,Sino-Tibetan,Zhaba,Q
 Rabha,Rabha,rabh1238,Rabha,rah,Eurasia,25.820135,91.170064,Sino-Tibetan,Rabha,Rabha,Joseph2007
 Daofu,Daofu,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,Daofu,rGyalrong,Huang1992
 Japhug,Japhug,japh1234,Japhug,,Eurasia,32.207076,101.957636,Sino-Tibetan,Japhug,rGyalrong,Jacques2015b
-Marerkang,MaerkangrGyalrong,situ1238,Situ,,Eurasia,31.868614,102.295293,Sino-Tibetan,Marerkang,rGyalrong,Huang1992
+Maerkang,MaerkangrGyalrong,situ1238,Situ,,Eurasia,31.868614,102.295293,Sino-Tibetan,Marerkang,rGyalrong,Huang1992
 Beijing,Beijing,beij1235,Beijingic,,Eurasia,39.909056,116.397422,Sino-Tibetan,Beijing,Sinitic,Lai2017FN
 Chaozhou,Chaozhou,chao1238,Chaozhou,,Eurasia,23.657699,116.622317,Sino-Tibetan,Chaozhou,Sinitic,Lai2017FN
 Guangzhou,Guangzhou,guan1279,Guangzhou,,Eurasia,23.131111,113.258099,Sino-Tibetan,Guangzhou,Sinitic,Lai2017FN
@@ -71,7 +71,7 @@ Longgang,Longgang,hakk1236,Hakka Chinese,hak,Eurasia,22.725545,114.243825,Sino-T
 OldChinese,OldChinese,oldc1244,Old Chinese,och,Eurasia,34.101745,108.777868,Sino-Tibetan,Old Chinese,Sinitic,Baxter2014
 Xingning,Xingning,hakk1236,Hakka Chinese,hak,Eurasia,24.13674,115.732382,Sino-Tibetan,Xingning,Sinitic,Lai2017FN
 Tangut,Tangut,tang1334,Tangut,txg,Eurasia,38.477453,106.285383,Sino-Tibetan,Tangut,Tangut,Li1997
-Bokar,Bokar,boka1249,Bokar-Ramo,,Eurasia,27.554547,93.15717,Sino-Tibetan,Bokar,Tani,Huang1992
+TaniBokar,Bokar,boka1249,Bokar-Ramo,,Eurasia,27.554547,93.15717,Sino-Tibetan,Bokar,Tani,Huang1992
 Alike,Alike,amdo1237,Amdo Tibetan,adx,Eurasia,38.318508,92.839938,Sino-Tibetan,Alike,Tibetan,Huang1992
 Batang,Batang,kham1282,Khams Tibetan,khg,Eurasia,30.00795,99.111944,Sino-Tibetan,Batang,Tibetan,Huang1992
 Lhasa,Lhasa,utsa1239,Lhasa Tibetan,,Eurasia,29.653441,91.171493,Sino-Tibetan,Lhasa,Tibetan,Huang1992
@@ -80,3 +80,8 @@ Xiahe,Xiahe,amdo1237,Amdo Tibetan,adx,Eurasia,35.210549,102.524979,Sino-Tibetan,
 Bunan,Bunan,gahr1239,Bunan,bfu,Eurasia,32.554766,77.076283,Sino-Tibetan,Bunan,TibetoKinauri,Widmer2014
 Byangsi,Byangsi,byan1241,Byangsi,bee,Eurasia,29.583838,80.22309,Sino-Tibetan,Byangsi,TibetoKinauri,Sharma2003a
 Rongpo,Rongpo,rong1264,Rongpo,rnp,Eurasia,30.530044,79.569987,Sino-Tibetan,Rongpo,TibetoKinauri,Sharma2003
+Jingpho,Jingpho,jing1260,Jingpho,,,25.461826,97.329866,Sino-Tibetan,Jingpho,Jingpho,Huang1992
+KBEastPuroikSoja,EasternPuroikSoja,sulu1241,Eastern Puroik,suv,Eurasia,27.650542,93.172368,Sino-Tibetan,Puroik,Kho-Bwa,"RS2009, AT90"
+KBEastPuroikRemsangpuia,EasternPuroikRemsangpuia,sulu1241,Eastern Puroik,suv,Eurasia,27.650542,93.172368,Sino-Tibetan,Puroik,Kho-Bwa,Remsangpuia2008
+KBEastPuroikSun,EasternPuroikSun,sulu1241,Eastern Puroik,suv,Eurasia,28.41558,92.97226,Sino-Tibetan,Puroik,Kho-Bwa,Sun1991
+MishmiKaman,Kaman,miju1243,Kman,mxj,Eurasia,28.416389,92.970278,Sino-Tibetan,Miju,Mishmi,Sun1991

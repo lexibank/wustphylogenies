@@ -7,18 +7,26 @@
     ],
     "dc:isVersionOf": null,
     "dc:related": null,
+    "dc:title": "Investigating the internal and external phylogenetics of three Trans-Himalayan subgroups: Kho-Bwa, Hrusish and Bodish",
+    "dcat:accessURL": "https://github.com/seagal-project/bodtphylogeny_data",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/seagal-project/bodtphylogeny_data",
+            "dc:created": "9488867"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-41-g1e0e889b09"
+            "dc:created": "v4.3-treedb-fixes-298-gcc127db0fb"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-92-g4345faf"
+            "dc:created": "v2.4.0-58-g6c09748"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,14 +38,14 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.6.5"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "bodtstnew",
+    "rdf:ID": "bodtphylogeny",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -45,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 18682,
+            "dc:extent": 19877,
             "tableSchema": {
                 "columns": [
                     {
@@ -156,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 81,
+            "dc:extent": 86,
             "tableSchema": {
                 "columns": [
                     {
@@ -266,7 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 14370,
+            "dc:extent": 14630,
             "tableSchema": {
                 "columns": [
                     {
