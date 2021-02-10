@@ -5534,8 +5534,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 7031	112_theleaf	the leaf	Rongpo	Tibeto_Kinauri_Rongpo	paːt	p.aː.t	p aː t	rong1264	628	30.530044	79.569987	388	388	TRUE	Sharma2003		
 7258	112_theleaf	the leaf	Kulung	Kiranti_Kulung	si:bɔ	s.i:.b.ɔ	s iː b ɔ	kulu1253	628	27.690037	86.910944	2400	2400	FALSE	Tolsma1999		4568
 7488	112_theleaf	the leaf	Bantawa	Kiranti_Bantawa	kusi	k.u.s.i	k u s i	bant1281	628	27.117894	87.049995	2676	2676	FALSE	Jongens2009		
-7638	112_theleaf	the leaf	Achang	Burmish_Achang	a³¹+xʐoʔ⁵⁵	a.³¹.+.xʐ.o.ʔ.⁵⁵	a ³¹ + x ʐ o./o ʔ ⁵⁵	acha1249	628	24.466605	97.89503	881	881	FALSE	Huang1992 Hill2017		4553
-7693	112_theleaf	the leaf	Xiandao	Burmish_Xiandao	a³¹+xʐoʔ⁵⁵	a.³¹.+.xʐ.o.ʔ.⁵⁵	a ³¹ + x ʐ o./o ʔ ⁵⁵	xian1249	628	24.494153	97.753173	881	881	FALSE	Huang1992 Hill2017		
+7638	112_theleaf	the leaf	Achang	Burmish_Achang	a³¹+xʐoʔ⁵⁵	a.³¹.+.x.ʐ.o.ʔ.⁵⁵	a ³¹ + x ʐ o./o ʔ ⁵⁵	acha1249	628	24.466605	97.89503	881	881	FALSE	Huang1992 Hill2017		4553
+7693	112_theleaf	the leaf	Xiandao	Burmish_Xiandao	a³¹+xʐoʔ⁵⁵	a.³¹.+.x.ʐ.o.ʔ.⁵⁵	a ³¹ + x ʐ o./o ʔ ⁵⁵	xian1249	628	24.494153	97.753173	881	881	FALSE	Huang1992 Hill2017		
 7795	112_theleaf	the leaf	Maru	Burmish_Maru	pʰɔʔ⁵⁵	pʰ.ɔ.ʔ.⁵⁵	pʰ ɔ ʔ ⁵⁵	maru1249	628	24.939981	99.83	941	941	FALSE	Huang1992 Hill2017		
 7796	112_theleaf	the leaf	Maru	Burmish_Maru	fɔʔ⁵⁵	f.ɔ.ʔ.⁵⁵	f ɔ ʔ ⁵⁵	maru1249	628	24.939981	99.83	942	942	FALSE	Huang1992 Hill2017		
 7859	112_theleaf	the leaf	Bola	Burmish_Bola	sak⁵⁵+faʔ⁵⁵	s.a.k.⁵⁵.+.f.a.ʔ.⁵⁵	s a k ⁵⁵ + f a ʔ ⁵⁵	pela1242	628	24.405004	98.234243	942	942	FALSE	Huang1992 Hill2017		

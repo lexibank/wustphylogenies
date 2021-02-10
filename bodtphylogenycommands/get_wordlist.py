@@ -74,7 +74,7 @@ def run(args):
     cgid = Wordlist(args.cognate_set)
     cgid_book = {}
     for idx, c, doc, fm, cid in cgid.iter_rows('concept','doculect', 'form', 'cogid'):
-        cgid_book[(c, doc, fm)] = [cid, cgid[idx, 'cognacy']]
+        cgid_book[(c, doc, fm)] = [cid, cgid[idx, 'cognacy'], cgid[idx, 'notes']]
     
     for idx, c, doc, fm in wl.iter_rows('concept', 'doculect', 'form'):
         if doc == 'KBWestPuroikLieberherr':
@@ -82,9 +82,11 @@ def run(args):
         if (c, doc, fm) in cgid_book.keys():
             wl[idx, 'cogid'] = cgid_book[(c, doc, fm)][0]
             wl[idx, 'cognacy'] = cgid_book[(c, doc, fm)][1]
+            wl[idx, 'notes'] = cgid_book[(c, doc, fm)][2]
         else:
             if doc not in ['MishmiKaman', 'KBEastPuroikSoja', 'KBEastPuroikRemsangpuia', 'KBEastPuroikSun']:
                 missing_cogid_set.append([c, doc, fm])
+
     print('Cannot find the cognate sets for the following entries in our new data: ')
     print(tabulate(missing_cogid_set, headers=['concept','doculect', 'value','form']))
 

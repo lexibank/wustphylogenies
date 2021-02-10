@@ -368,8 +368,8 @@ class Dataset(BaseDataset):
                         )
             # Eastern Puroik (from author Remsangpuia)
             if c in Puroik_Remsangpuia_concepticon:
-                for idx, cid, vl in Puroik_Remsangpuia_wl.iter_rows(
-                    'concepticon_id','value'
+                for idx, cid, vl, fm in Puroik_Remsangpuia_wl.iter_rows(
+                    'concepticon_id','value','form'
                 ):
                     if cid == c and vl not in [""," "]:
                         row = args.writer.add_form(
@@ -379,14 +379,14 @@ class Dataset(BaseDataset):
                             + str(Puroik_Remsangpuia_wl[idx, "rid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form = vl,
+                            Form = fm,
                             Source=["Remsangpuia2008"],
                             NOTES="",
                         )
             # Eastern Puroik (from author Sun)
             if c in Puroik_Sun_concepticon:
-                for idx, cid, vl in Puroik_Sun_wl.iter_rows(
-                    'concepticon_id','form'
+                for idx, cid, vl,fm in Puroik_Sun_wl.iter_rows(
+                    'concepticon_id','form','segment'
                 ):
                     if cid == c and vl not in [""," "]:
                         row = args.writer.add_form(
@@ -396,7 +396,7 @@ class Dataset(BaseDataset):
                             + str(Puroik_Sun_wl[idx, "entryid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form =vl,
+                            Form =fm,
                             Source=["Sun1991"],
                             NOTES="",
                         )
