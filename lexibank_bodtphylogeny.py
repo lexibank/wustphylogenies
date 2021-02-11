@@ -8,11 +8,13 @@ from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 from lingpy import Wordlist
 
+
 @attr.s
 class CustomLanguage(Language):
     Doculect = attr.ib(default=None)
     Subgroup = attr.ib(default=None)
     Source = attr.ib(default=None)
+
 
 @attr.s
 class CustomLexeme(Lexeme):
@@ -58,13 +60,13 @@ class Dataset(BaseDataset):
         Khengkha_wl = Wordlist("raw/Khengkha.tsv")
         Cuona_wl = Wordlist("raw/Cuona.tsv")
         Bumthang_wl = Wordlist("raw/Bumthang.tsv")
-        Sagartst_wl = Wordlist('raw/sagartst.tsv')
-        Kusunda_wl = Wordlist('raw/Kusunda.tsv')
-        Bugun_wl = Wordlist('raw/Bugun.tsv')
-        Kaman_wl = Wordlist('raw/Kaman250.tsv')
-        Puroik_Soja_wl = Wordlist('raw/Puroik_Soja.tsv')
-        Puroik_Remsangpuia_wl = Wordlist('raw/Puroik_Remsangpuia.tsv')
-        Puroik_Sun_wl = Wordlist('raw/Puroik_Sun250.tsv')
+        Sagartst_wl = Wordlist("raw/sagartst.tsv")
+        Kusunda_wl = Wordlist("raw/Kusunda.tsv")
+        Bugun_wl = Wordlist("raw/Bugun.tsv")
+        Kaman_wl = Wordlist("raw/Kaman250.tsv")
+        Puroik_Soja_wl = Wordlist("raw/Puroik_Soja.tsv")
+        Puroik_Remsangpuia_wl = Wordlist("raw/Puroik_Remsangpuia.tsv")
+        Puroik_Sun_wl = Wordlist("raw/Puroik_Sun250.tsv")
         # lookup
         Tshangla_concepticon = cbook(Tshangla_wl, "concepticon_id")
         Galo_concepticon = cbook(Galo_wl, "concepticon_id")
@@ -74,16 +76,16 @@ class Dataset(BaseDataset):
         Khengkha_concepticon = cbook(Khengkha_wl, "concepticon_id")
         Cuona_concepticon = cbook(Cuona_wl, "concepticon_id")
         Bumthang_concepticon = cbook(Bumthang_wl, "concepticon_id")
-        Bugun_concepticon = cbook(Bugun_wl, 'concepticon_id')
+        Bugun_concepticon = cbook(Bugun_wl, "concepticon_id")
         WKB_concepticon = cbook(WKB_wl, "concepticon")
-        Sagartst_concepticon = cbook(Sagartst_wl, 'concepticon')
-        Kusunda_concepticon = cbook(Kusunda_wl, 'concepticon')
-        Kaman_concepticon = cbook(Kaman_wl, 'concepticon_id')
-        Puroik_Soja_concepticon = cbook(Puroik_Soja_wl, 'concepticon_id')
-        Puroik_Remsangpuia_concepticon = cbook(Puroik_Remsangpuia_wl, 'concepticon_id')
-        Puroik_Sun_concepticon = cbook(Puroik_Sun_wl, 'concepticon_id')
+        Sagartst_concepticon = cbook(Sagartst_wl, "concepticon")
+        Kusunda_concepticon = cbook(Kusunda_wl, "concepticon")
+        Kaman_concepticon = cbook(Kaman_wl, "concepticon_id")
+        Puroik_Soja_concepticon = cbook(Puroik_Soja_wl, "concepticon_id")
+        Puroik_Remsangpuia_concepticon = cbook(Puroik_Remsangpuia_wl, "concepticon_id")
+        Puroik_Sun_concepticon = cbook(Puroik_Sun_wl, "concepticon_id")
         # source area
-        #args.writer.add_sources()
+        # args.writer.add_sources()
 
         # concept area
         concepts_lookup = args.writer.add_concepts(
@@ -177,12 +179,12 @@ class Dataset(BaseDataset):
                             Source=Khengkha_wl[idx, "source"],
                             NOTES=Khengkha_wl[idx, "notes"],
                         )
-           # Bugun
+            # Bugun
             if c in Bugun_concepticon:
                 for idx, cid, doc, fm in Bugun_wl.iter_rows(
                     "concepticon_id", "doculect", "form"
                 ):
-                    if cid == c and fm not in ["", " ", "Ø","–"]:
+                    if cid == c and fm not in ["", " ", "Ø", "–"]:
                         row = args.writer.add_form(
                             Language_ID=languages_lookup.get(doc),
                             Local_ID=doc + "_" + str(Bugun_wl[idx, "rid"]),
@@ -190,7 +192,7 @@ class Dataset(BaseDataset):
                             Value=Bugun_wl[idx, "value"],
                             Form=fm,
                             Source=Bugun_wl[idx, "source"],
-                            NOTES=" "
+                            NOTES=" ",
                         )
             # Couna
             if c in Cuona_concepticon:
@@ -243,29 +245,31 @@ class Dataset(BaseDataset):
             # Kusunda
             if c in Kusunda_concepticon:
                 for idx, cid, vl, fm in Kusunda_wl.iter_rows(
-                    'concepticon', 'value', 'form'
+                    "concepticon", "value", "form"
                 ):
-                    if cid == c and vl != "" and fm !="":
-                        if Kusunda_wl[idx, 'rid'] in ["0", 0]:
-                            new_rid = "v2"+"_"+str(idx)
+                    if cid == c and vl != "" and fm != "":
+                        if Kusunda_wl[idx, "rid"] in ["0", 0]:
+                            new_rid = "v2" + "_" + str(idx)
                         else:
-                            new_rid = Kusunda_wl[idx, 'rid']
+                            new_rid = Kusunda_wl[idx, "rid"]
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get(Kusunda_wl[idx, 'doculect']),
-                            Local_ID=Kusunda_wl[idx, 'doculect']+"_"+str(new_rid),
+                            Language_ID=languages_lookup.get(
+                                Kusunda_wl[idx, "doculect"]
+                            ),
+                            Local_ID=Kusunda_wl[idx, "doculect"] + "_" + str(new_rid),
                             Parameter_ID=concepts_lookup[c],
                             Value=vl,
                             Form=fm,
-                            Source=['Bodt2019b'],
-                            NOTES=Kusunda_wl[idx, 'notes'],
-                            LOAN = Kusunda_wl[idx, 'loan'],
+                            Source=["Bodt2019b"],
+                            NOTES=Kusunda_wl[idx, "notes"],
+                            LOAN=Kusunda_wl[idx, "loan"],
                             Cognacy=Kusunda_wl[idx, "cogid"],
                         )
-                        if Kusunda_wl[idx, 'cogid']:
+                        if Kusunda_wl[idx, "cogid"]:
                             args.writer.add_cognate(
                                 lexeme=row,
-                                Cognateset_ID=Kusunda_wl[idx, 'cogid'],
-                                Source = "TB",
+                                Cognateset_ID=Kusunda_wl[idx, "cogid"],
+                                Source="TB",
                                 Alignment="",
                                 Alignment_Source="",
                             )
@@ -306,97 +310,105 @@ class Dataset(BaseDataset):
             # Sagart
             if c in Sagartst_concepticon:
                 for idx, doc, cid, vl, fm in Sagartst_wl.iter_rows(
-                    'doculect','concepticon', 'value', 'form'
+                    "doculect", "concepticon", "value", "form"
                 ):
-                    if cid == c and doc in languages_lookup.keys() and vl not in ["", " ", "Ø"]:
-                        if Sagartst_wl[idx, 'rid'] in ["0", 0,""]:
-                            new_rid = "v2"+"_"+str(idx)
+                    if (
+                        cid == c
+                        and doc in languages_lookup.keys()
+                        and vl not in ["", " ", "Ø"]
+                    ):
+                        if Sagartst_wl[idx, "rid"] in ["0", 0, ""]:
+                            new_rid = "v2" + "_" + str(idx)
                         else:
-                            new_rid = Sagartst_wl[idx, 'rid']
+                            new_rid = Sagartst_wl[idx, "rid"]
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get(Sagartst_wl[idx, 'doculect']),
-                            Local_ID=Sagartst_wl[idx, 'doculect']+"_"+str(new_rid),
+                            Language_ID=languages_lookup.get(
+                                Sagartst_wl[idx, "doculect"]
+                            ),
+                            Local_ID=Sagartst_wl[idx, "doculect"] + "_" + str(new_rid),
                             Parameter_ID=concepts_lookup[c],
                             Value=vl,
                             Form=fm,
-                            Source=Sagartst_wl[idx, 'source'],
-                            NOTES=Sagartst_wl[idx, 'notes'],
-                            LOAN = Sagartst_wl[idx, 'loan'],
+                            Source=Sagartst_wl[idx, "source"],
+                            NOTES=Sagartst_wl[idx, "notes"],
+                            LOAN=Sagartst_wl[idx, "loan"],
                             Cognacy=Sagartst_wl[idx, "cogid"],
                         )
-                        if Sagartst_wl[idx, 'cogid']:
+                        if Sagartst_wl[idx, "cogid"]:
                             args.writer.add_cognate(
                                 lexeme=row,
-                                Cognateset_ID=Sagartst_wl[idx, 'cogid'],
-                                Source = "Sagart2018",
+                                Cognateset_ID=Sagartst_wl[idx, "cogid"],
+                                Source="Sagart2018",
                                 Alignment="",
                                 Alignment_Source="",
                             )
             # Kaman
             if c in Kaman_concepticon:
                 for idx, cid, vl, fm in Kaman_wl.iter_rows(
-                    'concepticon_id','value','form'
+                    "concepticon_id", "value", "form"
                 ):
-                    if cid == c and vl not in [""," "]:
+                    if cid == c and vl not in ["", " "]:
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get('Kaman'),
+                            Language_ID=languages_lookup.get("Kaman"),
                             Local_ID=Kaman_wl[idx, "doculect"]
                             + "_"
                             + str(Kaman_wl[idx, "entryid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form=fm,
+                            Form=fm.rstrip().replace(" ", "+"),
                             Source=["Sun1991"],
                             NOTES="",
                         )
             # Eastern Puroik (from author Soja)
             if c in Puroik_Soja_concepticon:
                 for idx, cid, vl, sg in Puroik_Soja_wl.iter_rows(
-                    'concepticon_id','form','segment'
+                    "concepticon_id", "form", "segment"
                 ):
-                    if cid == c and vl not in [""," "]:
+                    if cid == c and vl not in ["", " "]:
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get('EasternPuroikSoja'),
+                            Language_ID=languages_lookup.get("EasternPuroikSoja"),
                             Local_ID=slug(Puroik_Soja_wl[idx, "doculect"])
                             + "_"
                             + str(Puroik_Soja_wl[idx, "rid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form = sg,
-                            Source=Puroik_Soja_wl[idx, 'source'],
+                            Form=sg,
+                            Source=Puroik_Soja_wl[idx, "source"],
                             NOTES="",
                         )
             # Eastern Puroik (from author Remsangpuia)
             if c in Puroik_Remsangpuia_concepticon:
                 for idx, cid, vl, fm in Puroik_Remsangpuia_wl.iter_rows(
-                    'concepticon_id','value','form'
+                    "concepticon_id", "value", "form"
                 ):
-                    if cid == c and vl not in [""," "]:
+                    if cid == c and vl not in ["", " "]:
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get('EasternPuroikRemsangpuia'),
+                            Language_ID=languages_lookup.get(
+                                "EasternPuroikRemsangpuia"
+                            ),
                             Local_ID=slug(Puroik_Remsangpuia_wl[idx, "doculect"])
                             + "_"
                             + str(Puroik_Remsangpuia_wl[idx, "rid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form = fm,
+                            Form=fm,
                             Source=["Remsangpuia2008"],
                             NOTES="",
                         )
             # Eastern Puroik (from author Sun)
             if c in Puroik_Sun_concepticon:
-                for idx, cid, vl,fm in Puroik_Sun_wl.iter_rows(
-                    'concepticon_id','form','segment'
+                for idx, cid, vl, fm in Puroik_Sun_wl.iter_rows(
+                    "concepticon_id", "form", "segment"
                 ):
-                    if cid == c and vl not in [""," "]:
+                    if cid == c and vl not in ["", " "]:
                         row = args.writer.add_form(
-                            Language_ID=languages_lookup.get('EasternPuroikSun'),
+                            Language_ID=languages_lookup.get("EasternPuroikSun"),
                             Local_ID=slug(Puroik_Sun_wl[idx, "doculect"])
                             + "_"
                             + str(Puroik_Sun_wl[idx, "entryid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form =fm,
+                            Form=fm,
                             Source=["Sun1991"],
                             NOTES="",
                         )
