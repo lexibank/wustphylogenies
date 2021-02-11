@@ -3,7 +3,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 2	2_all	ALL	98	2_all	Eastern Puroik	all (in ‘all the fingers’)	malaŋ	ma+laŋ	p. 116	
 3	3_theant	ANT	587	3_theant	Eastern Puroik	ant (n.)	grieŋrɔ	grieŋ+rɔ	p. 117	Macy:The syllable boundary is uncertain
 4	4_thearmpit	ARMPIT	1886	4_thearmpit	Eastern Puroik					?
-5	5_bad	BAD	1292	5_bad	Eastern Puroik	bad. (adj.)	ariŋ ba	ariŋ+ba	p. 110	
+5	5_bad	BAD	1292	5_bad	Eastern Puroik	bad. (adj.)	ariŋ ba	a+riŋ+ba	p. 110	
 6	6_thebamboo	BAMBOO	1927	6_thebamboo	Eastern Puroik	bamboo (n.)	made	ma+de	p. 125	
 7	7_thebarleytibetanorhighland	BARLEY	932	7_thebarleytibetanorhighland	Eastern Puroik					?
 8	8_tobealive	BE ALIVE	1422	8_tobealive	Eastern Puroik	alive (v.)	sikduiˀ	sik+duiˀ	p. 132	Macy:The syllable boundary is uncertain
@@ -20,7 +20,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 19	19_thebranch	BRANCH	1531	19_thebranch	Eastern Puroik	branch (n.)	akrie	a+krie	p. 109	
 20	20_thebreastfemale	BREAST	1402	20_thebreastfemale	Eastern Puroik	breast (n.)	nje	nje	p. 127	
 21	21_toburnintransitive	BURNING	1428	21_toburnintransitive	Eastern Puroik	burning (v.)	dʒɯdʒa	dʒɯ+dʒa	p. 119	Macy:The syllable boundary is uncertain
-22	22_tobuy	BUY	1869	22_tobuy	Eastern Puroik	to buy (v.)	rairɯ	rairɯ	p. 130	
+22	22_tobuy	BUY	1869	22_tobuy	Eastern Puroik	to buy (v.)	rairɯ	rai+rɯ	p. 130	
 23	23_tochew	CHEW	321	23_tochew	Eastern Puroik					?
 24	24_thechildyounghuman	CHILD (YOUNG HUMAN)	1304	24_thechildyounghuman	Eastern Puroik	child (n.)	adau	a+dau	p. 107	
 25	25_thecloud	CLOUD	1489	25_thecloud	Eastern Puroik	clouds (n.)	katɯ	ka+tɯ	p. 121	
@@ -34,7 +34,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 33	33_thedew	DEW	1977	33_thedew	Eastern Puroik	dew (n.)	avreu	a+vreu	p. 111	
 34	34_todie	DIE	1494	34_todie	Eastern Puroik	die (v.)	iːbɔ	iːbɔ	p. 118	
 35	35_todig	DIG	1418	35_todig	Eastern Puroik	dig (v.)	tʃo	tʃo	p. 114	
-36	36_dirty	DIRTY	1230	36_dirty	Eastern Puroik	dirty; unholy (adj.)	basaraŋ	basaraŋ	p. 112	Macy: I cannot find the syllable boundary
+36	36_dirty	DIRTY	1230	36_dirty	Eastern Puroik	dirty; unholy (adj.)	basaraŋ	ba+sa+raŋ	p. 112	Macy: I cannot find the syllable boundary
 37	37_thedog	DOG	2009	37_thedog	Eastern Puroik	dog (n.)	jo	jo	p. 120	jo (135)
 38	38_thedream	DREAM	2374	38_thedream	Eastern Puroik	dream (n.)	mabak	ma+bak	p. 124	
 39	39_todrink	DRINK	1401	39_todrink	Eastern Puroik	drink (v.)	riŋ / riŋrui	riŋ	p. 130, p. 131	
@@ -45,7 +45,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 44	44_theearthsoil	EARTH (SOIL)	1228	44_theearthsoil	Eastern Puroik	soil  (n.)	madjeit	ma+djeit	p. 125	
 45	45_theearthworm	EARTHWORM	2350	45_theearthworm	Eastern Puroik	earthworm (n.)	pakreiˀ	pa+kreiˀ	p. 128	
 46	46_toeat	EAT	1336	46_toeat	Eastern Puroik	eat (v.)	tʃii	tʃii	p. 114	
-47	47_theegg	EGG	744	47_theegg	Eastern Puroik	egg (n.)	mari	mari	p. 125	
+47	47_theegg	EGG	744	47_theegg	Eastern Puroik	egg (n.)	mari	ma+ri	p. 125	
 48	48_eight	EIGHT	1705	48_eight	Eastern Puroik	eight (num)	laː	laː	p. 123	
 49	49_theeye	EYE	1248	49_theeye	Eastern Puroik	eye (n.)	kək	kək	p. 121	
 50	50_far	FAR	1406	50_far	Eastern Puroik	far (adv.)	atʃie	a+tʃie	p. 107	
@@ -58,27 +58,27 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 57	57_five	FIVE	493	57_five	Eastern Puroik	five (num)	uw	uw	p. 134	
 58	58_theflea	FLEA	232	58_theflea	Eastern Puroik					?
 59	59_tofloat	FLOAT	1574	59_tofloat	Eastern Puroik					?
-60	60_toflow	FLOW	2003	60_toflow	Eastern Puroik	to flow (v.)	rwaina	rwaina	p. 131	
+60	60_toflow	FLOW	2003	60_toflow	Eastern Puroik	to flow (v.)	rwaina	rwai+na	p. 131	
 61	61_theflower	FLOWER	239	61_theflower	Eastern Puroik	flower (n.)	mabuait	ma+buait	p. 125	
 62	62_toflymovethroughair	FLY (MOVE THROUGH AIR)	1441	62_toflymovethroughair	Eastern Puroik	fly (v.)	pieit	pie+it	p. 128	Macy:The syllable boundary is uncertain
 63	63_thefog	FOG	249	63_thefog	Eastern Puroik	fog, steam (n.)	sasu	sa+su	p. 132	Macy:The syllable boundary is uncertain
 64	64_thefoot	FOOT	1301	64_thefoot	Eastern Puroik					? this is same as LEG though
-65	65_theforest	FOREST	420	65_theforest	Eastern Puroik	forest (n.)	marua	marua	p. 125	
-66	66_toforget	FORGET	1523	66_toforget	Eastern Puroik	forget (v.)	bamidait	ba+midait	p. 112	Macy:The syllable boundary is uncertain
+65	65_theforest	FOREST	420	65_theforest	Eastern Puroik	forest (n.)	marua	ma+rua	p. 125	
+66	66_toforget	FORGET	1523	66_toforget	Eastern Puroik	forget (v.)	bamidait	ba+mi+dait	p. 112	Macy:The syllable boundary is uncertain
 67	67_four	FOUR	1500	67_four	Eastern Puroik	four (num.)	wrai	wrai	p. 135	
-68	68_thefox	FOX	1312	68_thefox	Eastern Puroik	fox (n.)	siali	siali	p. 132	
+68	68_thefox	FOX	1312	68_thefox	Eastern Puroik	fox (n.)	siali	sia+li	p. 132	
 69	69_thefrog	FROG	503	69_thefrog	Eastern Puroik	frog (n.)	raɯ	raɯ	p. 130	
 70	70_thefrontfrontside	FRONT (PART)	2194	70_thefrontfrontside	Eastern Puroik					?
 71	71_thefrost	FROST	2034	71_thefrost	Eastern Puroik					?
 72	72_thefruit	FRUIT	1507	72_thefruit	Eastern Puroik	fruit	rɔŋwei	rɔŋ+wei	p. 131	Macy:The syllable boundary is uncertain
 73	73_full	FULL	1429	73_full	Eastern Puroik	full (adj.)	lje	lje	p. 124	
 74	74_togive	GIVE	1447	74_togive	Eastern Puroik	to give (v.)	taŋna	taŋ+na	p. 133	
-75	75_thegoat	GOAT	1502	75_thegoat	Eastern Puroik	goat (n.)	sabreŋ	sabreŋ	p. 131	
-76	76_good	GOOD	1035	76_good	Eastern Puroik	good (adj.)	ajɯ	ajɯ	p. 111	
+75	75_thegoat	GOAT	1502	75_thegoat	Eastern Puroik	goat (n.)	sabreŋ	sa+breŋ	p. 131	
+76	76_good	GOOD	1035	76_good	Eastern Puroik	good (adj.)	ajɯ	a+jɯ	p. 111	
 77	77_thegrass	GRASS	606	77_thegrass	Eastern Puroik	grass (n.)	samsuiˀ	samsuiˀ	p. 132	
-78	78_green	GREEN	1425	78_green	Eastern Puroik	green (adj.)	arie	arie	p. 110	
-79	79_thehail	HAIL	609	79_thehail	Eastern Puroik	hailston (n.)	aŋvik	aŋvik	p. 110	
-80	80_thehairofthehead	HAIR	1040	80_thehairofthehead	Eastern Puroik	hair (n)	kazak	kazak	p. 121	
+78	78_green	GREEN	1425	78_green	Eastern Puroik	green (adj.)	arie	a+rie	p. 110	
+79	79_thehail	HAIL	609	79_thehail	Eastern Puroik	hailston (n.)	aŋvik	aŋ+vik	p. 110	
+80	80_thehairofthehead	HAIR	1040	80_thehairofthehead	Eastern Puroik	hair (n)	kazak	ka+zak	p. 121	
 81	81_thehand	HAND	1277	81_thehand	Eastern Puroik	arm, hand (n.)	gait	gait	p. 116	
 82	82_hard	HARD	1884	82_hard	Eastern Puroik	hardl difficult (adj.)	afi aram	a+fi+a+ram	p.108	
 83	83_heorshethirdpersonsingular	HE OR SHE OR IT	262	83_heorshethirdpersonsingular	Eastern Puroik	he (3s)	ae	ae	p.108	
@@ -90,8 +90,8 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 89	89_tohideconceal	HIDE (CONCEAL)	602	89_tohideconceal	Eastern Puroik					?
 90	90_hightall	HIGH	1265	90_hightall	Eastern Puroik	high (adj.)	agja	a+gja	p. 108	
 91	91_tohold	HOLD	1448	91_tohold	Eastern Puroik	hold	naŋkeŋ	naŋ+keŋ	p. 61	
-92	92_thehoof	HOOF	152	92_thehoof	Eastern Puroik	hoof (n.)	laipɔ	laipɔ	p. 123	
-93	93_horizontal	HORIZONTAL	2376	93_horizontal	Eastern Puroik	level, same	kafe rai	kafe+rai	p. 120	
+92	92_thehoof	HOOF	152	92_thehoof	Eastern Puroik	hoof (n.)	laipɔ	lai+pɔ	p. 123	
+93	93_horizontal	HORIZONTAL	2376	93_horizontal	Eastern Puroik	level, same	kafe rai	ka+fe+rai	p. 120	
 94	94_thehornkeratinizedskin	HORN (ANATOMY)	1393	94_thehornkeratinizedskin	Eastern Puroik					?
 95	95_thehorse	HORSE	615	95_thehorse	Eastern Puroik					?
 96	96_hot	HOT	1286	96_hot	Eastern Puroik	warm, hot	adʒit	a+dʒit	p. 108	
@@ -122,10 +122,10 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 121	121_thelouse	LOUSE	1392	121_thelouse	Eastern Puroik	louse (n.)	pare	pa+re	p. 128	
 122	122_thelung	LUNG	688	122_thelung	Eastern Puroik					?
 123	123_themanmalehuman	MALE PERSON	2106	123_themanmalehuman	Eastern Puroik	man (n.)	bi pak	bi+pak	p. 113	
-124	124_many	MANY	1198	124_many	Eastern Puroik	many (adj.)	hiha	hiha	p. 117	
+124	124_many	MANY	1198	124_many	Eastern Puroik	many (adj.)	hiha	hi+ha	p. 117	
 125	125_tomarryamanmarriesawoman	MARRY (AS MAN)	2164	125_tomarryamanmarriesawoman	Eastern Puroik	marry (v.)	rai	rai	p. 130	
 126	126_themeat	MEAT	634	126_themeat	Eastern Puroik	meat (n.)	mariak	ma+riak	p. 125	
-127	127_middle	MIDDLE	1093	127_middle	Eastern Puroik	middle, half (adj)	alɔ	alɔ	p. 109	
+127	127_middle	MIDDLE	1093	127_middle	Eastern Puroik	middle, half (adj)	alɔ	a+lɔ	p. 109	
 128	128_themoon	MOON	1313	128_themoon	Eastern Puroik	moon (n.)	aŋprɔ	aŋ+prɔ	p.109	
 129	129_morning	MORNING	1339	129_morning	Eastern Puroik	morning (n.)	apre	a+pre	p. 110	
 130	130_themosquito	MOSQUITO	1509	130_themosquito	Eastern Puroik	mosquito (n.)	tʃuŋkrieˀ	tʃuŋ+krieˀ	p.115	
@@ -146,7 +146,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 145	145_noon	MIDDAY	12	145_noon	Eastern Puroik					?
 146	146_thenose	NOSE	1221	146_thenose	Eastern Puroik	nose (n.)	apɔːk	a+pɔːk	p. 110	
 147	147_oldofperson	OLD (AGED)	2112	147_oldofperson	Eastern Puroik	old (adj)	amaiŋ	a+maiŋ	p. 109	
-148	148_one	ONE	1493	148_one	Eastern Puroik	one (num.)	hũji	hũji	p. 118	
+148	148_one	ONE	1493	148_one	Eastern Puroik	one (num.)	hũji	hũ+ji	p. 118	
 149	149_theotter	OTTER	15	149_theotter	Eastern Puroik					?
 150	150_outside	OUTSIDE	762	150_outside	Eastern Puroik	outside (LOC)	ɬaŋ	ɬaŋ	p. 124	
 151	151_thepig	PIG	1337	151_thepig	Eastern Puroik	pig (n.)	madau	ma+dau	p. 125	
@@ -161,7 +161,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 160	160_thericeplant	RICE PLANT	2026	160_thericeplant	Eastern Puroik	rice, food, paddy	amaŋ	a+maŋ	p. 110	
 161	161_right	RIGHT	1019	161_right	Eastern Puroik	right (adj.)	puazue	pua+zue	p. 129	
 162	162_theriver	RIVER	666	162_theriver	Eastern Puroik	river (n.)	kuapək	kua+pək	p. 122	
-163	163_theroad	ROAD	667	163_theroad	Eastern Puroik	road, way (n.)	puzuej	puzuej	p. 129	
+163	163_theroad	ROAD	667	163_theroad	Eastern Puroik	road, way (n.)	puzuej	pu+zuej	p. 129	
 164	164_theroot	ROOT	670	164_theroot	Eastern Puroik	root (n.)	araiŋ	a+raiŋ	p. 110	
 165	165_therope	ROPE	1218	165_therope	Eastern Puroik	rope (n.)	rai	rai	p. 130	
 166	166_round	ROUND	1395	166_round	Eastern Puroik	round (adj.)	abɯ	a+bɯ	p. 107	
@@ -178,7 +178,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 177	177_thesheep	SHEEP	1331	177_thesheep	Eastern Puroik	sheep (n.)	madʒuaŋ	ma+dʒuaŋ	p. 125	
 178	178_toshootanarrow	SHOOT	1172	178_toshootanarrow	Eastern Puroik	shoot (vt.)	rena	re+na	p. 130	
 179	179_short	SHORT	1645	179_short	Eastern Puroik					?
-180	180_theshoulder	SHOULDER	1482	180_theshoulder	Eastern Puroik	shoulder	puatuk	puatuk	p. 129	
+180	180_theshoulder	SHOULDER	1482	180_theshoulder	Eastern Puroik	shoulder	puatuk	pua+tuk	p. 129	
 181	181_shy	SHY	487	181_shy	Eastern Puroik					?
 182	182_thesickle	SICKLE	341	182_thesickle	Eastern Puroik					?
 183	183_tosing	SING	1261	183_tosing	Eastern Puroik	to sing (v.)	luitnieŋ	luit+nieŋ	p. 124	
@@ -204,7 +204,7 @@ RID	CONCEPT	CONCEPTICON_GLOSS	CONCEPTICON_ID	PARAMETER_ID	LANGUAGE	CONCEPT_IN_SO
 203	203_thestoneapieceof	STONE	857	203_thestoneapieceof	Eastern Puroik	stone, rock (n.)	kabria	ka+bria	p. 119	
 204	204_straight	STRAIGHT	1404	204_straight	Eastern Puroik					?
 205	205_thesun	SUN	1343	205_thesun	Eastern Puroik	sun (n.)	hami	ha+mi	p. 117	
-206	206_thetail	TAIL	1220	206_thetail	Eastern Puroik	tail (n.)	anime	a+nime	p. 110	
+206	206_thetail	TAIL	1220	206_thetail	Eastern Puroik	tail (n.)	anime	a+ni+me	p. 110	
 207	207_ten	TEN	1515	207_ten	Eastern Puroik	ten (num.)	swe	swe	p. 133	
 208	208_that	THAT	78	208_that	Eastern Puroik	that (DET.)	tae	tae	p. 133	
 209	209_there	THERE	1937	209_there	Eastern Puroik	there, down there	bɔː	bɔː	p. 113	
