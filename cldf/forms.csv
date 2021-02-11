@@ -77,7 +77,7 @@ Hayu-1_above-1,Hayu_24,Hayu,1_above,ani,a.n.i,,,Michailovsky1989a,2156,,,,,FALSE
 Hayu-1_above-2,Hayu_24,Hayu,1_above,ani,a.n.i,,,Michailovsky1989a,2156,,,,,FALSE
 Tangut-1_above-1,Tangut_36,Tangut,1_above,tɕhjaa,tɕh.jaa,,,Li1997,10178,,,,,FALSE
 KarbiMikir-1_above-1,Mikir_30,KarbiMikir,1_above,"""angsong, athak; (one -- another) pangchap, pacherop.""",a.ng.s.o.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-1_above-1,Kaman_182915,MishmiKaman,1_above,lɯn³⁵ xɑi⁵⁵,lɯn³⁵ xɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-1_above-1,Kaman_182915,MishmiKaman,1_above,lɯn³⁵ xɑi⁵⁵,lɯn³⁵+xɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-1_above-1,easternpuroik_170,KBEastPuroikSoja,1_above,ayung,a+juŋ,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-1_above-1,easternpuroik_1,KBEastPuroikRemsangpuia,1_above,atʃuaŋ,a+tʃuaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-1_above-1,puroik_182917,KBEastPuroikSun,1_above,a³³ tɕiaŋ⁵³,a³³+tɕiaŋ⁵³,,,Sun1991,,,,,,
@@ -159,7 +159,7 @@ OldTibetan-2_all-2,OldTibetan_82,OldTibetan,2_all,kun,k.u.n,,,Huang1992,3899,,,,
 Tangut-2_all-2,Tangut_85,Tangut,2_all,zji,z.ji,,,Li1997,0,,,,,FALSE
 Tangut-2_all-3,Tangut_86,Tangut,2_all,rjur,r.ju.r,,,Li1997,0,,,,,FALSE
 KarbiMikir-2_all-1,Mikir_76,KarbiMikir,2_all,"""kedo kave, kedoan, angse, anta, arpum, and badu(-ta, -ba-dang), lajok(ta), majok, rongisi, -tame, -rep, -phrong,; humilipi [...]""",th.ài,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-2_all-1,Kaman_230957,MishmiKaman,2_all,kɯm⁵⁵ blui⁵⁵,kɯm⁵⁵ blui⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-2_all-1,Kaman_230957,MishmiKaman,2_all,kɯm⁵⁵ blui⁵⁵,kɯm⁵⁵+blui⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-2_all-1,easternpuroik_171,KBEastPuroikSoja,2_all,melang,mə+laŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-2_all-1,easternpuroik_2,KBEastPuroikRemsangpuia,2_all,malaŋ,ma+laŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-2_all-1,puroik_230959,KBEastPuroikSun,2_all,mə³³ ləŋ³³,mə³³+ləŋ³³,,,Sun1991,,,,,,
@@ -247,7 +247,7 @@ Hayu-3_theant-1,Hayu_117,Hayu,3_theant,tsikibʊʔla,ts.i.k.i.b.ʊ.ʔ.l.a,,,Micha
 Tangut-3_theant-1,Tangut_134,Tangut,3_theant,kjiwr,k.ji.w.r,,,Li1997,2954,,,,,FALSE
 KarbiMikir-3_theant-1,Mikir_126,KarbiMikir,3_theant,miso,m.i.s.ò,,,Walker1925 KonnerthFC GruessnerNoDate,10501,,,,,FALSE
 Rabha-3_theant-1,Rabha_132,Rabha,3_theant,soŋ+so+mar,s.o.ŋ.+.s.o.+.m.a.r,,,Joseph2007,10500,,,,,FALSE
-MishmiKaman-3_theant-1,Kaman_188015,MishmiKaman,3_theant,tɕu³¹ kɹik⁵³,tɕu³¹ kɹik⁵³,,,Sun1991,,,,,,
+MishmiKaman-3_theant-1,Kaman_188015,MishmiKaman,3_theant,tɕu³¹ kɹik⁵³,tɕu³¹+kɹik⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-3_theant-1,easternpuroik_1,KBEastPuroikSoja,3_theant,geinggio,gəiŋ+gio,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-3_theant-1,easternpuroik_3,KBEastPuroikRemsangpuia,3_theant,grieŋrɔ,grieŋ+rɔ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-3_theant-1,puroik_188017,KBEastPuroikSun,3_theant,gɹæn³³ gɹo⁵³,gɹæn³³+gɹo⁵³,,,Sun1991,,,,,,
@@ -303,7 +303,7 @@ Jieyang-4_thearmpit-1,Jieyang_v2_10048,Jieyang,4_thearmpit,kɔi³³laŋ³³ɛ³�
 Xingning-4_thearmpit-1,Xingning_v2_10049,Xingning,4_thearmpit,ʂaʔ²ha³⁵,ʂ.a.ʔ.².h.a.³⁵,,,Lai2017FN,1710,,,,,FALSE
 Ukhrul-4_thearmpit-1,Ukhrul_v2_11114,Ukhrul,4_thearmpit,rik+kʰa,r.i.k.+.kʰ.a,,,Mortensen2012,10260,,,,,FALSE
 KarbiMikir-4_thearmpit-1,Mikir_v2_11826,KarbiMikir,4_thearmpit,jing-kep,j.i.ng.+.k.e.p,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-4_thearmpit-1,Kaman_193523,MishmiKaman,4_thearmpit,plɑ⁵⁵ mu⁵⁵,plɑ⁵⁵ mu⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-4_thearmpit-1,Kaman_193523,MishmiKaman,4_thearmpit,plɑ⁵⁵ mu⁵⁵,plɑ⁵⁵+mu⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSun-4_thearmpit-1,puroik_193525,KBEastPuroikSun,4_thearmpit,pua³³ kə³³ jo⁵³,pua³³+kə³³+jo⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-5_bad-1,DirangTshangla_173,TshDirangTshangla,5_bad,duk+pu,duk+pu,,,TB,,,,,,
 TaniGalo-5_bad-1,Galo_217,TaniGalo,5_bad,ɲɨɨ́,ɲɨː55,,,Post07,,,,,Ø,
@@ -393,7 +393,7 @@ Jieyang-5_bad-3,Jieyang_v2_9716,Jieyang,5_bad,pʰai³¹,pʰ.a.i.³¹,,,Lai2017FN
 Chaozhou-5_bad-2,Chaozhou_162,Chaozhou,5_bad,mɔ⁵³,m.ɔ.⁵³,,,Lai2017FN,1625,,,,,TRUE
 Tangut-5_bad-1,Tangut_184,Tangut,5_bad,niow,n.i.o.w,,,Li1997,10179,,,,,FALSE
 KarbiMikir-5_bad-1,Mikir_177,KarbiMikir,5_bad,hingo,h.e.n.ō,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-5_bad-1,Kaman_223919,MishmiKaman,5_bad,mɯ³¹ phɑn⁵⁵,mɯ³¹ phɑn⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-5_bad-1,Kaman_223919,MishmiKaman,5_bad,mɯ³¹ phɑn⁵⁵,mɯ³¹+phɑn⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-5_bad-1,easternpuroik_173,KBEastPuroikSoja,5_bad,bayi’,ba+jɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-5_bad-1,easternpuroik_5,KBEastPuroikRemsangpuia,5_bad,ariŋ ba,a+riŋ+ba,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-5_bad-1,puroik_223921,KBEastPuroikSun,5_bad,ba³³ niaŋ¹¹,ba³³+niaŋ¹¹,,,Sun1991,,,,,,
@@ -482,7 +482,7 @@ Hayu-6_thebamboo-2,Hayu_219,Hayu,6_thebamboo,caji,c.a.j.i,,,Michailovsky1989a,21
 Tangut-6_thebamboo-1,Tangut_235,Tangut,6_thebamboo,lhju./u,lh.j.u./u,,,Li1997,821,,,,,FALSE
 KarbiMikir-6_thebamboo-1,Mikir_228,KarbiMikir,6_thebamboo,kepho [...],ch.è.k,,,Walker1925 KonnerthFC GruessnerNoDate,10525,,,,,FALSE
 Rabha-6_thebamboo-1,Rabha_233,Rabha,6_thebamboo,bá,b.á,,,Joseph2007,501,,,,,FALSE
-MishmiKaman-6_thebamboo-1,Kaman_189341,MishmiKaman,6_thebamboo,mɑ̆i⁵⁵ blɑ⁵³,mɑ̆i⁵⁵ blɑ⁵³,,,Sun1991,,,,,,
+MishmiKaman-6_thebamboo-1,Kaman_189341,MishmiKaman,6_thebamboo,mɑ̆i⁵⁵ blɑ⁵³,mɑ̆i⁵⁵+blɑ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-6_thebamboo-1,easternpuroik_2,KBEastPuroikSoja,6_thebamboo,"meca, mede",mə+də,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-6_thebamboo-1,easternpuroik_6,KBEastPuroikRemsangpuia,6_thebamboo,made,ma+de,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-6_thebamboo-1,puroik_189343,KBEastPuroikSun,6_thebamboo,mə³³ tə³³,mə³³+tə³³,,,Sun1991,,,,,,
@@ -526,7 +526,7 @@ Bola-7_thebarleytibetanorhighland-1,Bola_v2_8532,Bola,7_thebarleytibetanorhighla
 Atsi-7_thebarleytibetanorhighland-1,Atsi_v2_8542,Atsi,7_thebarleytibetanorhighland,mə⁵⁵+ja²¹+sat⁵⁵,m.ə.⁵⁵.+.j.a.²¹.+.s.a.t.⁵⁵,,,Huang1992 Hill2017,8484,,,,,FALSE
 Rangoon-7_thebarleytibetanorhighland-1,Rangoon_267,Rangoon,7_thebarleytibetanorhighland,bɑ²²+li²²,b.ɑ.²².+.l.i.²²,,,Huang1992 Hill2017,8544,,,,,FALSE
 Tangut-7_thebarleytibetanorhighland-1,Tangut_268,Tangut,7_thebarleytibetanorhighland,ɕjij,ɕ.ji.j,,,Li1997,0,,,,,FALSE
-MishmiKaman-7_thebarleytibetanorhighland-1,Kaman_189647,MishmiKaman,7_thebarleytibetanorhighland,kɯ³¹ tsɑuŋ⁵⁵,kɯ³¹ tsɑuŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-7_thebarleytibetanorhighland-1,Kaman_189647,MishmiKaman,7_thebarleytibetanorhighland,kɯ³¹ tsɑuŋ⁵⁵,kɯ³¹+tsɑuŋ⁵⁵,,,Sun1991,,,,,,
 TaniGalo-8_tobealive-1,Galo_225,TaniGalo,8_tobealive,turH,tur55,,,Post07,,,,,*tur,
 TaniTangam-8_tobealive-1,Tangam_8,TaniTangam,8_tobealive,tun,tun,,,Post2017,,,,,,
 EBKhengkha-8_tobealive-1,Khengkha_175,EBKhengkha,8_tobealive,གསོན་པོ།,son+po,,,TB,,,,,,
@@ -595,7 +595,7 @@ Hayu-8_tobealive-1,Hayu_v2_11417,Hayu,8_tobealive,dzol,d.z.o.l,,,Michailovsky198
 Tangut-8_tobealive-1,Tangut_v2_11545,Tangut,8_tobealive,sjwu./u,s.j.w.u./u,,,Li1997,280,,,,,FALSE
 KarbiMikir-8_tobealive-1,Mikir_v2_11804,KarbiMikir,8_tobealive,reng(et),r.è.ng,,,Walker1925 KonnerthFC GruessnerNoDate,3403,,,,,FALSE
 Rabha-8_tobealive-1,Rabha_v2_12051,Rabha,8_tobealive,kʰeŋ,kʰ.e.ŋ,,,Joseph2007,10408,,,,,FALSE
-MishmiKaman-8_tobealive-1,Kaman_219839,MishmiKaman,8_tobealive,kɯ³¹ ɹɑ̆ŋ³⁵,kɯ³¹ ɹɑ̆ŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-8_tobealive-1,Kaman_219839,MishmiKaman,8_tobealive,kɯ³¹ ɹɑ̆ŋ³⁵,kɯ³¹+ɹɑ̆ŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-8_tobealive-1,easternpuroik_175,KBEastPuroikSoja,8_tobealive,sikbae’,sik+bae,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-8_tobealive-1,easternpuroik_8,KBEastPuroikRemsangpuia,8_tobealive,sikduiˀ,sik+duiˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-8_tobealive-1,puroik_219841,KBEastPuroikSun,8_tobealive,a³³ ɕik³³,a³³+ɕik³³,,,Sun1991,,,,,,
@@ -768,7 +768,7 @@ Hayu-10_belowunder-1,Hayu_347,Hayu,10_belowunder,hutoŋ,h.u.t.o.ŋ,,,Michailovsk
 Hayu-10_belowunder-2,Hayu_348,Hayu,10_belowunder,jʊ̃ːkʰa,j.ʊ̃ː.kʰ.a,,,Michailovsky1989a,330,,,,,FALSE
 Tangut-10_belowunder-1,Tangut_361,Tangut,10_belowunder,khju,kh.ju,,,Li1997,10180,,,,,FALSE
 KarbiMikir-10_belowunder-1,Mikir_v2_11869,KarbiMikir,10_belowunder,aber,+.r.ú.m,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-10_belowunder-1,Kaman_182966,MishmiKaman,10_belowunder,ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵,ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵,,,Sun1991,,,,,,
+MishmiKaman-10_belowunder-1,Kaman_182966,MishmiKaman,10_belowunder,ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵,ju⁵⁵+wɑŋ⁵⁵+lɑm³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-10_belowunder-1,easternpuroik_176,KBEastPuroikSoja,10_belowunder,avoa hak,a+voa,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-10_belowunder-1,easternpuroik_10,KBEastPuroikRemsangpuia,10_belowunder,awa,a+wa,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-10_belowunder-1,puroik_182968,KBEastPuroikSun,10_belowunder,a³³ ɣua¹¹,a³³+ɣua¹¹,,,Sun1991,,,,,,
@@ -858,7 +858,7 @@ Hayu-11_big-2,Hayu_394,Hayu,11_big,ʊlawo,ʊ.l.a.w.o,,,Michailovsky1989a,2159,,,
 Tangut-11_big-1,Tangut_410,Tangut,11_big,khwej,kh.w.e.j,,,Li1997,10181,,,,,FALSE
 KarbiMikir-11_big-1,Mikir_403,KarbiMikir,11_big,the(dung),th.è,,,Walker1925 KonnerthFC GruessnerNoDate,29701,,,,,FALSE
 Rabha-11_big-1,Rabha_408,Rabha,11_big,tem+poŋ,t.e.m.+.p.o.ŋ,,,Joseph2007,10322,,,,,FALSE
-MishmiKaman-11_big-1,Kaman_220808,MishmiKaman,11_big,kɯ³¹ tɑi³⁵,kɯ³¹ tɑi³⁵,,,Sun1991,,,,,,
+MishmiKaman-11_big-1,Kaman_220808,MishmiKaman,11_big,kɯ³¹ tɑi³⁵,kɯ³¹+tɑi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-11_big-1,easternpuroik_4,KBEastPuroikSoja,11_big,buari’,bua+rɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-11_big-1,easternpuroik_11,KBEastPuroikRemsangpuia,11_big,bua,bua,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-11_big-1,puroik_220810,KBEastPuroikSun,11_big,a³³ bua³³,a³³+bua³³,,,Sun1991,,,,,,
@@ -1125,7 +1125,7 @@ Ukhrul-14_black-2,Ukhrul_568,Ukhrul,14_black,kʰə+mə+haŋ,kʰ.ə.+.m.ə.+.h.a.
 Hayu-14_black-1,Hayu_545,Hayu,14_black,kʰaktsʰiŋmi,kʰ.a.k.tsʰ.i.ŋ.m.i,,,Michailovsky1989a,215,,,,,FALSE
 KarbiMikir-14_black-1,Mikir_554,KarbiMikir,14_black,"""ik(-kui, -sip, -vu); [...]""",ì.k,,,Walker1925 KonnerthFC GruessnerNoDate,10326,,,,,FALSE
 Rabha-14_black-1,Rabha_560,Rabha,14_black,ak,a.k,,,Joseph2007,10325,,,,,FALSE
-MishmiKaman-14_black-1,Kaman_222899,MishmiKaman,14_black,kɑ³¹ im³⁵,kɑ³¹ im³⁵,,,Sun1991,,,,,,
+MishmiKaman-14_black-1,Kaman_222899,MishmiKaman,14_black,kɑ³¹ im³⁵,kɑ³¹+im³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-14_black-1,easternpuroik_7,KBEastPuroikSoja,14_black,ahiye’,a+hi+je,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-14_black-1,easternpuroik_14,KBEastPuroikRemsangpuia,14_black,ahĩe,a+hĩe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-14_black-1,puroik_222901,KBEastPuroikSun,14_black,a³³ ɦiɛ⁵³,a³³+ɦiɛ⁵³,,,Sun1991,,,,,,
@@ -1212,7 +1212,7 @@ Achang-15_theblood-1,Achang_585,Achang,15_theblood,sui³¹,s.u.i.³¹,,,Huang199
 Xiandao-15_theblood-1,Xiandao_v2_12114,Xiandao,15_theblood,sui³¹,s.u.i.³¹,,,Huang1992 Hill2017,29703,,,,,FALSE
 Lashi-15_theblood-1,Lashi_600,Lashi,15_theblood,sui⁵⁵,s.u.i.⁵⁵,,,Huang1992 Hill2017,29703,,,,,FALSE
 Atsi-15_theblood-1,Atsi_v2_12154,Atsi,15_theblood,sui²¹,s.u.i.²¹,,,Huang1992 Hill2017,29703,,,,,FALSE
-MishmiKaman-15_theblood-1,Kaman_193676,MishmiKaman,15_theblood,ɑ³¹ ɹui³⁵,ɑ³¹ ɹui³⁵,,,Sun1991,,,,,,
+MishmiKaman-15_theblood-1,Kaman_193676,MishmiKaman,15_theblood,ɑ³¹ ɹui³⁵,ɑ³¹+ɹui³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-15_theblood-1,easternpuroik_8,KBEastPuroikSoja,15_theblood,hue’,hue,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-15_theblood-1,easternpuroik_15,KBEastPuroikRemsangpuia,15_theblood,hue,hue,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-15_theblood-1,puroik_193678,KBEastPuroikSun,15_theblood,hue⁵³,hue⁵³,,,Sun1991,,,,,,
@@ -1595,7 +1595,7 @@ Achang-20_thebreastfemale-1,Achang_813,Achang,20_thebreastfemale,nau³⁵+tʂu³
 Xiandao-20_thebreastfemale-1,Xiandao_v2_12117,Xiandao,20_thebreastfemale,ɲɔn³⁵,ɲ.ɔ.n.³⁵,,,Huang1992 Hill2017,10186,,,,,FALSE
 Lashi-20_thebreastfemale-1,Lashi_828,Lashi,20_thebreastfemale,nou⁵⁵,n.o.u.⁵⁵,,,Huang1992 Hill2017,10186,,,,,FALSE
 Atsi-20_thebreastfemale-1,Atsi_v2_12156,Atsi,20_thebreastfemale,nau⁵⁵,n.a.u.⁵⁵,,,Huang1992 Hill2017,10186,,,,,FALSE
-MishmiKaman-20_thebreastfemale-1,Kaman_193217,MishmiKaman,20_thebreastfemale,tɕin⁵⁵ mphɑuŋ⁵³,tɕin⁵⁵ mphɑuŋ⁵³,,,Sun1991,,,,,,
+MishmiKaman-20_thebreastfemale-1,Kaman_193217,MishmiKaman,20_thebreastfemale,tɕin⁵⁵ mphɑuŋ⁵³,tɕin⁵⁵+mphɑuŋ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-20_thebreastfemale-1,easternpuroik_11,KBEastPuroikSoja,20_thebreastfemale,nyie’,ɲie,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-20_thebreastfemale-1,easternpuroik_20,KBEastPuroikRemsangpuia,20_thebreastfemale,nje,nje,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-20_thebreastfemale-1,puroik_193219,KBEastPuroikSun,20_thebreastfemale,a³³ niɛ¹¹,a³³+niɛ¹¹,,,Sun1991,,,,,,
@@ -1832,7 +1832,7 @@ Hayu-23_tochew-1,Hayu_965,Hayu,23_tochew,nok,n.o.k,,,Michailovsky1989a,2225,,,,,
 Tangut-23_tochew-1,Tangut_979,Tangut,23_tochew,gjii,g.jii,,,Li1997,1534,,,,,FALSE
 KarbiMikir-23_tochew-1,Mikir_972,KarbiMikir,23_tochew,"heje, om[...]",h.e.j.e,,,Walker1925 KonnerthFC GruessnerNoDate,10332,,,,,FALSE
 Rabha-23_tochew-1,Rabha_977,Rabha,23_tochew,tʃo+bai,tʃ.o.+.b.a.i,,,Joseph2007,10333,,,,,FALSE
-MishmiKaman-23_tochew-1,Kaman_207344,MishmiKaman,23_tochew,tɕɑ⁵⁵ xɑi⁵⁵,tɕɑ⁵⁵ xɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-23_tochew-1,Kaman_207344,MishmiKaman,23_tochew,tɕɑ⁵⁵ xɑi⁵⁵,tɕɑ⁵⁵+xɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-23_tochew-1,easternpuroik_14,KBEastPuroikSoja,23_tochew,woe’china,woe+tʃʰi,,,RS09,,,,,,
 KBEastPuroikSun-23_tochew-1,puroik_207346,KBEastPuroikSun,23_tochew,we³³,we³³,,,Sun1991,,,,,,
 TshDirangTshangla-24_thechildyounghuman-1,DirangTshangla_179,TshDirangTshangla,24_thechildyounghuman,nu+nu,nu+nu,,,TB,,,,,,
@@ -1984,7 +1984,7 @@ Ukhrul-25_thecloud-1,Ukhrul_1076,Ukhrul,25_thecloud,muja,m.u.j.a,,,Mortensen2012
 Hayu-25_thecloud-1,Hayu_1056,Hayu,25_thecloud,kowal,k.o.w.a.l,,,Michailovsky1989a,2188,,,,,FALSE
 KarbiMikir-25_thecloud-1,Mikir_1064,KarbiMikir,25_thecloud,"inghun, niop",i.ng.h.u.n,,,Walker1925 KonnerthFC GruessnerNoDate,10334,,,,,FALSE
 Rabha-25_thecloud-1,Rabha_1069,Rabha,25_thecloud,raŋ+kʰop,r.a.ŋ.+.kʰ.o.p,,,Joseph2007,10335,,,,,FALSE
-MishmiKaman-25_thecloud-1,Kaman_180314,MishmiKaman,25_thecloud,kɑ⁵⁵ mɑ̆i³⁵,kɑ⁵⁵ mɑ̆i³⁵,,,Sun1991,,,,,,
+MishmiKaman-25_thecloud-1,Kaman_180314,MishmiKaman,25_thecloud,kɑ⁵⁵ mɑ̆i³⁵,kɑ⁵⁵+mɑ̆i³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-25_thecloud-1,easternpuroik_15,KBEastPuroikSoja,25_thecloud,khetei’,kʰə+təɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-25_thecloud-1,easternpuroik_25,KBEastPuroikRemsangpuia,25_thecloud,katɯ,ka+tɯ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-25_thecloud-1,puroik_180316,KBEastPuroikSun,25_thecloud,kə³³ tɯ³³,kə³³+tɯ³³,,,Sun1991,,,,,,
@@ -2243,7 +2243,7 @@ Maru-28_correctright-1,Maru_v2_9019,Maru,28_correctright,tʃɔ³¹,tʃ.ɔ.³¹,,
 Xiandao-28_correctright-1,Xiandao_v2_9020,Xiandao,28_correctright,cɛ⁵⁵,c.ɛ.⁵⁵,,,Huang1992 Hill2017,8635,,,,,FALSE
 Tangut-28_correctright-1,Tangut_1230,Tangut,28_correctright,tɕjɨj,tɕ.jɨ.j,,,Li1997,0,,,,,FALSE
 KarbiMikir-28_correctright-1,Mikir_1222,KarbiMikir,28_correctright,"chenam, kechok[...]",ch.e.n.a.m,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-28_correctright-1,Kaman_226010,MishmiKaman,28_correctright,kɯ³¹ pioŋ⁵³,kɯ³¹ pioŋ⁵³,,,Sun1991,,,,,,
+MishmiKaman-28_correctright-1,Kaman_226010,MishmiKaman,28_correctright,kɯ³¹ pioŋ⁵³,kɯ³¹+pioŋ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-28_correctright-1,easternpuroik_180,KBEastPuroikSoja,28_correctright,ketakjak,kə+tak+dʒak,,,RS09,,,,,,
 TshDirangTshangla-29_tocount-1,DirangTshangla_132,TshDirangTshangla,29_tocount,kʰa+ɖaŋ a,kʰa+ɖaŋ+a,,,TB,,,,,,
 TaniGalo-29_tocount-1,Galo_132,TaniGalo,29_tocount,hapH,hap55,,,Post07,,,,,,
@@ -2318,7 +2318,7 @@ Hayu-29_tocount-1,Hayu_1261,Hayu,29_tocount,hi,h.i,,,Michailovsky1989a,3646,,,,,
 Tangut-29_tocount-1,Tangut_1279,Tangut,29_tocount,sej,s.e.j,,,Li1997,10189,,,,,FALSE
 KarbiMikir-29_tocount-1,Mikir_1271,KarbiMikir,29_tocount,lakha,l.a.kh.a,,,Walker1925 KonnerthFC GruessnerNoDate,10338,,,,,TRUE
 Rabha-29_tocount-1,Rabha_1277,Rabha,29_tocount,li+xi,l.i.+.x.i,,,Joseph2007,10339,,,,,FALSE
-MishmiKaman-29_tocount-1,Kaman_211526,MishmiKaman,29_tocount,xɑ³¹ tsɯt⁵⁵,xɑ³¹ tsɯt⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-29_tocount-1,Kaman_211526,MishmiKaman,29_tocount,xɑ³¹ tsɯt⁵⁵,xɑ³¹+tsɯt⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-29_tocount-1,easternpuroik_18,KBEastPuroikSoja,29_tocount,gie’kum,gie+kum,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-29_tocount-1,easternpuroik_29,KBEastPuroikRemsangpuia,29_tocount,gre,gre,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-29_tocount-1,puroik_211528,KBEastPuroikSun,29_tocount,gɛʴ⁵³,gɛʴ⁵³,,,Sun1991,,,,,,
@@ -2470,7 +2470,7 @@ Hayu-31_dark-1,Hayu_v2_11278,Hayu,31_dark,jeksa,j.e.k.s.a,,,Michailovsky1989a,21
 Hayu-31_dark-2,Hayu_v2_11279,Hayu,31_dark,kuŋkuŋ,k.u.ŋ.k.u.ŋ,,,Michailovsky1989a,1278,,,,,FALSE
 Tangut-31_dark-1,Tangut_v2_11585,Tangut,31_dark,mur,m.u.r,,,Li1997,4209,,,,,FALSE
 KarbiMikir-31_dark-1,Mikir_v2_11870,KarbiMikir,31_dark,"ingting(-duk, -ik, -kuk, bin-hing[...]",i.ng.t.i.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-31_dark-1,Kaman_222542,MishmiKaman,31_dark,ɹɯm⁵³ lɑ³⁵,ɹɯm⁵³ lɑ³⁵,,,Sun1991,,,,,,
+MishmiKaman-31_dark-1,Kaman_222542,MishmiKaman,31_dark,ɹɯm⁵³ lɑ³⁵,ɹɯm⁵³+lɑ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-31_dark-1,easternpuroik_181,KBEastPuroikSoja,31_dark,achik,a+tʃʰik,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-31_dark-1,easternpuroik_31,KBEastPuroikRemsangpuia,31_dark,atʃik kalaŋ,a+tʃik+kalaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-31_dark-1,puroik_222544,KBEastPuroikSun,31_dark,a³³ ciȶ³³,a³³+ciȶ³³,,,Sun1991,,,,,,
@@ -2559,7 +2559,7 @@ Ukhrul-32_thedaughter-1,Ukhrul_1383,Ukhrul,32_thedaughter,ŋə+la+naw,ŋ.ə.+.l.
 Hayu-32_thedaughter-1,Hayu_1364,Hayu,32_thedaughter,taːmi,t.aː.m.i,,,Michailovsky1989a,1150,,,,,FALSE
 Tangut-32_thedaughter-1,Tangut_1378,Tangut,32_thedaughter,mji.j,m.ji..j,,,Li1997,746,,,,,FALSE
 KarbiMikir-32_thedaughter-1,Mikir_1372,KarbiMikir,32_thedaughter,sopi[...],s.o.p.i,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-32_thedaughter-1,Kaman_197348,MishmiKaman,32_thedaughter,sɑ⁵⁵ mɑi³⁵,sɑ⁵⁵ mɑi³⁵,,,Sun1991,,,,,,
+MishmiKaman-32_thedaughter-1,Kaman_197348,MishmiKaman,32_thedaughter,sɑ⁵⁵ mɑi³⁵,sɑ⁵⁵+mɑi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-32_thedaughter-1,easternpuroik_182,KBEastPuroikSoja,32_thedaughter,adaumui,a+dau+mui,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-32_thedaughter-1,easternpuroik_32,KBEastPuroikRemsangpuia,32_thedaughter,adou umuiˀ,a+dou+u+muiˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-32_thedaughter-1,puroik_197350,KBEastPuroikSun,32_thedaughter,a³³ du³³ mui⁵³,a³³+du³³+mui⁵³,,,Sun1991,,,,,,
@@ -2628,7 +2628,7 @@ Xingning-33_thedew-1,Xingning_v2_10119,Xingning,33_thedew,lu⁵³₅₅ʂui²¹,
 Tangut-33_thedew-1,Tangut_v2_11635,Tangut,33_thedew,zər,z.ə.r,,,Li1997,10257,,,,,TRUE
 KarbiMikir-33_thedew-1,Mikir_v2_11773,KarbiMikir,33_thedew,are [...],a.r.e,,,Walker1925 KonnerthFC GruessnerNoDate,10257,,,,,FALSE
 Rabha-33_thedew-1,Rabha_v2_11921,Rabha,33_thedew,pram+tʃi,p.r.a.m.+.tʃ.i,,,Joseph2007,10520,,,,,FALSE
-MishmiKaman-33_thedew-1,Kaman_180722,MishmiKaman,33_thedew,pɑm⁵⁵ dʑi⁵⁵,pɑm⁵⁵ dʑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-33_thedew-1,Kaman_180722,MishmiKaman,33_thedew,pɑm⁵⁵ dʑi⁵⁵,pɑm⁵⁵+dʑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-33_thedew-1,easternpuroik_20,KBEastPuroikSoja,33_thedew,"giamsi, kazue’",giam+si,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-33_thedew-1,easternpuroik_33,KBEastPuroikRemsangpuia,33_thedew,avreu,a+vreu,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-33_thedew-1,puroik_180724,KBEastPuroikSun,33_thedew,a³³ vɯ³³,a³³+vɯ³³,,,Sun1991,,,,,,
@@ -2871,7 +2871,7 @@ Hayu-36_dirty-1,Hayu_1511,Hayu,36_dirty,bɿt,b.ɿ.t,,,Michailovsky1989a,1472,,,,
 Tangut-36_dirty-1,Tangut_1524,Tangut,36_dirty,tɕior,tɕ.i.o.r,,,Li1997,10192,,,,,FALSE
 KarbiMikir-36_dirty-1,Mikir_1517,KarbiMikir,36_dirty,"hijimmai, ningni, ter, mui",t.è.r,,,Walker1925 KonnerthFC GruessnerNoDate,10343,,,,,FALSE
 Rabha-36_dirty-1,Rabha_1522,Rabha,36_dirty,tʰel-tʰel,tʰ.e.l-.tʰ.e.l,,,Joseph2007,10343,,,,,FALSE
-MishmiKaman-36_dirty-1,Kaman_223562,MishmiKaman,36_dirty,kɑ³¹ so⁵³,kɑ³¹ so⁵³,,,Sun1991,,,,,,
+MishmiKaman-36_dirty-1,Kaman_223562,MishmiKaman,36_dirty,kɑ³¹ so⁵³,kɑ³¹+so⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-36_dirty-1,easternpuroik_23,KBEastPuroikSoja,36_dirty,baseraang,ba+sə+raːŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-36_dirty-1,easternpuroik_36,KBEastPuroikRemsangpuia,36_dirty,basaraŋ,ba+sa+raŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-36_dirty-1,puroik_223564,KBEastPuroikSun,36_dirty,chə³³ chɛʴ⁵³,chə³³+chɛʴ⁵³,,,Sun1991,,,,,,
@@ -3044,7 +3044,7 @@ Ukhrul-38_thedream-2,Ukhrul_1626,Ukhrul,38_thedream,kə+ʃi+mɐn,k.ə.+.ʃ.i.+.m
 Tangut-38_thedream-1,Tangut_1620,Tangut,38_thedream,mjiij,m.jii.j,,,Li1997,10217,,,,,FALSE
 KarbiMikir-38_thedream-1,Mikir_1613,KarbiMikir,38_thedream,mang[...],m.ā.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10217,,,,,FALSE
 Rabha-38_thedream-1,Rabha_1618,Rabha,38_thedream,dzɨ+maŋ,dz.ɨ.+.m.a.ŋ,,,Joseph2007,10217,,,,,FALSE
-MishmiKaman-38_thedream-1,Kaman_206477,MishmiKaman,38_thedream,kɑ³¹ muŋ³⁵,kɑ³¹ muŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-38_thedream-1,Kaman_206477,MishmiKaman,38_thedream,kɑ³¹ muŋ³⁵,kɑ³¹+muŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-38_thedream-1,easternpuroik_25,KBEastPuroikSoja,38_thedream,mepaaq,mə+paːq,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-38_thedream-1,easternpuroik_38,KBEastPuroikRemsangpuia,38_thedream,mabak,ma+bak,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-38_thedream-1,puroik_206479,KBEastPuroikSun,38_thedream,mə³³ bak³³,mə³³+bak³³,,,Sun1991,,,,,,
@@ -3452,7 +3452,7 @@ Ukhrul-43_early-1,Ukhrul_v2_11072,Ukhrul,43_early,kə+tʰor,k.ə.+.tʰ.o.r,,,Mor
 Hayu-43_early-1,Hayu_v2_11282,Hayu,43_early,naːna,n.aː.n.a,,,Michailovsky1989a,1131,,,,,FALSE
 KarbiMikir-43_early-1,Mikir_v2_11853,KarbiMikir,43_early,serak,+.d.à.p,,,Walker1925 KonnerthFC GruessnerNoDate,10505,,,,,FALSE
 Rabha-43_early-1,Rabha_v2_12012,Rabha,43_early,tʃʰéŋ,tʃʰ.é.ŋ,,,Joseph2007,10504,,,,,FALSE
-MishmiKaman-43_early-1,Kaman_224480,MishmiKaman,43_early,tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³,tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-43_early-1,Kaman_224480,MishmiKaman,43_early,tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³,tɯ³¹+ɹuɑŋ⁵⁵+nɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-43_early-1,easternpuroik_183,KBEastPuroikSoja,43_early,khedi’che’,kʰə+dɯ+tʃʰe,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-43_early-1,easternpuroik_43,KBEastPuroikRemsangpuia,43_early,dua,dua,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-43_early-1,puroik_224482,KBEastPuroikSun,43_early,a³³ pɹəʴ⁵³,a³³+pɹəʴ⁵³,,,Sun1991,,,,,,
@@ -3603,7 +3603,7 @@ Jieyang-45_theearthworm-1,Jieyang_v2_10150,Jieyang,45_theearthworm,kau¹¹uŋ³�
 Xingning-45_theearthworm-1,Xingning_1914,Xingning,45_theearthworm,ʂɛn²¹kʊm⁴⁵,ʂ.ɛ.n.²¹.k.ʊ.m.⁴⁵,,,Lai2017FN,1735,,,,,FALSE
 Tangut-45_theearthworm-1,Tangut_1909,Tangut,45_theearthworm,ljɨ.ɕjii,l.jɨ..ɕ.jii,,,Li1997,4205,,,,,FALSE
 KarbiMikir-45_theearthworm-1,Mikir_1905,KarbiMikir,45_theearthworm,hilong,h.i.l.o.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-45_theearthworm-1,Kaman_188474,MishmiKaman,45_theearthworm,pɯ³¹ lit³⁵,pɯ³¹ lit³⁵,,,Sun1991,,,,,,
+MishmiKaman-45_theearthworm-1,Kaman_188474,MishmiKaman,45_theearthworm,pɯ³¹ lit³⁵,pɯ³¹+lit³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-45_theearthworm-1,easternpuroik_184,KBEastPuroikSoja,45_theearthworm,pekhii,pəkʰiː,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-45_theearthworm-1,easternpuroik_45,KBEastPuroikRemsangpuia,45_theearthworm,pakreiˀ,pa+kreiˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-45_theearthworm-1,puroik_188476,KBEastPuroikSun,45_theearthworm,pə³³ chɹei⁵³,pə³³+chɹei⁵³,,,Sun1991,,,,,,
@@ -3780,7 +3780,7 @@ Achang-47_theegg-1,Achang_1979,Achang,47_theegg,uʔ³¹,u.ʔ.³¹,,,Huang1992 Hi
 Xiandao-47_theegg-1,Xiandao_v2_12119,Xiandao,47_theegg,u³¹,u.³¹,,,Huang1992 Hill2017,1021,,,,,FALSE
 Lashi-47_theegg-1,Lashi_1995,Lashi,47_theegg,u̱⁵³,u̱.⁵³,,,Huang1992 Hill2017,1021,,,,,FALSE
 Atsi-47_theegg-1,Atsi_v2_12157,Atsi,47_theegg,a²¹+u⁵⁵,a.²¹.+.u.⁵⁵,,,Huang1992 Hill2017,1021,,,,,FALSE
-MishmiKaman-47_theegg-1,Kaman_188678,MishmiKaman,47_theegg,kɹai⁵⁵ sit⁵⁵,kɹai⁵⁵ sit⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-47_theegg-1,Kaman_188678,MishmiKaman,47_theegg,kɹai⁵⁵ sit⁵⁵,kɹai⁵⁵+sit⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-47_theegg-1,easternpuroik_32,KBEastPuroikSoja,47_theegg,meri,mə+ri,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-47_theegg-1,easternpuroik_47,KBEastPuroikRemsangpuia,47_theegg,mari,ma+ri,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-47_theegg-1,puroik_188680,KBEastPuroikSun,47_theegg,mə³³ ri³³,mə³³+ri³³,,,Sun1991,,,,,,
@@ -4268,7 +4268,7 @@ Hayu-53_tofight-1,Hayu_2227,Hayu,53_tofight,pat,p.a.t,,,Michailovsky1989a,2229,,
 Tangut-53_tofight-1,Tangut_2242,Tangut,53_tofight,ɣwej,ɣ.we.j,,,Li1997,10200,,,,,FALSE
 KarbiMikir-53_tofight-1,Mikir_2235,KarbiMikir,53_tofight,"kachechok, ron kachepi, ron, chervo, kachethu",r.ó.n,,,Walker1925 KonnerthFC GruessnerNoDate,10354,,,,,FALSE
 Rabha-53_tofight-1,Rabha_2240,Rabha,53_tofight,ba+da+gur,b.a.+.d.a.+.g.u.r,,,Joseph2007,10355,,,,,FALSE
-MishmiKaman-53_tofight-1,Kaman_216167,MishmiKaman,53_tofight,dɑ̆m⁵⁵ kɹɑu⁵⁵,dɑ̆m⁵⁵ kɹɑu⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-53_tofight-1,Kaman_216167,MishmiKaman,53_tofight,dɑ̆m⁵⁵ kɹɑu⁵⁵,dɑ̆m⁵⁵+kɹɑu⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-53_tofight-1,easternpuroik_36,KBEastPuroikSoja,53_tofight,fuingna,fuiŋ,,,RS09,,,,,,
 KBEastPuroikSun-53_tofight-1,puroik_216169,KBEastPuroikSun,53_tofight,tsa⁵³ ɣɛ⁵³,tsa⁵³+ɣɛ⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-54_thefire-1,DirangTshangla_59,TshDirangTshangla,54_thefire,mi,mi,,,TB,,,,,,
@@ -4415,7 +4415,7 @@ Rangoon-55_firewood-1,Rangoon_v2_8717,Rangoon,55_firewood,tʰĩ∼⁵⁵,tʰ.ĩ.
 Atsi-55_firewood-1,Atsi_v2_8782,Atsi,55_firewood,tʰaŋ²¹,tʰ.a.ŋ.²¹,,,Huang1992 Hill2017,3872,,,,,FALSE
 Tangut-55_firewood-1,Tangut_v2_11610,Tangut,55_firewood,sjɨmə,s.jɨ.m.ə,,,Li1997,0,,,,,FALSE
 KarbiMikir-55_firewood-1,Mikir_v2_11903,KarbiMikir,55_firewood,theng,th.ē.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-55_firewood-1,Kaman_203876,MishmiKaman,55_firewood,sɑ̆ŋ³⁵ khliŋ⁵⁵,sɑ̆ŋ³⁵ khliŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-55_firewood-1,Kaman_203876,MishmiKaman,55_firewood,sɑ̆ŋ³⁵ khliŋ⁵⁵,sɑ̆ŋ³⁵+khliŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-55_firewood-1,easternpuroik_187,KBEastPuroikSoja,55_firewood,hiyin,hi+jin,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-55_firewood-1,easternpuroik_55,KBEastPuroikRemsangpuia,55_firewood,ɹein weiˀ,ɹein+weiˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-55_firewood-1,puroik_203878,KBEastPuroikSun,55_firewood,heʴn³³,heʴn³³,,,Sun1991,,,,,,
@@ -4501,7 +4501,7 @@ Ukhrul-56_thefish-1,Ukhrul_2346,Ukhrul,56_thefish,kʰaj,kʰ.a.j,,,Mortensen2012,
 Hayu-56_thefish-1,Hayu_2326,Hayu,56_thefish,ho,h.o,,,Michailovsky1989a,2191,,,,,FALSE
 KarbiMikir-56_thefish-1,Mikir_2334,KarbiMikir,56_thefish,(lang a-) ok,o.k,,,Walker1925 KonnerthFC GruessnerNoDate,10356,,,,,FALSE
 Rabha-56_thefish-1,Rabha_2339,Rabha,56_thefish,ná,n.á,,,Joseph2007,186,,,,,FALSE
-MishmiKaman-56_thefish-1,Kaman_187709,MishmiKaman,56_thefish,ɑ³¹ ŋɑ⁵⁵,ɑ³¹ ŋɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-56_thefish-1,Kaman_187709,MishmiKaman,56_thefish,ɑ³¹ ŋɑ⁵⁵,ɑ³¹+ŋɑ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-56_thefish-1,easternpuroik_38,KBEastPuroikSoja,56_thefish,kahuang,ka+huaŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-56_thefish-1,easternpuroik_56,KBEastPuroikRemsangpuia,56_thefish,njo,njo,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-56_thefish-1,puroik_187711,KBEastPuroikSun,56_thefish,ka³³ fuaŋ⁵³,ka³³+fuaŋ⁵³,,,Sun1991,,,,,,
@@ -4584,7 +4584,7 @@ Xingning-57_five-1,Xingning_2393,Xingning,57_five,m²¹,m.²¹,,,Lai2017FN,10357
 Ukhrul-57_five-1,Ukhrul_2391,Ukhrul,57_five,pʰə+ŋa,pʰ.ə.+.ŋ.a,,,Mortensen2012,10357,,,,,FALSE
 Tangut-57_five-1,Tangut_2386,Tangut,57_five,ŋwə,ŋ.wə,,,Li1997,10357,,,,,FALSE
 KarbiMikir-57_five-1,Mikir_2380,KarbiMikir,57_five,"phongo, phono, pho",ph.ō,,,Walker1925 KonnerthFC GruessnerNoDate,10357,,,,,FALSE
-MishmiKaman-57_five-1,Kaman_226673,MishmiKaman,57_five,kɯ³¹ len⁵⁵,kɯ³¹ len⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-57_five-1,Kaman_226673,MishmiKaman,57_five,kɯ³¹ len⁵⁵,kɯ³¹+len⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-57_five-1,easternpuroik_39,KBEastPuroikSoja,57_five,uu,uː,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-57_five-1,easternpuroik_57,KBEastPuroikRemsangpuia,57_five,uw,uw,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-57_five-1,puroik_226675,KBEastPuroikSun,57_five,wu³³,wu³³,,,Sun1991,,,,,,
@@ -4645,7 +4645,7 @@ Xingning-58_theflea-1,Xingning_v2_10193,Xingning,58_theflea,tʰiɑɔ⁵⁵tsʰɑ
 Hayu-58_theflea-1,Hayu_v2_11338,Hayu,58_theflea,riʔmitsʰiŋ,r.i.ʔ.m.i.tsʰ.i.ŋ,,,Michailovsky1989a,2192,,,,,FALSE
 Tangut-58_theflea-1,Tangut_v2_11543,Tangut,58_theflea,lə,l.ə,,,Li1997,944,,,,,FALSE
 KarbiMikir-58_theflea-1,Mikir_v2_11799,KarbiMikir,58_theflea,chikli,ch.i.k.l.i,,,Walker1925 KonnerthFC GruessnerNoDate,944,,,,,FALSE
-MishmiKaman-58_theflea-1,Kaman_188219,MishmiKaman,58_theflea,tɕuŋ⁵⁵ guɯn⁵⁵,tɕuŋ⁵⁵ guɯn⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-58_theflea-1,Kaman_188219,MishmiKaman,58_theflea,tɕuŋ⁵⁵ guɯn⁵⁵,tɕuŋ⁵⁵+guɯn⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSun-58_theflea-1,puroik_188221,KBEastPuroikSun,58_theflea,kə³³ vit³³,kə³³+vit³³,,,Sun1991,,,,,,
 TshDirangTshangla-59_tofloat-1,DirangTshangla_189,TshDirangTshangla,59_tofloat,bon,bon,,,TB,,,,,,
 TaniGalo-59_tofloat-1,Galo_232,TaniGalo,59_tofloat,zaaL,zaː51,,,Post07,,,,,*bjaŋ ‘swim’,
@@ -5011,7 +5011,7 @@ Xingning-63_thefog-1,Xingning_v2_10205,Xingning,63_thefog,mʊŋ²⁴sa⁴⁵,m.�
 Xingning-63_thefog-2,Xingning_v2_10206,Xingning,63_thefog,wu⁵³,w.u.⁵³,,,Lai2017FN,99,,,,,TRUE
 Tangut-63_thefog-1,Tangut_v2_11525,Tangut,63_thefog,le,l.e,,,Li1997,10216,,,,,FALSE
 KarbiMikir-63_thefog-1,Mikir_v2_11775,KarbiMikir,63_thefog,"inghun, hunmelan",i.ng.h.u.n,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-63_thefog-1,Kaman_180620,MishmiKaman,63_thefog,lɯ³¹ bɑŋ³⁵,lɯ³¹ bɑŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-63_thefog-1,Kaman_180620,MishmiKaman,63_thefog,lɯ³¹ bɑŋ³⁵,lɯ³¹+bɑŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-63_thefog-1,easternpuroik_191,KBEastPuroikSoja,63_thefog,sasu,sa+su,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-63_thefog-1,easternpuroik_63,KBEastPuroikRemsangpuia,63_thefog,sasu,sa+su,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-63_thefog-1,puroik_180622,KBEastPuroikSun,63_thefog,kə³³ tɯ³³ sɯ³³,kə³³+tɯ³³+sɯ³³,,,Sun1991,,,,,,
@@ -5259,7 +5259,7 @@ Bola-66_toforget-1,Bola_v2_12143,Bola,66_toforget,tɑ̱̆³¹mə̱i³¹,t.ɑ̱̆
 Maru-66_toforget-1,Maru_v2_12152,Maru,66_toforget,tɔ⁵⁵+mji̱k⁵⁵,t.ɔ.⁵⁵.+.m.j.i̱.k.⁵⁵,,,Huang1992 Hill2017,1575,,,,,FALSE
 Atsi-66_toforget-1,Atsi_v2_12174,Atsi,66_toforget,to̱²¹+mji̱⁵,t.o̱.²¹.+.m.j.i̱.⁵,,,Huang1992 Hill2017,1575,,,,,FALSE
 Bantawa-66_toforget-1,Bantawa_v2_12180,Bantawa,66_toforget,mant-kʰat-,m.a.n.t.-.kʰ.a.t.-,,,Jongens2009,2553,,,,,FALSE
-MishmiKaman-66_toforget-1,Kaman_217034,MishmiKaman,66_toforget,ɑ³¹ mɑn⁵³ lɑ⁵⁵,ɑ³¹ mɑn⁵³ lɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-66_toforget-1,Kaman_217034,MishmiKaman,66_toforget,ɑ³¹ mɑn⁵³ lɑ⁵⁵,ɑ³¹+mɑn⁵³+lɑ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-66_toforget-1,easternpuroik_44,KBEastPuroikSoja,66_toforget,bamidait,ba+mi+dait,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-66_toforget-1,easternpuroik_66,KBEastPuroikRemsangpuia,66_toforget,bamidait,ba+mi+dait,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-66_toforget-1,puroik_217036,KBEastPuroikSun,66_toforget,ba³³ mi³³ lua³³,ba³³+mi³³+lua³³,,,Sun1991,,,,,,
@@ -5344,7 +5344,7 @@ Ukhrul-67_four-1,Ukhrul_2722,Ukhrul,67_four,mə+ti,m.ə.+.t.i,,,Mortensen2012,26
 Hayu-67_four-1,Hayu_2703,Hayu,67_four,bli,b.l.i,,,Michailovsky1989a,263,,,,,FALSE
 Tangut-67_four-1,Tangut_2717,Tangut,67_four,ljɨɨ/ɨːr,l.j.ɨɨ/ɨː.r,,,Li1997,263,,,,,FALSE
 KarbiMikir-67_four-1,Mikir_2711,KarbiMikir,67_four,"phli, phili[...]",ph.l.ī,,,Walker1925 KonnerthFC GruessnerNoDate,263,,,,,FALSE
-MishmiKaman-67_four-1,Kaman_226622,MishmiKaman,67_four,kɯ³¹ bɹɯ n⁵³,kɯ³¹ bɹɯ n⁵³,,,Sun1991,,,,,,
+MishmiKaman-67_four-1,Kaman_226622,MishmiKaman,67_four,kɯ³¹ bɹɯ n⁵³,kɯ³¹+bɹɯ+n⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-67_four-1,easternpuroik_45,KBEastPuroikSoja,67_four,vei,vəi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-67_four-1,easternpuroik_67,KBEastPuroikRemsangpuia,67_four,wrai,wrai,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-67_four-1,puroik_226624,KBEastPuroikSun,67_four,vəʴi³³,vəʴi³³,,,Sun1991,,,,,,
@@ -5477,7 +5477,7 @@ Hayu-69_thefrog-1,Hayu_2784,Hayu,69_thefrog,tiktiktoktok,t.i.k.t.i.k.t.o.k.t.o.k
 Tangut-69_thefrog-1,Tangut_2799,Tangut,69_thefrog,pie./e,p.i.e./e,,,Li1997,145,,,,,FALSE
 KarbiMikir-69_thefrog-1,Mikir_2792,KarbiMikir,69_thefrog,chongho(loso)[...],ch.o.ng.h.ō,,,Walker1925 KonnerthFC GruessnerNoDate,10515,,,,,FALSE
 Rabha-69_thefrog-1,Rabha_2797,Rabha,69_thefrog,lɨ+bak,l.ɨ.+.b.a.k,,,Joseph2007,10514,,,,,FALSE
-MishmiKaman-69_thefrog-1,Kaman_187658,MishmiKaman,69_thefrog,kɑŋ⁵⁵ khɹik⁵⁵,kɑŋ⁵⁵ khɹik⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-69_thefrog-1,Kaman_187658,MishmiKaman,69_thefrog,kɑŋ⁵⁵ khɹik⁵⁵,kɑŋ⁵⁵+khɹik⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-69_thefrog-1,easternpuroik_46,KBEastPuroikSoja,69_thefrog,rai’,raɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-69_thefrog-1,easternpuroik_69,KBEastPuroikRemsangpuia,69_thefrog,raɯ,raɯ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-69_thefrog-1,puroik_187660,KBEastPuroikSun,69_thefrog,ɣɯ⁵³,ɣɯ⁵³,,,Sun1991,,,,,,
@@ -5547,7 +5547,7 @@ Hayu-70_thefrontfrontside-1,Hayu_2830,Hayu,70_thefrontfrontside,uboŋ,u.b.o.ŋ,,
 Tangut-70_thefrontfrontside-1,Tangut_2843,Tangut,70_thefrontfrontside,rjir,r.ji.r,,,Li1997,4213,,,,,FALSE
 KarbiMikir-70_thefrontfrontside-1,Mikir_v2_11809,KarbiMikir,70_thefrontfrontside,"aphrang, angno, panu, thengno, hong[...]",+.ph.r.á.ŋ,,,Walker1925 KonnerthFC GruessnerNoDate,10529,,,,,FALSE
 Rabha-70_thefrontfrontside-1,Rabha_2841,Rabha,70_thefrontfrontside,bó+ma+laŋ,b.ó.+.m.a.+.l.a.ŋ,,,Joseph2007,10528,,,,,FALSE
-MishmiKaman-70_thefrontfrontside-1,Kaman_182609,MishmiKaman,70_thefrontfrontside,ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵,ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-70_thefrontfrontside-1,Kaman_182609,MishmiKaman,70_thefrontfrontside,ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵,ɑ³¹+ŋɑŋ³¹+lɑm⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-70_thefrontfrontside-1,easternpuroik_47,KBEastPuroikSoja,70_thefrontfrontside,abeit hak,abəit,,,RS09,,,,,,
 KBEastPuroikSun-70_thefrontfrontside-1,puroik_182611,KBEastPuroikSun,70_thefrontfrontside,a³³ bɯ⁵³,a³³+bɯ⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-71_thefrost-1,DirangTshangla_193,TshDirangTshangla,71_thefrost,ba,ba,,,TB,,,,,,
@@ -5610,7 +5610,7 @@ Chaozhou-71_thefrost-1,Chaozhou_2868,Chaozhou,71_thefrost,sŋ̍∼³³,s.ŋ̍.�
 Jieyang-71_thefrost-1,Jieyang_v2_10234,Jieyang,71_thefrost,sŋ̍∼³³,s.ŋ̍.∼.³³,,,Lai2017FN,1761,,,,,FALSE
 Tangut-71_thefrost-1,Tangut_2886,Tangut,71_thefrost,nja,n.ja,,,Li1997,4204,,,,,FALSE
 KarbiMikir-71_thefrost-1,Mikir_2879,KarbiMikir,71_thefrost,(hoar --)ephik,e.ph.i.k,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-71_thefrost-1,Kaman_180671,MishmiKaman,71_thefrost,wɑ³¹ tɑ̆uŋ³⁵,wɑ³¹ tɑ̆uŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-71_thefrost-1,Kaman_180671,MishmiKaman,71_thefrost,wɑ³¹ tɑ̆uŋ³⁵,wɑ³¹+tɑ̆uŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSun-71_thefrost-1,puroik_180673,KBEastPuroikSun,71_thefrost,kə³³ ɣuaŋ⁵³ puaŋ¹¹,kə³³+ɣuaŋ⁵³+puaŋ¹¹,,,Sun1991,,,,,,
 TshDirangTshangla-72_thefruit-1,DirangTshangla_66,TshDirangTshangla,72_thefruit,kʰap+zas,kʰap+zas,,,TB,,,,,,
 TaniGalo-72_thefruit-1,Galo_66,TaniGalo,72_thefruit,apə́-ahèe,a+pə55+a+heː51,,,Post07,,,,,heeL < *ʑe,
@@ -5697,7 +5697,7 @@ Tangut-72_thefruit-1,Tangut_2932,Tangut,72_thefruit,dew,d.e.w,,,Li1997,2498,,,,,
 Tangut-72_thefruit-2,Tangut_2933,Tangut,72_thefruit,mjaa,m.jaa,,,Li1997,4085,,,,,FALSE
 KarbiMikir-72_thefruit-1,Mikir_v2_11694,KarbiMikir,72_thefruit,"athe, ale, mu",+.th.ē,,,Walker1925 KonnerthFC GruessnerNoDate,3525,,,,,FALSE
 Rabha-72_thefruit-1,Rabha_2930,Rabha,72_thefruit,tʰé,tʰ.é,,,Joseph2007,3525,,,,,FALSE
-MishmiKaman-72_thefruit-1,Kaman_190871,MishmiKaman,72_thefruit,pɯ³¹ ɹɯm⁵⁵,pɯ³¹ ɹɯm⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-72_thefruit-1,Kaman_190871,MishmiKaman,72_thefruit,pɯ³¹ ɹɯm⁵⁵,pɯ³¹+ɹɯm⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-72_thefruit-1,easternpuroik_48,KBEastPuroikSoja,72_thefruit,roongwoe’,rɔng+woe,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-72_thefruit-1,easternpuroik_72,KBEastPuroikRemsangpuia,72_thefruit,rɔŋwei,rɔŋ+wei,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-72_thefruit-1,puroik_190873,KBEastPuroikSun,72_thefruit,a³³ vɛ⁵³,a³³+vɛ⁵³,,,Sun1991,,,,,,
@@ -5870,7 +5870,7 @@ Ukhrul-74_togive-1,Ukhrul_3041,Ukhrul,74_togive,kʰə+mi,kʰ.ə.+.m.i,,,Mortense
 Tangut-74_togive-2,Tangut_3034,Tangut,74_togive,khjow,kh.j.o.w,,,Li1997,2125,,,,,FALSE
 KarbiMikir-74_togive-1,Mikir_3025,KarbiMikir,74_togive,"bi, chepi, hi",p.ī,,,Walker1925 KonnerthFC GruessnerNoDate,1913,,,,,FALSE
 Rabha-74_togive-1,Rabha_3031,Rabha,74_togive,rá+xu,r.á.+.x.u,,,Joseph2007,10364,,,,,FALSE
-MishmiKaman-74_togive-1,Kaman_215402,MishmiKaman,74_togive,tɑ⁵⁵ sɑu³⁵,tɑ⁵⁵ sɑu³⁵,,,Sun1991,,,,,,
+MishmiKaman-74_togive-1,Kaman_215402,MishmiKaman,74_togive,tɑ⁵⁵ sɑu³⁵,tɑ⁵⁵+sɑu³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-74_togive-1,easternpuroik_50,KBEastPuroikSoja,74_togive,tang na,taŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-74_togive-1,easternpuroik_74,KBEastPuroikRemsangpuia,74_togive,taŋna,taŋ+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-74_togive-1,puroik_215404,KBEastPuroikSun,74_togive,taŋ³³,taŋ³³,,,Sun1991,,,,,,
@@ -5956,7 +5956,7 @@ Hayu-75_thegoat-1,Hayu_3069,Hayu,75_thegoat,tseːli,ts.eː.l.i,,,Michailovsky198
 Tangut-75_thegoat-1,Tangut_3083,Tangut,75_thegoat,tshjɨ,tsh.jɨ,,,Li1997,774,,,,,FALSE
 KarbiMikir-75_thegoat-1,Mikir_3076,KarbiMikir,75_thegoat,bi,b.ī,,,Walker1925 KonnerthFC GruessnerNoDate,10513,,,,,FALSE
 Rabha-75_thegoat-1,Rabha_3081,Rabha,75_thegoat,prɨn,p.r.ɨ.n,,,Joseph2007,10512,,,,,FALSE
-MishmiKaman-75_thegoat-1,Kaman_185975,MishmiKaman,75_thegoat,kɯ³¹ tɕi⁵³,kɯ³¹ tɕi⁵³,,,Sun1991,,,,,,
+MishmiKaman-75_thegoat-1,Kaman_185975,MishmiKaman,75_thegoat,kɯ³¹ tɕi⁵³,kɯ³¹+tɕi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-75_thegoat-1,easternpuroik_51,KBEastPuroikSoja,75_thegoat,sebeing,sə+bəiŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-75_thegoat-1,easternpuroik_75,KBEastPuroikRemsangpuia,75_thegoat,sabreŋ,sa+breŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-75_thegoat-1,puroik_185977,KBEastPuroikSun,75_thegoat,sə³³ ɣu³³,sə³³+ɣu³³,,,Sun1991,,,,,,
@@ -6057,7 +6057,7 @@ Ukhrul-76_good-2,Ukhrul_3150,Ukhrul,76_good,pʰa,pʰ.a,,,Mortensen2012,3321,,,,,
 Hayu-76_good-1,Hayu_3119,Hayu,76_good,nuk+ha,n.u.k.+.h.a,,,Michailovsky1989a,619,,,,,FALSE
 KarbiMikir-76_good-1,Mikir_3130,KarbiMikir,76_good,"me, sot",m.ē,,,Walker1925 KonnerthFC GruessnerNoDate,10365,,,,,FALSE
 Rabha-76_good-1,Rabha_3140,Rabha,76_good,nem,n.e.m,,,Joseph2007,3947,,,,,FALSE
-MishmiKaman-76_good-1,Kaman_223868,MishmiKaman,76_good,kɯ³¹ sɯt⁵³,kɯ³¹ sɯt⁵³,,,Sun1991,,,,,,
+MishmiKaman-76_good-1,Kaman_223868,MishmiKaman,76_good,kɯ³¹ sɯt⁵³,kɯ³¹+sɯt⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-76_good-1,easternpuroik_52,KBEastPuroikSoja,76_good,ayi,a+ji,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-76_good-1,easternpuroik_76,KBEastPuroikRemsangpuia,76_good,ajɯ,a+jɯ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-76_good-1,puroik_223870,KBEastPuroikSun,76_good,a³³ niaŋ¹¹,a³³+niaŋ¹¹,,,Sun1991,,,,,,
@@ -6135,7 +6135,7 @@ Hayu-77_thegrass-1,Hayu_v2_11348,Hayu,77_thegrass,moksa,m.o.k.s.a,,,Michailovsky
 Tangut-77_thegrass-1,Tangut_v2_11524,Tangut,77_thegrass,ɕjɨ,ɕ.jɨ,,,Li1997,1361,,,,,FALSE
 KarbiMikir-77_thegrass-1,Mikir_v2_11774,KarbiMikir,77_thegrass,"bap, bi, bapso",b.a.p,,,Walker1925 KonnerthFC GruessnerNoDate,10366,,,,,FALSE
 Rabha-77_thegrass-1,Rabha_v2_11970,Rabha,77_thegrass,sam,s.a.m,,,Joseph2007,3505,,,,,FALSE
-MishmiKaman-77_thegrass-1,Kaman_191126,MishmiKaman,77_thegrass,tɯ³¹ phɯn³⁵,tɯ³¹ phɯn³⁵,,,Sun1991,,,,,,
+MishmiKaman-77_thegrass-1,Kaman_191126,MishmiKaman,77_thegrass,tɯ³¹ phɯn³⁵,tɯ³¹+phɯn³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-77_thegrass-1,easternpuroik_194,KBEastPuroikSoja,77_thegrass,sasai,sa+sai,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-77_thegrass-1,easternpuroik_77,KBEastPuroikRemsangpuia,77_thegrass,samsuiˀ,samsuiˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-77_thegrass-1,puroik_191128,KBEastPuroikSun,77_thegrass,mei³³ dar³³,mei³³+dar³³,,,Sun1991,,,,,,
@@ -6222,7 +6222,7 @@ Ukhrul-78_green-1,Ukhrul_3199,Ukhrul,78_green,kʰə+mə+tek,kʰ.ə.+.m.ə.+.t.e.
 Hayu-78_green-1,Hayu_3178,Hayu,78_green,giruŋ,g.i.r.u.ŋ,,,Michailovsky1989a,620,,,,,FALSE
 KarbiMikir-78_green-1,Mikir_3185,KarbiMikir,78_green,"lir(seng), vei(ak)",l.i.r,,,Walker1925 KonnerthFC GruessnerNoDate,10368,,,,,FALSE
 Rabha-78_green-1,Rabha_3192,Rabha,78_green,kʰen+tʃer,kʰ.e.n.+.t.ʃ.e.r,,,Joseph2007,10367,,,,,FALSE
-MishmiKaman-78_green-1,Kaman_222950,MishmiKaman,78_green,kɯ³¹ lɑuŋ³⁵,kɯ³¹ lɑuŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-78_green-1,Kaman_222950,MishmiKaman,78_green,kɯ³¹ lɑuŋ³⁵,kɯ³¹+lɑuŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-78_green-1,easternpuroik_53,KBEastPuroikSoja,78_green,ariye’,a+ri+je,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-78_green-1,easternpuroik_78,KBEastPuroikRemsangpuia,78_green,arie,a+rie,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-78_green-1,puroik_222952,KBEastPuroikSun,78_green,a³³ riɛ³³,a³³+riɛ³³,,,Sun1991,,,,,,
@@ -6542,7 +6542,7 @@ Hayu-82_hard-1,Hayu_3368,Hayu,82_hard,tsam,ts.a.m,,,Michailovsky1989a,2164,,,,,F
 Tangut-82_hard-1,Tangut_3385,Tangut,82_hard,jijr,j.ij.r,,,Li1997,341,,,,,FALSE
 KarbiMikir-82_hard-1,Mikir_3377,KarbiMikir,82_hard,ingtang,i.ng.t.a.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10539,,,,,FALSE
 Rabha-82_hard-1,Rabha_3383,Rabha,82_hard,rak,r.a.k,,,Joseph2007,211,,,,,FALSE
-MishmiKaman-82_hard-1,Kaman_222389,MishmiKaman,82_hard,kɯ⁵⁵ tso⁵³,kɯ⁵⁵ tso⁵³,,,Sun1991,,,,,,
+MishmiKaman-82_hard-1,Kaman_222389,MishmiKaman,82_hard,kɯ⁵⁵ tso⁵³,kɯ⁵⁵+tso⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-82_hard-1,easternpuroik_57,KBEastPuroikSoja,82_hard,karei’,ka+rəɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-82_hard-1,easternpuroik_82,KBEastPuroikRemsangpuia,82_hard,afi aram,a+fi+a+ram,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-82_hard-1,puroik_222391,KBEastPuroikSun,82_hard,a³³ siet³³,a³³+siet³³,,,Sun1991,,,,,,
@@ -6811,7 +6811,7 @@ Ukhrul-85_tohear-1,Ukhrul_3543,Ukhrul,85_tohear,kə+ʃa,k.ə.+.ʃ.a,,,Mortensen2
 Hayu-85_tohear-1,Hayu_3522,Hayu,85_tohear,tʰat,tʰ.a.t,,,Michailovsky1989a,2231,,,,,FALSE
 KarbiMikir-85_tohear-1,Mikir_3530,KarbiMikir,85_tohear,"ju, arju(thek)",a.r.j.ū,,,Walker1925 KonnerthFC GruessnerNoDate,10376,,,,,FALSE
 Rabha-85_tohear-1,Rabha_3535,Rabha,85_tohear,na,n.a,,,Joseph2007,3004,,,,,FALSE
-MishmiKaman-85_tohear-1,Kaman_207140,MishmiKaman,85_tohear,tɑ⁵⁵ giɑt⁵⁵,tɑ⁵⁵ giɑt⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-85_tohear-1,Kaman_207140,MishmiKaman,85_tohear,tɑ⁵⁵ giɑt⁵⁵,tɑ⁵⁵+giɑt⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-85_tohear-1,easternpuroik_60,KBEastPuroikSoja,85_tohear,roong na,rɔŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-85_tohear-1,easternpuroik_85,KBEastPuroikRemsangpuia,85_tohear,rɔŋna,rɔŋ+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-85_tohear-1,puroik_207142,KBEastPuroikSun,85_tohear,ɣɔŋ,ɣɔŋ,,,Sun1991,,,,,,
@@ -6986,7 +6986,7 @@ Hayu-87_heavy-1,Hayu_3620,Hayu,87_heavy,lit,l.i.t,,,Michailovsky1989a,10379,,,,,
 Tangut-87_heavy-1,Tangut_3635,Tangut,87_heavy,ljɨɨ/ɨː,l.j.ɨɨ/ɨː,,,Li1997,10379,,,,,FALSE
 KarbiMikir-87_heavy-1,Mikir_3628,KarbiMikir,87_heavy,"ardi, ardik",a.r.d.ī.k,,,Walker1925 KonnerthFC GruessnerNoDate,10382,,,,,FALSE
 Rabha-87_heavy-1,Rabha_3633,Rabha,87_heavy,rí,r.í,,,Joseph2007,10379,,,,,FALSE
-MishmiKaman-87_heavy-1,Kaman_222338,MishmiKaman,87_heavy,kɑ³¹ lɑ̆ŋ³⁵,kɑ³¹ lɑ̆ŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-87_heavy-1,Kaman_222338,MishmiKaman,87_heavy,kɑ³¹ lɑ̆ŋ³⁵,kɑ³¹+lɑ̆ŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-87_heavy-1,easternpuroik_62,KBEastPuroikSoja,87_heavy,alaii,a+laiː,,,RS09,,,,,,
 KBEastPuroikSun-87_heavy-1,puroik_222340,KBEastPuroikSun,87_heavy,a³³ lei³³,a³³+lei³³,,,Sun1991,,,,,,
 TshDirangTshangla-88_here-1,DirangTshangla_195,TshDirangTshangla,88_here,a-tʰa,a-tʰa,,,TB,,,,,,
@@ -7052,7 +7052,7 @@ Lashi-88_here-1,Lashi_3671,Lashi,88_here,xjɛ³³+mŏ³³,x.j.ɛ.³³.+.m.ŏ.³�
 Maru-88_here-1,Maru_v2_8364,Maru,88_here,tʃʰɛ̆³¹+mɛ³¹,tʃʰ.ɛ̆.³¹.+.m.ɛ.³¹,,,Huang1992 Hill2017,8371,,,,,FALSE
 Xiandao-88_here-1,Xiandao_v2_8365,Xiandao,88_here,xai⁵⁵+tʰɔʔ⁵⁵,x.a.i.⁵⁵.+.tʰ.ɔ.ʔ.⁵⁵,,,Huang1992 Hill2017,8369,,,,,FALSE
 KarbiMikir-88_here-1,Mikir_3674,KarbiMikir,88_here,"ladak, dak",d.ā.k,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-88_here-1,Kaman_230090,MishmiKaman,88_here,ɑn⁵⁵ lɑm⁵⁵,ɑn⁵⁵ lɑm⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-88_here-1,Kaman_230090,MishmiKaman,88_here,ɑn⁵⁵ lɑm⁵⁵,ɑn⁵⁵+lɑm⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-88_here-1,easternpuroik_195,KBEastPuroikSoja,88_here,hena,hə+na,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-88_here-1,easternpuroik_88,KBEastPuroikRemsangpuia,88_here,hana,ha+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-88_here-1,puroik_230092,KBEastPuroikSun,88_here,həŋ³³ na⁵³ la¹¹,həŋ³³+na⁵³+la¹¹,,,Sun1991,,,,,,
@@ -7283,7 +7283,7 @@ Tangut-91_tohold-2,Tangut_3781,Tangut,91_tohold,zow,z.o.w,,,Li1997,318,,,,,FALSE
 KarbiMikir-91_tohold-1,Mikir_3772,KarbiMikir,91_tohold,"nep, jang, thap[...]",t.ù.m,,,Walker1925 KonnerthFC GruessnerNoDate,10384,,,,,FALSE
 Rabha-91_tohold-1,Rabha_3778,Rabha,91_tohold,kʰep,kʰ.e.p,,,Joseph2007,10383,,,,,FALSE
 Lashi-91_tohold-1,Lashi_3767,Lashi,91_tohold,juː³¹,j.uː.³¹,,,Huang1992 Hill2017,9,,,,,FALSE
-MishmiKaman-91_tohold-1,Kaman_208109,MishmiKaman,91_tohold,ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵,ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-91_tohold-1,Kaman_208109,MishmiKaman,91_tohold,ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵,ɹɑ̆u⁵³+tɑ³¹+ɕɑuŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-91_tohold-1,easternpuroik_64,KBEastPuroikSoja,91_tohold,neangkhein na kait khein na,neaŋ+kʰəin,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-91_tohold-1,easternpuroik_91,KBEastPuroikRemsangpuia,91_tohold,naŋkeŋ,naŋ+keŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-91_tohold-1,puroik_208111,KBEastPuroikSun,91_tohold,jik³³,jik³³,,,Sun1991,,,,,,
@@ -7390,7 +7390,7 @@ Jieyang-93_horizontal-1,Jieyang_v2_9844,Jieyang,93_horizontal,hũɛ̃⁵⁵,h.ũ
 Xingning-93_horizontal-1,Xingning_v2_9845,Xingning,93_horizontal,vaŋ²⁴,v.a.ŋ.²⁴,,,Lai2017FN,1651,,,,,FALSE
 Hayu-93_horizontal-1,Hayu_v2_11292,Hayu,93_horizontal,xeŋdaŋ,x.e.ŋ.d.a.ŋ,,,Michailovsky1989a,2166,,,,,FALSE
 KarbiMikir-93_horizontal-1,Mikir_v2_11871,KarbiMikir,93_horizontal,"delong, dolong",d.e.l.o.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-93_horizontal-1,Kaman_221981,MishmiKaman,93_horizontal,kɯ³¹ biŋ⁵⁵,kɯ³¹ biŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-93_horizontal-1,Kaman_221981,MishmiKaman,93_horizontal,kɯ³¹ biŋ⁵⁵,kɯ³¹+biŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikRemsangpuia-93_horizontal-1,easternpuroik_93,KBEastPuroikRemsangpuia,93_horizontal,kafe rai,ka+fe+rai,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-93_horizontal-1,puroik_221983,KBEastPuroikSun,93_horizontal,a³³ vien⁵³,a³³+vien⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-94_thehornkeratinizedskin-1,DirangTshangla_73,TshDirangTshangla,94_thehornkeratinizedskin,wa+rɔŋ,wa+rɔŋ,,,TB,,,,,,
@@ -7791,7 +7791,7 @@ Xingning-98_hundred-1,Xingning_4023,Xingning,98_hundred,paʔ²,p.a.ʔ.²,,,Lai20
 Ukhrul-98_hundred-1,Ukhrul_4021,Ukhrul,98_hundred,ʃa+kʰa,ʃ.a.+.kʰ.a,,,Mortensen2012,1133,,,,,FALSE
 Tangut-98_hundred-1,Tangut_4016,Tangut,98_hundred,jir,j.i.r,,,Li1997,185,,,,,FALSE
 KarbiMikir-98_hundred-1,Mikir_4010,KarbiMikir,98_hundred,"pharo, pharo isi",ph.a.r.ó,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-98_hundred-1,Kaman_227897,MishmiKaman,98_hundred,wɑ⁵⁵ je⁵³ mu⁵³,wɑ⁵⁵ je⁵³ mu⁵³,,,Sun1991,,,,,,
+MishmiKaman-98_hundred-1,Kaman_227897,MishmiKaman,98_hundred,wɑ⁵⁵ je⁵³ mu⁵³,wɑ⁵⁵+je⁵³+mu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-98_hundred-1,easternpuroik_200,KBEastPuroikSoja,98_hundred,leeng,ləːŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-98_hundred-1,easternpuroik_98,KBEastPuroikRemsangpuia,98_hundred,laŋ,laŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-98_hundred-1,puroik_227899,KBEastPuroikSun,98_hundred,ləŋ³³,ləŋ³³,,,Sun1991,,,,,,
@@ -7867,7 +7867,7 @@ Hayu-99_tohunt-1,Hayu_v2_11434,Hayu,99_tohunt,lʊn,l.ʊ.n,,,Michailovsky1989a,22
 Tangut-99_tohunt-1,Tangut_v2_11535,Tangut,99_tohunt,ba,b.a,,,Li1997,1455,,,,,FALSE
 KarbiMikir-99_tohunt-1,Mikir_v2_11787,KarbiMikir,99_tohunt,"o kung, sikar puri",o._.k.u.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10386,,,,,FALSE
 Rabha-99_tohunt-1,Rabha_v2_12027,Rabha,99_tohunt,rok,r.o.k,,,Joseph2007,3834,,,,,FALSE
-MishmiKaman-99_tohunt-1,Kaman_214994,MishmiKaman,99_tohunt,ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵,ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵,,,Sun1991,,,,,,
+MishmiKaman-99_tohunt-1,Kaman_214994,MishmiKaman,99_tohunt,ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵,ɕin⁵⁵+tɑŋ⁵⁵+khil³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-99_tohunt-1,easternpuroik_201,KBEastPuroikSoja,99_tohunt,mepiyana,mə+pi+ja,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-99_tohunt-1,easternpuroik_99,KBEastPuroikRemsangpuia,99_tohunt,mapia,ma+pia,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-99_tohunt-1,puroik_214996,KBEastPuroikSun,99_tohunt,mə³³ kaȶ⁵³,mə³³+kaȶ⁵³,,,Sun1991,,,,,,
@@ -7945,7 +7945,7 @@ Atsi-100_thehusband-1,Atsi_v2_8442,Atsi,100_thehusband,laŋ⁵¹,l.a.ŋ.⁵¹,,,
 Lashi-100_thehusband-1,Lashi_4051,Lashi,100_thehusband,laŋ³¹,l.a.ŋ.³¹,,,Huang1992 Hill2017,1951,,,,,FALSE
 Tangut-100_thehusband-1,Tangut_4060,Tangut,100_thehusband,wə,w.ə,,,Li1997,0,,,,,FALSE
 KarbiMikir-100_thehusband-1,Mikir_v2_11890,KarbiMikir,100_thehusband,"pengngan, penan",+.p.ē.n.ā.n,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-100_thehusband-1,Kaman_197195,MishmiKaman,100_thehusband,ɑ³¹ wɑi⁵³,ɑ³¹ wɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-100_thehusband-1,Kaman_197195,MishmiKaman,100_thehusband,ɑ³¹ wɑi⁵³,ɑ³¹+wɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-100_thehusband-1,easternpuroik_202,KBEastPuroikSoja,100_thehusband,"avoe’y, awoe’",a+woe,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-100_thehusband-1,easternpuroik_100,KBEastPuroikRemsangpuia,100_thehusband,awei,a+wei,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-100_thehusband-1,puroik_197197,KBEastPuroikSun,100_thehusband,a³³ ve¹¹,a³³+ve¹¹,,,Sun1991,,,,,,
@@ -8098,7 +8098,7 @@ Xingning-102_theice-1,Xingning_4160,Xingning,102_theice,pien⁴⁵,p.i.e.n.⁴�
 Guangzhou-102_theice-2,Guangzhou_v2_10307,Guangzhou,102_theice,pɪŋ⁵³₅₅,p.ɪ.ŋ.⁵³₅₅,,,Lai2017FN,1169,,,,,FALSE
 Tangut-102_theice-1,Tangut_4155,Tangut,102_theice,wo.,w.o.,,,Li1997,1169,,,,,FALSE
 KarbiMikir-102_theice-1,Mikir_4147,KarbiMikir,102_theice,ar-e,a.r.+.e,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-102_theice-1,Kaman_180569,MishmiKaman,102_theice,wɑ³¹ tɑ̆uŋ³⁵,wɑ³¹ tɑ̆uŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-102_theice-1,Kaman_180569,MishmiKaman,102_theice,wɑ³¹ tɑ̆uŋ³⁵,wɑ³¹+tɑ̆uŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-102_theice-1,easternpuroik_203,KBEastPuroikSoja,102_theice,khesi’,kʰə+sɯ,,,RS09,,,,,,
 KBEastPuroikSun-102_theice-1,puroik_180571,KBEastPuroikSun,102_theice,tɕak³³ kə³³,tɕak³³+kə³³,,,Sun1991,,,,,,
 TshDirangTshangla-103_inside-1,DirangTshangla_18,TshDirangTshangla,103_inside,naŋ,naŋ,,,TB,,,,,,
@@ -8685,7 +8685,7 @@ Hayu-110_late-1,Hayu_4464,Hayu,110_late,umum+he,u.m.u.m.+.h.e,,,Michailovsky1989
 Tangut-110_late-1,Tangut_4481,Tangut,110_late,nej²,n.e.j.²,,,Li1997,4207,,,,,FALSE
 KarbiMikir-110_late-1,Mikir_4474,KarbiMikir,110_late,keder,d.é.r,,,Walker1925 KonnerthFC GruessnerNoDate,10506,,,,,FALSE
 Rabha-110_late-1,Rabha_4479,Rabha,110_late,bón,b.ó.n,,,Joseph2007,10507,,,,,FALSE
-MishmiKaman-110_late-1,Kaman_224531,MishmiKaman,110_late,mphlo⁵³ lɑ³⁵,mphlo⁵³ lɑ³⁵,,,Sun1991,,,,,,
+MishmiKaman-110_late-1,Kaman_224531,MishmiKaman,110_late,mphlo⁵³ lɑ³⁵,mphlo⁵³+lɑ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-110_late-1,easternpuroik_72,KBEastPuroikSoja,110_late,naang,naːŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-110_late-1,easternpuroik_110,KBEastPuroikRemsangpuia,110_late,akug,a+kug,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-110_late-1,puroik_224533,KBEastPuroikSun,110_late,θə³³,θə³³,,,Sun1991,,,,,,
@@ -8773,7 +8773,7 @@ Rabha-111_tolaugh-1,Rabha_4526,Rabha,111_tolaugh,mi-ni,m.i-.n.i,,,Joseph2007,213
 Achang-111_tolaugh-1,Achang_4502,Achang,111_tolaugh,ʐə⁵⁵,ʐ.ə.⁵⁵,,,Huang1992 Hill2017,438,,,,,FALSE
 Xiandao-111_tolaugh-1,Xiandao_v2_12144,Xiandao,111_tolaugh,ʐɯ⁵⁵,ʐ.ɯ.⁵⁵,,,Huang1992 Hill2017,438,,,,,FALSE
 Atsi-111_tolaugh-1,Atsi_v2_12169,Atsi,111_tolaugh,vui⁵¹,v.u.i.⁵¹,,,Huang1992 Hill2017,14,,,,,FALSE
-MishmiKaman-111_tolaugh-1,Kaman_216575,MishmiKaman,111_tolaugh,k ɹit⁵⁵,k ɹit⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-111_tolaugh-1,Kaman_216575,MishmiKaman,111_tolaugh,k ɹit⁵⁵,k+ɹit⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-111_tolaugh-1,easternpuroik_73,KBEastPuroikSoja,111_tolaugh,ruae’na,ruae,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-111_tolaugh-1,easternpuroik_111,KBEastPuroikRemsangpuia,111_tolaugh,rue,rue,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-111_tolaugh-1,puroik_216577,KBEastPuroikSun,111_tolaugh,ɣuɛ³³,ɣuɛ³³,,,Sun1991,,,,,,
@@ -8925,7 +8925,7 @@ Ukhrul-113_tolearn-1,Ukhrul_v2_11236,Ukhrul,113_tolearn,kə+tɐm,k.ə.+.t.ɐ.m,,
 Hayu-113_tolearn-1,Hayu_v2_11440,Hayu,113_tolearn,lit,l.i.t,,,Michailovsky1989a,3665,,,,,FALSE
 Tangut-113_tolearn-1,Tangut_v2_11589,Tangut,113_tolearn,ɣiew,ɣ.i.e.w,,,Li1997,119,,,,,FALSE
 KarbiMikir-113_tolearn-1,Mikir_v2_11875,KarbiMikir,113_tolearn,"cherli, pechok",ch.e.r.l.i,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-113_tolearn-1,Kaman_211730,MishmiKaman,113_tolearn,tɑ³¹ mɑl⁵³; dʑoŋ⁵⁵,tɑ³¹+mɑl⁵³,,,Sun1991,,,,,,
+MishmiKaman-113_tolearn-1,Kaman_211730,MishmiKaman,113_tolearn,tɑ³¹ mɑl⁵³; dʑoŋ⁵⁵,tɑ³¹ mɑl⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-113_tolearn-1,easternpuroik_208,KBEastPuroikSoja,113_tolearn,migab hingab na,mi+gap+hin+gap,,,RS09,,,,,,
 TshDirangTshangla-114_left-1,DirangTshangla_20,TshDirangTshangla,114_left,jɔm+lak+pa,jɔm+lak+pa,,,TB,,,,,,
 TaniGalo-114_left-1,Galo_20,TaniGalo,114_left,ciL,tɕi51,,,Post07,,,,,*(lak-)ke,
@@ -9011,7 +9011,7 @@ Ukhrul-114_left-1,Ukhrul_4635,Ukhrul,114_left,juj+vak,j.u.j.+.v.a.k,,,Mortensen2
 Tangut-114_left-1,Tangut_4630,Tangut,114_left,ʑji./i,ʑ.j.i./i,,,Li1997,816,,,,,FALSE
 KarbiMikir-114_left-1,Mikir_4621,KarbiMikir,114_left,arvi,a.r.v.ī,,,Walker1925 KonnerthFC GruessnerNoDate,422,,,,,FALSE
 Rabha-114_left-1,Rabha_4627,Rabha,114_left,le+braŋ,l.e.+.b.r.a.ŋ,,,Joseph2007,10394,,,,,FALSE
-MishmiKaman-114_left-1,Kaman_182711,MishmiKaman,114_left,kɯ³¹ wɑi⁵³,kɯ³¹ wɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-114_left-1,Kaman_182711,MishmiKaman,114_left,kɯ³¹ wɑi⁵³,kɯ³¹+wɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-114_left-1,easternpuroik_75,KBEastPuroikSoja,114_left,poafe’,poa+fe,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-114_left-1,easternpuroik_114,KBEastPuroikRemsangpuia,114_left,puafe,pua+fe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-114_left-1,puroik_182713,KBEastPuroikSun,114_left,pua³³ fe³³ ha⁵³,pua³³+fe³³+ha⁵³,,,Sun1991,,,,,,
@@ -9250,7 +9250,7 @@ Hayu-117_lightofweight-1,Hayu_4716,Hayu,117_lightofweight,oksaŋ,o.k.s.a.ŋ,,,Mi
 Tangut-117_lightofweight-1,Tangut_4731,Tangut,117_lightofweight,jij,j.i.j,,,Li1997,10542,,,,,FALSE
 KarbiMikir-117_lightofweight-1,Mikir_4724,KarbiMikir,117_lightofweight,arjāng,a.r.j.ā.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10542,,,,,FALSE
 Rabha-117_lightofweight-1,Rabha_4729,Rabha,117_lightofweight,tʃéŋ,tʃ.é.ŋ,,,Joseph2007,10542,,,,,FALSE
-MishmiKaman-117_lightofweight-1,Kaman_222287,MishmiKaman,117_lightofweight,ɑ³¹ kiuŋ⁵⁵,ɑ³¹ kiuŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-117_lightofweight-1,Kaman_222287,MishmiKaman,117_lightofweight,ɑ³¹ kiuŋ⁵⁵,ɑ³¹+kiuŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-117_lightofweight-1,easternpuroik_77,KBEastPuroikSoja,117_lightofweight,achiang,a+tʃʰiaŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-117_lightofweight-1,easternpuroik_117,KBEastPuroikRemsangpuia,117_lightofweight,akiaŋ,a+kiaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-117_lightofweight-1,puroik_222289,KBEastPuroikSun,117_lightofweight,a³³ tua⁵³,a³³+tua⁵³,,,Sun1991,,,,,,
@@ -9316,7 +9316,7 @@ Hayu-118_thelipthelips-1,Hayu_v2_11358,Hayu,118_thelipthelips,kumtsiŋ,k.u.m.ts.
 Tangut-118_thelipthelips-1,Tangut_v2_11500,Tangut,118_thelipthelips,mər,m.ə.r,,,Li1997,2075,,,,,FALSE
 KarbiMikir-118_thelipthelips-1,Mikir_v2_11735,KarbiMikir,118_thelipthelips,"""ingtur; (upper) turthak; (lower) turber""",i.ng.t.u.r,,,Walker1925 KonnerthFC GruessnerNoDate,10522,,,,,FALSE
 Rabha-118_thelipthelips-1,Rabha_v2_11975,Rabha,118_thelipthelips,kʰú+tʃar,kʰ.ú.+.tʃ.a.r,,,Joseph2007,10522,,,,,FALSE
-MishmiKaman-118_thelipthelips-1,Kaman_192401,MishmiKaman,118_thelipthelips,ȵtɕhɯu⁵³ dɑ̆p³⁵,ȵtɕhɯu⁵³ dɑ̆p³⁵,,,Sun1991,,,,,,
+MishmiKaman-118_thelipthelips-1,Kaman_192401,MishmiKaman,118_thelipthelips,ȵtɕhɯu⁵³ dɑ̆p³⁵,ȵtɕhɯu⁵³+dɑ̆p³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-118_thelipthelips-1,easternpuroik_210,KBEastPuroikSoja,118_thelipthelips,kheche,kʰə+tʃʰə,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-118_thelipthelips-1,easternpuroik_118,KBEastPuroikRemsangpuia,118_thelipthelips,katʃe,ka+tʃe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-118_thelipthelips-1,puroik_192403,KBEastPuroikSun,118_thelipthelips,kə³³ kiɛ³³,kə³³+kiɛ³³,,,Sun1991,,,,,,
@@ -9395,7 +9395,7 @@ Ukhrul-119_theliver-1,Ukhrul_4784,Ukhrul,119_theliver,ʔa+mə+tʰin,ʔ.a.+.m.ə.
 Hayu-119_theliver-1,Hayu_4764,Hayu,119_theliver,diŋ,d.i.ŋ,,,Michailovsky1989a,29726,,,,,FALSE
 KarbiMikir-119_theliver-1,Mikir_4772,KarbiMikir,119_theliver,"ingthin, pektung",i.ng.th.i.n,,,Walker1925 KonnerthFC GruessnerNoDate,2076,,,,,FALSE
 Rabha-119_theliver-1,Rabha_4777,Rabha,119_theliver,pi+xa,p.i.+.x.a,,,Joseph2007,3966,,,,,FALSE
-MishmiKaman-119_theliver-1,Kaman_193931,MishmiKaman,119_theliver,blɑi³¹ blɑi⁵³,blɑi³¹ blɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-119_theliver-1,Kaman_193931,MishmiKaman,119_theliver,blɑi³¹ blɑi⁵³,blɑi³¹+blɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-119_theliver-1,easternpuroik_78,KBEastPuroikSoja,119_theliver,mepie’k,mə+piek,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-119_theliver-1,easternpuroik_119,KBEastPuroikRemsangpuia,119_theliver,apiet,a+piet,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-119_theliver-1,puroik_193933,KBEastPuroikSun,119_theliver,a³³ pie⁵³,a³³+pie⁵³,,,Sun1991,,,,,,
@@ -9727,7 +9727,7 @@ Ukhrul-123_themanmalehuman-1,Ukhrul_4983,Ukhrul,123_themanmalehuman,mə+jar+naw,
 Hayu-123_themanmalehuman-1,Hayu_4963,Hayu,123_themanmalehuman,lʊ̃ːtso,l.ʊ̃ː.ts.o,,,Michailovsky1989a,10226,,,,,FALSE
 KarbiMikir-123_themanmalehuman-1,Mikir_4972,KarbiMikir,123_themanmalehuman,arleng,a.r.l.e.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10396,,,,,FALSE
 Rabha-123_themanmalehuman-1,Rabha_4976,Rabha,123_themanmalehuman,mú+sa,m.ú.+.s.a,,,Joseph2007,10397,,,,,FALSE
-MishmiKaman-123_themanmalehuman-1,Kaman_194798,MishmiKaman,123_themanmalehuman,ɑ³¹ wɑi⁵³ sɑ⁵⁵,ɑ³¹ wɑi⁵³ sɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-123_themanmalehuman-1,Kaman_194798,MishmiKaman,123_themanmalehuman,ɑ³¹ wɑi⁵³ sɑ⁵⁵,ɑ³¹+wɑi⁵³+sɑ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-123_themanmalehuman-1,easternpuroik_82,KBEastPuroikSoja,123_themanmalehuman,bi,bi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-123_themanmalehuman-1,easternpuroik_123,KBEastPuroikRemsangpuia,123_themanmalehuman,bi pak,bi+pak,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-123_themanmalehuman-1,puroik_194800,KBEastPuroikSun,123_themanmalehuman,a³³ fu¹¹,a³³+fu¹¹,,,Sun1991,,,,,,
@@ -9863,7 +9863,7 @@ Lushai-125_tomarryamanmarriesawoman-1,Lushai_v2_9653,Lushai,125_tomarryamanmarri
 Ukhrul-125_tomarryamanmarriesawoman-1,Ukhrul_v2_11240,Ukhrul,125_tomarryamanmarriesawoman,ʃakkə+tsa,ʃ.a.k.k.ə.+.ts.a,,,Mortensen2012,2135,,,,,FALSE
 Tangut-125_tomarryamanmarriesawoman-1,Tangut_v2_11598,Tangut,125_tomarryamanmarriesawoman,ta.,t.a.,,,Li1997,4218,,,,,FALSE
 KarbiMikir-125_tomarryamanmarriesawoman-1,Mikir_v2_11887,KarbiMikir,125_tomarryamanmarriesawoman,piso en,p.i.s.o._.e.n,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-125_tomarryamanmarriesawoman-1,Kaman_215504,MishmiKaman,125_tomarryamanmarriesawoman,tɑ⁵⁵ mphit⁵⁵,tɑ⁵⁵ mphit⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-125_tomarryamanmarriesawoman-1,Kaman_215504,MishmiKaman,125_tomarryamanmarriesawoman,tɑ⁵⁵ mphit⁵⁵,tɑ⁵⁵+mphit⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-125_tomarryamanmarriesawoman-1,easternpuroik_211,KBEastPuroikSoja,125_tomarryamanmarriesawoman,amui urue’ na,a+mui+u+rue,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-125_tomarryamanmarriesawoman-1,easternpuroik_125,KBEastPuroikRemsangpuia,125_tomarryamanmarriesawoman,rai,rai,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-125_tomarryamanmarriesawoman-1,puroik_215506,KBEastPuroikSun,125_tomarryamanmarriesawoman,tap³³; lu⁵³,lu⁵³,,,Sun1991,,,,,,
@@ -10024,7 +10024,7 @@ Hayu-127_middle-1,Hayu_5111,Hayu,127_middle,maʔdum+he,m.a.ʔ.d.u.m.+.h.e,,,Mich
 Tangut-127_middle-1,Tangut_5128,Tangut,127_middle,zji./ij,z.j.i./i.j,,,Li1997,1126,,,,,FALSE
 KarbiMikir-127_middle-1,Mikir_v2_11833,KarbiMikir,127_middle,angbong,+.i.ng.b.ò.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10531,,,,,FALSE
 Rabha-127_middle-1,Rabha_5126,Rabha,127_middle,ma+dzar,m.a.+.d.z.a.r,,,Joseph2007,10530,,,,,FALSE
-MishmiKaman-127_middle-1,Kaman_182864,MishmiKaman,127_middle,pɑ³¹ tɯ³¹ lɑi⁵⁵,pɑ³¹ tɯ³¹ lɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-127_middle-1,Kaman_182864,MishmiKaman,127_middle,pɑ³¹ tɯ³¹ lɑi⁵⁵,pɑ³¹+tɯ³¹+lɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-127_middle-1,easternpuroik_85,KBEastPuroikSoja,127_middle,aloo,a+lɔ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-127_middle-1,easternpuroik_127,KBEastPuroikRemsangpuia,127_middle,alɔ,a+lɔ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-127_middle-1,puroik_182866,KBEastPuroikSun,127_middle,a³³ lo⁵³ lui³³,a³³+lo⁵³+lui³³,,,Sun1991,,,,,,
@@ -10198,7 +10198,7 @@ Ukhrul-129_morning-1,Ukhrul_5230,Ukhrul,129_morning,ŋə+tor,ŋ.ə.+.t.o.r,,,Mor
 Tangut-129_morning-1,Tangut_5224,Tangut,129_morning,mji./ij,m.j.i./i.j,,,Li1997,4208,,,,,FALSE
 KarbiMikir-129_morning-1,Mikir_v2_11741,KarbiMikir,129_morning,adap,+.d.à.p,,,Walker1925 KonnerthFC GruessnerNoDate,10524,,,,,FALSE
 Rabha-129_morning-1,Rabha_5222,Rabha,129_morning,pʰuŋ,pʰ.u.ŋ,,,Joseph2007,10523,,,,,FALSE
-MishmiKaman-129_morning-1,Kaman_185261,MishmiKaman,129_morning,tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵,tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-129_morning-1,Kaman_185261,MishmiKaman,129_morning,tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵,tɯ³¹+ɹɑ̆uŋ⁵⁵+wɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-129_morning-1,easternpuroik_87,KBEastPuroikSoja,129_morning,apiye’,a+pi+je,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-129_morning-1,easternpuroik_129,KBEastPuroikRemsangpuia,129_morning,apre,a+pre,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-129_morning-1,puroik_185263,KBEastPuroikSun,129_morning,a³³ pɹæʴ⁵³,a³³+pɹæʴ⁵³,,,Sun1991,,,,,,
@@ -10275,7 +10275,7 @@ Xingning-130_themosquito-1,Xingning_5274,Xingning,130_themosquito,min²⁴ti²¹
 Hayu-130_themosquito-1,Hayu_5255,Hayu,130_themosquito,kananaŋ,k.a.n.a.n.a.ŋ,,,Michailovsky1989a,2200,,,,,FALSE
 Tangut-130_themosquito-1,Tangut_5268,Tangut,130_themosquito,mətsji,m.ə.ts.ji,,,Li1997,2689,,,,,FALSE
 KarbiMikir-130_themosquito-1,Mikir_5262,KarbiMikir,130_themosquito,timkhrang,ch.i.t.í.m,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-130_themosquito-1,Kaman_188423,MishmiKaman,130_themosquito,ko⁵⁵ ɹɯn⁵⁵,ko⁵⁵ ɹɯn⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-130_themosquito-1,Kaman_188423,MishmiKaman,130_themosquito,ko⁵⁵ ɹɯn⁵⁵,ko⁵⁵+ɹɯn⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-130_themosquito-1,easternpuroik_212,KBEastPuroikSoja,130_themosquito,chungkya,tʃʰuŋ+kja,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-130_themosquito-1,easternpuroik_130,KBEastPuroikRemsangpuia,130_themosquito,tʃuŋkrieˀ,tʃuŋ+krieˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-130_themosquito-1,puroik_188425,KBEastPuroikSun,130_themosquito,tɕuoŋ³³ kə³³ ɹa³³,tɕuoŋ³³+kə³³+ɹa³³,,,Sun1991,,,,,,
@@ -10455,7 +10455,7 @@ Ukhrul-132_themountain-1,Ukhrul_5374,Ukhrul,132_themountain,kə+pʰuŋ,k.ə.+.p�
 Hayu-132_themountain-1,Hayu_5353,Hayu,132_themountain,tsʰaːdzʊ,tsʰ.aː.d.z.ʊ,,,Michailovsky1989a,10229,,,,,FALSE
 KarbiMikir-132_themountain-1,Mikir_5361,KarbiMikir,132_themountain,inglong,i.ng.l.o.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10404,,,,,FALSE
 Rabha-132_themountain-1,Rabha_5367,Rabha,132_themountain,há+tʃu,h.á.+.tʃ.u,,,Joseph2007,10403,,,,,FALSE
-MishmiKaman-132_themountain-1,Kaman_181283,MishmiKaman,132_themountain,ɑ³¹ dzɑu³⁵,ɑ³¹ dzɑu³⁵,,,Sun1991,,,,,,
+MishmiKaman-132_themountain-1,Kaman_181283,MishmiKaman,132_themountain,ɑ³¹ dzɑu³⁵,ɑ³¹+dzɑu³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-132_themountain-1,easternpuroik_88,KBEastPuroikSoja,132_themountain,alau,a+lau,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-132_themountain-1,easternpuroik_132,KBEastPuroikRemsangpuia,132_themountain,alau,a+lau,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-132_themountain-1,puroik_181285,KBEastPuroikSun,132_themountain,gɹaŋ³³,gɹaŋ³³,,,Sun1991,,,,,,
@@ -10543,7 +10543,7 @@ Hayu-133_themouseorrat-1,Hayu_5404,Hayu,133_themouseorrat,tsuʔju,ts.u.ʔ.j.u,,,
 Tangut-133_themouseorrat-1,Tangut_5419,Tangut,133_themouseorrat,ɕiwə,ɕ.i.wə,,,Li1997,10424,,,,,FALSE
 KarbiMikir-133_themouseorrat-1,Mikir_5412,KarbiMikir,133_themouseorrat,"jukingso [rat: piyu, yupi]",j.u.k.i.ng.s.o,,,Walker1925 KonnerthFC GruessnerNoDate,10424,,,,,FALSE
 Rabha-133_themouseorrat-1,Rabha_5417,Rabha,133_themouseorrat,mo+tʃó,m.o.+.tʃ.ó,,,Joseph2007,10557,,,,,FALSE
-MishmiKaman-133_themouseorrat-1,Kaman_186842,MishmiKaman,133_themouseorrat,si⁵⁵ nu⁵³,si⁵⁵ nu⁵³,,,Sun1991,,,,,,
+MishmiKaman-133_themouseorrat-1,Kaman_186842,MishmiKaman,133_themouseorrat,si⁵⁵ nu⁵³,si⁵⁵+nu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-133_themouseorrat-1,easternpuroik_89,KBEastPuroikSoja,133_themouseorrat,"sebue’, meheeng",sə+bue,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-133_themouseorrat-1,easternpuroik_133,KBEastPuroikRemsangpuia,133_themouseorrat,sabue,sa+bue,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-133_themouseorrat-1,puroik_186844,KBEastPuroikSun,133_themouseorrat,a³³ buɛ⁵³,a³³+buɛ⁵³,,,Sun1991,,,,,,
@@ -10715,7 +10715,7 @@ Xingning-135_themud-1,Xingning_5526,Xingning,135_themud,nai²⁴,n.a.i.²⁴,,,L
 Tangut-135_themud-1,Tangut_5520,Tangut,135_themud,tɕior,tɕ.i.o.r,,,Li1997,2018,,,,,FALSE
 KarbiMikir-135_themud-1,Mikir_5513,KarbiMikir,135_themud,inghan,i.ng.h.à.n,,,Walker1925 KonnerthFC GruessnerNoDate,10545,,,,,FALSE
 Rabha-135_themud-1,Rabha_5518,Rabha,135_themud,há-duŋla+da,h.á-.d.u.ŋ.l.a.+.d.a,,,Joseph2007,10546,,,,,FALSE
-MishmiKaman-135_themud-1,Kaman_181640,MishmiKaman,135_themud,tɕi³¹ ɹui³⁵,tɕi³¹ ɹui³⁵,,,Sun1991,,,,,,
+MishmiKaman-135_themud-1,Kaman_181640,MishmiKaman,135_themud,tɕi³¹ ɹui³⁵,tɕi³¹+ɹui³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-135_themud-1,easternpuroik_91,KBEastPuroikSoja,135_themud,mezaik seriung,mə+zaik+sə+riuŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-135_themud-1,easternpuroik_135,KBEastPuroikRemsangpuia,135_themud,sarioŋ,sa+rioŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-135_themud-1,puroik_181642,KBEastPuroikSun,135_themud,kə³³ paŋ³³,kə³³+paŋ³³,,,Sun1991,,,,,,
@@ -10891,7 +10891,7 @@ Ukhrul-137_thename-1,Ukhrul_5623,Ukhrul,137_thename,ʔa+miŋ,ʔ.a.+.m.i.ŋ,,,Mor
 Hayu-137_thename-1,Hayu_5602,Hayu,137_thename,miŋ,m.i.ŋ,,,Michailovsky1989a,18,,,,,FALSE
 KarbiMikir-137_thename-1,Mikir_v2_11667,KarbiMikir,137_thename,men[...],+.m.é.n,,,Walker1925 KonnerthFC GruessnerNoDate,18,,,,,FALSE
 Rabha-137_thename-1,Rabha_5615,Rabha,137_thename,muŋ,m.u.ŋ,,,Joseph2007,18,,,,,FALSE
-MishmiKaman-137_thename-1,Kaman_206375,MishmiKaman,137_thename,ɑ³¹ mɑ̆ŋ⁵⁵,ɑ³¹ mɑ̆ŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-137_thename-1,Kaman_206375,MishmiKaman,137_thename,ɑ³¹ mɑ̆ŋ⁵⁵,ɑ³¹+mɑ̆ŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-137_thename-1,easternpuroik_93,KBEastPuroikSoja,137_thename,abiang,a+biaŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-137_thename-1,easternpuroik_137,KBEastPuroikRemsangpuia,137_thename,abren,a+bren,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-137_thename-1,puroik_206377,KBEastPuroikSun,137_thename,a³³ bɛʴŋ³³,a³³+bɛʴŋ³³,,,Sun1991,,,,,,
@@ -10971,7 +10971,7 @@ Tangut-138_narrow-1,Tangut_v2_11627,Tangut,138_narrow,dʑjii,dʑ.jii,,,Li1997,41
 Tangut-138_narrow-2,Tangut_v2_11628,Tangut,138_narrow,tɕhji,tɕh.ji,,,Li1997,4147,,,,,FALSE
 KarbiMikir-138_narrow-1,Mikir_v2_11836,KarbiMikir,138_narrow,"bihek, chingkinret, chengran, chengret, ajamkebi, ranitini",ch.ē.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10410,,,,,FALSE
 Rabha-138_narrow-1,Rabha_v2_11999,Rabha,138_narrow,si+luk,s.i.+.l.u.k,,,Joseph2007,10409,,,,,FALSE
-MishmiKaman-138_narrow-1,Kaman_221624,MishmiKaman,138_narrow,kɯ³¹ jɯŋ⁵⁵,kɯ³¹ jɯŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-138_narrow-1,Kaman_221624,MishmiKaman,138_narrow,kɯ³¹ jɯŋ⁵⁵,kɯ³¹+jɯŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-138_narrow-1,easternpuroik_214,KBEastPuroikSoja,138_narrow,akhehing,a+kʰə+hiŋ,,,RS09,,,,,,
 KBEastPuroikSun-138_narrow-1,puroik_221626,KBEastPuroikSun,138_narrow,a³³ dak⁵³,a³³+dak⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-139_near-1,DirangTshangla_26,TshDirangTshangla,139_near,tɛp+ka,tɛp+ka,,,TB,,,,,,
@@ -11059,7 +11059,7 @@ Hayu-139_near-1,Hayu_5652,Hayu,139_near,kʰeʔʷa,kʰ.e.ʔʷ.a,,,Michailovsky198
 Tangut-139_near-1,Tangut_5669,Tangut,139_near,bjij,b.ji.j,,,Li1997,4148,,,,,FALSE
 KarbiMikir-139_near-1,Mikir_5661,KarbiMikir,139_near,"tebook(het), adung, along, pang[...]",a.d.u.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10412,,,,,FALSE
 Rabha-139_near-1,Rabha_5667,Rabha,139_near,ka+pʰa,k.a.+.pʰ.a,,,Joseph2007,10411,,,,,FALSE
-MishmiKaman-139_near-1,Kaman_221726,MishmiKaman,139_near,mɯ³¹ nɑ̆i⁵³,mɯ³¹ nɑ̆i⁵³,,,Sun1991,,,,,,
+MishmiKaman-139_near-1,Kaman_221726,MishmiKaman,139_near,mɯ³¹ nɑ̆i⁵³,mɯ³¹+nɑ̆i⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-139_near-1,easternpuroik_94,KBEastPuroikSoja,139_near,"aliye’, anui",a+nui,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-139_near-1,easternpuroik_139,KBEastPuroikRemsangpuia,139_near,anui,a+nui,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-139_near-1,puroik_221728,KBEastPuroikSun,139_near,a³³ nui³³,a³³+nui³³,,,Sun1991,,,,,,
@@ -11395,7 +11395,7 @@ Xingning-143_nine-1,Xingning_5866,Xingning,143_nine,kiu²¹,k.i.u.²¹,,,Lai2017
 Ukhrul-143_nine-1,Ukhrul_5864,Ukhrul,143_nine,ci+ko,c.i.+.k.o,,,Mortensen2012,24,,,,,FALSE
 Tangut-143_nine-1,Tangut_5859,Tangut,143_nine,gjɨɨ/ɨː,g.j.ɨɨ/ɨː,,,Li1997,24,,,,,FALSE
 KarbiMikir-143_nine-1,Mikir_5853,KarbiMikir,143_nine,sirkep,s.i.r.k.ē.p,,,Walker1925 KonnerthFC GruessnerNoDate,10415,,,,,FALSE
-MishmiKaman-143_nine-1,Kaman_226877,MishmiKaman,143_nine,nɑn⁵⁵ mu⁵³,nɑn⁵⁵ mu⁵³,,,Sun1991,,,,,,
+MishmiKaman-143_nine-1,Kaman_226877,MishmiKaman,143_nine,nɑn⁵⁵ mu⁵³,nɑn⁵⁵+mu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-143_nine-1,easternpuroik_98,KBEastPuroikSoja,143_nine,doongye’,dɔnŋ+gje,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-143_nine-1,easternpuroik_143,KBEastPuroikRemsangpuia,143_nine,dɔŋge,dɔŋ+ge,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-143_nine-1,puroik_226879,KBEastPuroikSun,143_nine,dɔŋ³³ gɛʴ⁵³,dɔŋ³³+gɛʴ⁵³,,,Sun1991,,,,,,
@@ -11437,7 +11437,7 @@ Maru-144_thenit-1,Maru_v2_8633,Maru,144_thenit,ʃiŋ³⁵+a̰u⁵⁵,ʃ.i.ŋ.³�
 Rangoon-144_thenit-1,Rangoon_v2_8649,Rangoon,144_thenit,tθɑ̃∼⁵⁵+u⁵³,tθ.ɑ̃.∼.⁵⁵.+.u.⁵³,,,Huang1992 Hill2017,1155,,,,,FALSE
 Atsi-144_thenit-1,Atsi_v2_8699,Atsi,144_thenit,ʃin²¹+u⁵⁵,ʃ.i.n.²¹.+.u.⁵⁵,,,Huang1992 Hill2017,1155,,,,,FALSE
 Tangut-144_thenit-1,Tangut_v2_11596,Tangut,144_thenit,ɕju.,ɕ.ju.,,,Li1997,190,,,,,FALSE
-MishmiKaman-144_thenit-1,Kaman_188321,MishmiKaman,144_thenit,săl⁵³ sit⁵⁵,săl⁵³ sit⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-144_thenit-1,Kaman_188321,MishmiKaman,144_thenit,săl⁵³ sit⁵⁵,săl⁵³+sit⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikRemsangpuia-144_thenit-1,easternpuroik_144,KBEastPuroikRemsangpuia,144_thenit,pɯmji,pɯ+mji,,,Remsangpuia2008,,,,,,
 TshDirangTshangla-145_noon-1,DirangTshangla_216,TshDirangTshangla,145_noon,je+naŋ,je+naŋ,,,TB,,,,,,
 TaniGalo-145_noon-1,Galo_171,TaniGalo,145_noon,kozò,ko+zo51,,,Post07,,,,,Ø,
@@ -11514,7 +11514,7 @@ Xingning-145_noon-1,Xingning_5911,Xingning,145_noon,tɔŋ⁴⁵₃₅tʂu⁵³ʂ
 Ukhrul-145_noon-1,Ukhrul_5909,Ukhrul,145_noon,kə+ŋə+ʃun,k.ə.+.ŋ.ə.+.ʃ.u.n,,,Mortensen2012,3330,,,,,FALSE
 Tangut-145_noon-1,Tangut_5904,Tangut,145_noon,ljij,l.ji.j,,,Li1997,4217,,,,,FALSE
 KarbiMikir-145_noon-1,Mikir_5898,KarbiMikir,145_noon,nerlo chitim,n.e.r.l.o._.ch.i.t.i.m,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-145_noon-1,Kaman_185312,MishmiKaman,145_noon,ŋin⁵⁵ lɑi⁵⁵,ŋin⁵⁵ lɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-145_noon-1,Kaman_185312,MishmiKaman,145_noon,ŋin⁵⁵ lɑi⁵⁵,ŋin⁵⁵+lɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-145_noon-1,easternpuroik_216,KBEastPuroikSoja,145_noon,arilo,a+ri+lo,,,RS09,,,,,,
 KBEastPuroikSun-145_noon-1,puroik_185314,KBEastPuroikSun,145_noon,a³³ ri⁵³ lo⁵³,a³³+ri⁵³+lo⁵³,,,Sun1991,,,,,,
 TshDirangTshangla-146_thenose-1,DirangTshangla_91,TshDirangTshangla,146_thenose,na+uŋ,na+uŋ,,,TB,,,,,,
@@ -11600,7 +11600,7 @@ Rabha-146_thenose-1,Rabha_5951,Rabha,146_thenose,kum+pak,k.u.m.+.p.a.k,,,Joseph2
 Xiandao-146_thenose-1,Xiandao_v2_12130,Xiandao,146_thenose,n̥ap³¹pʰɔŋ⁵⁵,n̥.a.p.³¹.pʰ.ɔ.ŋ.⁵⁵,,,Huang1992 Hill2017,29731,,,,,FALSE
 Lashi-146_thenose-1,Lashi_5941,Lashi,146_thenose,no̱³³,n.o̱.³³,,,Huang1992 Hill2017,2090,,,,,FALSE
 Atsi-146_thenose-1,Atsi_v2_12164,Atsi,146_thenose,no̱⁵¹,n.o̱.⁵¹,,,Huang1992 Hill2017,2090,,,,,FALSE
-MishmiKaman-146_thenose-1,Kaman_192248,MishmiKaman,146_thenose,min⁵⁵ nioŋ³⁵,min⁵⁵ nioŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-146_thenose-1,Kaman_192248,MishmiKaman,146_thenose,min⁵⁵ nioŋ³⁵,min⁵⁵+nioŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-146_thenose-1,easternpuroik_99,KBEastPuroikSoja,146_thenose,"phok, poog",pʰok,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-146_thenose-1,easternpuroik_146,KBEastPuroikRemsangpuia,146_thenose,apɔːk,a+pɔːk,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-146_thenose-1,puroik_192250,KBEastPuroikSun,146_thenose,pɔk³³,pɔk³³,,,Sun1991,,,,,,
@@ -11686,7 +11686,7 @@ Ukhrul-147_oldofperson-1,Ukhrul_v2_11098,Ukhrul,147_oldofperson,kʰə+rɐr,kʰ.�
 Tangut-147_oldofperson-1,Tangut_v2_11529,Tangut,147_oldofperson,nar,n.a.r,,,Li1997,2051,,,,,FALSE
 KarbiMikir-147_oldofperson-1,Mikir_v2_11780,KarbiMikir,147_oldofperson,"kesar, saru",s.à.r,,,Walker1925 KonnerthFC GruessnerNoDate,10556,,,,,FALSE
 Rabha-147_oldofperson-1,Rabha_v2_12018,Rabha,147_oldofperson,bu+da,b.u.+.d.a,,,Joseph2007,10418,,,,,FALSE
-MishmiKaman-147_oldofperson-1,Kaman_223715,MishmiKaman,147_oldofperson,kɯ⁵⁵ nɑŋ³⁵,kɯ⁵⁵ nɑŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-147_oldofperson-1,Kaman_223715,MishmiKaman,147_oldofperson,kɯ⁵⁵ nɑŋ³⁵,kɯ⁵⁵+nɑŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-147_oldofperson-1,easternpuroik_217,KBEastPuroikSoja,147_oldofperson,amaing,a+maiŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-147_oldofperson-1,easternpuroik_147,KBEastPuroikRemsangpuia,147_oldofperson,amaiŋ,a+maiŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-147_oldofperson-1,puroik_223717,KBEastPuroikSun,147_oldofperson,a³³ mat³³,a³³+mat³³,,,Sun1991,,,,,,
@@ -11774,7 +11774,7 @@ Hayu-148_one-2,Hayu_6037,Hayu,148_one,koŋpu,k.o.ŋ.p.u,,,Michailovsky1989a,1380
 Tangut-148_one-2,Tangut_6052,Tangut,148_one,gjɨ,g.jɨ,,,Li1997,1249,,,,,FALSE
 KarbiMikir-148_one-1,Mikir_6044,KarbiMikir,148_one,isi,i.s.ī,,,Walker1925 KonnerthFC GruessnerNoDate,10419,,,,,FALSE
 Rabha-148_one-1,Rabha_6049,Rabha,148_one,gó+sa,g.ó.+.s.a,,,Joseph2007,3988,,,,,FALSE
-MishmiKaman-148_one-1,Kaman_226469,MishmiKaman,148_one,kɯ³¹ mu⁵³,kɯ³¹ mu⁵³,,,Sun1991,,,,,,
+MishmiKaman-148_one-1,Kaman_226469,MishmiKaman,148_one,kɯ³¹ mu⁵³,kɯ³¹+mu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-148_one-1,easternpuroik_100,KBEastPuroikSoja,148_one,huui,huːi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-148_one-1,easternpuroik_148,KBEastPuroikRemsangpuia,148_one,hũji,hũ+ji,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-148_one-1,puroik_226471,KBEastPuroikSun,148_one,ɦui³³,ɦui³³,,,Sun1991,,,,,,
@@ -11903,7 +11903,7 @@ Hayu-150_outside-1,Hayu_6121,Hayu,150_outside,toŋma,t.o.ŋ.m.a,,,Michailovsky19
 Tangut-150_outside-1,Tangut_6134,Tangut,150_outside,djɨr,d.j.ɨ.r,,,Li1997,10562,,,,,FALSE
 KarbiMikir-150_outside-1,Mikir_6127,KarbiMikir,150_outside,ingtan,h.ò.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10532,,,,,FALSE
 Rabha-150_outside-1,Rabha_6132,Rabha,150_outside,ba+ziŋ,b.a.+.z.i.ŋ,,,Joseph2007,10533,,,,,FALSE
-MishmiKaman-150_outside-1,Kaman_183068,MishmiKaman,150_outside,ɑ³¹ mphɑ³⁵ xɑi⁵⁵,ɑ³¹ mphɑ³⁵ xɑi⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-150_outside-1,Kaman_183068,MishmiKaman,150_outside,ɑ³¹ mphɑ³⁵ xɑi⁵⁵,ɑ³¹+mphɑ³⁵+xɑi⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-150_outside-1,easternpuroik_101,KBEastPuroikSoja,150_outside,alhaang hak,aɬaːŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-150_outside-1,easternpuroik_150,KBEastPuroikRemsangpuia,150_outside,ɬaŋ,ɬaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-150_outside-1,puroik_183070,KBEastPuroikSun,150_outside,tɕok³³ θaŋ³³,tɕok³³+θaŋ³³,,,Sun1991,,,,,,
@@ -12057,7 +12057,7 @@ Ukhrul-152_toplantvegetalsrice-1,Ukhrul_6232,Ukhrul,152_toplantvegetalsrice,kə+
 Hayu-152_toplantvegetalsrice-1,Hayu_6213,Hayu,152_toplantvegetalsrice,lʊt,l.ʊ.t,,,Michailovsky1989a,2755,,,,,FALSE
 Tangut-152_toplantvegetalsrice-1,Tangut_6228,Tangut,152_toplantvegetalsrice,lji.,l.ji.,,,Li1997,722,,,,,FALSE
 KarbiMikir-152_toplantvegetalsrice-1,Mikir_6220,KarbiMikir,152_toplantvegetalsrice,tei,è,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-152_toplantvegetalsrice-1,Kaman_210506,MishmiKaman,152_toplantvegetalsrice,tɯ³¹ khɹɑ³⁵ thɑ⁵³,tɯ³¹ khɹɑ³⁵ thɑ⁵³,,,Sun1991,,,,,,
+MishmiKaman-152_toplantvegetalsrice-1,Kaman_210506,MishmiKaman,152_toplantvegetalsrice,tɯ³¹ khɹɑ³⁵ thɑ⁵³,tɯ³¹+khɹɑ³⁵+thɑ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-152_toplantvegetalsrice-1,easternpuroik_219,KBEastPuroikSoja,152_toplantvegetalsrice,deina,dei,,,AT90,,,,,,
 KBEastPuroikSun-152_toplantvegetalsrice-1,puroik_210508,KBEastPuroikSun,152_toplantvegetalsrice,θæ³³,θæ³³,,,Sun1991,,,,,,
 TshDirangTshangla-153_toplay-1,DirangTshangla_148,TshDirangTshangla,153_toplay,ɲɛp,ɲɛp,,,TB,,,,,,
@@ -12144,7 +12144,7 @@ Tangut-153_toplay-1,Tangut_6275,Tangut,153_toplay,u,u,,,Li1997,4149,,,,,FALSE
 KarbiMikir-153_toplay-1,Mikir_6268,KarbiMikir,153_toplay,"chelem, jui",j.ùi,,,Walker1925 KonnerthFC GruessnerNoDate,10420,,,,,FALSE
 Rabha-153_toplay-1,Rabha_6273,Rabha,153_toplay,kʰer,kʰ.e.r,,,Joseph2007,3992,,,,,FALSE
 OldBurmese-153_toplay-1,OldBurmese_6270,OldBurmese,153_toplay,ka+cāḥ,k.a.+.c.ā.ḥ,,,Hill2017,1030,,,,,FALSE
-MishmiKaman-153_toplay-1,Kaman_214688,MishmiKaman,153_toplay,tɑ⁵⁵ do⁵³ kɹɑu⁵⁵,tɑ⁵⁵ do⁵³ kɹɑu⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-153_toplay-1,Kaman_214688,MishmiKaman,153_toplay,tɑ⁵⁵ do⁵³ kɹɑu⁵⁵,tɑ⁵⁵+do⁵³+kɹɑu⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-153_toplay-1,easternpuroik_103,KBEastPuroikSoja,153_toplay,laoe’ nyiang na,laoe+ɲiang,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-153_toplay-1,easternpuroik_153,KBEastPuroikRemsangpuia,153_toplay,laina,lai+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-153_toplay-1,puroik_214690,KBEastPuroikSun,153_toplay,læ³³,læ³³,,,Sun1991,,,,,,
@@ -12319,7 +12319,7 @@ Hayu-155_topush-2,Hayu_6356,Hayu,155_topush,nok,n.o.k,,,Michailovsky1989a,3673,,
 Tangut-155_topush-1,Tangut_6374,Tangut,155_topush,khwej,kh.we.j,,,Li1997,4152,,,,,FALSE
 KarbiMikir-155_topush-1,Mikir_6366,KarbiMikir,155_topush,doi,i.ng.d.ōi,,,Walker1925 KonnerthFC GruessnerNoDate,10421,,,,,FALSE
 Rabha-155_topush-1,Rabha_6372,Rabha,155_topush,pɨ+tar,p.ɨ.+.t.a.r,,,Joseph2007,10422,,,,,FALSE
-MishmiKaman-155_topush-1,Kaman_208721,MishmiKaman,155_topush,tɑ⁵⁵ nuŋ³⁵,tɑ⁵⁵ nuŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-155_topush-1,Kaman_208721,MishmiKaman,155_topush,tɑ⁵⁵ nuŋ³⁵,tɑ⁵⁵+nuŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-155_topush-1,easternpuroik_104,KBEastPuroikSoja,155_topush,noongna,nɔŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-155_topush-1,easternpuroik_155,KBEastPuroikRemsangpuia,155_topush,tʃe,tʃe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-155_topush-1,puroik_208723,KBEastPuroikSun,155_topush,noŋ³³,noŋ³³,,,Sun1991,,,,,,
@@ -12408,7 +12408,7 @@ Hayu-156_therain-1,Hayu_6406,Hayu,156_therain,naʔnum,n.a.ʔ.n.u.m,,,Michailovsk
 Tangut-156_therain-2,Tangut_6422,Tangut,156_therain,dzju./u,dz.j.u./u,,,Li1997,4153,,,,,FALSE
 KarbiMikir-156_therain-1,Mikir_6414,KarbiMikir,156_therain,"arve, ve",a.r.v.è,,,Walker1925 KonnerthFC GruessnerNoDate,10234,,,,,FALSE
 Rabha-156_therain-1,Rabha_6419,Rabha,156_therain,pʰa+tʃi,pʰ.a.+.tʃ.i,,,Joseph2007,10234,,,,,FALSE
-MishmiKaman-156_therain-1,Kaman_180416,MishmiKaman,156_therain,ɑ³¹ wɑŋ⁵⁵,ɑ³¹ wɑŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-156_therain-1,Kaman_180416,MishmiKaman,156_therain,ɑ³¹ wɑŋ⁵⁵,ɑ³¹+wɑŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-156_therain-1,easternpuroik_105,KBEastPuroikSoja,156_therain,aampiu,aːm+piu,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-156_therain-1,easternpuroik_156,KBEastPuroikRemsangpuia,156_therain,aŋphrɔ,aŋ+phrɔ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-156_therain-1,puroik_218260,KBEastPuroikSun,156_therain,pɹu³³,pɹu³³,,,Sun1991,,,,,,
@@ -12485,7 +12485,7 @@ Jieyang-157_therainbow-1,Jieyang_v2_10458,Jieyang,157_therainbow,kʰɛŋ³⁵,k�
 Xingning-157_therainbow-1,Xingning_6471,Xingning,157_therainbow,tsʰai²¹fʊm²⁴,tsʰ.a.i.²¹.f.ʊ.m.²⁴,,,Lai2017FN,10298,,,,,FALSE
 Tangut-157_therainbow-1,Tangut_6465,Tangut,157_therainbow,tsjwu,ts.jwu,,,Li1997,4206,,,,,FALSE
 KarbiMikir-157_therainbow-1,Mikir_6459,KarbiMikir,157_therainbow,mukak,m.u.k.a.k,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-157_therainbow-1,Kaman_180824,MishmiKaman,157_therainbow,i⁵⁵ phit⁵⁵,i⁵⁵ phit⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-157_therainbow-1,Kaman_180824,MishmiKaman,157_therainbow,i⁵⁵ phit⁵⁵,i⁵⁵+phit⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-157_therainbow-1,easternpuroik_221,KBEastPuroikSoja,157_therainbow,khelain,kʰə+lain,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-157_therainbow-1,easternpuroik_157,KBEastPuroikRemsangpuia,157_therainbow,kalaiŋ,ka+laiŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-157_therainbow-1,puroik_180826,KBEastPuroikSun,157_therainbow,kə³³ leȵ³³,kə³³+leȵ³³,,,Sun1991,,,,,,
@@ -12575,7 +12575,7 @@ Ukhrul-158_red-1,Ukhrul_6521,Ukhrul,158_red,kə+huŋ,k.ə.+.h.u.ŋ,,,Mortensen20
 Hayu-158_red-1,Hayu_6497,Hayu,158_red,jitsʰiŋ,j.i.tsʰ.i.ŋ,,,Michailovsky1989a,2175,,,,,FALSE
 KarbiMikir-158_red-1,Mikir_6506,KarbiMikir,158_red,"ke-er, erdang",k.e.+.e.r,,,Walker1925 KonnerthFC GruessnerNoDate,10425,,,,,FALSE
 Rabha-158_red-1,Rabha_6514,Rabha,158_red,sak,s.a.k,,,Joseph2007,3995,,,,,FALSE
-MishmiKaman-158_red-1,Kaman_222695,MishmiKaman,158_red,kɑu⁵³ sɑi³⁵,kɑu⁵³ sɑi³⁵,,,Sun1991,,,,,,
+MishmiKaman-158_red-1,Kaman_222695,MishmiKaman,158_red,kɑu⁵³ sɑi³⁵,kɑu⁵³+sɑi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-158_red-1,easternpuroik_106,KBEastPuroikSoja,158_red,"aiik, ariuk",a+riuk,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-158_red-1,easternpuroik_158,KBEastPuroikRemsangpuia,158_red,ariuk,a+riuk,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-158_red-1,puroik_222697,KBEastPuroikSun,158_red,a³³ jiȶ³³,a³³+jiȶ³³,,,Sun1991,,,,,,
@@ -12803,7 +12803,7 @@ Hayu-161_right-1,Hayu_6626,Hayu,161_right,hok,h.o.k,,,Michailovsky1989a,2176,,,,
 Tangut-161_right-1,Tangut_6643,Tangut,161_right,tɕier,tɕ.i.e.r,,,Li1997,920,,,,,FALSE
 KarbiMikir-161_right-1,Mikir_6635,KarbiMikir,161_right,"chenam, kechok",a.r.'.ē,,,Walker1925 KonnerthFC GruessnerNoDate,10429,,,,,FALSE
 Rabha-161_right-1,Rabha_6640,Rabha,161_right,mai+sá+laŋ,m.ai.+.s.á.+.l.a.ŋ,,,Joseph2007,10428,,,,,FALSE
-MishmiKaman-161_right-1,Kaman_182762,MishmiKaman,161_right,kɯ³¹ jɑu⁵³,kɯ³¹ jɑu⁵³,,,Sun1991,,,,,,
+MishmiKaman-161_right-1,Kaman_182762,MishmiKaman,161_right,kɯ³¹ jɑu⁵³,kɯ³¹+jɑu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-161_right-1,easternpuroik_108,KBEastPuroikSoja,161_right,akherak,a+kʰə+rak,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-161_right-1,easternpuroik_161,KBEastPuroikRemsangpuia,161_right,puazue,pua+zue,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-161_right-1,puroik_182764,KBEastPuroikSun,161_right,pua³³ zuɛ⁵³ ha⁵³,pua³³+zuɛ⁵³+ha⁵³,,,Sun1991,,,,,,
@@ -12894,7 +12894,7 @@ Hayu-162_theriver-1,Hayu_6677,Hayu,162_theriver,gaŋ,g.a.ŋ,,,Michailovsky1989a,
 Tangut-162_theriver-1,Tangut_6692,Tangut,162_theriver,mja,m.ja,,,Li1997,2838,,,,,FALSE
 Tangut-162_theriver-2,Tangut_6693,Tangut,162_theriver,ɕjwa,ɕ.jwa,,,Li1997,4156,,,,,FALSE
 KarbiMikir-162_theriver-1,Mikir_6685,KarbiMikir,162_theriver,langroi,l.a.ng.r.ōi,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-162_theriver-1,Kaman_180926,MishmiKaman,162_theriver,tɯ³¹ lo³⁵,tɯ³¹ lo³⁵,,,Sun1991,,,,,,
+MishmiKaman-162_theriver-1,Kaman_180926,MishmiKaman,162_theriver,tɯ³¹ lo³⁵,tɯ³¹+lo³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-162_theriver-1,easternpuroik_223,KBEastPuroikSoja,162_theriver,"kuamoa, kuapi",kua+pi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-162_theriver-1,easternpuroik_162,KBEastPuroikRemsangpuia,162_theriver,kuapək,kua+pək,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-162_theriver-1,puroik_180928,KBEastPuroikSun,162_theriver,kua³³ ɣua³³,kua³³+ɣua³³,,,Sun1991,,,,,,
@@ -13232,7 +13232,7 @@ Hayu-166_round-2,Hayu_6874,Hayu,166_round,kulkul,k.u.l.k.u.l,,,Michailovsky1989a
 Tangut-166_round-2,Tangut_6894,Tangut,166_round,io./a,i.o./a,,,Li1997,4159,,,,,FALSE
 KarbiMikir-166_round-1,Mikir_v2_11808,KarbiMikir,166_round,"kabonglong, bonglongchen",+.l.ò.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10559,,,,,FALSE
 Rabha-166_round-1,Rabha_6891,Rabha,166_round,tʃa-kla,tʃ.a-.k.l.a,,,Joseph2007,10435,,,,,FALSE
-MishmiKaman-166_round-1,Kaman_221165,MishmiKaman,166_round,gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵,gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-166_round-1,Kaman_221165,MishmiKaman,166_round,gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵,gɑ⁵⁵+wɑŋ⁵⁵+nɑ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-166_round-1,easternpuroik_112,KBEastPuroikSoja,166_round,guongkulue’,guoŋ+ku+lue,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-166_round-1,easternpuroik_166,KBEastPuroikRemsangpuia,166_round,abɯ,a+bɯ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-166_round-1,puroik_221167,KBEastPuroikSun,166_round,a³³ bɯ³³,a³³+bɯ³³,,,Sun1991,,,,,,
@@ -13390,7 +13390,7 @@ Hayu-168_thesalt-1,Hayu_6973,Hayu,168_thesalt,tsija,ts.i.j.a,,,Michailovsky1989a
 Tangut-168_thesalt-1,Tangut_6989,Tangut,168_thesalt,tshjɨ,tsh.jɨ,,,Li1997,4160,,,,,FALSE
 KarbiMikir-168_thesalt-1,Mikir_6981,KarbiMikir,168_thesalt,ingti,i.ng.t.í,,,Walker1925 KonnerthFC GruessnerNoDate,10239,,,,,FALSE
 Rabha-168_thesalt-1,Rabha_6987,Rabha,168_thesalt,kʰa+ri,kʰ.a.+.r.i,,,Joseph2007,10436,,,,,FALSE
-MishmiKaman-168_thesalt-1,Kaman_200306,MishmiKaman,168_thesalt,tɯ³¹ min⁵⁵,tɯ³¹ min⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-168_thesalt-1,Kaman_200306,MishmiKaman,168_thesalt,tɯ³¹ min⁵⁵,tɯ³¹+min⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-168_thesalt-1,easternpuroik_113,KBEastPuroikSoja,168_thesalt,hoong,hɔŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-168_thesalt-1,easternpuroik_168,KBEastPuroikRemsangpuia,168_thesalt,hɔ̃ŋ,hɔ̃ŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-168_thesalt-1,puroik_200308,KBEastPuroikSun,168_thesalt,hɔŋ³³,hɔŋ³³,,,Sun1991,,,,,,
@@ -13528,7 +13528,7 @@ Ukhrul-170_thesand-1,Ukhrul_7041,Ukhrul,170_thesand,si+tuj,s.i.+.t.u.j,,,Mortens
 Hayu-170_thesand-1,Hayu_7022,Hayu,170_thesand,pĩːku,p.ĩː.k.u,,,Michailovsky1989a,2208,,,,,FALSE
 KarbiMikir-170_thesand-1,Mikir_7029,KarbiMikir,170_thesand,sangti,s.a.ng.t.i,,,Walker1925 KonnerthFC GruessnerNoDate,10437,,,,,FALSE
 Rabha-170_thesand-1,Rabha_7034,Rabha,170_thesand,háŋ+tʃeŋ,h.á.ŋ.+.tʃ.e.ŋ,,,Joseph2007,4004,,,,,FALSE
-MishmiKaman-170_thesand-1,Kaman_182201,MishmiKaman,170_thesand,kɑ³¹ ɕiŋ³⁵,kɑ³¹ ɕiŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-170_thesand-1,Kaman_182201,MishmiKaman,170_thesand,kɑ³¹ ɕiŋ³⁵,kɑ³¹+ɕiŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-170_thesand-1,easternpuroik_114,KBEastPuroikSoja,170_thesand,piye’ chaig,pi+je+tʃʰaik,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-170_thesand-1,easternpuroik_170,KBEastPuroikRemsangpuia,170_thesand,prietʃheil,prie+tʃheil,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-170_thesand-1,puroik_182203,KBEastPuroikSun,170_thesand,pɹæʴ³³ tsət³³,pɹæʴ³³+tsət³³,,,Sun1991,,,,,,
@@ -13659,7 +13659,7 @@ Atsi-172_thesea-1,Atsi_v2_9071,Atsi,172_thesea,vui⁵¹+miŋ²¹,v.u.i.⁵¹.+.m
 Lashi-172_thesea-1,Lashi_v2_9072,Lashi,172_thesea,kjei⁵³+məŋ³³,k.j.e.i.⁵³.+.m.ə.ŋ.³³,,,Huang1992 Hill2017,8651,,,,,FALSE
 Tangut-172_thesea-1,Tangut_v2_11615,Tangut,172_thesea,ŋjow,ŋ.jo.w,,,Li1997,0,,,,,FALSE
 KarbiMikir-172_thesea-1,Mikir_v2_11908,KarbiMikir,172_thesea,"langpi, hakor",t.a.l.ó,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-172_thesea-1,Kaman_180977,MishmiKaman,172_thesea,xɑ³¹ wɑ̆i³⁵,xɑ³¹ wɑ̆i³⁵,,,Sun1991,,,,,,
+MishmiKaman-172_thesea-1,Kaman_180977,MishmiKaman,172_thesea,xɑ³¹ wɑ̆i³⁵,xɑ³¹+wɑ̆i³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-172_thesea-1,easternpuroik_226,KBEastPuroikSoja,172_thesea,sa nyiak kua,sa+ɲiak+kua,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-172_thesea-1,easternpuroik_172,KBEastPuroikRemsangpuia,172_thesea,kua kla,kua+kla,,,Remsangpuia2008,,,,,,
 TshDirangTshangla-173_tosee-1,DirangTshangla_152,TshDirangTshangla,173_tosee,tʰɔŋ,tʰɔŋ,,,TB,,,,,,
@@ -13834,7 +13834,7 @@ Ukhrul-174_theseed-1,Ukhrul_7189,Ukhrul,174_theseed,ʔa+tʰa,ʔ.a.+.tʰ.a,,,Mort
 Tangut-174_theseed-1,Tangut_7183,Tangut,174_theseed,ljwi,l.jwi,,,Li1997,4165,,,,,FALSE
 KarbiMikir-174_theseed-1,Mikir_7176,KarbiMikir,174_theseed,athe,ch.i.l.í,,,Walker1925 KonnerthFC GruessnerNoDate,4007,,,,,FALSE
 Rabha-174_theseed-1,Rabha_7181,Rabha,174_theseed,kén,k.é.n,,,Joseph2007,10441,,,,,FALSE
-MishmiKaman-174_theseed-1,Kaman_191228,MishmiKaman,174_theseed,xɑ³¹ lɯi³⁵,xɑ³¹ lɯi³⁵,,,Sun1991,,,,,,
+MishmiKaman-174_theseed-1,Kaman_191228,MishmiKaman,174_theseed,xɑ³¹ lɯi³⁵,xɑ³¹+lɯi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-174_theseed-1,easternpuroik_117,KBEastPuroikSoja,174_theseed,"lilee, melhae’",li+ləː,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-174_theseed-1,easternpuroik_174,KBEastPuroikRemsangpuia,174_theseed,awe,a+we,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-174_theseed-1,puroik_191230,KBEastPuroikSun,174_theseed,mə³³ θæ⁵³,mə³³+θæ⁵³,,,Sun1991,,,,,,
@@ -14134,7 +14134,7 @@ Hayu-178_toshootanarrow-1,Hayu_7352,Hayu,178_toshootanarrow,op,o.p,,,Michailovsk
 Tangut-178_toshootanarrow-1,Tangut_7367,Tangut,178_toshootanarrow,khia,kh.i.a,,,Li1997,4168,,,,,FALSE
 KarbiMikir-178_toshootanarrow-1,Mikir_7360,KarbiMikir,178_toshootanarrow,"ap, bop",a.p,,,Walker1925 KonnerthFC GruessnerNoDate,727,,,,,FALSE
 Rabha-178_toshootanarrow-1,Rabha_7365,Rabha,178_toshootanarrow,ko,k.o,,,Joseph2007,4009,,,,,FALSE
-MishmiKaman-178_toshootanarrow-1,Kaman_215096,MishmiKaman,178_toshootanarrow,top⁵⁵ kɑp³⁵,top⁵⁵ kɑp³⁵,,,Sun1991,,,,,,
+MishmiKaman-178_toshootanarrow-1,Kaman_215096,MishmiKaman,178_toshootanarrow,top⁵⁵ kɑp³⁵,top⁵⁵+kɑp³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-178_toshootanarrow-1,easternpuroik_121,KBEastPuroikSoja,178_toshootanarrow,re’ na,re,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-178_toshootanarrow-1,easternpuroik_178,KBEastPuroikRemsangpuia,178_toshootanarrow,rena,re+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-178_toshootanarrow-1,puroik_215098,KBEastPuroikSun,178_toshootanarrow,re⁵³,re⁵³,,,Sun1991,,,,,,
@@ -14217,7 +14217,7 @@ Ukhrul-179_short-1,Ukhrul_7420,Ukhrul,179_short,kə+ʃu,k.ə.+.ʃ.u,,,Mortensen2
 Tangut-179_short-1,Tangut_7416,Tangut,179_short,wji./ij,w.j.i./i.j,,,Li1997,4169,,,,,FALSE
 KarbiMikir-179_short-1,Mikir_7408,KarbiMikir,179_short,thihek[...],th.ī,,,Walker1925 KonnerthFC GruessnerNoDate,10444,,,,,FALSE
 Rabha-179_short-1,Rabha_7414,Rabha,179_short,ka+tak,k.a.+.t.a.k,,,Joseph2007,3422,,,,,FALSE
-MishmiKaman-179_short-1,Kaman_221318,MishmiKaman,179_short,kɯ³¹ ti⁵⁵,kɯ³¹ ti⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-179_short-1,Kaman_221318,MishmiKaman,179_short,kɯ³¹ ti⁵⁵,kɯ³¹+ti⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-179_short-1,easternpuroik_122,KBEastPuroikSoja,179_short,athong,a+tʰoŋ,,,RS09,,,,,,
 KBEastPuroikSun-179_short-1,puroik_221320,KBEastPuroikSun,179_short,a³³ tuoŋ³³,a³³+tuoŋ³³,,,Sun1991,,,,,,
 TshDirangTshangla-180_theshoulder-1,DirangTshangla_101,TshDirangTshangla,180_theshoulder,pʰaŋ+ma,pʰaŋ+ma,,,TB,,,,,,
@@ -14294,7 +14294,7 @@ Hayu-180_theshoulder-1,Hayu_7447,Hayu,180_theshoulder,pʰaxka,pʰ.a.x.k.a,,,Mich
 Tangut-180_theshoulder-1,Tangut_7464,Tangut,180_theshoulder,wa./a,w.a./a,,,Li1997,13,,,,,FALSE
 KarbiMikir-180_theshoulder-1,Mikir_v2_11699,KarbiMikir,180_theshoulder,phang(kor),+.ph.à.ng,,,Walker1925 KonnerthFC GruessnerNoDate,13,,,,,FALSE
 Rabha-180_theshoulder-1,Rabha_7462,Rabha,180_theshoulder,pʰa+kroŋ,pʰ.a.+.k.r.o.ŋ,,,Joseph2007,13,,,,,FALSE
-MishmiKaman-180_theshoulder-1,Kaman_192758,MishmiKaman,180_theshoulder,ɑ³¹ pho⁵⁵,ɑ³¹ pho⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-180_theshoulder-1,Kaman_192758,MishmiKaman,180_theshoulder,ɑ³¹ pho⁵⁵,ɑ³¹+pho⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-180_theshoulder-1,easternpuroik_123,KBEastPuroikSoja,180_theshoulder,"poatok, puatok",pu+a+tok,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-180_theshoulder-1,easternpuroik_180,KBEastPuroikRemsangpuia,180_theshoulder,puatuk,pua+tuk,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-180_theshoulder-1,puroik_192760,KBEastPuroikSun,180_theshoulder,pua³³ tok¹¹,pua³³+tok¹¹,,,Sun1991,,,,,,
@@ -14401,7 +14401,7 @@ Atsi-182_thesickle-1,Atsi_v2_8939,Atsi,182_thesickle,jeŋ²¹+kʰoi⁵⁵,j.e.ŋ
 Bola-182_thesickle-1,Bola_v2_9175,Bola,182_thesickle,ʃɛ̃∼⁵⁵+ŋø̰³⁵,ʃ.ɛ̃.∼.⁵⁵.+.ŋ.ø̰.³⁵,,,Huang1992 Hill2017,8475,,,,,FALSE
 Tangut-182_thesickle-1,Tangut_v2_11603,Tangut,182_thesickle,dʑji.,dʑ.ji.,,,Li1997,0,,,,,FALSE
 KarbiMikir-182_thesickle-1,Mikir_v2_11893,KarbiMikir,182_thesickle,nokerangso,n.o.k.e.r.a.ng.s.o,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-182_thesickle-1,Kaman_200918,MishmiKaman,182_thesickle,dzɑ³¹ wɑ⁵⁵,dzɑ³¹ wɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-182_thesickle-1,Kaman_200918,MishmiKaman,182_thesickle,dzɑ³¹ wɑ⁵⁵,dzɑ³¹+wɑ⁵⁵,,,Sun1991,,,,,,
 TshDirangTshangla-183_tosing-1,DirangTshangla_154,TshDirangTshangla,183_tosing,ŋaŋ ɲur,ŋaŋ+ɲur,,,TB,,,,,,
 TaniTangam-183_tosing-1,Tangam_183,TaniTangam,183_tosing,gyoŋ,gjoŋ,,,Post2017,,,,,,
 EBDzalakha-183_tosing-1,Dzalakha_183,EBDzalakha,183_tosing,ɲor,ɲor,,,TB,,,,,,
@@ -14486,7 +14486,7 @@ Jieyang-183_tosing-2,Jieyang_v2_10935,Jieyang,183_tosing,tsʰiɔ̃∼¹³,tsʰ.i
 Tangut-183_tosing-1,Tangut_7552,Tangut,183_tosing,kji,k.ji,,,Li1997,4172,,,,,TRUE
 KarbiMikir-183_tosing-1,Mikir_7544,KarbiMikir,183_tosing,lun,l.ú.n,,,Walker1925 KonnerthFC GruessnerNoDate,10445,,,,,FALSE
 Rabha-183_tosing-1,Rabha_7550,Rabha,183_tosing,tʃa+ruŋ,tʃ.a.+.r.u.ŋ,,,Joseph2007,3426,,,,,FALSE
-MishmiKaman-183_tosing-1,Kaman_214841,MishmiKaman,183_tosing,tɑ⁵⁵ dzɑi³⁵,tɑ⁵⁵ dzɑi³⁵,,,Sun1991,,,,,,
+MishmiKaman-183_tosing-1,Kaman_214841,MishmiKaman,183_tosing,tɑ⁵⁵ dzɑi³⁵,tɑ⁵⁵+dzɑi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-183_tosing-1,easternpuroik_124,KBEastPuroikSoja,183_tosing,luitnyiang,luit+ɲiaŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-183_tosing-1,easternpuroik_183,KBEastPuroikRemsangpuia,183_tosing,luitnieŋ,luit+nieŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-183_tosing-1,puroik_214843,KBEastPuroikSun,183_tosing,bɹəʴ³³,bɹəʴ³³,,,Sun1991,,,,,,
@@ -14566,7 +14566,7 @@ Xingning-184_six-1,Xingning_7601,Xingning,184_six,liuʔ²,l.i.u.ʔ.²,,,Lai2017F
 Ukhrul-184_six-1,Ukhrul_7599,Ukhrul,184_six,tʰa+ruk,tʰ.a.+.r.u.k,,,Mortensen2012,306,,,,,FALSE
 Tangut-184_six-1,Tangut_7594,Tangut,184_six,tɕhjiw,tɕh.ji.w,,,Li1997,306,,,,,FALSE
 KarbiMikir-184_six-1,Mikir_7588,KarbiMikir,184_six,throk,th.r.ō.k,,,Walker1925 KonnerthFC GruessnerNoDate,306,,,,,FALSE
-MishmiKaman-184_six-1,Kaman_226724,MishmiKaman,184_six,kɯ³¹ tɑm⁵³,kɯ³¹ tɑm⁵³,,,Sun1991,,,,,,
+MishmiKaman-184_six-1,Kaman_226724,MishmiKaman,184_six,kɯ³¹ tɑm⁵³,kɯ³¹+tɑm⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-184_six-1,easternpuroik_125,KBEastPuroikSoja,184_six,rai’,raɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-184_six-1,easternpuroik_184,KBEastPuroikRemsangpuia,184_six,raɯˀ,raɯˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-184_six-1,puroik_226726,KBEastPuroikSun,184_six,ɣək³³,ɣək³³,,,Sun1991,,,,,,
@@ -14921,7 +14921,7 @@ Hayu-188_small-1,Hayu_v2_11311,Hayu,188_small,dũːti,d.ũː.t.i,,,Michailovsky1
 Tangut-188_small-2,Tangut_v2_11620,Tangut,188_small,zji,z.ji,,,Li1997,4181,,,,,FALSE
 KarbiMikir-188_small-1,Mikir_v2_11742,KarbiMikir,188_small,"so, bihek, akebi, binci, adiso, ajengso, asapnat, thethe",+.h.è.k,,,Walker1925 KonnerthFC GruessnerNoDate,10453,,,,,FALSE
 Rabha-188_small-1,Rabha_v2_11993,Rabha,188_small,mɨl,m.ɨ.l,,,Joseph2007,10454,,,,,FALSE
-MishmiKaman-188_small-1,Kaman_220859,MishmiKaman,188_small,kɯ³¹ juŋ⁵⁵,kɯ³¹ juŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-188_small-1,Kaman_220859,MishmiKaman,188_small,kɯ³¹ juŋ⁵⁵,kɯ³¹+juŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-188_small-1,easternpuroik_129,KBEastPuroikSoja,188_small,kheliang dau,kʰə+liaŋ+dau,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-188_small-1,easternpuroik_188,KBEastPuroikRemsangpuia,188_small,kadʒiŋ,ka+dʒiŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-188_small-1,puroik_220861,KBEastPuroikSun,188_small,ciaŋ³³,ciaŋ³³,,,Sun1991,,,,,,
@@ -15075,7 +15075,7 @@ Ukhrul-190_thesmoke-1,Ukhrul_7835,Ukhrul,190_thesmoke,mej+kʰut,m.e.j.+.kʰ.u.t,
 Hayu-190_thesmoke-1,Hayu_7815,Hayu,190_thesmoke,kulu,k.u.l.u,,,Michailovsky1989a,68,,,,,FALSE
 KarbiMikir-190_thesmoke-1,Mikir_7823,KarbiMikir,190_thesmoke,"hi, mehi",h.i,,,Walker1925 KonnerthFC GruessnerNoDate,10456,,,,,FALSE
 Rabha-190_thesmoke-1,Rabha_7828,Rabha,190_thesmoke,bár+kʰun+tʃi,b.á.r.+.kʰ.u.n.+.t.ʃ.i,,,Joseph2007,68,,,,,FALSE
-MishmiKaman-190_thesmoke-1,Kaman_182354,MishmiKaman,190_thesmoke,tɑ³¹ khɯi⁵³,tɑ³¹ khɯi⁵³,,,Sun1991,,,,,,
+MishmiKaman-190_thesmoke-1,Kaman_182354,MishmiKaman,190_thesmoke,tɑ³¹ khɯi⁵³,tɑ³¹+khɯi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-190_thesmoke-1,easternpuroik_131,KBEastPuroikSoja,190_thesmoke,bae’khei’,bae+kʰeɯ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-190_thesmoke-1,easternpuroik_190,KBEastPuroikRemsangpuia,190_thesmoke,bae kɯˀ,bae+kɯˀ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-190_thesmoke-1,puroik_182356,KBEastPuroikSun,190_thesmoke,bæ³³ kɯ³³,bæ³³+kɯ³³,,,Sun1991,,,,,,
@@ -15390,7 +15390,7 @@ Hayu-194_soft-1,Hayu_7958,Hayu,194_soft,naltsike+mʊ,n.a.l.ts.i.k.e.+.m.ʊ,,,Mic
 Tangut-194_soft-1,Tangut_7975,Tangut,194_soft,wəə,w.əə,,,Li1997,3107,,,,,FALSE
 KarbiMikir-194_soft-1,Mikir_7967,KarbiMikir,194_soft,kangduk,k.a.ng.d.u.k,,,Walker1925 KonnerthFC GruessnerNoDate,10541,,,,,FALSE
 Rabha-194_soft-1,Rabha_7973,Rabha,194_soft,dór,d.ó.r,,,Joseph2007,10540,,,,,FALSE
-MishmiKaman-194_soft-1,Kaman_222440,MishmiKaman,194_soft,kɑ⁵⁵ miŋ³⁵,kɑ⁵⁵ miŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-194_soft-1,Kaman_222440,MishmiKaman,194_soft,kɑ⁵⁵ miŋ³⁵,kɑ⁵⁵+miŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-194_soft-1,easternpuroik_134,KBEastPuroikSoja,194_soft,anyiyam,a+ɲi+jam,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-194_soft-1,easternpuroik_194,KBEastPuroikRemsangpuia,194_soft,kesik,ke+sik,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-194_soft-1,puroik_222442,KBEastPuroikSun,194_soft,a³³ ɟiek³³,a³³+ɟiek³³,,,Sun1991,,,,,,
@@ -15478,7 +15478,7 @@ Hayu-195_theson-1,Hayu_8009,Hayu,195_theson,taːwo,t.aː.w.o,,,Michailovsky1989a
 Tangut-195_theson-1,Tangut_8026,Tangut,195_theson,gji,g.ji,,,Li1997,4211,,,,,FALSE
 KarbiMikir-195_theson-1,Mikir_8019,KarbiMikir,195_theson,sopo,s.o.p.o,,,Walker1925 KonnerthFC GruessnerNoDate,73,,,,,FALSE
 Rabha-195_theson-1,Rabha_8024,Rabha,195_theson,sábramúsa,s.á.b.r.a.m.ú.s.a,,,Joseph2007,10527,,,,,FALSE
-MishmiKaman-195_theson-1,Kaman_197297,MishmiKaman,195_theson,sɑ⁵⁵ wɑi⁵³,sɑ⁵⁵ wɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-195_theson-1,Kaman_197297,MishmiKaman,195_theson,sɑ⁵⁵ wɑi⁵³,sɑ⁵⁵+wɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-195_theson-1,easternpuroik_135,KBEastPuroikSoja,195_theson,"adaufu, afudau",a+dau+fu,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-195_theson-1,easternpuroik_195,KBEastPuroikRemsangpuia,195_theson,adou fu,a+dou+fu,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-195_theson-1,puroik_197299,KBEastPuroikSun,195_theson,a³³ du³³ fu¹¹,a³³+du³³+fu¹¹,,,Sun1991,,,,,,
@@ -15529,7 +15529,7 @@ Atsi-196_thesparrow-1,Atsi_v2_8690,Atsi,196_thesparrow,tʃo⁵¹+kʰjaŋ⁵⁵,t
 Maru-196_thesparrow-1,Maru_v2_8818,Maru,196_thesparrow,tʃɔ̆³¹+kʰjɔ̃∼⁵⁵,tʃ.ɔ̆.³¹.+.kʰ.j.ɔ̃.∼.⁵⁵,,,Huang1992 Hill2017,8385,,,,,FALSE
 Tangut-196_thesparrow-1,Tangut_8062,Tangut,196_thesparrow,so,s.o,,,Li1997,0,,,,,FALSE
 KarbiMikir-196_thesparrow-1,Mikir_8057,KarbiMikir,196_thesparrow,"vopuru, vo arbipi",v.o.p.u.r.u,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-196_thesparrow-1,Kaman_187556,MishmiKaman,196_thesparrow,ɑ³¹ ɹik³⁵,ɑ³¹ ɹik³⁵,,,Sun1991,,,,,,
+MishmiKaman-196_thesparrow-1,Kaman_187556,MishmiKaman,196_thesparrow,ɑ³¹ ɹik³⁵,ɑ³¹+ɹik³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-196_thesparrow-1,easternpuroik_231,KBEastPuroikSoja,196_thesparrow,pedang pedau,pə+daŋ+pə+dau,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-196_thesparrow-1,easternpuroik_196,KBEastPuroikRemsangpuia,196_thesparrow,patʃappariap,pa+tʃap+pa+riap,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-196_thesparrow-1,puroik_187558,KBEastPuroikSun,196_thesparrow,pə³³ tu³³ du³³,pə³³+tu³³+du³³,,,Sun1991,,,,,,
@@ -15618,7 +15618,7 @@ Hayu-197_thespider-2,Hayu_8093,Hayu,197_thespider,kaʔmara,k.a.ʔ.m.a.r.a,,,Mich
 Tangut-197_thespider-1,Tangut_8109,Tangut,197_thespider,tsju./u,ts.j.u./u,,,Li1997,4184,,,,,FALSE
 KarbiMikir-197_thespider-1,Mikir_8102,KarbiMikir,197_thespider,sangman,s.a.ng.m.a.n,,,Walker1925 KonnerthFC GruessnerNoDate,10459,,,,,FALSE
 Rabha-197_thespider-1,Rabha_8107,Rabha,197_thespider,bi+bur,b.i.+.b.u.r,,,Joseph2007,10458,,,,,FALSE
-MishmiKaman-197_thespider-1,Kaman_188117,MishmiKaman,197_thespider,toŋ⁵⁵ dui⁵⁵ sɑm³⁵,toŋ⁵⁵ dui⁵⁵ sɑm³⁵,,,Sun1991,,,,,,
+MishmiKaman-197_thespider-1,Kaman_188117,MishmiKaman,197_thespider,toŋ⁵⁵ dui⁵⁵ sɑm³⁵,toŋ⁵⁵+dui⁵⁵+sɑm³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-197_thespider-1,easternpuroik_136,KBEastPuroikSoja,197_thespider,woong kasuak,wɔŋ+ka+suak,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-197_thespider-1,easternpuroik_197,KBEastPuroikRemsangpuia,197_thespider,uːŋkasuak,uːŋ+ka+suak,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-197_thespider-1,puroik_188119,KBEastPuroikSun,197_thespider,wuoŋ³³,wuoŋ³³,,,Sun1991,,,,,,
@@ -15867,7 +15867,7 @@ Ukhrul-200_thestar-1,Ukhrul_8259,Ukhrul,200_thestar,si+ra,s.i.+.r.a,,,Mortensen2
 Hayu-200_thestar-1,Hayu_8238,Hayu,200_thestar,xʷaːmen,xʷ.aː.m.e.n,,,Michailovsky1989a,3595,,,,,FALSE
 KarbiMikir-200_thestar-1,Mikir_8247,KarbiMikir,200_thestar,chiklolongso,ch.i.k.l.o.l.o.ng.s.o,,,Walker1925 KonnerthFC GruessnerNoDate,10469,,,,,FALSE
 Rabha-200_thestar-1,Rabha_8252,Rabha,200_thestar,a+pʰe,a.+.pʰ.e,,,Joseph2007,10462,,,,,FALSE
-MishmiKaman-200_thestar-1,Kaman_180212,MishmiKaman,200_thestar,kɯ³¹ grun³⁵,kɯ³¹ grun³⁵,,,Sun1991,,,,,,
+MishmiKaman-200_thestar-1,Kaman_180212,MishmiKaman,200_thestar,kɯ³¹ grun³⁵,kɯ³¹+grun³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-200_thestar-1,easternpuroik_139,KBEastPuroikSoja,200_thestar,hagit,ha+git,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-200_thestar-1,easternpuroik_200,KBEastPuroikRemsangpuia,200_thestar,hagait,ha+gait,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-200_thestar-1,puroik_180214,KBEastPuroikSun,200_thestar,ha³³ ɣat⁵³,ha³³+ɣat⁵³,,,Sun1991,,,,,,
@@ -15953,7 +15953,7 @@ Ukhrul-201_tosteal-1,Ukhrul_8308,Ukhrul,201_tosteal,kʰə+li,kʰ.ə.+.l.i,,,Mort
 Tangut-201_tosteal-1,Tangut_8301,Tangut,201_tosteal,kwjɨɨ/ɨːr,k.w.j.ɨɨ/ɨː.r,,,Li1997,10464,,,,,FALSE
 KarbiMikir-201_tosteal-1,Mikir_8294,KarbiMikir,201_tosteal,inghu,i.ng.h.ū,,,Walker1925 KonnerthFC GruessnerNoDate,10464,,,,,FALSE
 Rabha-201_tosteal-1,Rabha_8299,Rabha,201_tosteal,me+xoi,m.e.+.x.oi,,,Joseph2007,10464,,,,,FALSE
-MishmiKaman-201_tosteal-1,Kaman_216473,MishmiKaman,201_tosteal,kɑl⁵⁵ xɯu⁵³,kɑl⁵⁵ xɯu⁵³,,,Sun1991,,,,,,
+MishmiKaman-201_tosteal-1,Kaman_216473,MishmiKaman,201_tosteal,kɑl⁵⁵ xɯu⁵³,kɑl⁵⁵+xɯu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-201_tosteal-1,easternpuroik_140,KBEastPuroikSoja,201_tosteal,"aana, meaa na",aː,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-201_tosteal-1,easternpuroik_201,KBEastPuroikRemsangpuia,201_tosteal,maŋa,ma+ŋa,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-201_tosteal-1,puroik_216475,KBEastPuroikSun,201_tosteal,mə³³ ɣa³³,mə³³+ɣa³³,,,Sun1991,,,,,,
@@ -16028,7 +16028,7 @@ Hayu-202_thestick-1,Hayu_8334,Hayu,202_thestick,siŋ,s.i.ŋ,,,Michailovsky1989a,
 Tangut-202_thestick-1,Tangut_8349,Tangut,202_thestick,bo,b.o,,,Li1997,4186,,,,,FALSE
 KarbiMikir-202_thestick-1,Mikir_8342,KarbiMikir,202_thestick,"chin, kaibong",r.à.p,,,Walker1925 KonnerthFC GruessnerNoDate,10465,,,,,FALSE
 Rabha-202_thestick-1,Rabha_8347,Rabha,202_thestick,kón,k.ó.n,,,Joseph2007,10464,,,,,FALSE
-MishmiKaman-202_thestick-1,Kaman_201887,MishmiKaman,202_thestick,ɕu⁵⁵ nɑ⁵³,ɕu⁵⁵ nɑ⁵³,,,Sun1991,,,,,,
+MishmiKaman-202_thestick-1,Kaman_201887,MishmiKaman,202_thestick,ɕu⁵⁵ nɑ⁵³,ɕu⁵⁵+nɑ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-202_thestick-1,easternpuroik_141,KBEastPuroikSoja,202_thestick,hin miang chak,hin+miaŋ+tʃʰak,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-202_thestick-1,easternpuroik_202,KBEastPuroikRemsangpuia,202_thestick,hamriaŋ,ham+riaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-202_thestick-1,puroik_201889,KBEastPuroikSun,202_thestick,mə³³ ciaŋ³³ kuaŋ³³,mə³³+ciaŋ³³+kuaŋ³³,,,Sun1991,,,,,,
@@ -16366,7 +16366,7 @@ Ukhrul-206_thetail-1,Ukhrul_8554,Ukhrul,206_thetail,kʰə+mej,kʰ.ə.+.m.e.j,,,M
 Hayu-206_thetail-1,Hayu_8532,Hayu,206_thetail,mun,m.u.n,,,Michailovsky1989a,3079,,,,,FALSE
 KarbiMikir-206_thetail-1,Mikir_8540,KarbiMikir,206_thetail,arme,a.r.m.ē,,,Walker1925 KonnerthFC GruessnerNoDate,84,,,,,FALSE
 Rabha-206_thetail-1,Rabha_8546,Rabha,206_thetail,zí+miŋ,z.í.+.m.i.ŋ,,,Joseph2007,10471,,,,,FALSE
-MishmiKaman-206_thetail-1,Kaman_189035,MishmiKaman,206_thetail,ɑ³¹ mɑ̆i⁵⁵,ɑ³¹ mɑ̆i⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-206_thetail-1,Kaman_189035,MishmiKaman,206_thetail,ɑ³¹ mɑ̆i⁵⁵,ɑ³¹+mɑ̆i⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-206_thetail-1,easternpuroik_145,KBEastPuroikSoja,206_thetail,"aanyime’, nyime’",aː+ɲi+me,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-206_thetail-1,easternpuroik_206,KBEastPuroikRemsangpuia,206_thetail,anime,a+ni+me,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-206_thetail-1,puroik_189037,KBEastPuroikSun,206_thetail,a³³ ȵuk³³ kuaŋ³³,a³³+ȵuk³³+kuaŋ³³,,,Sun1991,,,,,,
@@ -16447,7 +16447,7 @@ Xingning-207_ten-1,Xingning_8599,Xingning,207_ten,ʂuʔ⁵,ʂ.u.ʔ.⁵,,,Lai2017
 Ukhrul-207_ten-1,Ukhrul_8597,Ukhrul,207_ten,tʰə+ra,tʰ.ə.+.r.a,,,Mortensen2012,85,,,,,FALSE
 Tangut-207_ten-1,Tangut_8592,Tangut,207_ten,ɣa./a,ɣ.a./a,,,Li1997,364,,,,,FALSE
 KarbiMikir-207_ten-1,Mikir_8586,KarbiMikir,207_ten,kep,k.ē.p,,,Walker1925 KonnerthFC GruessnerNoDate,364,,,,,FALSE
-MishmiKaman-207_ten-1,Kaman_226928,MishmiKaman,207_ten,kiɑp⁵⁵ mu⁵³,kiɑp⁵⁵ mu⁵³,,,Sun1991,,,,,,
+MishmiKaman-207_ten-1,Kaman_226928,MishmiKaman,207_ten,kiɑp⁵⁵ mu⁵³,kiɑp⁵⁵+mu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-207_ten-1,easternpuroik_146,KBEastPuroikSoja,207_ten,suait,suait,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-207_ten-1,easternpuroik_207,KBEastPuroikRemsangpuia,207_ten,swe,swe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-207_ten-1,puroik_226930,KBEastPuroikSun,207_ten,suat⁵³ pa⁵³,suat⁵³+pa⁵³,,,Sun1991,,,,,,
@@ -16591,7 +16591,7 @@ Maru-209_there-1,Maru_v2_7701,Maru,209_there,tʰø⁵⁵+mɛ³¹,tʰ.ø.⁵⁵.+
 Xiandao-209_there-1,Xiandao_v2_7702,Xiandao,209_there,tʰɛ⁵⁵+tʰɔʔ⁵⁵,tʰ.ɛ.⁵⁵.+.tʰ.ɔ.ʔ.⁵⁵,,,Huang1992 Hill2017,8047,,,,,FALSE
 Rangoon-209_there-1,Rangoon_v2_8125,Rangoon,209_there,tʰo²²+ɑ⁵³+nɑ⁵⁵,tʰ.o.²².+.ɑ.⁵³.+.n.ɑ.⁵⁵,,,Huang1992 Hill2017,8263,,,,,FALSE
 KarbiMikir-209_there-1,Mikir_v2_11895,KarbiMikir,209_there,hadak,h.á,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-209_there-1,Kaman_230192,MishmiKaman,209_there,ɑ³¹ hit⁵⁵ lɑm⁵⁵,ɑ³¹ hit⁵⁵ lɑm⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-209_there-1,Kaman_230192,MishmiKaman,209_there,ɑ³¹ hit⁵⁵ lɑm⁵⁵,ɑ³¹+hit⁵⁵+lɑm⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-209_there-1,easternpuroik_233,KBEastPuroikSoja,209_there,"bhuu, wa",buː,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-209_there-1,easternpuroik_209,KBEastPuroikRemsangpuia,209_there,bɔː,bɔː,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-209_there-1,puroik_230194,KBEastPuroikSun,209_there,ɟeh⁵³ la⁵³,ɟeh⁵³+la⁵³,,,Sun1991,,,,,,
@@ -16667,7 +16667,7 @@ Hayu-210_thick-1,Hayu_8669,Hayu,210_thick,ton,t.o.n,,,Michailovsky1989a,2221,,,,
 Tangut-210_thick-1,Tangut_8684,Tangut,210_thick,laa,l.aa,,,Li1997,977,,,,,FALSE
 KarbiMikir-210_thick-1,Mikir_8677,KarbiMikir,210_thick,karthat,k.a.r.th.a.t,,,Walker1925 KonnerthFC GruessnerNoDate,3065,,,,,FALSE
 Rabha-210_thick-1,Rabha_8682,Rabha,210_thick,tʃat,tʃ.a.t,,,Joseph2007,3065,,,,,FALSE
-MishmiKaman-210_thick-1,Kaman_223052,MishmiKaman,210_thick,kɯ³¹ pɑ̆ŋ³⁵,kɯ³¹ pɑ̆ŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-210_thick-1,Kaman_223052,MishmiKaman,210_thick,kɯ³¹ pɑ̆ŋ³⁵,kɯ³¹+pɑ̆ŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-210_thick-1,easternpuroik_147,KBEastPuroikSoja,210_thick,apik,a+pik,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-210_thick-1,easternpuroik_210,KBEastPuroikRemsangpuia,210_thick,amam,a+mam,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-210_thick-1,puroik_223054,KBEastPuroikSun,210_thick,a³³ tsɯ³³,a³³+tsɯ³³,,,Sun1991,,,,,,
@@ -16820,7 +16820,7 @@ Lashi-212_thinobject-1,Lashi_8766,Lashi,212_thinobject,pɔ̱ː⁵⁵,p.ɔ̱ː.�
 Bola-212_thinobject-1,Bola_v2_12137,Bola,212_thinobject,pa̱³⁵,p.a̱.³⁵,,,Huang1992 Hill2017,3196,,,,,FALSE
 Maru-212_thinobject-1,Maru_v2_12150,Maru,212_thinobject,pɔ̱³⁵,p.ɔ̱.³⁵,,,Huang1992 Hill2017,3196,,,,,FALSE
 Atsi-212_thinobject-1,Atsi_v2_12172,Atsi,212_thinobject,ja̱m⁵⁵,j.a̱.m.⁵⁵,,,Huang1992 Hill2017,5,,,,,FALSE
-MishmiKaman-212_thinobject-1,Kaman_221522,MishmiKaman,212_thinobject,kɯ³¹ pɑ³⁵,kɯ³¹ pɑ³⁵,,,Sun1991,,,,,,
+MishmiKaman-212_thinobject-1,Kaman_221522,MishmiKaman,212_thinobject,kɯ³¹ pɑ³⁵,kɯ³¹+pɑ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-212_thinobject-1,easternpuroik_149,KBEastPuroikSoja,212_thinobject,"achabdau, ataakdau",a+tʃʰab+dau,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-212_thinobject-1,easternpuroik_212,KBEastPuroikRemsangpuia,212_thinobject,asarai,a+sarai,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-212_thinobject-1,puroik_221524,KBEastPuroikSun,212_thinobject,a³³ tɕak⁵³,a³³+tɕak⁵³,,,Sun1991,,,,,,
@@ -17148,7 +17148,7 @@ Hayu-216_three-1,Hayu_8953,Hayu,216_three,tsʰukpu,tsʰ.u.k.p.u,,,Michailovsky19
 Tangut-216_three-1,Tangut_8967,Tangut,216_three,so./o,s.o./o,,,Li1997,283,,,,,FALSE
 KarbiMikir-216_three-1,Mikir_8960,KarbiMikir,216_three,"kethom, thom-",k.e.th.ò.m,,,Walker1925 KonnerthFC GruessnerNoDate,283,,,,,FALSE
 Rabha-216_three-1,Rabha_8965,Rabha,216_three,an-tʰam,a.n-.tʰ.a.m,,,Joseph2007,283,,,,,FALSE
-MishmiKaman-216_three-1,Kaman_226571,MishmiKaman,216_three,kɯ³¹ sɑ̆m⁵³,kɯ³¹ sɑ̆m⁵³,,,Sun1991,,,,,,
+MishmiKaman-216_three-1,Kaman_226571,MishmiKaman,216_three,kɯ³¹ sɑ̆m⁵³,kɯ³¹+sɑ̆m⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-216_three-1,easternpuroik_152,KBEastPuroikSoja,216_three,ek,ək,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-216_three-1,easternpuroik_216,KBEastPuroikRemsangpuia,216_three,ɯeg [ɯək],ɯək,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-216_three-1,puroik_226573,KBEastPuroikSun,216_three,ɣɯək³³,ɣɯək³³,,,Sun1991,,,,,,
@@ -17326,7 +17326,7 @@ Tangut-218_thethunder-1,Tangut_9067,Tangut,218_thethunder,djii,d.jii,,,Li1997,41
 KarbiMikir-218_thethunder-1,Mikir_9059,KarbiMikir,218_thethunder,"ingder, sining kangder, sining kangreng",i.ng.d.e.r,,,Walker1925 KonnerthFC GruessnerNoDate,10481,,,,,FALSE
 Rabha-218_thethunder-1,Rabha_9065,Rabha,218_thethunder,raŋ+krɨŋa,r.a.ŋ.+.k.r.ɨ.ŋ.a,,,Joseph2007,10480,,,,,FALSE
 OldBurmese-218_thethunder-1,OldBurmese_9061,OldBurmese,218_thethunder,myuivḥ+khyunḥ,m.y.u.i.v.ḥ.+.kh.y.u.n.ḥ,,,Hill2017,1240,,,,,FALSE
-MishmiKaman-218_thethunder-1,Kaman_218513,MishmiKaman,218_thethunder,tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵,tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-218_thethunder-1,Kaman_218513,MishmiKaman,218_thethunder,tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵,tɯ³¹+mɑuŋ⁵³+kɹɑ̆n⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-218_thethunder-1,easternpuroik_154,KBEastPuroikSoja,218_thethunder,raanmang,raːn+maŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-218_thethunder-1,easternpuroik_218,KBEastPuroikRemsangpuia,218_thethunder,raŋmaŋ,raŋ+maŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-218_thethunder-1,puroik_180265,KBEastPuroikSun,218_thethunder,ɣə³³ mək³³,ɣə³³+mək³³,,,Sun1991,,,,,,
@@ -17413,7 +17413,7 @@ Hayu-219_thetiger-1,Hayu_9100,Hayu,219_thetiger,bilu,b.i.l.u,,,Michailovsky1989a
 Tangut-219_thetiger-1,Tangut_9116,Tangut,219_thetiger,le,l.e,,,Li1997,1053,,,,,FALSE
 KarbiMikir-219_thetiger-1,Mikir_9109,KarbiMikir,219_thetiger,teke,t.è.k.è,,,Walker1925 KonnerthFC GruessnerNoDate,433,,,,,FALSE
 Rabha-219_thetiger-1,Rabha_9114,Rabha,219_thetiger,má+sa,m.á.+.s.a,,,Joseph2007,4029,,,,,FALSE
-MishmiKaman-219_thetiger-1,Kaman_186332,MishmiKaman,219_thetiger,bo⁵⁵ dɑ⁵⁵,bo⁵⁵ dɑ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-219_thetiger-1,Kaman_186332,MishmiKaman,219_thetiger,bo⁵⁵ dɑ⁵⁵,bo⁵⁵+dɑ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-219_thetiger-1,easternpuroik_235,KBEastPuroikSoja,219_thetiger,paate,paː+tə,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-219_thetiger-1,easternpuroik_219,KBEastPuroikRemsangpuia,219_thetiger,madʒue,ma+dʒue,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-219_thetiger-1,puroik_186334,KBEastPuroikSun,219_thetiger,a³³ vuat⁵³ bua¹¹,a³³+vuat⁵³+bua¹¹,,,Sun1991,,,,,,
@@ -17500,7 +17500,7 @@ Hayu-220_today-1,Hayu_9150,Hayu,220_today,tɿrɿ,t.ɿ.r.ɿ,,,Michailovsky1989a,2
 Tangut-220_today-1,Tangut_9165,Tangut,220_today,pɨjsjij,p.ɨ.js.ji.j,,,Li1997,1313,,,,,FALSE
 KarbiMikir-220_today-1,Mikir_9158,KarbiMikir,220_today,"pini, mini",p.i.n.ì,,,Walker1925 KonnerthFC GruessnerNoDate,1313,,,,,FALSE
 Rabha-220_today-1,Rabha_9163,Rabha,220_today,té,t.é,,,Joseph2007,10510,,,,,FALSE
-MishmiKaman-220_today-1,Kaman_184547,MishmiKaman,220_today,tɯ³¹ ŋin⁵⁵ ɹɑ³⁵,tɯ³¹ ŋin⁵⁵ ɹɑ³⁵,,,Sun1991,,,,,,
+MishmiKaman-220_today-1,Kaman_184547,MishmiKaman,220_today,tɯ³¹ ŋin⁵⁵ ɹɑ³⁵,tɯ³¹+ŋin⁵⁵+ɹɑ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-220_today-1,easternpuroik_236,KBEastPuroikSoja,220_today,heriu ri,hə+riu+ri,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-220_today-1,easternpuroik_220,KBEastPuroikRemsangpuia,220_today,riuri,riu+ri,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-220_today-1,puroik_184549,KBEastPuroikSun,220_today,ha³³ riu³³ ri⁵³,ha³³+riu³³+ri⁵³,,,Sun1991,,,,,,
@@ -17588,7 +17588,7 @@ Hayu-221_tomorrow-1,Hayu_9198,Hayu,221_tomorrow,nukun,n.u.k.u.n,,,Michailovsky19
 Tangut-221_tomorrow-1,Tangut_9213,Tangut,221_tomorrow,narar,n.a.r.a.r,,,Li1997,4216,,,,,FALSE
 KarbiMikir-221_tomorrow-1,Mikir_9206,KarbiMikir,221_tomorrow,"penap, menap",p.e.n.à.p,,,Walker1925 KonnerthFC GruessnerNoDate,10537,,,,,FALSE
 Rabha-221_tomorrow-1,Rabha_9211,Rabha,221_tomorrow,ga+pʰuŋ,g.a.+.pʰ.u.ŋ,,,Joseph2007,10538,,,,,FALSE
-MishmiKaman-221_tomorrow-1,Kaman_184700,MishmiKaman,221_tomorrow,tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³,tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³,,,Sun1991,,,,,,
+MishmiKaman-221_tomorrow-1,Kaman_184700,MishmiKaman,221_tomorrow,tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³,tɯ³¹+ɹuɑŋ⁵⁵+ɹɑ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-221_tomorrow-1,easternpuroik_237,KBEastPuroikSoja,221_tomorrow,piyapiyae’,pi+ja+pi+jae,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-221_tomorrow-1,easternpuroik_221,KBEastPuroikRemsangpuia,221_tomorrow,pjapɹe,pja+pɹe,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-221_tomorrow-1,puroik_184702,KBEastPuroikSun,221_tomorrow,pia³³ pɹæ⁵³,pia³³+pɹæ⁵³,,,Sun1991,,,,,,
@@ -17922,7 +17922,7 @@ Rangoon-225_twenty-1,Rangoon_9353,Rangoon,225_twenty,n̥iʔ⁴+sʰɛ²²,n̥.i.�
 Achang-225_twenty-1,Achang_9335,Achang,225_twenty,tă³¹+sau⁵⁵,t.ă.³¹.+.s.a.u.⁵⁵,,,Huang1992 Hill2017,8105,,,,,FALSE
 Tangut-225_twenty-1,Tangut_9354,Tangut,225_twenty,njɨɨɣa.,n.jɨɨ.ɣ.a.,,,Li1997,0,,,,,FALSE
 KarbiMikir-225_twenty-1,Mikir_9349,KarbiMikir,225_twenty,ingkoi,i.ng.k.òi,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-225_twenty-1,Kaman_227438,MishmiKaman,225_twenty,kɯ³¹ tɑl³⁵ mu⁵³,kɯ³¹ tɑl³⁵ mu⁵³,,,Sun1991,,,,,,
+MishmiKaman-225_twenty-1,Kaman_227438,MishmiKaman,225_twenty,kɯ³¹ tɑl³⁵ mu⁵³,kɯ³¹+tɑl³⁵+mu⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-225_twenty-1,easternpuroik_239,KBEastPuroikSoja,225_twenty,suait nyi,suait+ɲi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-225_twenty-1,easternpuroik_225,KBEastPuroikRemsangpuia,225_twenty,suanji,sua+nji,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-225_twenty-1,puroik_227440,KBEastPuroikSun,225_twenty,suat³³ ȵi³³,suat³³+ȵi³³,,,Sun1991,,,,,,
@@ -18008,7 +18008,7 @@ Ukhrul-226_two-1,Ukhrul_9404,Ukhrul,226_two,kʰə+ni,kʰ.ə.+.n.i,,,Mortensen201
 Hayu-226_two-1,Hayu_9385,Hayu,226_two,nakpu,n.a.k.p.u,,,Michailovsky1989a,102,,,,,FALSE
 KarbiMikir-226_two-1,Mikir_v2_11671,KarbiMikir,226_two,"heni, -ni",+.n.ì,,,Walker1925 KonnerthFC GruessnerNoDate,102,,,,,FALSE
 Rabha-226_two-1,Rabha_9397,Rabha,226_two,a+niŋ,a.+.n.i.ŋ,,,Joseph2007,102,,,,,FALSE
-MishmiKaman-226_two-1,Kaman_226520,MishmiKaman,226_two,kɯ³¹ jin⁵³,kɯ³¹ jin⁵³,,,Sun1991,,,,,,
+MishmiKaman-226_two-1,Kaman_226520,MishmiKaman,226_two,kɯ³¹ jin⁵³,kɯ³¹+jin⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-226_two-1,easternpuroik_157,KBEastPuroikSoja,226_two,nyi,ɲi,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-226_two-1,easternpuroik_226,KBEastPuroikRemsangpuia,226_two,nji,nji,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-226_two-1,puroik_226522,KBEastPuroikSun,226_two,ȵi³³,ȵi³³,,,Sun1991,,,,,,
@@ -18262,7 +18262,7 @@ Hayu-229_thewater-1,Hayu_9535,Hayu,229_thewater,ti,t.i,,,Michailovsky1989a,2787,
 Hayu-229_thewater-2,Hayu_9535,Hayu,229_thewater,ti,t.i,,,Michailovsky1989a,2787,,,,,FALSE
 KarbiMikir-229_thewater-1,Mikir_9544,KarbiMikir,229_thewater,lang,l.ā.ng,,,Walker1925 KonnerthFC GruessnerNoDate,10485,,,,,FALSE
 Rabha-229_thewater-1,Rabha_9549,Rabha,229_thewater,tʃi+ka,tʃ.i.+.k.a,,,Joseph2007,2787,,,,,FALSE
-MishmiKaman-229_thewater-1,Kaman_210557,MishmiKaman,229_thewater,xɑ³¹ ŋɑp⁵⁵,xɑ³¹ ŋɑp⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-229_thewater-1,Kaman_210557,MishmiKaman,229_thewater,xɑ³¹ ŋɑp⁵⁵,xɑ³¹+ŋɑp⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-229_thewater-1,easternpuroik_160,KBEastPuroikSoja,229_thewater,kua,kua,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-229_thewater-1,easternpuroik_229,KBEastPuroikRemsangpuia,229_thewater,kua,kua,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-229_thewater-1,puroik_180520,KBEastPuroikSun,229_thewater,kua³³,kua³³,,,Sun1991,,,,,,
@@ -18640,7 +18640,7 @@ Xiandao-234_where-1,Xiandao_v2_8101,Xiandao,234_where,xɔ³¹+lɔ³¹,x.ɔ.³¹.
 Rangoon-234_where-1,Rangoon_9763,Rangoon,234_where,ɑ⁵³+bɛ²²+m̥ɑ²²,ɑ.⁵³.+.b.ɛ.²².+.m̥.ɑ.²²,,,Huang1992 Hill2017,8252,,,,,FALSE
 Achang-234_where-1,Achang_9744,Achang,234_where,xoi⁵⁵+tʰɔʔ⁵⁵,x.o.i.⁵⁵.+.tʰ.ɔ.ʔ.⁵⁵,,,Huang1992 Hill2017,8142,,,,,FALSE
 KarbiMikir-234_where-1,Mikir_9759,KarbiMikir,234_where,"nathu, konat",k.o.d.ā.k,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-234_where-1,Kaman_230396,MishmiKaman,234_where,ji⁵⁵ hɑi⁵³,ji⁵⁵ hɑi⁵³,,,Sun1991,,,,,,
+MishmiKaman-234_where-1,Kaman_230396,MishmiKaman,234_where,ji⁵⁵ hɑi⁵³,ji⁵⁵+hɑi⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-234_where-1,easternpuroik_243,KBEastPuroikSoja,234_where,"kaila, kerua",kai+la,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-234_where-1,easternpuroik_234,KBEastPuroikRemsangpuia,234_where,kai,kai,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-234_where-1,puroik_230398,KBEastPuroikSun,234_where,kə³³ la⁵³ la¹¹,kə³³+la⁵³+la¹¹,,,Sun1991,,,,,,
@@ -18727,7 +18727,7 @@ Ukhrul-235_white-1,Ukhrul_9815,Ukhrul,235_white,kə+car,k.ə.+.c.a.r,,,Mortensen
 Hayu-235_white-1,Hayu_9794,Hayu,235_white,dawaŋ+mi,d.a.w.a.ŋ.+.m.i,,,Michailovsky1989a,2252,,,,,FALSE
 KarbiMikir-235_white-1,Mikir_9803,KarbiMikir,235_white,kelok,l.ò.k,,,Walker1925 KonnerthFC GruessnerNoDate,10488,,,,,FALSE
 Rabha-235_white-1,Rabha_9808,Rabha,235_white,bok,b.o.k,,,Joseph2007,10579,,,,,FALSE
-MishmiKaman-235_white-1,Kaman_222848,MishmiKaman,235_white,kɯ³¹ mphlɑŋ⁵⁵,kɯ³¹ mphlɑŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-235_white-1,Kaman_222848,MishmiKaman,235_white,kɯ³¹ mphlɑŋ⁵⁵,kɯ³¹+mphlɑŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-235_white-1,easternpuroik_162,KBEastPuroikSoja,235_white,arioong,a+riɔŋ,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-235_white-1,easternpuroik_235,KBEastPuroikRemsangpuia,235_white,ariɔŋ,a+riɔŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-235_white-1,puroik_222850,KBEastPuroikSun,235_white,a³³ rioŋ³³,a³³+rioŋ³³,,,Sun1991,,,,,,
@@ -18898,7 +18898,7 @@ Tangut-237_thewife-1,Tangut_9904,Tangut,237_thewife,bjij,b.ji.j,,,Li1997,0,,,,,F
 Tangut-237_thewife-2,Tangut_9905,Tangut,237_thewife,gji,g.ji,,,Li1997,0,,,,,FALSE
 Tangut-237_thewife-3,Tangut_9906,Tangut,237_thewife,mjaa,m.jaa,,,Li1997,0,,,,,FALSE
 KarbiMikir-237_thewife-1,Mikir_v2_11896,KarbiMikir,237_thewife,piso,+.p.ī.s.ō,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-237_thewife-1,Kaman_197246,MishmiKaman,237_thewife,kɯ³¹ mɑi³⁵,kɯ³¹ mɑi³⁵,,,Sun1991,,,,,,
+MishmiKaman-237_thewife-1,Kaman_197246,MishmiKaman,237_thewife,kɯ³¹ mɑi³⁵,kɯ³¹+mɑi³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-237_thewife-1,easternpuroik_244,KBEastPuroikSoja,237_thewife,ajau,a+dʒau,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-237_thewife-1,easternpuroik_237,KBEastPuroikRemsangpuia,237_thewife,awe,a+we,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-237_thewife-1,puroik_197248,KBEastPuroikSun,237_thewife,a³³ ʑu¹¹,a³³+ʑu¹¹,,,Sun1991,,,,,,
@@ -19279,7 +19279,7 @@ Hayu-242_thewoman-1,Hayu_10089,Hayu,242_thewoman,mɿxtso,m.ɿ.x.ts.o,,,Michailov
 Tangut-242_thewoman-2,Tangut_10106,Tangut,242_thewoman,sji,s.ji,,,Li1997,4195,,,,,FALSE
 KarbiMikir-242_thewoman-1,Mikir_10098,KarbiMikir,242_thewoman,arloso,a.r.l.ò,,,Walker1925 KonnerthFC GruessnerNoDate,10495,,,,,FALSE
 Rabha-242_thewoman-1,Rabha_10103,Rabha,242_thewoman,mé+tʃa,m.é.+.tʃ.a,,,Joseph2007,10494,,,,,FALSE
-MishmiKaman-242_thewoman-1,Kaman_194849,MishmiKaman,242_thewoman,kɯ³¹ mɑi³⁵ sɑ⁵³,kɯ³¹ mɑi³⁵ sɑ⁵³,,,Sun1991,,,,,,
+MishmiKaman-242_thewoman-1,Kaman_194849,MishmiKaman,242_thewoman,kɯ³¹ mɑi³⁵ sɑ⁵³,kɯ³¹+mɑi³⁵+sɑ⁵³,,,Sun1991,,,,,,
 KBEastPuroikSoja-242_thewoman-1,easternpuroik_167,KBEastPuroikSoja,242_thewoman,déna,də+na,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-242_thewoman-1,easternpuroik_242,KBEastPuroikRemsangpuia,242_thewoman,dana,da+na,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-242_thewoman-1,puroik_194851,KBEastPuroikSun,242_thewoman,a³³ mui⁵³,a³³+mui⁵³,,,Sun1991,,,,,,
@@ -19350,7 +19350,7 @@ Xiandao-243_thewoodmaterial-1,Xiandao_v2_7982,Xiandao,243_thewoodmaterial,pɛn³
 Rangoon-243_thewoodmaterial-1,Rangoon_10148,Rangoon,243_thewoodmaterial,tθiʔ⁴+tõ∼⁵⁵,tθ.i.ʔ.⁴.+.t.õ.∼.⁵⁵,,,Huang1992 Hill2017,8174,,,,,FALSE
 Tangut-243_thewoodmaterial-1,Tangut_10149,Tangut,243_thewoodmaterial,sji,s.ji,,,Li1997,0,,,,,FALSE
 KarbiMikir-243_thewoodmaterial-1,Mikir_10143,KarbiMikir,243_thewoodmaterial,theng,th.e.ng.p.ī,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-243_thewoodmaterial-1,Kaman_203927,MishmiKaman,243_thewoodmaterial,sɑ̆ŋ³⁵ khliŋ⁵⁵,sɑ̆ŋ³⁵ khliŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-243_thewoodmaterial-1,Kaman_203927,MishmiKaman,243_thewoodmaterial,sɑ̆ŋ³⁵ khliŋ⁵⁵,sɑ̆ŋ³⁵+khliŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-243_thewoodmaterial-1,easternpuroik_246,KBEastPuroikSoja,243_thewoodmaterial,sangtak,saŋ+tak,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-243_thewoodmaterial-1,easternpuroik_243,KBEastPuroikRemsangpuia,243_thewoodmaterial,ɹein,ɹein,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-243_thewoodmaterial-1,puroik_203929,KBEastPuroikSun,243_thewoodmaterial,heʴn³³,heʴn³³,,,Sun1991,,,,,,
@@ -19401,7 +19401,7 @@ Lushai-244_tosowbroadcastscatterseeds-1,Lushai_10181,Lushai,244_tosowbroadcastsc
 Lushai-244_tosowbroadcastscatterseeds-2,Lushai_10182,Lushai,244_tosowbroadcastscatterseeds,kui,k.u.i,,,Lorrain1940,1602,,,,,FALSE
 Hayu-244_tosowbroadcastscatterseeds-1,Hayu_10175,Hayu,244_tosowbroadcastscatterseeds,tsʰʊk,tsʰ.ʊ.k,,,Michailovsky1989a,2245,,,,,FALSE
 KarbiMikir-244_tosowbroadcastscatterseeds-1,Mikir_10183,KarbiMikir,244_tosowbroadcastscatterseeds,chili kangdir [chili=seed],ch.i.l.i._.k.a.ng.d.i.r,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-244_tosowbroadcastscatterseeds-1,Kaman_191279,MishmiKaman,244_tosowbroadcastscatterseeds,xɑ³¹ lɯl³⁵,xɑ³¹ lɯl³⁵,,,Sun1991,,,,,,
+MishmiKaman-244_tosowbroadcastscatterseeds-1,Kaman_191279,MishmiKaman,244_tosowbroadcastscatterseeds,xɑ³¹ lɯl³⁵,xɑ³¹+lɯl³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-244_tosowbroadcastscatterseeds-1,easternpuroik_247,KBEastPuroikSoja,244_tosowbroadcastscatterseeds,pook na,pɔk,,,RS09,,,,,,
 TshDirangTshangla-245_theyear-1,DirangTshangla_122,TshDirangTshangla,245_theyear,ɲiŋ,ɲiŋ,,,TB,,,,,,
 TaniGalo-245_theyear-1,Galo_122,TaniGalo,245_theyear,a-ɲɨɨ̀,a+ɲɨː51,,,Post07,,,,,*ɲiŋ,
@@ -19571,7 +19571,7 @@ Xingning-246_yellow-1,Xingning_10286,Xingning,246_yellow,vɔŋ²⁴,v.ɔ.ŋ.²�
 Hayu-246_yellow-1,Hayu_10265,Hayu,246_yellow,helduŋmi,h.e.l.d.u.ŋ.m.i,,,Michailovsky1989a,2254,,,,,FALSE
 KarbiMikir-246_yellow-1,Mikir_v2_11768,KarbiMikir,246_yellow,etpi,+.è.t,,,Walker1925 KonnerthFC GruessnerNoDate,10499,,,,,FALSE
 Rabha-246_yellow-1,Rabha_10278,Rabha,246_yellow,bai,b.ai,,,Joseph2007,10498,,,,,FALSE
-MishmiKaman-246_yellow-1,Kaman_222746,MishmiKaman,246_yellow,kɯ³¹ lɑ̆uŋ³⁵,kɯ³¹ lɑ̆uŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-246_yellow-1,Kaman_222746,MishmiKaman,246_yellow,kɯ³¹ lɑ̆uŋ³⁵,kɯ³¹+lɑ̆uŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-246_yellow-1,easternpuroik_169,KBEastPuroikSoja,246_yellow,asoluwa,a+so+lu+wa,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-246_yellow-1,easternpuroik_246,KBEastPuroikRemsangpuia,246_yellow,asulua,a+su+lua,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-246_yellow-1,puroik_222748,KBEastPuroikSun,246_yellow,a³³ riɛ³³,a³³+riɛ³³,,,Sun1991,,,,,,
@@ -19659,7 +19659,7 @@ Hayu-247_yesterday-1,Hayu_10313,Hayu,247_yesterday,tɿ̃ːdzoŋ,t.ɿ̃ː.d.z.o.�
 Tangut-247_yesterday-1,Tangut_10328,Tangut,247_yesterday,jɨnjɨɨ,j.ɨ.n.jɨɨ,,,Li1997,4215,,,,,FALSE
 KarbiMikir-247_yesterday-1,Mikir_10321,KarbiMikir,247_yesterday,tumi,t.u.m.ì,,,Walker1925 KonnerthFC GruessnerNoDate,10536,,,,,FALSE
 Rabha-247_yesterday-1,Rabha_10326,Rabha,247_yesterday,mi+a,m.i.+.a,,,Joseph2007,3471,,,,,FALSE
-MishmiKaman-247_yesterday-1,Kaman_184598,MishmiKaman,247_yesterday,mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵,mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵,,,Sun1991,,,,,,
+MishmiKaman-247_yesterday-1,Kaman_184598,MishmiKaman,247_yesterday,mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵,mɯ³¹+ŋɑ⁵⁵+niŋ⁵⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-247_yesterday-1,easternpuroik_248,KBEastPuroikSoja,247_yesterday,biari,bia+ri,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-247_yesterday-1,easternpuroik_247,KBEastPuroikRemsangpuia,247_yesterday,biari,bia+ri,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-247_yesterday-1,puroik_184600,KBEastPuroikSun,247_yesterday,bie³³ ri⁵³,bie³³+ri⁵³,,,Sun1991,,,,,,
@@ -19730,7 +19730,7 @@ Xiandao-248_yousecondpersonplural-1,Xiandao_v2_8012,Xiandao,248_yousecondpersonp
 Rangoon-248_yousecondpersonplural-1,Rangoon_10368,Rangoon,248_yousecondpersonplural,mĩ∼⁵⁵+to⁵³,m.ĩ.∼.⁵⁵.+.t.o.⁵³,,,Huang1992 Hill2017,8249,,,,,FALSE
 Lashi-248_yousecondpersonplural-1,Lashi_10362,Lashi,248_yousecondpersonplural,ŋjaŋ³³+nuŋ⁵⁵,ŋ.j.a.ŋ.³³.+.n.u.ŋ.⁵⁵,,,Huang1992 Hill2017,8192,,,,,FALSE
 KarbiMikir-248_yousecondpersonplural-1,Mikir_10365,KarbiMikir,248_yousecondpersonplural,"nang, nangtum",n.a.ng,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-248_yousecondpersonplural-1,Kaman_229733,MishmiKaman,248_yousecondpersonplural,ȵo⁵³ niŋ³⁵,ȵo⁵³ niŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-248_yousecondpersonplural-1,Kaman_229733,MishmiKaman,248_yousecondpersonplural,ȵo⁵³ niŋ³⁵,ȵo⁵³+niŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-248_yousecondpersonplural-1,easternpuroik_249,KBEastPuroikSoja,248_yousecondpersonplural,narai,na+rai,,,AT90,,,,,,
 KBEastPuroikRemsangpuia-248_yousecondpersonplural-1,easternpuroik_248,KBEastPuroikRemsangpuia,248_yousecondpersonplural,nase,na+se,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-248_yousecondpersonplural-1,puroik_229735,KBEastPuroikSun,248_yousecondpersonplural,nah³³ ɣəȵ³³,nah³³+ɣəȵ³³,,,Sun1991,,,,,,
@@ -19790,7 +19790,7 @@ Jieyang-249_young-1,Jieyang_v2_11061,Jieyang,249_young,hau¹¹sɛ̃³³,h.a.u.¹
 Xingning-249_young-1,Xingning_v2_11062,Xingning,249_young,hiu⁵³₅₅saŋ⁴⁵,h.i.u.⁵³₅₅.s.a.ŋ.⁴⁵,,,Lai2017FN,2028,,,,,FALSE
 Tangut-249_young-1,Tangut_v2_11582,Tangut,249_young,thjwi.,th.jwi.,,,Li1997,4222,,,,,FALSE
 KarbiMikir-249_young-1,Mikir_v2_11866,KarbiMikir,249_young,akebi,a.k.e.b.i,,,Walker1925 KonnerthFC GruessnerNoDate,0,,,,,FALSE
-MishmiKaman-249_young-1,Kaman_223766,MishmiKaman,249_young,kɯ³¹ ɕik⁵⁵ tsoŋ³⁵,kɯ³¹ ɕik⁵⁵ tsoŋ³⁵,,,Sun1991,,,,,,
+MishmiKaman-249_young-1,Kaman_223766,MishmiKaman,249_young,kɯ³¹ ɕik⁵⁵ tsoŋ³⁵,kɯ³¹+ɕik⁵⁵+tsoŋ³⁵,,,Sun1991,,,,,,
 KBEastPuroikSoja-249_young-1,easternpuroik_250,KBEastPuroikSoja,249_young,sikcha bae’,sik+tʃʰa+bae,,,RS09,,,,,,
 KBEastPuroikRemsangpuia-249_young-1,easternpuroik_249,KBEastPuroikRemsangpuia,249_young,dʒuaŋ,dʒuaŋ,,,Remsangpuia2008,,,,,,
 KBEastPuroikSun-249_young-1,puroik_223768,KBEastPuroikSun,249_young,a³³ dɯ⁵³ ba³³ bua³³,a³³+dɯ⁵³+ba³³+bua³³,,,Sun1991,,,,,,
