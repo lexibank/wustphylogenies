@@ -164,7 +164,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 75	1_above	above	Hayu	Hayu	Kiranti	ani	ani	wayu1241	1741	27.302102		2156	FALSE	Michailovsky1989a	!checked Macy keep!	2156
 77	1_above	above	Tangut	Tangut	Tangut	tɕhjaa	tɕhjaa	tang1334	1741	38.477453		10178	FALSE	Li1997		10178
 78	1_above	above	KarbiMikir	Karbi (Mikir)	Mizo	"angsong, athak; (one -- another) pangchap, pacherop."	angsong	karb1241	1741	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-79	1_above	above	MishmiKaman	Miju	Mishmi	lɯn³⁵ xɑi⁵⁵	lɯn³⁵ xɑi⁵⁵	miju1243	1741	28.416389				Sun1991		0
+79	1_above	above	MishmiKaman	Miju	Mishmi	lɯn³⁵ xɑi⁵⁵	lɯn³⁵+xɑi⁵⁵	miju1243	1741	28.416389				Sun1991		0
 80	1_above	above	KBEastPuroikSoja	Puroik	Kho-Bwa	ayung	a+juŋ	sulu1241	1741	27.650542				AT90		0
 81	1_above	above	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	atʃuaŋ	a+tʃuaŋ	sulu1241	1741	27.650542				Remsangpuia2008		0
 82	1_above	above	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ tɕiaŋ⁵³	a³³+tɕiaŋ⁵³	sulu1241	1741	28.41558				Sun1991		0
@@ -246,7 +246,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 158	2_all	all	Tangut	Tangut	Tangut	zji	zji	tang1334	98	38.477453		0	FALSE	Li1997	!ignore double no link!	0
 159	2_all	all	Tangut	Tangut	Tangut	rjur	rjur	tang1334	98	38.477453		0	FALSE	Li1997	!ignore double no link!	0
 160	2_all	all	KarbiMikir	Karbi (Mikir)	Mizo	"kedo kave, kedoan, angse, anta, arpum, and badu(-ta, -ba-dang), lajok(ta), majok, rongisi, -tame, -rep, -phrong,; humilipi [...]"	thài	karb1241	98	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-161	2_all	all	MishmiKaman	Miju	Mishmi	kɯm⁵⁵ blui⁵⁵	kɯm⁵⁵ blui⁵⁵	miju1243	98	28.416389				Sun1991		0
+161	2_all	all	MishmiKaman	Miju	Mishmi	kɯm⁵⁵ blui⁵⁵	kɯm⁵⁵+blui⁵⁵	miju1243	98	28.416389				Sun1991		0
 162	2_all	all	KBEastPuroikSoja	Puroik	Kho-Bwa	melang	mə+laŋ	sulu1241	98	27.650542				RS09		0
 163	2_all	all	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	malaŋ	ma+laŋ	sulu1241	98	27.650542				Remsangpuia2008		0
 164	2_all	all	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ ləŋ³³	mə³³+ləŋ³³	sulu1241	98	28.41558				Sun1991		0
@@ -338,7 +338,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 392	5_bad	bad	Chaozhou	Chaozhou	Sinitic	mɔ⁵³	mɔ⁵³	chao1238	1292	23.657699		1625	TRUE	Lai2017FN		1625
 393	5_bad	bad	Tangut	Tangut	Tangut	niow	niow	tang1334	1292	38.477453		10179	FALSE	Li1997		10179
 394	5_bad	bad	KarbiMikir	Karbi (Mikir)	Mizo	hingo	henō	karb1241	1292	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-395	5_bad	bad	MishmiKaman	Miju	Mishmi	mɯ³¹ phɑn⁵⁵	mɯ³¹ phɑn⁵⁵	miju1243	1292	28.416389				Sun1991		0
+395	5_bad	bad	MishmiKaman	Miju	Mishmi	mɯ³¹ phɑn⁵⁵	mɯ³¹+phɑn⁵⁵	miju1243	1292	28.416389				Sun1991		0
 396	5_bad	bad	KBEastPuroikSoja	Puroik	Kho-Bwa	bayi’	ba+jɯ	sulu1241	1292	27.650542				RS09		0
 397	5_bad	bad	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ariŋ ba	a+riŋ+ba	sulu1241	1292	27.650542				Remsangpuia2008		0
 398	5_bad	bad	KBEastPuroikSun	Puroik	Kho-Bwa	ba³³ niaŋ¹¹	ba³³+niaŋ¹¹	sulu1241	1292	28.41558				Sun1991		0
@@ -425,7 +425,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 767	10_belowunder	below, under	Hayu	Hayu	Kiranti	jʊ̃ːkʰa	jʊ̃ːkʰa	wayu1241	1485	27.302102		330	FALSE	Michailovsky1989a		330
 768	10_belowunder	below, under	Tangut	Tangut	Tangut	khju	khju	tang1334	1485	38.477453		10180	FALSE	Li1997		10180
 769	10_belowunder	below, under	KarbiMikir	Karbi (Mikir)	Mizo	aber	+rúm	karb1241	1485	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-770	10_belowunder	below, under	MishmiKaman	Miju	Mishmi	ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵	ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵	miju1243	1485	28.416389				Sun1991		0
+770	10_belowunder	below, under	MishmiKaman	Miju	Mishmi	ju⁵⁵ wɑŋ⁵⁵ lɑm³⁵	ju⁵⁵+wɑŋ⁵⁵+lɑm³⁵	miju1243	1485	28.416389				Sun1991		0
 771	10_belowunder	below, under	KBEastPuroikSoja	Puroik	Kho-Bwa	avoa hak	a+voa	sulu1241	1485	27.650542				RS09		0
 772	10_belowunder	below, under	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	awa	a+wa	sulu1241	1485	27.650542				Remsangpuia2008		0
 773	10_belowunder	below, under	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ɣua¹¹	a³³+ɣua¹¹	sulu1241	1485	28.41558				Sun1991		0
@@ -515,7 +515,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 857	11_big	big	Tangut	Tangut	Tangut	khwej	khwej	tang1334	1202	38.477453		10181	FALSE	Li1997		10181
 858	11_big	big	KarbiMikir	Karbi (Mikir)	Mizo	the(dung)	thè	karb1241	1202	25.735084		29701	FALSE	Walker1925 KonnerthFC GruessnerNoDate		29701
 859	11_big	big	Rabha	Rabha	Rabha	tem+poŋ	tem+poŋ	rabh1238	1202	25.820135		10322	FALSE	Joseph2007		10322
-860	11_big	big	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑi³⁵	kɯ³¹ tɑi³⁵	miju1243	1202	28.416389				Sun1991		0
+860	11_big	big	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑi³⁵	kɯ³¹+tɑi³⁵	miju1243	1202	28.416389				Sun1991		0
 861	11_big	big	KBEastPuroikSoja	Puroik	Kho-Bwa	buari’	bua+rɯ	sulu1241	1202	27.650542				RS09		0
 862	11_big	big	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	bua	bua	sulu1241	1202	27.650542				Remsangpuia2008		0
 863	11_big	big	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ bua³³	a³³+bua³³	sulu1241	1202	28.41558				Sun1991		0
@@ -606,7 +606,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 1124	14_black	black	Hayu	Hayu	Kiranti	kʰaktsʰiŋmi	kʰaktsʰiŋmi	wayu1241	163	27.302102		215	FALSE	Michailovsky1989a		215
 1125	14_black	black	KarbiMikir	Karbi (Mikir)	Mizo	"ik(-kui, -sip, -vu); [...]"	ìk	karb1241	163	25.735084		10326	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10326
 1126	14_black	black	Rabha	Rabha	Rabha	ak	ak	rabh1238	163	25.820135		10325	FALSE	Joseph2007	TB nag?	10325
-1127	14_black	black	MishmiKaman	Miju	Mishmi	kɑ³¹ im³⁵	kɑ³¹ im³⁵	miju1243	163	28.416389				Sun1991		0
+1127	14_black	black	MishmiKaman	Miju	Mishmi	kɑ³¹ im³⁵	kɑ³¹+im³⁵	miju1243	163	28.416389				Sun1991		0
 1128	14_black	black	KBEastPuroikSoja	Puroik	Kho-Bwa	ahiye’	a+hi+je	sulu1241	163	27.650542				RS09		0
 1129	14_black	black	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ahĩe	a+hĩe	sulu1241	163	27.650542				Remsangpuia2008		0
 1130	14_black	black	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ɦiɛ⁵³	a³³+ɦiɛ⁵³	sulu1241	163	28.41558				Sun1991		0
@@ -770,7 +770,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2242	28_correctright	correct (right)	Xiandao	Xiandao	Burmish	cɛ⁵⁵	cɛ⁵⁵	xian1249	1725	24.494153		8635	FALSE	Huang1992 Hill2017		8635
 2243	28_correctright	correct (right)	Tangut	Tangut	Tangut	tɕjɨj	tɕjɨj	tang1334	1725	38.477453		0	FALSE	Li1997		0
 2244	28_correctright	correct (right)	KarbiMikir	Karbi (Mikir)	Mizo	chenam, kechok[...]	chenam	karb1241	1725	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-2245	28_correctright	correct (right)	MishmiKaman	Miju	Mishmi	kɯ³¹ pioŋ⁵³	kɯ³¹ pioŋ⁵³	miju1243	1725	28.416389				Sun1991		0
+2245	28_correctright	correct (right)	MishmiKaman	Miju	Mishmi	kɯ³¹ pioŋ⁵³	kɯ³¹+pioŋ⁵³	miju1243	1725	28.416389				Sun1991		0
 2246	28_correctright	correct (right)	KBEastPuroikSoja	Puroik	Kho-Bwa	ketakjak	kə+tak+dʒak	sulu1241	1725	27.650542				RS09		0
 2410	31_dark	dark	TshDirangTshangla	Dirang Tshangla	Bodic	lak+sum	lak+sum	dira1243	706	27.343674				TB		4722
 2411	31_dark	dark	TaniGalo	Galo	Tani	kanəH	ka+nə55	galo1242	706	27.98				Post07	Ø	1363
@@ -834,7 +834,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2469	31_dark	dark	Hayu	Hayu	Kiranti	kuŋkuŋ	kuŋkuŋ	wayu1241	706	27.302102		1278	FALSE	Michailovsky1989a		1278
 2470	31_dark	dark	Tangut	Tangut	Tangut	mur	mur	tang1334	706	38.477453		4209	FALSE	Li1997	!COGID changed Tim!	4726
 2471	31_dark	dark	KarbiMikir	Karbi (Mikir)	Mizo	ingting(-duk, -ik, -kuk, bin-hing[...]	ingting	karb1241	706	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate	COGID added Tim	4721
-2472	31_dark	dark	MishmiKaman	Miju	Mishmi	ɹɯm⁵³ lɑ³⁵	ɹɯm⁵³ lɑ³⁵	miju1243	706	28.416389				Sun1991		0
+2472	31_dark	dark	MishmiKaman	Miju	Mishmi	ɹɯm⁵³ lɑ³⁵	ɹɯm⁵³+lɑ³⁵	miju1243	706	28.416389				Sun1991		0
 2473	31_dark	dark	KBEastPuroikSoja	Puroik	Kho-Bwa	achik	a+tʃʰik	sulu1241	706	27.650542				RS09		0
 2474	31_dark	dark	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	atʃik kalaŋ	a+tʃik+kalaŋ	sulu1241	706	27.650542				Remsangpuia2008		0
 2475	31_dark	dark	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ciȶ³³	a³³+ciȶ³³	sulu1241	706	28.41558				Sun1991		0
@@ -910,7 +910,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2870	36_dirty	dirty	Tangut	Tangut	Tangut	tɕior	tɕior	tang1334	1230	38.477453		10192	FALSE	Li1997		10192
 2871	36_dirty	dirty	KarbiMikir	Karbi (Mikir)	Mizo	hijimmai, ningni, ter, mui	tèr	karb1241	1230	25.735084		10343	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10343
 2872	36_dirty	dirty	Rabha	Rabha	Rabha	tʰel-tʰel	tʰel-tʰel	rabh1238	1230	25.820135		10343	FALSE	Joseph2007		10343
-2873	36_dirty	dirty	MishmiKaman	Miju	Mishmi	kɑ³¹ so⁵³	kɑ³¹ so⁵³	miju1243	1230	28.416389				Sun1991		0
+2873	36_dirty	dirty	MishmiKaman	Miju	Mishmi	kɑ³¹ so⁵³	kɑ³¹+so⁵³	miju1243	1230	28.416389				Sun1991		0
 2874	36_dirty	dirty	KBEastPuroikSoja	Puroik	Kho-Bwa	baseraang	ba+sə+raːŋ	sulu1241	1230	27.650542				RS09		0
 2875	36_dirty	dirty	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	basaraŋ	ba+sa+raŋ	sulu1241	1230	27.650542				Remsangpuia2008		0
 2876	36_dirty	dirty	KBEastPuroikSun	Puroik	Kho-Bwa	chə³³ chɛʴ⁵³	chə³³+chɛʴ⁵³	sulu1241	1230	28.41558				Sun1991		0
@@ -1063,7 +1063,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 3451	43_early	early	Hayu	Hayu	Kiranti	naːna	naːna	wayu1241	672	27.302102		1131	FALSE	Michailovsky1989a		1131
 3452	43_early	early	KarbiMikir	Karbi (Mikir)	Mizo	serak	+dàp	karb1241	672	25.735084		10505	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10505
 3453	43_early	early	Rabha	Rabha	Rabha	tʃʰéŋ	tʃʰéŋ	rabh1238	672	25.820135		10504	FALSE	Joseph2007		10504
-3454	43_early	early	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³	tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³	miju1243	672	28.416389				Sun1991		0
+3454	43_early	early	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹuɑŋ⁵⁵ nɑi⁵³	tɯ³¹+ɹuɑŋ⁵⁵+nɑi⁵³	miju1243	672	28.416389				Sun1991		0
 3455	43_early	early	KBEastPuroikSoja	Puroik	Kho-Bwa	khedi’che’	kʰə+dɯ+tʃʰe	sulu1241	672	27.650542				RS09		0
 3456	43_early	early	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	dua	dua	sulu1241	672	27.650542				Remsangpuia2008		0
 3457	43_early	early	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ pɹəʴ⁵³	a³³+pɹəʴ⁵³	sulu1241	672	28.41558				Sun1991		0
@@ -1290,7 +1290,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 4414	55_firewood	firewood	Atsi	Atsi	Burmish	tʰaŋ²¹	tʰaŋ²¹	zaiw1241	10	24.193367		3872	FALSE	Huang1992 Hill2017	!COGID changed Macy cross semantic!	3214
 4415	55_firewood	firewood	Tangut	Tangut	Tangut	sjɨmə	sjɨmə	tang1334	10	38.477453		0	FALSE	Li1997		0
 4416	55_firewood	firewood	KarbiMikir	Karbi (Mikir)	Mizo	theng	thēng	karb1241	10	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate	tree, wood	6006
-4417	55_firewood	firewood	MishmiKaman	Miju	Mishmi	sɑ̆ŋ³⁵ khliŋ⁵⁵	sɑ̆ŋ³⁵ khliŋ⁵⁵	miju1243	10	28.416389				Sun1991		0
+4417	55_firewood	firewood	MishmiKaman	Miju	Mishmi	sɑ̆ŋ³⁵ khliŋ⁵⁵	sɑ̆ŋ³⁵+khliŋ⁵⁵	miju1243	10	28.416389				Sun1991		0
 4418	55_firewood	firewood	KBEastPuroikSoja	Puroik	Kho-Bwa	hiyin	hi+jin	sulu1241	10	27.650542				RS09		0
 4419	55_firewood	firewood	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ɹein weiˀ	ɹein+weiˀ	sulu1241	10	27.650542				Remsangpuia2008		0
 4420	55_firewood	firewood	KBEastPuroikSun	Puroik	Kho-Bwa	heʴn³³	heʴn³³	sulu1241	10	28.41558				Sun1991		0
@@ -1373,7 +1373,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 4583	57_five	five	Ukhrul	Ukhrul	Naga	pʰə+ŋa	pʰə+ŋa	ukhr1238	493	25.092617		10357	FALSE	Mortensen2012		10357
 4584	57_five	five	Tangut	Tangut	Tangut	ŋwə	ŋwə	tang1334	493	38.477453		10357	FALSE	Li1997		10357
 4585	57_five	five	KarbiMikir	Karbi (Mikir)	Mizo	phongo, phono, pho	phō	karb1241	493	25.735084		10357	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10357
-4586	57_five	five	MishmiKaman	Miju	Mishmi	kɯ³¹ len⁵⁵	kɯ³¹ len⁵⁵	miju1243	493	28.416389				Sun1991		0
+4586	57_five	five	MishmiKaman	Miju	Mishmi	kɯ³¹ len⁵⁵	kɯ³¹+len⁵⁵	miju1243	493	28.416389				Sun1991		0
 4587	57_five	five	KBEastPuroikSoja	Puroik	Kho-Bwa	uu	uː	sulu1241	493	27.650542				RS09		0
 4588	57_five	five	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	uw	uw	sulu1241	493	27.650542				Remsangpuia2008		0
 4589	57_five	five	KBEastPuroikSun	Puroik	Kho-Bwa	wu³³	wu³³	sulu1241	493	28.41558				Sun1991		0
@@ -1458,7 +1458,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5343	67_four	four	Hayu	Hayu	Kiranti	bli	bli	wayu1241	1500	27.302102		263	FALSE	Michailovsky1989a		263
 5344	67_four	four	Tangut	Tangut	Tangut	ljɨɨ/ɨːr	ljɨɨ/ɨːr	tang1334	1500	38.477453		263	FALSE	Li1997		263
 5345	67_four	four	KarbiMikir	Karbi (Mikir)	Mizo	phli, phili[...]	phlī	karb1241	1500	25.735084		263	FALSE	Walker1925 KonnerthFC GruessnerNoDate		263
-5346	67_four	four	MishmiKaman	Miju	Mishmi	kɯ³¹ bɹɯ n⁵³	kɯ³¹ bɹɯ n⁵³	miju1243	1500	28.416389				Sun1991		0
+5346	67_four	four	MishmiKaman	Miju	Mishmi	kɯ³¹ bɹɯ n⁵³	kɯ³¹+bɹɯ+n⁵³	miju1243	1500	28.416389				Sun1991		0
 5347	67_four	four	KBEastPuroikSoja	Puroik	Kho-Bwa	vei	vəi	sulu1241	1500	27.650542				RS09		0
 5348	67_four	four	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	wrai	wrai	sulu1241	1500	27.650542				Remsangpuia2008		0
 5349	67_four	four	KBEastPuroikSun	Puroik	Kho-Bwa	vəʴi³³	vəʴi³³	sulu1241	1500	28.41558				Sun1991		0
@@ -1643,7 +1643,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6056	76_good	good	Hayu	Hayu	Kiranti	nuk+ha	nuk+ha	wayu1241	1035	27.302102		619	FALSE	Michailovsky1989a		619
 6057	76_good	good	KarbiMikir	Karbi (Mikir)	Mizo	me, sot	mē	karb1241	1035	25.735084		10365	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10365
 6058	76_good	good	Rabha	Rabha	Rabha	nem	nem	rabh1238	1035	25.820135		3947	FALSE	Joseph2007		3947
-6059	76_good	good	MishmiKaman	Miju	Mishmi	kɯ³¹ sɯt⁵³	kɯ³¹ sɯt⁵³	miju1243	1035	28.416389				Sun1991		0
+6059	76_good	good	MishmiKaman	Miju	Mishmi	kɯ³¹ sɯt⁵³	kɯ³¹+sɯt⁵³	miju1243	1035	28.416389				Sun1991		0
 6060	76_good	good	KBEastPuroikSoja	Puroik	Kho-Bwa	ayi	a+ji	sulu1241	1035	27.650542				RS09		0
 6061	76_good	good	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ajɯ	a+jɯ	sulu1241	1035	27.650542				Remsangpuia2008		0
 6062	76_good	good	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ niaŋ¹¹	a³³+niaŋ¹¹	sulu1241	1035	28.41558				Sun1991		0
@@ -1730,7 +1730,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6221	78_green	green	Hayu	Hayu	Kiranti	giruŋ	giruŋ	wayu1241	1425	27.302102		620	FALSE	Michailovsky1989a		620
 6222	78_green	green	KarbiMikir	Karbi (Mikir)	Mizo	lir(seng), vei(ak)	lir	karb1241	1425	25.735084		10368	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10368
 6223	78_green	green	Rabha	Rabha	Rabha	kʰen+tʃer	kʰen+tʃer	rabh1238	1425	25.820135		10367	FALSE	Joseph2007		10367
-6224	78_green	green	MishmiKaman	Miju	Mishmi	kɯ³¹ lɑuŋ³⁵	kɯ³¹ lɑuŋ³⁵	miju1243	1425	28.416389				Sun1991		0
+6224	78_green	green	MishmiKaman	Miju	Mishmi	kɯ³¹ lɑuŋ³⁵	kɯ³¹+lɑuŋ³⁵	miju1243	1425	28.416389				Sun1991		0
 6225	78_green	green	KBEastPuroikSoja	Puroik	Kho-Bwa	ariye’	a+ri+je	sulu1241	1425	27.650542				RS09		0
 6226	78_green	green	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	arie	a+rie	sulu1241	1425	27.650542				Remsangpuia2008		0
 6227	78_green	green	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ riɛ³³	a³³+riɛ³³	sulu1241	1425	28.41558				Sun1991		0
@@ -1811,7 +1811,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6541	82_hard	hard	Tangut	Tangut	Tangut	jijr	jijr	tang1334	1884	38.477453		341	FALSE	Li1997		341
 6542	82_hard	hard	KarbiMikir	Karbi (Mikir)	Mizo	ingtang	ingtang	karb1241	1884	25.735084		10539	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10539
 6543	82_hard	hard	Rabha	Rabha	Rabha	rak	rak	rabh1238	1884	25.820135		211	FALSE	Joseph2007		211
-6544	82_hard	hard	MishmiKaman	Miju	Mishmi	kɯ⁵⁵ tso⁵³	kɯ⁵⁵ tso⁵³	miju1243	1884	28.416389				Sun1991		0
+6544	82_hard	hard	MishmiKaman	Miju	Mishmi	kɯ⁵⁵ tso⁵³	kɯ⁵⁵+tso⁵³	miju1243	1884	28.416389				Sun1991		0
 6545	82_hard	hard	KBEastPuroikSoja	Puroik	Kho-Bwa	karei’	ka+rəɯ	sulu1241	1884	27.650542				RS09		0
 6546	82_hard	hard	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	afi aram	a+fi+a+ram	sulu1241	1884	27.650542				Remsangpuia2008		0
 6547	82_hard	hard	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ siet³³	a³³+siet³³	sulu1241	1884	28.41558				Sun1991		0
@@ -1986,7 +1986,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6985	87_heavy	heavy	Tangut	Tangut	Tangut	ljɨɨ/ɨː	ljɨɨ/ɨː	tang1334	1210	38.477453		10379	FALSE	Li1997		10379
 6986	87_heavy	heavy	KarbiMikir	Karbi (Mikir)	Mizo	ardi, ardik	ardīk	karb1241	1210	25.735084		10382	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10382
 6987	87_heavy	heavy	Rabha	Rabha	Rabha	rí	rí	rabh1238	1210	25.820135		10379	FALSE	Joseph2007		10379
-6988	87_heavy	heavy	MishmiKaman	Miju	Mishmi	kɑ³¹ lɑ̆ŋ³⁵	kɑ³¹ lɑ̆ŋ³⁵	miju1243	1210	28.416389				Sun1991		0
+6988	87_heavy	heavy	MishmiKaman	Miju	Mishmi	kɑ³¹ lɑ̆ŋ³⁵	kɑ³¹+lɑ̆ŋ³⁵	miju1243	1210	28.416389				Sun1991		0
 6989	87_heavy	heavy	KBEastPuroikSoja	Puroik	Kho-Bwa	alaii	a+laiː	sulu1241	1210	27.650542				RS09		0
 6990	87_heavy	heavy	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ lei³³	a³³+lei³³	sulu1241	1210	28.41558				Sun1991		0
 6991	88_here	here	TshDirangTshangla	Dirang Tshangla	Bodic	a-tʰa	a-tʰa	dira1243	136	27.343674				TB		4194
@@ -2052,7 +2052,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7051	88_here	here	Maru	Maru	Burmish	tʃʰɛ̆³¹+mɛ³¹	tʃʰɛ̆³¹+mɛ³¹	maru1249	136	24.939981		8371	FALSE	Huang1992 Hill2017		8371
 7052	88_here	here	Xiandao	Xiandao	Burmish	xai⁵⁵+tʰɔʔ⁵⁵	xai⁵⁵+tʰɔʔ⁵⁵	xian1249	136	24.494153		8369	FALSE	Huang1992 Hill2017		8369
 7053	88_here	here	KarbiMikir	Karbi (Mikir)	Mizo	ladak, dak	dāk	karb1241	136	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate	COGID changed Tim	4750
-7054	88_here	here	MishmiKaman	Miju	Mishmi	ɑn⁵⁵ lɑm⁵⁵	ɑn⁵⁵ lɑm⁵⁵	miju1243	136	28.416389				Sun1991		0
+7054	88_here	here	MishmiKaman	Miju	Mishmi	ɑn⁵⁵ lɑm⁵⁵	ɑn⁵⁵+lɑm⁵⁵	miju1243	136	28.416389				Sun1991		0
 7055	88_here	here	KBEastPuroikSoja	Puroik	Kho-Bwa	hena	hə+na	sulu1241	136	27.650542				RS09		0
 7056	88_here	here	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hana	ha+na	sulu1241	136	27.650542				Remsangpuia2008		0
 7057	88_here	here	KBEastPuroikSun	Puroik	Kho-Bwa	həŋ³³ na⁵³ la¹¹	həŋ³³+na⁵³+la¹¹	sulu1241	136	28.41558				Sun1991		0
@@ -2171,7 +2171,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7389	93_horizontal	horizontal	Xingning	Xingning	Sinitic	vaŋ²⁴	vaŋ²⁴	hakk1236	2376	24.13674		1651	FALSE	Lai2017FN		1651
 7390	93_horizontal	horizontal	Hayu	Hayu	Kiranti	xeŋdaŋ	xeŋdaŋ	wayu1241	2376	27.302102		2166	FALSE	Michailovsky1989a		2166
 7391	93_horizontal	horizontal	KarbiMikir	Karbi (Mikir)	Mizo	delong, dolong	delong	karb1241	2376	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-7392	93_horizontal	horizontal	MishmiKaman	Miju	Mishmi	kɯ³¹ biŋ⁵⁵	kɯ³¹ biŋ⁵⁵	miju1243	2376	28.416389				Sun1991		0
+7392	93_horizontal	horizontal	MishmiKaman	Miju	Mishmi	kɯ³¹ biŋ⁵⁵	kɯ³¹+biŋ⁵⁵	miju1243	2376	28.416389				Sun1991		0
 7393	93_horizontal	horizontal	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kafe rai	ka+fe+rai	sulu1241	2376	27.650542				Remsangpuia2008		0
 7394	93_horizontal	horizontal	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ vien⁵³	a³³+vien⁵³	sulu1241	2376	28.41558				Sun1991		0
 7541	96_hot	hot	TshDirangTshangla	Dirang Tshangla	Bodic	tsʰou	tsʰou	dira1243	1286	27.343674				TB		586
@@ -2346,7 +2346,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7790	98_hundred	hundred	Ukhrul	Ukhrul	Naga	ʃa+kʰa	ʃa+kʰa	ukhr1238	1634	25.092617		1133	FALSE	Mortensen2012		1133
 7791	98_hundred	hundred	Tangut	Tangut	Tangut	jir	jir	tang1334	1634	38.477453		185	FALSE	Li1997		185
 7792	98_hundred	hundred	KarbiMikir	Karbi (Mikir)	Mizo	pharo, pharo isi	pharó	karb1241	1634	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-7793	98_hundred	hundred	MishmiKaman	Miju	Mishmi	wɑ⁵⁵ je⁵³ mu⁵³	wɑ⁵⁵ je⁵³ mu⁵³	miju1243	1634	28.416389				Sun1991		0
+7793	98_hundred	hundred	MishmiKaman	Miju	Mishmi	wɑ⁵⁵ je⁵³ mu⁵³	wɑ⁵⁵+je⁵³+mu⁵³	miju1243	1634	28.416389				Sun1991		0
 7794	98_hundred	hundred	KBEastPuroikSoja	Puroik	Kho-Bwa	leeng	ləːŋ	sulu1241	1634	27.650542				RS09		0
 7795	98_hundred	hundred	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	laŋ	laŋ	sulu1241	1634	27.650542				Remsangpuia2008		0
 7796	98_hundred	hundred	KBEastPuroikSun	Puroik	Kho-Bwa	ləŋ³³	ləŋ³³	sulu1241	1634	28.41558				Sun1991		0
@@ -2567,7 +2567,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 8684	110_late	late	Tangut	Tangut	Tangut	nej²	nej²	tang1334	477	38.477453		4207	FALSE	Li1997		4207
 8685	110_late	late	KarbiMikir	Karbi (Mikir)	Mizo	keder	dér	karb1241	477	25.735084		10506	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10506
 8686	110_late	late	Rabha	Rabha	Rabha	bón	bón	rabh1238	477	25.820135		10507	FALSE	Joseph2007		10507
-8687	110_late	late	MishmiKaman	Miju	Mishmi	mphlo⁵³ lɑ³⁵	mphlo⁵³ lɑ³⁵	miju1243	477	28.416389				Sun1991		0
+8687	110_late	late	MishmiKaman	Miju	Mishmi	mphlo⁵³ lɑ³⁵	mphlo⁵³+lɑ³⁵	miju1243	477	28.416389				Sun1991		0
 8688	110_late	late	KBEastPuroikSoja	Puroik	Kho-Bwa	naang	naːŋ	sulu1241	477	27.650542				RS09		0
 8689	110_late	late	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	akug	a+kug	sulu1241	477	27.650542				Remsangpuia2008		0
 8690	110_late	late	KBEastPuroikSun	Puroik	Kho-Bwa	θə³³	θə³³	sulu1241	477	28.41558				Sun1991		0
@@ -2655,7 +2655,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9010	114_left	left	Tangut	Tangut	Tangut	ʑji./i	ʑji/i	tang1334	244	38.477453		816	FALSE	Li1997		816
 9011	114_left	left	KarbiMikir	Karbi (Mikir)	Mizo	arvi	arvī	karb1241	244	25.735084		422	FALSE	Walker1925 KonnerthFC GruessnerNoDate		422
 9012	114_left	left	Rabha	Rabha	Rabha	le+braŋ	le+braŋ	rabh1238	244	25.820135		10394	FALSE	Joseph2007		10394
-9013	114_left	left	MishmiKaman	Miju	Mishmi	kɯ³¹ wɑi⁵³	kɯ³¹ wɑi⁵³	miju1243	244	28.416389				Sun1991		0
+9013	114_left	left	MishmiKaman	Miju	Mishmi	kɯ³¹ wɑi⁵³	kɯ³¹+wɑi⁵³	miju1243	244	28.416389				Sun1991		0
 9014	114_left	left	KBEastPuroikSoja	Puroik	Kho-Bwa	poafe’	poa+fe	sulu1241	244	27.650542				RS09		0
 9015	114_left	left	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	puafe	pua+fe	sulu1241	244	27.650542				Remsangpuia2008		0
 9016	114_left	left	KBEastPuroikSun	Puroik	Kho-Bwa	pua³³ fe³³ ha⁵³	pua³³+fe³³+ha⁵³	sulu1241	244	28.41558				Sun1991		0
@@ -2740,7 +2740,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9249	117_lightofweight	light (of weight)	Tangut	Tangut	Tangut	jij	jij	tang1334	1052	38.477453		10542	FALSE	Li1997		10542
 9250	117_lightofweight	light (of weight)	KarbiMikir	Karbi (Mikir)	Mizo	arjāng	arjāng	karb1241	1052	25.735084		10542	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10542
 9251	117_lightofweight	light (of weight)	Rabha	Rabha	Rabha	tʃéŋ	tʃéŋ	rabh1238	1052	25.820135		10542	FALSE	Joseph2007		10542
-9252	117_lightofweight	light (of weight)	MishmiKaman	Miju	Mishmi	ɑ³¹ kiuŋ⁵⁵	ɑ³¹ kiuŋ⁵⁵	miju1243	1052	28.416389				Sun1991		0
+9252	117_lightofweight	light (of weight)	MishmiKaman	Miju	Mishmi	ɑ³¹ kiuŋ⁵⁵	ɑ³¹+kiuŋ⁵⁵	miju1243	1052	28.416389				Sun1991		0
 9253	117_lightofweight	light (of weight)	KBEastPuroikSoja	Puroik	Kho-Bwa	achiang	a+tʃʰiaŋ	sulu1241	1052	27.650542				RS09		0
 9254	117_lightofweight	light (of weight)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	akiaŋ	a+kiaŋ	sulu1241	1052	27.650542				Remsangpuia2008		0
 9255	117_lightofweight	light (of weight)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ tua⁵³	a³³+tua⁵³	sulu1241	1052	28.41558				Sun1991		0
@@ -2993,7 +2993,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10023	127_middle	middle	Tangut	Tangut	Tangut	zji./ij	zji/ij	tang1334	1093	38.477453		1126	FALSE	Li1997		1126
 10024	127_middle	middle	KarbiMikir	Karbi (Mikir)	Mizo	angbong	+ingbòng	karb1241	1093	25.735084		10531	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10531
 10025	127_middle	middle	Rabha	Rabha	Rabha	ma+dzar	ma+dzar	rabh1238	1093	25.820135		10530	FALSE	Joseph2007		10530
-10026	127_middle	middle	MishmiKaman	Miju	Mishmi	pɑ³¹ tɯ³¹ lɑi⁵⁵	pɑ³¹ tɯ³¹ lɑi⁵⁵	miju1243	1093	28.416389				Sun1991		0
+10026	127_middle	middle	MishmiKaman	Miju	Mishmi	pɑ³¹ tɯ³¹ lɑi⁵⁵	pɑ³¹+tɯ³¹+lɑi⁵⁵	miju1243	1093	28.416389				Sun1991		0
 10027	127_middle	middle	KBEastPuroikSoja	Puroik	Kho-Bwa	aloo	a+lɔ	sulu1241	1093	27.650542				RS09		0
 10028	127_middle	middle	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	alɔ	a+lɔ	sulu1241	1093	27.650542				Remsangpuia2008		0
 10029	127_middle	middle	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ lo⁵³ lui³³	a³³+lo⁵³+lui³³	sulu1241	1093	28.41558				Sun1991		0
@@ -3081,7 +3081,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10197	129_morning	morning	Tangut	Tangut	Tangut	mji./ij	mji/ij	tang1334	1339	38.477453		4208	FALSE	Li1997		4208
 10198	129_morning	morning	KarbiMikir	Karbi (Mikir)	Mizo	adap	+dàp	karb1241	1339	25.735084		10524	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10524
 10199	129_morning	morning	Rabha	Rabha	Rabha	pʰuŋ	pʰuŋ	rabh1238	1339	25.820135		10523	FALSE	Joseph2007		10523
-10200	129_morning	morning	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵	tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵	miju1243	1339	28.416389				Sun1991		0
+10200	129_morning	morning	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹɑ̆uŋ⁵⁵ wɑi⁵⁵	tɯ³¹+ɹɑ̆uŋ⁵⁵+wɑi⁵⁵	miju1243	1339	28.416389				Sun1991		0
 10201	129_morning	morning	KBEastPuroikSoja	Puroik	Kho-Bwa	apiye’	a+pi+je	sulu1241	1339	27.650542				RS09		0
 10202	129_morning	morning	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	apre	a+pre	sulu1241	1339	27.650542				Remsangpuia2008		0
 10203	129_morning	morning	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ pɹæʴ⁵³	a³³+pɹæʴ⁵³	sulu1241	1339	28.41558				Sun1991		0
@@ -3161,7 +3161,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10970	138_narrow	narrow	Tangut	Tangut	Tangut	tɕhji	tɕhji	tang1334	1267	38.477453		4147	FALSE	Li1997	!ignore double no link!	4147
 10971	138_narrow	narrow	KarbiMikir	Karbi (Mikir)	Mizo	bihek, chingkinret, chengran, chengret, ajamkebi, ranitini	chēng	karb1241	1267	25.735084		10410	FALSE	Walker1925 KonnerthFC GruessnerNoDate	COGID changed Tim	3981
 10972	138_narrow	narrow	Rabha	Rabha	Rabha	si+luk	si+luk	rabh1238	1267	25.820135		10409	FALSE	Joseph2007		10409
-10973	138_narrow	narrow	MishmiKaman	Miju	Mishmi	kɯ³¹ jɯŋ⁵⁵	kɯ³¹ jɯŋ⁵⁵	miju1243	1267	28.416389				Sun1991		0
+10973	138_narrow	narrow	MishmiKaman	Miju	Mishmi	kɯ³¹ jɯŋ⁵⁵	kɯ³¹+jɯŋ⁵⁵	miju1243	1267	28.416389				Sun1991		0
 10974	138_narrow	narrow	KBEastPuroikSoja	Puroik	Kho-Bwa	akhehing	a+kʰə+hiŋ	sulu1241	1267	27.650542				RS09		0
 10975	138_narrow	narrow	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ dak⁵³	a³³+dak⁵³	sulu1241	1267	28.41558				Sun1991		0
 10976	139_near	near	TshDirangTshangla	Dirang Tshangla	Bodic	tɛp+ka	tɛp+ka	dira1243	1942	27.343674				TB		4787
@@ -3249,7 +3249,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11058	139_near	near	Tangut	Tangut	Tangut	bjij	bjij	tang1334	1942	38.477453		4148	FALSE	Li1997		4148
 11059	139_near	near	KarbiMikir	Karbi (Mikir)	Mizo	tebook(het), adung, along, pang[...]	adung	karb1241	1942	25.735084		10412	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10412
 11060	139_near	near	Rabha	Rabha	Rabha	ka+pʰa	ka+pʰa	rabh1238	1942	25.820135		10411	FALSE	Joseph2007		10411
-11061	139_near	near	MishmiKaman	Miju	Mishmi	mɯ³¹ nɑ̆i⁵³	mɯ³¹ nɑ̆i⁵³	miju1243	1942	28.416389				Sun1991		0
+11061	139_near	near	MishmiKaman	Miju	Mishmi	mɯ³¹ nɑ̆i⁵³	mɯ³¹+nɑ̆i⁵³	miju1243	1942	28.416389				Sun1991		0
 11062	139_near	near	KBEastPuroikSoja	Puroik	Kho-Bwa	aliye’, anui	a+nui	sulu1241	1942	27.650542				RS09		0
 11063	139_near	near	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	anui	a+nui	sulu1241	1942	27.650542				Remsangpuia2008		0
 11064	139_near	near	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ nui³³	a³³+nui³³	sulu1241	1942	28.41558				Sun1991		0
@@ -3412,7 +3412,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11394	143_nine	nine	Ukhrul	Ukhrul	Naga	ci+ko	ci+ko	ukhr1238	1483	25.092617		24	FALSE	Mortensen2012		24
 11395	143_nine	nine	Tangut	Tangut	Tangut	gjɨɨ/ɨː	gjɨɨ/ɨː	tang1334	1483	38.477453		24	FALSE	Li1997		24
 11396	143_nine	nine	KarbiMikir	Karbi (Mikir)	Mizo	sirkep	sirkēp	karb1241	1483	25.735084		10415	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10415
-11397	143_nine	nine	MishmiKaman	Miju	Mishmi	nɑn⁵⁵ mu⁵³	nɑn⁵⁵ mu⁵³	miju1243	1483	28.416389				Sun1991		0
+11397	143_nine	nine	MishmiKaman	Miju	Mishmi	nɑn⁵⁵ mu⁵³	nɑn⁵⁵+mu⁵³	miju1243	1483	28.416389				Sun1991		0
 11398	143_nine	nine	KBEastPuroikSoja	Puroik	Kho-Bwa	doongye’	dɔnŋ+gje	sulu1241	1483	27.650542				RS09		0
 11399	143_nine	nine	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	dɔŋge	dɔŋ+ge	sulu1241	1483	27.650542				Remsangpuia2008		0
 11400	143_nine	nine	KBEastPuroikSun	Puroik	Kho-Bwa	dɔŋ³³ gɛʴ⁵³	dɔŋ³³+gɛʴ⁵³	sulu1241	1483	28.41558				Sun1991		0
@@ -3491,7 +3491,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11513	145_noon	noon	Ukhrul	Ukhrul	Naga	kə+ŋə+ʃun	kə+ŋə+ʃun	ukhr1238	12	25.092617		3330	FALSE	Mortensen2012		3330
 11514	145_noon	noon	Tangut	Tangut	Tangut	ljij	ljij	tang1334	12	38.477453		4217	FALSE	Li1997		4217
 11515	145_noon	noon	KarbiMikir	Karbi (Mikir)	Mizo	nerlo chitim	nerlo_chitim	karb1241	12	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-11516	145_noon	noon	MishmiKaman	Miju	Mishmi	ŋin⁵⁵ lɑi⁵⁵	ŋin⁵⁵ lɑi⁵⁵	miju1243	12	28.416389				Sun1991		0
+11516	145_noon	noon	MishmiKaman	Miju	Mishmi	ŋin⁵⁵ lɑi⁵⁵	ŋin⁵⁵+lɑi⁵⁵	miju1243	12	28.416389				Sun1991		0
 11517	145_noon	noon	KBEastPuroikSoja	Puroik	Kho-Bwa	arilo	a+ri+lo	sulu1241	12	27.650542				RS09		0
 11518	145_noon	noon	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ri⁵³ lo⁵³	a³³+ri⁵³+lo⁵³	sulu1241	12	28.41558				Sun1991		0
 11606	147_oldofperson	old (of person)	TshDirangTshangla	Dirang Tshangla	Bodic	gat+pu	gat+pu	dira1243	2112	27.343674				TB		583
@@ -3576,7 +3576,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11685	147_oldofperson	old (of person)	Tangut	Tangut	Tangut	nar	nar	tang1334	2112	38.477453		2051	FALSE	Li1997		2051
 11686	147_oldofperson	old (of person)	KarbiMikir	Karbi (Mikir)	Mizo	kesar, saru	sàr	karb1241	2112	25.735084		10556	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10556
 11687	147_oldofperson	old (of person)	Rabha	Rabha	Rabha	bu+da	bu+da	rabh1238	2112	25.820135		10418	FALSE	Joseph2007	LOAN changed Tim	10418
-11688	147_oldofperson	old (of person)	MishmiKaman	Miju	Mishmi	kɯ⁵⁵ nɑŋ³⁵	kɯ⁵⁵ nɑŋ³⁵	miju1243	2112	28.416389				Sun1991		0
+11688	147_oldofperson	old (of person)	MishmiKaman	Miju	Mishmi	kɯ⁵⁵ nɑŋ³⁵	kɯ⁵⁵+nɑŋ³⁵	miju1243	2112	28.416389				Sun1991		0
 11689	147_oldofperson	old (of person)	KBEastPuroikSoja	Puroik	Kho-Bwa	amaing	a+maiŋ	sulu1241	2112	27.650542				RS09		0
 11690	147_oldofperson	old (of person)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	amaiŋ	a+maiŋ	sulu1241	2112	27.650542				Remsangpuia2008		0
 11691	147_oldofperson	old (of person)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ mat³³	a³³+mat³³	sulu1241	2112	28.41558				Sun1991		0
@@ -3664,7 +3664,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11773	148_one	one	Tangut	Tangut	Tangut	gjɨ	gjɨ	tang1334	1493	38.477453		1249	FALSE	Li1997	!ignore double no link!	1249
 11774	148_one	one	KarbiMikir	Karbi (Mikir)	Mizo	isi	isī	karb1241	1493	25.735084		10419	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10419
 11775	148_one	one	Rabha	Rabha	Rabha	gó+sa	gó+sa	rabh1238	1493	25.820135		3988	FALSE	Joseph2007		3988
-11776	148_one	one	MishmiKaman	Miju	Mishmi	kɯ³¹ mu⁵³	kɯ³¹ mu⁵³	miju1243	1493	28.416389				Sun1991		0
+11776	148_one	one	MishmiKaman	Miju	Mishmi	kɯ³¹ mu⁵³	kɯ³¹+mu⁵³	miju1243	1493	28.416389				Sun1991		0
 11777	148_one	one	KBEastPuroikSoja	Puroik	Kho-Bwa	huui	huːi	sulu1241	1493	27.650542				RS09		0
 11778	148_one	one	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hũji	hũ+ji	sulu1241	1493	27.650542				Remsangpuia2008		0
 11779	148_one	one	KBEastPuroikSun	Puroik	Kho-Bwa	ɦui³³	ɦui³³	sulu1241	1493	28.41558				Sun1991		0
@@ -3737,7 +3737,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11902	150_outside	outside	Tangut	Tangut	Tangut	djɨr	djɨr	tang1334	762	38.477453		10562	FALSE	Li1997		10562
 11903	150_outside	outside	KarbiMikir	Karbi (Mikir)	Mizo	ingtan	hòng	karb1241	762	25.735084		10532	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10532
 11904	150_outside	outside	Rabha	Rabha	Rabha	ba+ziŋ	ba+ziŋ	rabh1238	762	25.820135		10533	FALSE	Joseph2007		10533
-11905	150_outside	outside	MishmiKaman	Miju	Mishmi	ɑ³¹ mphɑ³⁵ xɑi⁵⁵	ɑ³¹ mphɑ³⁵ xɑi⁵⁵	miju1243	762	28.416389				Sun1991		0
+11905	150_outside	outside	MishmiKaman	Miju	Mishmi	ɑ³¹ mphɑ³⁵ xɑi⁵⁵	ɑ³¹+mphɑ³⁵+xɑi⁵⁵	miju1243	762	28.416389				Sun1991		0
 11906	150_outside	outside	KBEastPuroikSoja	Puroik	Kho-Bwa	alhaang hak	aɬaːŋ	sulu1241	762	27.650542				RS09		0
 11907	150_outside	outside	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ɬaŋ	ɬaŋ	sulu1241	762	27.650542				Remsangpuia2008		0
 11908	150_outside	outside	KBEastPuroikSun	Puroik	Kho-Bwa	tɕok³³ θaŋ³³	tɕok³³+θaŋ³³	sulu1241	762	28.41558				Sun1991		0
@@ -3827,7 +3827,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12574	158_red	red	Hayu	Hayu	Kiranti	jitsʰiŋ	jitsʰiŋ	wayu1241	156	27.302102		2175	FALSE	Michailovsky1989a		2175
 12575	158_red	red	KarbiMikir	Karbi (Mikir)	Mizo	ke-er, erdang	ke+er	karb1241	156	25.735084		10425	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10425
 12576	158_red	red	Rabha	Rabha	Rabha	sak	sak	rabh1238	156	25.820135		3995	FALSE	Joseph2007		3995
-12577	158_red	red	MishmiKaman	Miju	Mishmi	kɑu⁵³ sɑi³⁵	kɑu⁵³ sɑi³⁵	miju1243	156	28.416389				Sun1991		0
+12577	158_red	red	MishmiKaman	Miju	Mishmi	kɑu⁵³ sɑi³⁵	kɑu⁵³+sɑi³⁵	miju1243	156	28.416389				Sun1991		0
 12578	158_red	red	KBEastPuroikSoja	Puroik	Kho-Bwa	aiik, ariuk	a+riuk	sulu1241	156	27.650542				RS09		0
 12579	158_red	red	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ariuk	a+riuk	sulu1241	156	27.650542				Remsangpuia2008		0
 12580	158_red	red	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ jiȶ³³	a³³+jiȶ³³	sulu1241	156	28.41558				Sun1991		0
@@ -3914,7 +3914,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12802	161_right	right	Tangut	Tangut	Tangut	tɕier	tɕier	tang1334	1019	38.477453		920	FALSE	Li1997		920
 12803	161_right	right	KarbiMikir	Karbi (Mikir)	Mizo	chenam, kechok	ar'ē	karb1241	1019	25.735084		10429	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10429
 12804	161_right	right	Rabha	Rabha	Rabha	mai+sá+laŋ	mai+sá+laŋ	rabh1238	1019	25.820135		10428	FALSE	Joseph2007		10428
-12805	161_right	right	MishmiKaman	Miju	Mishmi	kɯ³¹ jɑu⁵³	kɯ³¹ jɑu⁵³	miju1243	1019	28.416389				Sun1991		0
+12805	161_right	right	MishmiKaman	Miju	Mishmi	kɯ³¹ jɑu⁵³	kɯ³¹+jɑu⁵³	miju1243	1019	28.416389				Sun1991		0
 12806	161_right	right	KBEastPuroikSoja	Puroik	Kho-Bwa	akherak	a+kʰə+rak	sulu1241	1019	27.650542				RS09		0
 12807	161_right	right	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	puazue	pua+zue	sulu1241	1019	27.650542				Remsangpuia2008		0
 12808	161_right	right	KBEastPuroikSun	Puroik	Kho-Bwa	pua³³ zuɛ⁵³ ha⁵³	pua³³+zuɛ⁵³+ha⁵³	sulu1241	1019	28.41558				Sun1991		0
@@ -4000,7 +4000,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 13231	166_round	round	Tangut	Tangut	Tangut	io./a	io/a	tang1334	1395	38.477453		4159	FALSE	Li1997	!ignore double no link!	4159
 13232	166_round	round	KarbiMikir	Karbi (Mikir)	Mizo	kabonglong, bonglongchen	+lòng	karb1241	1395	25.735084		10559	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10559
 13233	166_round	round	Rabha	Rabha	Rabha	tʃa-kla	tʃa-kla	rabh1238	1395	25.820135		10435	FALSE	Joseph2007		10435
-13234	166_round	round	MishmiKaman	Miju	Mishmi	gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵	gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵	miju1243	1395	28.416389				Sun1991		0
+13234	166_round	round	MishmiKaman	Miju	Mishmi	gɑ⁵⁵ wɑŋ⁵⁵ nɑ⁵⁵	gɑ⁵⁵+wɑŋ⁵⁵+nɑ⁵⁵	miju1243	1395	28.416389				Sun1991		0
 13235	166_round	round	KBEastPuroikSoja	Puroik	Kho-Bwa	guongkulue’	guoŋ+ku+lue	sulu1241	1395	27.650542				RS09		0
 13236	166_round	round	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	abɯ	a+bɯ	sulu1241	1395	27.650542				Remsangpuia2008		0
 13237	166_round	round	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ bɯ³³	a³³+bɯ³³	sulu1241	1395	28.41558				Sun1991		0
@@ -4294,7 +4294,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14216	179_short	short	Tangut	Tangut	Tangut	wji./ij	wji/ij	tang1334	1645	38.477453		4169	FALSE	Li1997		4169
 14217	179_short	short	KarbiMikir	Karbi (Mikir)	Mizo	thihek[...]	thī	karb1241	1645	25.735084		10444	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10444
 14218	179_short	short	Rabha	Rabha	Rabha	ka+tak	ka+tak	rabh1238	1645	25.820135		3422	FALSE	Joseph2007		3422
-14219	179_short	short	MishmiKaman	Miju	Mishmi	kɯ³¹ ti⁵⁵	kɯ³¹ ti⁵⁵	miju1243	1645	28.416389				Sun1991		0
+14219	179_short	short	MishmiKaman	Miju	Mishmi	kɯ³¹ ti⁵⁵	kɯ³¹+ti⁵⁵	miju1243	1645	28.416389				Sun1991		0
 14220	179_short	short	KBEastPuroikSoja	Puroik	Kho-Bwa	athong	a+tʰoŋ	sulu1241	1645	27.650542				RS09		0
 14221	179_short	short	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ tuoŋ³³	a³³+tuoŋ³³	sulu1241	1645	28.41558				Sun1991		0
 14300	181_shy	shy	TshDirangTshangla	Dirang Tshangla	Bodic	tsʰer+ban	tsʰer+ban	dira1243	487	27.343674				TB		4829
@@ -4426,7 +4426,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14565	184_six	six	Ukhrul	Ukhrul	Naga	tʰa+ruk	tʰa+ruk	ukhr1238	1703	25.092617		306	FALSE	Mortensen2012		306
 14566	184_six	six	Tangut	Tangut	Tangut	tɕhjiw	tɕhjiw	tang1334	1703	38.477453		306	FALSE	Li1997		306
 14567	184_six	six	KarbiMikir	Karbi (Mikir)	Mizo	throk	thrōk	karb1241	1703	25.735084		306	FALSE	Walker1925 KonnerthFC GruessnerNoDate		306
-14568	184_six	six	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑm⁵³	kɯ³¹ tɑm⁵³	miju1243	1703	28.416389				Sun1991		0
+14568	184_six	six	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑm⁵³	kɯ³¹+tɑm⁵³	miju1243	1703	28.416389				Sun1991		0
 14569	184_six	six	KBEastPuroikSoja	Puroik	Kho-Bwa	rai’	raɯ	sulu1241	1703	27.650542				RS09		0
 14570	184_six	six	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	raɯˀ	raɯˀ	sulu1241	1703	27.650542				Remsangpuia2008		0
 14571	184_six	six	KBEastPuroikSun	Puroik	Kho-Bwa	ɣək³³	ɣək³³	sulu1241	1703	28.41558				Sun1991		0
@@ -4519,7 +4519,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14920	188_small	small	Tangut	Tangut	Tangut	zji	zji	tang1334	1246	38.477453		4181	FALSE	Li1997	!ignore double no link!	4181
 14921	188_small	small	KarbiMikir	Karbi (Mikir)	Mizo	so, bihek, akebi, binci, adiso, ajengso, asapnat, thethe	+hèk	karb1241	1246	25.735084		10453	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10453
 14922	188_small	small	Rabha	Rabha	Rabha	mɨl	mɨl	rabh1238	1246	25.820135		10454	FALSE	Joseph2007		10454
-14923	188_small	small	MishmiKaman	Miju	Mishmi	kɯ³¹ juŋ⁵⁵	kɯ³¹ juŋ⁵⁵	miju1243	1246	28.416389				Sun1991		0
+14923	188_small	small	MishmiKaman	Miju	Mishmi	kɯ³¹ juŋ⁵⁵	kɯ³¹+juŋ⁵⁵	miju1243	1246	28.416389				Sun1991		0
 14924	188_small	small	KBEastPuroikSoja	Puroik	Kho-Bwa	kheliang dau	kʰə+liaŋ+dau	sulu1241	1246	27.650542				RS09		0
 14925	188_small	small	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kadʒiŋ	ka+dʒiŋ	sulu1241	1246	27.650542				Remsangpuia2008		0
 14926	188_small	small	KBEastPuroikSun	Puroik	Kho-Bwa	ciaŋ³³	ciaŋ³³	sulu1241	1246	28.41558				Sun1991		0
@@ -4672,7 +4672,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15389	194_soft	soft	Tangut	Tangut	Tangut	wəə	wəə	tang1334	1856	38.477453		3107	FALSE	Li1997		3107
 15390	194_soft	soft	KarbiMikir	Karbi (Mikir)	Mizo	kangduk	kangduk	karb1241	1856	25.735084		10541	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10541
 15391	194_soft	soft	Rabha	Rabha	Rabha	dór	dór	rabh1238	1856	25.820135		10540	FALSE	Joseph2007		10540
-15392	194_soft	soft	MishmiKaman	Miju	Mishmi	kɑ⁵⁵ miŋ³⁵	kɑ⁵⁵ miŋ³⁵	miju1243	1856	28.416389				Sun1991		0
+15392	194_soft	soft	MishmiKaman	Miju	Mishmi	kɑ⁵⁵ miŋ³⁵	kɑ⁵⁵+miŋ³⁵	miju1243	1856	28.416389				Sun1991		0
 15393	194_soft	soft	KBEastPuroikSoja	Puroik	Kho-Bwa	anyiyam	a+ɲi+jam	sulu1241	1856	27.650542				RS09		0
 15394	194_soft	soft	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kesik	ke+sik	sulu1241	1856	27.650542				Remsangpuia2008		0
 15395	194_soft	soft	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ɟiek³³	a³³+ɟiek³³	sulu1241	1856	28.41558				Sun1991		0
@@ -4827,7 +4827,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16446	207_ten	ten	Ukhrul	Ukhrul	Naga	tʰə+ra	tʰə+ra	ukhr1238	1515	25.092617		85	FALSE	Mortensen2012		85
 16447	207_ten	ten	Tangut	Tangut	Tangut	ɣa./a	ɣa/a	tang1334	1515	38.477453		364	FALSE	Li1997		364
 16448	207_ten	ten	KarbiMikir	Karbi (Mikir)	Mizo	kep	kēp	karb1241	1515	25.735084		364	FALSE	Walker1925 KonnerthFC GruessnerNoDate		364
-16449	207_ten	ten	MishmiKaman	Miju	Mishmi	kiɑp⁵⁵ mu⁵³	kiɑp⁵⁵ mu⁵³	miju1243	1515	28.416389				Sun1991		0
+16449	207_ten	ten	MishmiKaman	Miju	Mishmi	kiɑp⁵⁵ mu⁵³	kiɑp⁵⁵+mu⁵³	miju1243	1515	28.416389				Sun1991		0
 16450	207_ten	ten	KBEastPuroikSoja	Puroik	Kho-Bwa	suait	suait	sulu1241	1515	27.650542				RS09		0
 16451	207_ten	ten	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	swe	swe	sulu1241	1515	27.650542				Remsangpuia2008		0
 16452	207_ten	ten	KBEastPuroikSun	Puroik	Kho-Bwa	suat⁵³ pa⁵³	suat⁵³+pa⁵³	sulu1241	1515	28.41558				Sun1991		0
@@ -4991,7 +4991,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 246	3_theant	the ant	Tangut	Tangut	Tangut	kjiwr	kjiwr	tang1334	587	38.477453		2954	FALSE	Li1997		2954
 247	3_theant	the ant	KarbiMikir	Karbi (Mikir)	Mizo	miso	misò	karb1241	587	25.735084		10501	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10501
 248	3_theant	the ant	Rabha	Rabha	Rabha	soŋ+so+mar	soŋ+so+mar	rabh1238	587	25.820135		10500	FALSE	Joseph2007		10500
-249	3_theant	the ant	MishmiKaman	Miju	Mishmi	tɕu³¹ kɹik⁵³	tɕu³¹ kɹik⁵³	miju1243	587	28.416389				Sun1991		0
+249	3_theant	the ant	MishmiKaman	Miju	Mishmi	tɕu³¹ kɹik⁵³	tɕu³¹+kɹik⁵³	miju1243	587	28.416389				Sun1991		0
 250	3_theant	the ant	KBEastPuroikSoja	Puroik	Kho-Bwa	geinggio	gəiŋ+gio	sulu1241	587	27.650542				RS09		0
 251	3_theant	the ant	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	grieŋrɔ	grieŋ+rɔ	sulu1241	587	27.650542				Remsangpuia2008		0
 252	3_theant	the ant	KBEastPuroikSun	Puroik	Kho-Bwa	gɹæn³³ gɹo⁵³	gɹæn³³+gɹo⁵³	sulu1241	587	28.41558				Sun1991		0
@@ -5047,7 +5047,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 302	4_thearmpit	the armpit	Xingning	Xingning	Sinitic	ʂaʔ²ha³⁵	ʂaʔ²ha³⁵	hakk1236	1886	24.13674		1710	FALSE	Lai2017FN		1710
 303	4_thearmpit	the armpit	Ukhrul	Ukhrul	Naga	rik+kʰa	rik+kʰa	ukhr1238	1886	25.092617		10260	FALSE	Mortensen2012		10260
 304	4_thearmpit	the armpit	KarbiMikir	Karbi (Mikir)	Mizo	jing-kep	jing+kep	karb1241	1886	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		4867
-305	4_thearmpit	the armpit	MishmiKaman	Miju	Mishmi	plɑ⁵⁵ mu⁵⁵	plɑ⁵⁵ mu⁵⁵	miju1243	1886	28.416389				Sun1991		0
+305	4_thearmpit	the armpit	MishmiKaman	Miju	Mishmi	plɑ⁵⁵ mu⁵⁵	plɑ⁵⁵+mu⁵⁵	miju1243	1886	28.416389				Sun1991		0
 306	4_thearmpit	the armpit	KBEastPuroikSun	Puroik	Kho-Bwa	pua³³ kə³³ jo⁵³	pua³³+kə³³+jo⁵³	sulu1241	1886	28.41558				Sun1991		0
 399	6_thebamboo	the bamboo	TshDirangTshangla	Dirang Tshangla	Bodic	ɕi	ɕi	dira1243	1927	27.343674				TB		62
 400	6_thebamboo	the bamboo	TaniGalo	Galo	Tani	iiH	iː55	galo1242	1927	27.98				Post07		4873
@@ -5134,7 +5134,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 481	6_thebamboo	the bamboo	Tangut	Tangut	Tangut	lhju./u	lhju/u	tang1334	1927	38.477453		821	FALSE	Li1997		821
 482	6_thebamboo	the bamboo	KarbiMikir	Karbi (Mikir)	Mizo	kepho [...]	chèk	karb1241	1927	25.735084		10525	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10525
 483	6_thebamboo	the bamboo	Rabha	Rabha	Rabha	bá	bá	rabh1238	1927	25.820135		501	FALSE	Joseph2007		501
-484	6_thebamboo	the bamboo	MishmiKaman	Miju	Mishmi	mɑ̆i⁵⁵ blɑ⁵³	mɑ̆i⁵⁵ blɑ⁵³	miju1243	1927	28.416389				Sun1991		0
+484	6_thebamboo	the bamboo	MishmiKaman	Miju	Mishmi	mɑ̆i⁵⁵ blɑ⁵³	mɑ̆i⁵⁵+blɑ⁵³	miju1243	1927	28.416389				Sun1991		0
 485	6_thebamboo	the bamboo	KBEastPuroikSoja	Puroik	Kho-Bwa	meca, mede	mə+də	sulu1241	1927	27.650542				RS09		0
 486	6_thebamboo	the bamboo	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	made	ma+de	sulu1241	1927	27.650542				Remsangpuia2008		0
 487	6_thebamboo	the bamboo	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ tə³³	mə³³+tə³³	sulu1241	1927	28.41558				Sun1991		0
@@ -5178,7 +5178,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 525	7_thebarleytibetanorhighland	the barley (tibetan or highland)	Atsi	Atsi	Burmish	mə⁵⁵+ja²¹+sat⁵⁵	mə⁵⁵+ja²¹+sat⁵⁵	zaiw1241	932	24.193367		8484	FALSE	Huang1992 Hill2017		8484
 526	7_thebarleytibetanorhighland	the barley (tibetan or highland)	Rangoon	Rangoon	Burmish	bɑ²²+li²²	bɑ²²+li²²	nucl1310	932	16.874207		8544	FALSE	Huang1992 Hill2017		8544
 527	7_thebarleytibetanorhighland	the barley (tibetan or highland)	Tangut	Tangut	Tangut	ɕjij	ɕjij	tang1334	932	38.477453		0	FALSE	Li1997		0
-528	7_thebarleytibetanorhighland	the barley (tibetan or highland)	MishmiKaman	Miju	Mishmi	kɯ³¹ tsɑuŋ⁵⁵	kɯ³¹ tsɑuŋ⁵⁵	miju1243	932	28.416389				Sun1991		0
+528	7_thebarleytibetanorhighland	the barley (tibetan or highland)	MishmiKaman	Miju	Mishmi	kɯ³¹ tsɑuŋ⁵⁵	kɯ³¹+tsɑuŋ⁵⁵	miju1243	932	28.416389				Sun1991		0
 601	9_thebelly	the belly	TshDirangTshangla	Dirang Tshangla	Bodic	pʰu+tɕi	pʰu+tɕi	dira1243	1251	27.343674				TB		10241
 602	9_thebelly	the belly	TaniGalo	Galo	Tani	a-kíi	a+kiː55	galo1242	1251	27.98				Post07	*kri ‘guts’	2600
 603	9_thebelly	the belly	TaniTangam	Tangam	Tani	aat	aːt	tang1377	1251	28.956354				Post2017		4882
@@ -5436,7 +5436,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 1211	15_theblood	the blood	Xiandao	Xiandao	Burmish	sui³¹	sui³¹	xian1249	946	24.494153		29703	FALSE	Huang1992 Hill2017		29703
 1212	15_theblood	the blood	Lashi	Lashi	Burmish	sui⁵⁵	sui⁵⁵	lash1243	946	24.111512		29703	FALSE	Huang1992 Hill2017		29703
 1213	15_theblood	the blood	Atsi	Atsi	Burmish	sui²¹	sui²¹	zaiw1241	946	24.193367		29703	FALSE	Huang1992 Hill2017		29703
-1214	15_theblood	the blood	MishmiKaman	Miju	Mishmi	ɑ³¹ ɹui³⁵	ɑ³¹ ɹui³⁵	miju1243	946	28.416389				Sun1991		0
+1214	15_theblood	the blood	MishmiKaman	Miju	Mishmi	ɑ³¹ ɹui³⁵	ɑ³¹+ɹui³⁵	miju1243	946	28.416389				Sun1991		0
 1215	15_theblood	the blood	KBEastPuroikSoja	Puroik	Kho-Bwa	hue’	hue	sulu1241	946	27.650542				RS09		0
 1216	15_theblood	the blood	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hue	hue	sulu1241	946	27.650542				Remsangpuia2008		0
 1217	15_theblood	the blood	KBEastPuroikSun	Puroik	Kho-Bwa	hue⁵³	hue⁵³	sulu1241	946	28.41558				Sun1991		0
@@ -5757,7 +5757,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 1594	20_thebreastfemale	the breast (female)	Xiandao	Xiandao	Burmish	ɲɔn³⁵	ɲɔn³⁵	xian1249	1402	24.494153		10186	FALSE	Huang1992 Hill2017		10186
 1595	20_thebreastfemale	the breast (female)	Lashi	Lashi	Burmish	nou⁵⁵	nou⁵⁵	lash1243	1402	24.111512		10186	FALSE	Huang1992 Hill2017		10186
 1596	20_thebreastfemale	the breast (female)	Atsi	Atsi	Burmish	nau⁵⁵	nau⁵⁵	zaiw1241	1402	24.193367		10186	FALSE	Huang1992 Hill2017		10186
-1597	20_thebreastfemale	the breast (female)	MishmiKaman	Miju	Mishmi	tɕin⁵⁵ mphɑuŋ⁵³	tɕin⁵⁵ mphɑuŋ⁵³	miju1243	1402	28.416389				Sun1991		0
+1597	20_thebreastfemale	the breast (female)	MishmiKaman	Miju	Mishmi	tɕin⁵⁵ mphɑuŋ⁵³	tɕin⁵⁵+mphɑuŋ⁵³	miju1243	1402	28.416389				Sun1991		0
 1598	20_thebreastfemale	the breast (female)	KBEastPuroikSoja	Puroik	Kho-Bwa	nyie’	ɲie	sulu1241	1402	27.650542				RS09		0
 1599	20_thebreastfemale	the breast (female)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	nje	nje	sulu1241	1402	27.650542				Remsangpuia2008		0
 1600	20_thebreastfemale	the breast (female)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ niɛ¹¹	a³³+niɛ¹¹	sulu1241	1402	28.41558				Sun1991		0
@@ -5910,7 +5910,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 1983	25_thecloud	the cloud	Hayu	Hayu	Kiranti	kowal	kowal	wayu1241	1489	27.302102		2188	FALSE	Michailovsky1989a	with 1721?	2188
 1984	25_thecloud	the cloud	KarbiMikir	Karbi (Mikir)	Mizo	inghun, niop	inghun	karb1241	1489	25.735084		10334	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10334
 1985	25_thecloud	the cloud	Rabha	Rabha	Rabha	raŋ+kʰop	raŋ+kʰop	rabh1238	1489	25.820135		10335	FALSE	Joseph2007		10335
-1986	25_thecloud	the cloud	MishmiKaman	Miju	Mishmi	kɑ⁵⁵ mɑ̆i³⁵	kɑ⁵⁵ mɑ̆i³⁵	miju1243	1489	28.416389				Sun1991		0
+1986	25_thecloud	the cloud	MishmiKaman	Miju	Mishmi	kɑ⁵⁵ mɑ̆i³⁵	kɑ⁵⁵+mɑ̆i³⁵	miju1243	1489	28.416389				Sun1991		0
 1987	25_thecloud	the cloud	KBEastPuroikSoja	Puroik	Kho-Bwa	khetei’	kʰə+təɯ	sulu1241	1489	27.650542				RS09		0
 1988	25_thecloud	the cloud	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	katɯ	ka+tɯ	sulu1241	1489	27.650542				Remsangpuia2008		0
 1989	25_thecloud	the cloud	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ tɯ³³	kə³³+tɯ³³	sulu1241	1489	28.41558				Sun1991		0
@@ -5999,7 +5999,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2558	32_thedaughter	the daughter	Hayu	Hayu	Kiranti	taːmi	taːmi	wayu1241	1357	27.302102		1150	FALSE	Michailovsky1989a		1150
 2559	32_thedaughter	the daughter	Tangut	Tangut	Tangut	mji.j	mjij	tang1334	1357	38.477453		746	FALSE	Li1997		746
 2560	32_thedaughter	the daughter	KarbiMikir	Karbi (Mikir)	Mizo	sopi[...]	sopi	karb1241	1357	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-2561	32_thedaughter	the daughter	MishmiKaman	Miju	Mishmi	sɑ⁵⁵ mɑi³⁵	sɑ⁵⁵ mɑi³⁵	miju1243	1357	28.416389				Sun1991		0
+2561	32_thedaughter	the daughter	MishmiKaman	Miju	Mishmi	sɑ⁵⁵ mɑi³⁵	sɑ⁵⁵+mɑi³⁵	miju1243	1357	28.416389				Sun1991		0
 2562	32_thedaughter	the daughter	KBEastPuroikSoja	Puroik	Kho-Bwa	adaumui	a+dau+mui	sulu1241	1357	27.650542				RS09		0
 2563	32_thedaughter	the daughter	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	adou umuiˀ	a+dou+u+muiˀ	sulu1241	1357	27.650542				Remsangpuia2008		0
 2564	32_thedaughter	the daughter	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ du³³ mui⁵³	a³³+du³³+mui⁵³	sulu1241	1357	28.41558				Sun1991		0
@@ -6068,7 +6068,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2627	33_thedew	the dew	Tangut	Tangut	Tangut	zər	zər	tang1334	1977	38.477453		10257	TRUE	Li1997		10257
 2628	33_thedew	the dew	KarbiMikir	Karbi (Mikir)	Mizo	are [...]	are	karb1241	1977	25.735084		10257	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10257
 2629	33_thedew	the dew	Rabha	Rabha	Rabha	pram+tʃi	pram+tʃi	rabh1238	1977	25.820135		10520	FALSE	Joseph2007		10520
-2630	33_thedew	the dew	MishmiKaman	Miju	Mishmi	pɑm⁵⁵ dʑi⁵⁵	pɑm⁵⁵ dʑi⁵⁵	miju1243	1977	28.416389				Sun1991		0
+2630	33_thedew	the dew	MishmiKaman	Miju	Mishmi	pɑm⁵⁵ dʑi⁵⁵	pɑm⁵⁵+dʑi⁵⁵	miju1243	1977	28.416389				Sun1991		0
 2631	33_thedew	the dew	KBEastPuroikSoja	Puroik	Kho-Bwa	giamsi, kazue’	giam+si	sulu1241	1977	27.650542				RS09		0
 2632	33_thedew	the dew	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	avreu	a+vreu	sulu1241	1977	27.650542				Remsangpuia2008		0
 2633	33_thedew	the dew	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ vɯ³³	a³³+vɯ³³	sulu1241	1977	28.41558				Sun1991		0
@@ -6241,7 +6241,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 3043	38_thedream	the dream	Tangut	Tangut	Tangut	mjiij	mjiij	tang1334	2374	38.477453		10217	FALSE	Li1997		10217
 3044	38_thedream	the dream	KarbiMikir	Karbi (Mikir)	Mizo	mang[...]	māng	karb1241	2374	25.735084		10217	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10217
 3045	38_thedream	the dream	Rabha	Rabha	Rabha	dzɨ+maŋ	dzɨ+maŋ	rabh1238	2374	25.820135		10217	FALSE	Joseph2007		10217
-3046	38_thedream	the dream	MishmiKaman	Miju	Mishmi	kɑ³¹ muŋ³⁵	kɑ³¹ muŋ³⁵	miju1243	2374	28.416389				Sun1991		0
+3046	38_thedream	the dream	MishmiKaman	Miju	Mishmi	kɑ³¹ muŋ³⁵	kɑ³¹+muŋ³⁵	miju1243	2374	28.416389				Sun1991		0
 3047	38_thedream	the dream	KBEastPuroikSoja	Puroik	Kho-Bwa	mepaaq	mə+paːq	sulu1241	2374	27.650542				RS09		0
 3048	38_thedream	the dream	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	mabak	ma+bak	sulu1241	2374	27.650542				Remsangpuia2008		0
 3049	38_thedream	the dream	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ bak³³	mə³³+bak³³	sulu1241	2374	28.41558				Sun1991		0
@@ -6558,7 +6558,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 3602	45_theearthworm	the earthworm	Xingning	Xingning	Sinitic	ʂɛn²¹kʊm⁴⁵	ʂɛn²¹kʊm⁴⁵	hakk1236	2350	24.13674		1735	FALSE	Lai2017FN		1735
 3603	45_theearthworm	the earthworm	Tangut	Tangut	Tangut	ljɨ.ɕjii	ljɨɕjii	tang1334	2350	38.477453		4205	FALSE	Li1997		4205
 3604	45_theearthworm	the earthworm	KarbiMikir	Karbi (Mikir)	Mizo	hilong	hilong	karb1241	2350	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-3605	45_theearthworm	the earthworm	MishmiKaman	Miju	Mishmi	pɯ³¹ lit³⁵	pɯ³¹ lit³⁵	miju1243	2350	28.416389				Sun1991		0
+3605	45_theearthworm	the earthworm	MishmiKaman	Miju	Mishmi	pɯ³¹ lit³⁵	pɯ³¹+lit³⁵	miju1243	2350	28.416389				Sun1991		0
 3606	45_theearthworm	the earthworm	KBEastPuroikSoja	Puroik	Kho-Bwa	pekhii	pəkʰiː	sulu1241	2350	27.650542				RS09		0
 3607	45_theearthworm	the earthworm	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	pakreiˀ	pa+kreiˀ	sulu1241	2350	27.650542				Remsangpuia2008		0
 3608	45_theearthworm	the earthworm	KBEastPuroikSun	Puroik	Kho-Bwa	pə³³ chɹei⁵³	pə³³+chɹei⁵³	sulu1241	2350	28.41558				Sun1991		0
@@ -6647,7 +6647,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 3779	47_theegg	the egg	Xiandao	Xiandao	Burmish	u³¹	u³¹	xian1249	744	24.494153		1021	FALSE	Huang1992 Hill2017		1021
 3780	47_theegg	the egg	Lashi	Lashi	Burmish	u̱⁵³	u̱⁵³	lash1243	744	24.111512		1021	FALSE	Huang1992 Hill2017		1021
 3781	47_theegg	the egg	Atsi	Atsi	Burmish	a²¹+u⁵⁵	a²¹+u⁵⁵	zaiw1241	744	24.193367		1021	FALSE	Huang1992 Hill2017		1021
-3782	47_theegg	the egg	MishmiKaman	Miju	Mishmi	kɹai⁵⁵ sit⁵⁵	kɹai⁵⁵ sit⁵⁵	miju1243	744	28.416389				Sun1991		0
+3782	47_theegg	the egg	MishmiKaman	Miju	Mishmi	kɹai⁵⁵ sit⁵⁵	kɹai⁵⁵+sit⁵⁵	miju1243	744	28.416389				Sun1991		0
 3783	47_theegg	the egg	KBEastPuroikSoja	Puroik	Kho-Bwa	meri	mə+ri	sulu1241	744	27.650542				RS09		0
 3784	47_theegg	the egg	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	mari	ma+ri	sulu1241	744	27.650542				Remsangpuia2008		0
 3785	47_theegg	the egg	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ ri³³	mə³³+ri³³	sulu1241	744	28.41558				Sun1991		0
@@ -7067,7 +7067,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 4500	56_thefish	the fish	Hayu	Hayu	Kiranti	ho	ho	wayu1241	227	27.302102		2191	FALSE	Michailovsky1989a		2191
 4501	56_thefish	the fish	KarbiMikir	Karbi (Mikir)	Mizo	(lang a-) ok	ok	karb1241	227	25.735084		10356	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10356
 4502	56_thefish	the fish	Rabha	Rabha	Rabha	ná	ná	rabh1238	227	25.820135		186	FALSE	Joseph2007		186
-4503	56_thefish	the fish	MishmiKaman	Miju	Mishmi	ɑ³¹ ŋɑ⁵⁵	ɑ³¹ ŋɑ⁵⁵	miju1243	227	28.416389				Sun1991		0
+4503	56_thefish	the fish	MishmiKaman	Miju	Mishmi	ɑ³¹ ŋɑ⁵⁵	ɑ³¹+ŋɑ⁵⁵	miju1243	227	28.416389				Sun1991		0
 4504	56_thefish	the fish	KBEastPuroikSoja	Puroik	Kho-Bwa	kahuang	ka+huaŋ	sulu1241	227	27.650542				RS09		0
 4505	56_thefish	the fish	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	njo	njo	sulu1241	227	27.650542				Remsangpuia2008		0
 4506	56_thefish	the fish	KBEastPuroikSun	Puroik	Kho-Bwa	ka³³ fuaŋ⁵³	ka³³+fuaŋ⁵³	sulu1241	227	28.41558				Sun1991		0
@@ -7128,7 +7128,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 4644	58_theflea	the flea	Hayu	Hayu	Kiranti	riʔmitsʰiŋ	riʔmitsʰiŋ	wayu1241	232	27.302102		2192	FALSE	Michailovsky1989a		2192
 4645	58_theflea	the flea	Tangut	Tangut	Tangut	lə	lə	tang1334	232	38.477453		944	FALSE	Li1997		944
 4646	58_theflea	the flea	KarbiMikir	Karbi (Mikir)	Mizo	chikli	chikli	karb1241	232	25.735084		944	FALSE	Walker1925 KonnerthFC GruessnerNoDate		944
-4647	58_theflea	the flea	MishmiKaman	Miju	Mishmi	tɕuŋ⁵⁵ guɯn⁵⁵	tɕuŋ⁵⁵ guɯn⁵⁵	miju1243	232	28.416389				Sun1991		0
+4647	58_theflea	the flea	MishmiKaman	Miju	Mishmi	tɕuŋ⁵⁵ guɯn⁵⁵	tɕuŋ⁵⁵+guɯn⁵⁵	miju1243	232	28.416389				Sun1991		0
 4648	58_theflea	the flea	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ vit³³	kə³³+vit³³	sulu1241	232	28.41558				Sun1991		0
 4776	61_theflower	the flower	TshDirangTshangla	Dirang Tshangla	Bodic	mɔm+naŋ	mɔm+naŋ	dira1243	239	27.343674				TB		29715
 4777	61_theflower	the flower	TaniGalo	Galo	Tani	a-púu	a+puː55	galo1242	239	27.98				Post07	*pun	201
@@ -7279,7 +7279,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5010	63_thefog	the fog	Xingning	Xingning	Sinitic	wu⁵³	wu⁵³	hakk1236	249	24.13674		99	TRUE	Lai2017FN		99
 5011	63_thefog	the fog	Tangut	Tangut	Tangut	le	le	tang1334	249	38.477453		10216	FALSE	Li1997		10216
 5012	63_thefog	the fog	KarbiMikir	Karbi (Mikir)	Mizo	inghun, hunmelan	inghun	karb1241	249	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-5013	63_thefog	the fog	MishmiKaman	Miju	Mishmi	lɯ³¹ bɑŋ³⁵	lɯ³¹ bɑŋ³⁵	miju1243	249	28.416389				Sun1991		0
+5013	63_thefog	the fog	MishmiKaman	Miju	Mishmi	lɯ³¹ bɑŋ³⁵	lɯ³¹+bɑŋ³⁵	miju1243	249	28.416389				Sun1991		0
 5014	63_thefog	the fog	KBEastPuroikSoja	Puroik	Kho-Bwa	sasu	sa+su	sulu1241	249	27.650542				RS09		0
 5015	63_thefog	the fog	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	sasu	sa+su	sulu1241	249	27.650542				Remsangpuia2008		0
 5016	63_thefog	the fog	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ tɯ³³ sɯ³³	kə³³+tɯ³³+sɯ³³	sulu1241	249	28.41558				Sun1991		0
@@ -7573,7 +7573,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5476	69_thefrog	the frog	Tangut	Tangut	Tangut	pie./e	pie/e	tang1334	503	38.477453		145	FALSE	Li1997		145
 5477	69_thefrog	the frog	KarbiMikir	Karbi (Mikir)	Mizo	chongho(loso)[...]	chonghō	karb1241	503	25.735084		10515	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10515
 5478	69_thefrog	the frog	Rabha	Rabha	Rabha	lɨ+bak	lɨ+bak	rabh1238	503	25.820135		10514	FALSE	Joseph2007		10514
-5479	69_thefrog	the frog	MishmiKaman	Miju	Mishmi	kɑŋ⁵⁵ khɹik⁵⁵	kɑŋ⁵⁵ khɹik⁵⁵	miju1243	503	28.416389				Sun1991		0
+5479	69_thefrog	the frog	MishmiKaman	Miju	Mishmi	kɑŋ⁵⁵ khɹik⁵⁵	kɑŋ⁵⁵+khɹik⁵⁵	miju1243	503	28.416389				Sun1991		0
 5480	69_thefrog	the frog	KBEastPuroikSoja	Puroik	Kho-Bwa	rai’	raɯ	sulu1241	503	27.650542				RS09		0
 5481	69_thefrog	the frog	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	raɯ	raɯ	sulu1241	503	27.650542				Remsangpuia2008		0
 5482	69_thefrog	the frog	KBEastPuroikSun	Puroik	Kho-Bwa	ɣɯ⁵³	ɣɯ⁵³	sulu1241	503	28.41558				Sun1991		0
@@ -7643,7 +7643,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5546	70_thefrontfrontside	the front (front side)	Tangut	Tangut	Tangut	rjir	rjir	tang1334	2194	38.477453		4213	FALSE	Li1997		4213
 5547	70_thefrontfrontside	the front (front side)	KarbiMikir	Karbi (Mikir)	Mizo	aphrang, angno, panu, thengno, hong[...]	+phráŋ	karb1241	2194	25.735084		10529	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10529
 5548	70_thefrontfrontside	the front (front side)	Rabha	Rabha	Rabha	bó+ma+laŋ	bó+ma+laŋ	rabh1238	2194	25.820135		10528	FALSE	Joseph2007		10528
-5549	70_thefrontfrontside	the front (front side)	MishmiKaman	Miju	Mishmi	ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵	ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵	miju1243	2194	28.416389				Sun1991		0
+5549	70_thefrontfrontside	the front (front side)	MishmiKaman	Miju	Mishmi	ɑ³¹ ŋɑŋ³¹ lɑm⁵⁵	ɑ³¹+ŋɑŋ³¹+lɑm⁵⁵	miju1243	2194	28.416389				Sun1991		0
 5550	70_thefrontfrontside	the front (front side)	KBEastPuroikSoja	Puroik	Kho-Bwa	abeit hak	abəit	sulu1241	2194	27.650542				RS09		0
 5551	70_thefrontfrontside	the front (front side)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ bɯ⁵³	a³³+bɯ⁵³	sulu1241	2194	28.41558				Sun1991		0
 5552	71_thefrost	the frost	TshDirangTshangla	Dirang Tshangla	Bodic	ba	ba	dira1243	2034	27.343674				TB		97
@@ -7706,7 +7706,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5609	71_thefrost	the frost	Jieyang	Jieyang	Sinitic	sŋ̍∼³³	sŋ̍∼³³	chao1239	2034	23.551122		1761	FALSE	Lai2017FN		1761
 5610	71_thefrost	the frost	Tangut	Tangut	Tangut	nja	nja	tang1334	2034	38.477453		4204	FALSE	Li1997		4204
 5611	71_thefrost	the frost	KarbiMikir	Karbi (Mikir)	Mizo	(hoar --)ephik	ephik	karb1241	2034	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-5612	71_thefrost	the frost	MishmiKaman	Miju	Mishmi	wɑ³¹ tɑ̆uŋ³⁵	wɑ³¹ tɑ̆uŋ³⁵	miju1243	2034	28.416389				Sun1991		0
+5612	71_thefrost	the frost	MishmiKaman	Miju	Mishmi	wɑ³¹ tɑ̆uŋ³⁵	wɑ³¹+tɑ̆uŋ³⁵	miju1243	2034	28.416389				Sun1991		0
 5613	71_thefrost	the frost	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ ɣuaŋ⁵³ puaŋ¹¹	kə³³+ɣuaŋ⁵³+puaŋ¹¹	sulu1241	2034	28.41558				Sun1991		0
 5614	72_thefruit	the fruit	TshDirangTshangla	Dirang Tshangla	Bodic	kʰap+zas	kʰap+zas	dira1243	1507	27.343674				TB		2468
 5615	72_thefruit	the fruit	TaniGalo	Galo	Tani	apə́-ahèe	a+pə55+a+heː51	galo1242	1507	27.98				Post07	heeL < *ʑe	320
@@ -7793,7 +7793,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5696	72_thefruit	the fruit	Tangut	Tangut	Tangut	mjaa	mjaa	tang1334	1507	38.477453		4085	FALSE	Li1997		4085
 5697	72_thefruit	the fruit	KarbiMikir	Karbi (Mikir)	Mizo	athe, ale, mu	+thē	karb1241	1507	25.735084		3525	FALSE	Walker1925 KonnerthFC GruessnerNoDate		3525
 5698	72_thefruit	the fruit	Rabha	Rabha	Rabha	tʰé	tʰé	rabh1238	1507	25.820135		3525	FALSE	Joseph2007		3525
-5699	72_thefruit	the fruit	MishmiKaman	Miju	Mishmi	pɯ³¹ ɹɯm⁵⁵	pɯ³¹ ɹɯm⁵⁵	miju1243	1507	28.416389				Sun1991		0
+5699	72_thefruit	the fruit	MishmiKaman	Miju	Mishmi	pɯ³¹ ɹɯm⁵⁵	pɯ³¹+ɹɯm⁵⁵	miju1243	1507	28.416389				Sun1991		0
 5700	72_thefruit	the fruit	KBEastPuroikSoja	Puroik	Kho-Bwa	roongwoe’	rɔng+woe	sulu1241	1507	27.650542				RS09		0
 5701	72_thefruit	the fruit	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	rɔŋwei	rɔŋ+wei	sulu1241	1507	27.650542				Remsangpuia2008		0
 5702	72_thefruit	the fruit	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ vɛ⁵³	a³³+vɛ⁵³	sulu1241	1507	28.41558				Sun1991		0
@@ -7879,7 +7879,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5955	75_thegoat	the goat	Tangut	Tangut	Tangut	tshjɨ	tshjɨ	tang1334	1502	38.477453		774	FALSE	Li1997		774
 5956	75_thegoat	the goat	KarbiMikir	Karbi (Mikir)	Mizo	bi	bī	karb1241	1502	25.735084		10513	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10513
 5957	75_thegoat	the goat	Rabha	Rabha	Rabha	prɨn	prɨn	rabh1238	1502	25.820135		10512	FALSE	Joseph2007		10512
-5958	75_thegoat	the goat	MishmiKaman	Miju	Mishmi	kɯ³¹ tɕi⁵³	kɯ³¹ tɕi⁵³	miju1243	1502	28.416389				Sun1991		0
+5958	75_thegoat	the goat	MishmiKaman	Miju	Mishmi	kɯ³¹ tɕi⁵³	kɯ³¹+tɕi⁵³	miju1243	1502	28.416389				Sun1991		0
 5959	75_thegoat	the goat	KBEastPuroikSoja	Puroik	Kho-Bwa	sebeing	sə+bəiŋ	sulu1241	1502	27.650542				RS09		0
 5960	75_thegoat	the goat	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	sabreŋ	sa+breŋ	sulu1241	1502	27.650542				Remsangpuia2008		0
 5961	75_thegoat	the goat	KBEastPuroikSun	Puroik	Kho-Bwa	sə³³ ɣu³³	sə³³+ɣu³³	sulu1241	1502	28.41558				Sun1991		0
@@ -7957,7 +7957,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6134	77_thegrass	the grass	Tangut	Tangut	Tangut	ɕjɨ	ɕjɨ	tang1334	606	38.477453		1361	FALSE	Li1997		1361
 6135	77_thegrass	the grass	KarbiMikir	Karbi (Mikir)	Mizo	bap, bi, bapso	bap	karb1241	606	25.735084		10366	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10366
 6136	77_thegrass	the grass	Rabha	Rabha	Rabha	sam	sam	rabh1238	606	25.820135		3505	FALSE	Joseph2007		3505
-6137	77_thegrass	the grass	MishmiKaman	Miju	Mishmi	tɯ³¹ phɯn³⁵	tɯ³¹ phɯn³⁵	miju1243	606	28.416389				Sun1991		0
+6137	77_thegrass	the grass	MishmiKaman	Miju	Mishmi	tɯ³¹ phɯn³⁵	tɯ³¹+phɯn³⁵	miju1243	606	28.416389				Sun1991		0
 6138	77_thegrass	the grass	KBEastPuroikSoja	Puroik	Kho-Bwa	sasai	sa+sai	sulu1241	606	27.650542				RS09		0
 6139	77_thegrass	the grass	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	samsuiˀ	samsuiˀ	sulu1241	606	27.650542				Remsangpuia2008		0
 6140	77_thegrass	the grass	KBEastPuroikSun	Puroik	Kho-Bwa	mei³³ dar³³	mei³³+dar³³	sulu1241	606	28.41558				Sun1991		0
@@ -8743,7 +8743,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7944	100_thehusband	the husband	Lashi	Lashi	Burmish	laŋ³¹	laŋ³¹	lash1243	1200	24.111512		1951	FALSE	Huang1992 Hill2017	!COGID changed Macy cross semantic!	4641
 7945	100_thehusband	the husband	Tangut	Tangut	Tangut	wə	wə	tang1334	1200	38.477453		0	FALSE	Li1997		0
 7946	100_thehusband	the husband	KarbiMikir	Karbi (Mikir)	Mizo	pengngan, penan	+pēnān	karb1241	1200	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-7947	100_thehusband	the husband	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑi⁵³	ɑ³¹ wɑi⁵³	miju1243	1200	28.416389				Sun1991		0
+7947	100_thehusband	the husband	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑi⁵³	ɑ³¹+wɑi⁵³	miju1243	1200	28.416389				Sun1991		0
 7948	100_thehusband	the husband	KBEastPuroikSoja	Puroik	Kho-Bwa	avoe’y, awoe’	a+woe	sulu1241	1200	27.650542				RS09		0
 7949	100_thehusband	the husband	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	awei	a+wei	sulu1241	1200	27.650542				Remsangpuia2008		0
 7950	100_thehusband	the husband	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ve¹¹	a³³+ve¹¹	sulu1241	1200	28.41558				Sun1991		0
@@ -8808,7 +8808,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 8097	102_theice	the ice	Guangzhou	Guangzhou	Sinitic	pɪŋ⁵³₅₅	pɪŋ⁵³₅₅	guan1279	617	23.131111		1169	FALSE	Lai2017FN		1169
 8098	102_theice	the ice	Tangut	Tangut	Tangut	wo.	wo	tang1334	617	38.477453		1169	FALSE	Li1997		1169
 8099	102_theice	the ice	KarbiMikir	Karbi (Mikir)	Mizo	ar-e	ar+e	karb1241	617	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-8100	102_theice	the ice	MishmiKaman	Miju	Mishmi	wɑ³¹ tɑ̆uŋ³⁵	wɑ³¹ tɑ̆uŋ³⁵	miju1243	617	28.416389				Sun1991		0
+8100	102_theice	the ice	MishmiKaman	Miju	Mishmi	wɑ³¹ tɑ̆uŋ³⁵	wɑ³¹+tɑ̆uŋ³⁵	miju1243	617	28.416389				Sun1991		0
 8101	102_theice	the ice	KBEastPuroikSoja	Puroik	Kho-Bwa	khesi’	kʰə+sɯ	sulu1241	617	27.650542				RS09		0
 8102	102_theice	the ice	KBEastPuroikSun	Puroik	Kho-Bwa	tɕak³³ kə³³	tɕak³³+kə³³	sulu1241	617	28.41558				Sun1991		0
 8315	106_theknee	the knee	TshDirangTshangla	Dirang Tshangla	Bodic	gum+ziŋ	gum+ziŋ	dira1243	1371	27.343674				TB		155
@@ -9109,7 +9109,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9315	118_thelipthelips	the lip (the lips)	Tangut	Tangut	Tangut	mər	mər	tang1334	478	38.477453		2075	FALSE	Li1997		2075
 9316	118_thelipthelips	the lip (the lips)	KarbiMikir	Karbi (Mikir)	Mizo	"ingtur; (upper) turthak; (lower) turber"	ingtur	karb1241	478	25.735084		10522	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10522
 9317	118_thelipthelips	the lip (the lips)	Rabha	Rabha	Rabha	kʰú+tʃar	kʰú+tʃar	rabh1238	478	25.820135		10522	FALSE	Joseph2007		10522
-9318	118_thelipthelips	the lip (the lips)	MishmiKaman	Miju	Mishmi	ȵtɕhɯu⁵³ dɑ̆p³⁵	ȵtɕhɯu⁵³ dɑ̆p³⁵	miju1243	478	28.416389				Sun1991		0
+9318	118_thelipthelips	the lip (the lips)	MishmiKaman	Miju	Mishmi	ȵtɕhɯu⁵³ dɑ̆p³⁵	ȵtɕhɯu⁵³+dɑ̆p³⁵	miju1243	478	28.416389				Sun1991		0
 9319	118_thelipthelips	the lip (the lips)	KBEastPuroikSoja	Puroik	Kho-Bwa	kheche	kʰə+tʃʰə	sulu1241	478	27.650542				RS09		0
 9320	118_thelipthelips	the lip (the lips)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	katʃe	ka+tʃe	sulu1241	478	27.650542				Remsangpuia2008		0
 9321	118_thelipthelips	the lip (the lips)	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ kiɛ³³	kə³³+kiɛ³³	sulu1241	478	28.41558				Sun1991		0
@@ -9188,7 +9188,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9394	119_theliver	the liver	Hayu	Hayu	Kiranti	diŋ	diŋ	wayu1241	1224	27.302102		29726	FALSE	Michailovsky1989a		29726
 9395	119_theliver	the liver	KarbiMikir	Karbi (Mikir)	Mizo	ingthin, pektung	ingthin	karb1241	1224	25.735084		2076	FALSE	Walker1925 KonnerthFC GruessnerNoDate		2076
 9396	119_theliver	the liver	Rabha	Rabha	Rabha	pi+xa	pi+xa	rabh1238	1224	25.820135		3966	FALSE	Joseph2007		3966
-9397	119_theliver	the liver	MishmiKaman	Miju	Mishmi	blɑi³¹ blɑi⁵³	blɑi³¹ blɑi⁵³	miju1243	1224	28.416389				Sun1991		0
+9397	119_theliver	the liver	MishmiKaman	Miju	Mishmi	blɑi³¹ blɑi⁵³	blɑi³¹+blɑi⁵³	miju1243	1224	28.416389				Sun1991		0
 9398	119_theliver	the liver	KBEastPuroikSoja	Puroik	Kho-Bwa	mepie’k	mə+piek	sulu1241	1224	27.650542				RS09		0
 9399	119_theliver	the liver	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	apiet	a+piet	sulu1241	1224	27.650542				Remsangpuia2008		0
 9400	119_theliver	the liver	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ pie⁵³	a³³+pie⁵³	sulu1241	1224	28.41558				Sun1991		0
@@ -9430,7 +9430,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9726	123_themanmalehuman	the man (male human)	Hayu	Hayu	Kiranti	lʊ̃ːtso	lʊ̃ːtso	wayu1241	2106	27.302102		10226	FALSE	Michailovsky1989a		10226
 9727	123_themanmalehuman	the man (male human)	KarbiMikir	Karbi (Mikir)	Mizo	arleng	arleng	karb1241	2106	25.735084		10396	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10396
 9728	123_themanmalehuman	the man (male human)	Rabha	Rabha	Rabha	mú+sa	mú+sa	rabh1238	2106	25.820135		10397	FALSE	Joseph2007		10397
-9729	123_themanmalehuman	the man (male human)	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑi⁵³ sɑ⁵⁵	ɑ³¹ wɑi⁵³ sɑ⁵⁵	miju1243	2106	28.416389				Sun1991		0
+9729	123_themanmalehuman	the man (male human)	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑi⁵³ sɑ⁵⁵	ɑ³¹+wɑi⁵³+sɑ⁵⁵	miju1243	2106	28.416389				Sun1991		0
 9730	123_themanmalehuman	the man (male human)	KBEastPuroikSoja	Puroik	Kho-Bwa	bi	bi	sulu1241	2106	27.650542				RS09		0
 9731	123_themanmalehuman	the man (male human)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	bi pak	bi+pak	sulu1241	2106	27.650542				Remsangpuia2008		0
 9732	123_themanmalehuman	the man (male human)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ fu¹¹	a³³+fu¹¹	sulu1241	2106	28.41558				Sun1991		0
@@ -9681,7 +9681,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10274	130_themosquito	the mosquito	Hayu	Hayu	Kiranti	kananaŋ	kananaŋ	wayu1241	1509	27.302102		2200	FALSE	Michailovsky1989a		2200
 10275	130_themosquito	the mosquito	Tangut	Tangut	Tangut	mətsji	mətsji	tang1334	1509	38.477453		2689	FALSE	Li1997		2689
 10276	130_themosquito	the mosquito	KarbiMikir	Karbi (Mikir)	Mizo	timkhrang	chitím	karb1241	1509	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-10277	130_themosquito	the mosquito	MishmiKaman	Miju	Mishmi	ko⁵⁵ ɹɯn⁵⁵	ko⁵⁵ ɹɯn⁵⁵	miju1243	1509	28.416389				Sun1991		0
+10277	130_themosquito	the mosquito	MishmiKaman	Miju	Mishmi	ko⁵⁵ ɹɯn⁵⁵	ko⁵⁵+ɹɯn⁵⁵	miju1243	1509	28.416389				Sun1991		0
 10278	130_themosquito	the mosquito	KBEastPuroikSoja	Puroik	Kho-Bwa	chungkya	tʃʰuŋ+kja	sulu1241	1509	27.650542				AT90		0
 10279	130_themosquito	the mosquito	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	tʃuŋkrieˀ	tʃuŋ+krieˀ	sulu1241	1509	27.650542				Remsangpuia2008		0
 10280	130_themosquito	the mosquito	KBEastPuroikSun	Puroik	Kho-Bwa	tɕuoŋ³³ kə³³ ɹa³³	tɕuoŋ³³+kə³³+ɹa³³	sulu1241	1509	28.41558				Sun1991		0
@@ -9861,7 +9861,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10454	132_themountain	the mountain	Hayu	Hayu	Kiranti	tsʰaːdzʊ	tsʰaːdzʊ	wayu1241	639	27.302102		10229	FALSE	Michailovsky1989a		10229
 10455	132_themountain	the mountain	KarbiMikir	Karbi (Mikir)	Mizo	inglong	inglong	karb1241	639	25.735084		10404	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10404
 10456	132_themountain	the mountain	Rabha	Rabha	Rabha	há+tʃu	há+tʃu	rabh1238	639	25.820135		10403	FALSE	Joseph2007		10403
-10457	132_themountain	the mountain	MishmiKaman	Miju	Mishmi	ɑ³¹ dzɑu³⁵	ɑ³¹ dzɑu³⁵	miju1243	639	28.416389				Sun1991		0
+10457	132_themountain	the mountain	MishmiKaman	Miju	Mishmi	ɑ³¹ dzɑu³⁵	ɑ³¹+dzɑu³⁵	miju1243	639	28.416389				Sun1991		0
 10458	132_themountain	the mountain	KBEastPuroikSoja	Puroik	Kho-Bwa	alau	a+lau	sulu1241	639	27.650542				RS09		0
 10459	132_themountain	the mountain	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	alau	a+lau	sulu1241	639	27.650542				Remsangpuia2008		0
 10460	132_themountain	the mountain	KBEastPuroikSun	Puroik	Kho-Bwa	gɹaŋ³³	gɹaŋ³³	sulu1241	639	28.41558				Sun1991		0
@@ -9949,7 +9949,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10542	133_themouseorrat	the mouse or rat	Tangut	Tangut	Tangut	ɕiwə	ɕiwə	tang1334	2139	38.477453		10424	FALSE	Li1997		10424
 10543	133_themouseorrat	the mouse or rat	KarbiMikir	Karbi (Mikir)	Mizo	jukingso [rat: piyu, yupi]	jukingso	karb1241	2139	25.735084		10424	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10424
 10544	133_themouseorrat	the mouse or rat	Rabha	Rabha	Rabha	mo+tʃó	mo+tʃó	rabh1238	2139	25.820135		10557	FALSE	Joseph2007		10557
-10545	133_themouseorrat	the mouse or rat	MishmiKaman	Miju	Mishmi	si⁵⁵ nu⁵³	si⁵⁵ nu⁵³	miju1243	2139	28.416389				Sun1991		0
+10545	133_themouseorrat	the mouse or rat	MishmiKaman	Miju	Mishmi	si⁵⁵ nu⁵³	si⁵⁵+nu⁵³	miju1243	2139	28.416389				Sun1991		0
 10546	133_themouseorrat	the mouse or rat	KBEastPuroikSoja	Puroik	Kho-Bwa	sebue’, meheeng	sə+bue	sulu1241	2139	27.650542				RS09		0
 10547	133_themouseorrat	the mouse or rat	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	sabue	sa+bue	sulu1241	2139	27.650542				Remsangpuia2008		0
 10548	133_themouseorrat	the mouse or rat	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ buɛ⁵³	a³³+buɛ⁵³	sulu1241	2139	28.41558				Sun1991		0
@@ -10121,7 +10121,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10714	135_themud	the mud	Tangut	Tangut	Tangut	tɕior	tɕior	tang1334	640	38.477453		2018	FALSE	Li1997		2018
 10715	135_themud	the mud	KarbiMikir	Karbi (Mikir)	Mizo	inghan	inghàn	karb1241	640	25.735084		10545	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10545
 10716	135_themud	the mud	Rabha	Rabha	Rabha	há-duŋla+da	há-duŋla+da	rabh1238	640	25.820135		10546	FALSE	Joseph2007		10546
-10717	135_themud	the mud	MishmiKaman	Miju	Mishmi	tɕi³¹ ɹui³⁵	tɕi³¹ ɹui³⁵	miju1243	640	28.416389				Sun1991		0
+10717	135_themud	the mud	MishmiKaman	Miju	Mishmi	tɕi³¹ ɹui³⁵	tɕi³¹+ɹui³⁵	miju1243	640	28.416389				Sun1991		0
 10718	135_themud	the mud	KBEastPuroikSoja	Puroik	Kho-Bwa	mezaik seriung	mə+zaik+sə+riuŋ	sulu1241	640	27.650542				RS09		0
 10719	135_themud	the mud	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	sarioŋ	sa+rioŋ	sulu1241	640	27.650542				Remsangpuia2008		0
 10720	135_themud	the mud	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ paŋ³³	kə³³+paŋ³³	sulu1241	640	28.41558				Sun1991		0
@@ -10297,7 +10297,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 10890	137_thename	the name	Hayu	Hayu	Kiranti	miŋ	miŋ	wayu1241	1405	27.302102		18	FALSE	Michailovsky1989a		18
 10891	137_thename	the name	KarbiMikir	Karbi (Mikir)	Mizo	men[...]	+mén	karb1241	1405	25.735084		18	FALSE	Walker1925 KonnerthFC GruessnerNoDate		18
 10892	137_thename	the name	Rabha	Rabha	Rabha	muŋ	muŋ	rabh1238	1405	25.820135		18	FALSE	Joseph2007		18
-10893	137_thename	the name	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑ̆ŋ⁵⁵	ɑ³¹ mɑ̆ŋ⁵⁵	miju1243	1405	28.416389				Sun1991		0
+10893	137_thename	the name	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑ̆ŋ⁵⁵	ɑ³¹+mɑ̆ŋ⁵⁵	miju1243	1405	28.416389				Sun1991		0
 10894	137_thename	the name	KBEastPuroikSoja	Puroik	Kho-Bwa	abiang	a+biaŋ	sulu1241	1405	27.650542				RS09		0
 10895	137_thename	the name	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	abren	a+bren	sulu1241	1405	27.650542				Remsangpuia2008		0
 10896	137_thename	the name	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ bɛʴŋ³³	a³³+bɛʴŋ³³	sulu1241	1405	28.41558				Sun1991		0
@@ -10512,7 +10512,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11436	144_thenit	the nit	Rangoon	Rangoon	Burmish	tθɑ̃∼⁵⁵+u⁵³	tθɑ̃∼⁵⁵+u⁵³	nucl1310	267	16.874207		1155	FALSE	Huang1992 Hill2017		1155
 11437	144_thenit	the nit	Atsi	Atsi	Burmish	ʃin²¹+u⁵⁵	ʃin²¹+u⁵⁵	zaiw1241	267	24.193367		1155	FALSE	Huang1992 Hill2017		1155
 11438	144_thenit	the nit	Tangut	Tangut	Tangut	ɕju.	ɕju	tang1334	267	38.477453		190	FALSE	Li1997		190
-11439	144_thenit	the nit	MishmiKaman	Miju	Mishmi	săl⁵³ sit⁵⁵	săl⁵³ sit⁵⁵	miju1243	267	28.416389				Sun1991		0
+11439	144_thenit	the nit	MishmiKaman	Miju	Mishmi	săl⁵³ sit⁵⁵	săl⁵³+sit⁵⁵	miju1243	267	28.416389				Sun1991		0
 11440	144_thenit	the nit	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	pɯmji	pɯ+mji	sulu1241	267	27.650542				Remsangpuia2008		0
 11519	146_thenose	the nose	TshDirangTshangla	Dirang Tshangla	Bodic	na+uŋ	na+uŋ	dira1243	1221	27.343674				TB		2108
 11520	146_thenose	the nose	TaniGalo	Galo	Tani	ɲe-pùm	ɲe+pum51	galo1242	1221	27.98				Post07	*ɲa	2108
@@ -10597,7 +10597,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 11599	146_thenose	the nose	Xiandao	Xiandao	Burmish	n̥ap³¹pʰɔŋ⁵⁵	n̥ap³¹pʰɔŋ⁵⁵	xian1249	1221	24.494153		29731	FALSE	Huang1992 Hill2017		29731
 11600	146_thenose	the nose	Lashi	Lashi	Burmish	no̱³³	no̱³³	lash1243	1221	24.111512		2090	FALSE	Huang1992 Hill2017		2090
 11601	146_thenose	the nose	Atsi	Atsi	Burmish	no̱⁵¹	no̱⁵¹	zaiw1241	1221	24.193367		2090	FALSE	Huang1992 Hill2017		2090
-11602	146_thenose	the nose	MishmiKaman	Miju	Mishmi	min⁵⁵ nioŋ³⁵	min⁵⁵ nioŋ³⁵	miju1243	1221	28.416389				Sun1991		0
+11602	146_thenose	the nose	MishmiKaman	Miju	Mishmi	min⁵⁵ nioŋ³⁵	min⁵⁵+nioŋ³⁵	miju1243	1221	28.416389				Sun1991		0
 11603	146_thenose	the nose	KBEastPuroikSoja	Puroik	Kho-Bwa	phok, poog	pʰok	sulu1241	1221	27.650542				RS09		0
 11604	146_thenose	the nose	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	apɔːk	a+pɔːk	sulu1241	1221	27.650542				Remsangpuia2008		0
 11605	146_thenose	the nose	KBEastPuroikSun	Puroik	Kho-Bwa	pɔk³³	pɔk³³	sulu1241	1221	28.41558				Sun1991		0
@@ -10829,7 +10829,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12407	156_therain	the rain	Tangut	Tangut	Tangut	dzju./u	dzju/u	tang1334	658	38.477453		4153	FALSE	Li1997	!ignore double  no link!	4153
 12408	156_therain	the rain	KarbiMikir	Karbi (Mikir)	Mizo	arve, ve	arvè	karb1241	658	25.735084		10234	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10234
 12409	156_therain	the rain	Rabha	Rabha	Rabha	pʰa+tʃi	pʰa+tʃi	rabh1238	658	25.820135		10234	FALSE	Joseph2007		10234
-12410	156_therain	the rain	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑŋ⁵⁵	ɑ³¹ wɑŋ⁵⁵	miju1243	658	28.416389				Sun1991		0
+12410	156_therain	the rain	MishmiKaman	Miju	Mishmi	ɑ³¹ wɑŋ⁵⁵	ɑ³¹+wɑŋ⁵⁵	miju1243	658	28.416389				Sun1991		0
 12411	156_therain	the rain	KBEastPuroikSoja	Puroik	Kho-Bwa	aampiu	aːm+piu	sulu1241	658	27.650542				RS09		0
 12412	156_therain	the rain	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	aŋphrɔ	aŋ+phrɔ	sulu1241	658	27.650542				Remsangpuia2008		0
 12413	156_therain	the rain	KBEastPuroikSun	Puroik	Kho-Bwa	pɹu³³	pɹu³³	sulu1241	658	28.41558				Sun1991		0
@@ -10906,7 +10906,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12484	157_therainbow	the rainbow	Xingning	Xingning	Sinitic	tsʰai²¹fʊm²⁴	tsʰai²¹fʊm²⁴	hakk1236	1733	24.13674		10298	FALSE	Lai2017FN		10298
 12485	157_therainbow	the rainbow	Tangut	Tangut	Tangut	tsjwu	tsjwu	tang1334	1733	38.477453		4206	FALSE	Li1997		4206
 12486	157_therainbow	the rainbow	KarbiMikir	Karbi (Mikir)	Mizo	mukak	mukak	karb1241	1733	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate	*ba+kh(u+w)ang	0
-12487	157_therainbow	the rainbow	MishmiKaman	Miju	Mishmi	i⁵⁵ phit⁵⁵	i⁵⁵ phit⁵⁵	miju1243	1733	28.416389				Sun1991		0
+12487	157_therainbow	the rainbow	MishmiKaman	Miju	Mishmi	i⁵⁵ phit⁵⁵	i⁵⁵+phit⁵⁵	miju1243	1733	28.416389				Sun1991		0
 12488	157_therainbow	the rainbow	KBEastPuroikSoja	Puroik	Kho-Bwa	khelain	kʰə+lain	sulu1241	1733	27.650542				RS09		0
 12489	157_therainbow	the rainbow	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kalaiŋ	ka+laiŋ	sulu1241	1733	27.650542				Remsangpuia2008		0
 12490	157_therainbow	the rainbow	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ leȵ³³	kə³³+leȵ³³	sulu1241	1733	28.41558				Sun1991		0
@@ -11058,7 +11058,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12893	162_theriver	the river	Tangut	Tangut	Tangut	mja	mja	tang1334	666	38.477453		2838	FALSE	Li1997		2838
 12894	162_theriver	the river	Tangut	Tangut	Tangut	ɕjwa	ɕjwa	tang1334	666	38.477453		4156	FALSE	Li1997	!ignore double no link!	4156
 12895	162_theriver	the river	KarbiMikir	Karbi (Mikir)	Mizo	langroi	langrōi	karb1241	666	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-12896	162_theriver	the river	MishmiKaman	Miju	Mishmi	tɯ³¹ lo³⁵	tɯ³¹ lo³⁵	miju1243	666	28.416389				Sun1991		0
+12896	162_theriver	the river	MishmiKaman	Miju	Mishmi	tɯ³¹ lo³⁵	tɯ³¹+lo³⁵	miju1243	666	28.416389				Sun1991		0
 12897	162_theriver	the river	KBEastPuroikSoja	Puroik	Kho-Bwa	kuamoa, kuapi	kua+pi	sulu1241	666	27.650542				RS09		0
 12898	162_theriver	the river	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kuapək	kua+pək	sulu1241	666	27.650542				Remsangpuia2008		0
 12899	162_theriver	the river	KBEastPuroikSun	Puroik	Kho-Bwa	kua³³ ɣua³³	kua³³+ɣua³³	sulu1241	666	28.41558				Sun1991		0
@@ -11397,7 +11397,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 13389	168_thesalt	the salt	Tangut	Tangut	Tangut	tshjɨ	tshjɨ	tang1334	1274	38.477453		4160	FALSE	Li1997		4160
 13390	168_thesalt	the salt	KarbiMikir	Karbi (Mikir)	Mizo	ingti	ingtí	karb1241	1274	25.735084		10239	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10239
 13391	168_thesalt	the salt	Rabha	Rabha	Rabha	kʰa+ri	kʰa+ri	rabh1238	1274	25.820135		10436	FALSE	Joseph2007		10436
-13392	168_thesalt	the salt	MishmiKaman	Miju	Mishmi	tɯ³¹ min⁵⁵	tɯ³¹ min⁵⁵	miju1243	1274	28.416389				Sun1991		0
+13392	168_thesalt	the salt	MishmiKaman	Miju	Mishmi	tɯ³¹ min⁵⁵	tɯ³¹+min⁵⁵	miju1243	1274	28.416389				Sun1991		0
 13393	168_thesalt	the salt	KBEastPuroikSoja	Puroik	Kho-Bwa	hoong	hɔŋ	sulu1241	1274	27.650542				RS09		0
 13394	168_thesalt	the salt	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hɔ̃ŋ	hɔ̃ŋ	sulu1241	1274	27.650542				Remsangpuia2008		0
 13395	168_thesalt	the salt	KBEastPuroikSun	Puroik	Kho-Bwa	hɔŋ³³	hɔŋ³³	sulu1241	1274	28.41558				Sun1991		0
@@ -11480,7 +11480,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 13527	170_thesand	the sand	Hayu	Hayu	Kiranti	pĩːku	pĩːku	wayu1241	671	27.302102		2208	FALSE	Michailovsky1989a		2208
 13528	170_thesand	the sand	KarbiMikir	Karbi (Mikir)	Mizo	sangti	sangti	karb1241	671	25.735084		10437	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10437
 13529	170_thesand	the sand	Rabha	Rabha	Rabha	háŋ+tʃeŋ	háŋ+tʃeŋ	rabh1238	671	25.820135		4004	FALSE	Joseph2007		4004
-13530	170_thesand	the sand	MishmiKaman	Miju	Mishmi	kɑ³¹ ɕiŋ³⁵	kɑ³¹ ɕiŋ³⁵	miju1243	671	28.416389				Sun1991		0
+13530	170_thesand	the sand	MishmiKaman	Miju	Mishmi	kɑ³¹ ɕiŋ³⁵	kɑ³¹+ɕiŋ³⁵	miju1243	671	28.416389				Sun1991		0
 13531	170_thesand	the sand	KBEastPuroikSoja	Puroik	Kho-Bwa	piye’ chaig	pi+je+tʃʰaik	sulu1241	671	27.650542				RS09		0
 13532	170_thesand	the sand	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	prietʃheil	prie+tʃheil	sulu1241	671	27.650542				Remsangpuia2008		0
 13533	170_thesand	the sand	KBEastPuroikSun	Puroik	Kho-Bwa	pɹæʴ³³ tsət³³	pɹæʴ³³+tsət³³	sulu1241	671	28.41558				Sun1991		0
@@ -11535,7 +11535,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 13658	172_thesea	the sea	Lashi	Lashi	Burmish	kjei⁵³+məŋ³³	kjei⁵³+məŋ³³	lash1243	1474	24.111512		8651	FALSE	Huang1992 Hill2017		8651
 13659	172_thesea	the sea	Tangut	Tangut	Tangut	ŋjow	ŋjow	tang1334	1474	38.477453		0	FALSE	Li1997		0
 13660	172_thesea	the sea	KarbiMikir	Karbi (Mikir)	Mizo	langpi, hakor	taló	karb1241	1474	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-13661	172_thesea	the sea	MishmiKaman	Miju	Mishmi	xɑ³¹ wɑ̆i³⁵	xɑ³¹ wɑ̆i³⁵	miju1243	1474	28.416389				Sun1991		0
+13661	172_thesea	the sea	MishmiKaman	Miju	Mishmi	xɑ³¹ wɑ̆i³⁵	xɑ³¹+wɑ̆i³⁵	miju1243	1474	28.416389				Sun1991		0
 13662	172_thesea	the sea	KBEastPuroikSoja	Puroik	Kho-Bwa	sa nyiak kua	sa+ɲiak+kua	sulu1241	1474	27.650542				RS09		0
 13663	172_thesea	the sea	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kua kla	kua+kla	sulu1241	1474	27.650542				Remsangpuia2008		0
 13754	174_theseed	the seed	TshDirangTshangla	Dirang Tshangla	Bodic	li	li	dira1243	714	27.343674				TB		4007
@@ -11620,7 +11620,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 13833	174_theseed	the seed	Tangut	Tangut	Tangut	ljwi	ljwi	tang1334	714	38.477453		4165	FALSE	Li1997		4165
 13834	174_theseed	the seed	KarbiMikir	Karbi (Mikir)	Mizo	athe	chilí	karb1241	714	25.735084		4007	FALSE	Walker1925 KonnerthFC GruessnerNoDate		4007
 13835	174_theseed	the seed	Rabha	Rabha	Rabha	kén	kén	rabh1238	714	25.820135		10441	FALSE	Joseph2007		10441
-13836	174_theseed	the seed	MishmiKaman	Miju	Mishmi	xɑ³¹ lɯi³⁵	xɑ³¹ lɯi³⁵	miju1243	714	28.416389				Sun1991		0
+13836	174_theseed	the seed	MishmiKaman	Miju	Mishmi	xɑ³¹ lɯi³⁵	xɑ³¹+lɯi³⁵	miju1243	714	28.416389				Sun1991		0
 13837	174_theseed	the seed	KBEastPuroikSoja	Puroik	Kho-Bwa	lilee, melhae’	li+ləː	sulu1241	714	27.650542				RS09		0
 13838	174_theseed	the seed	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	awe	a+we	sulu1241	714	27.650542				Remsangpuia2008		0
 13839	174_theseed	the seed	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ θæ⁵³	mə³³+θæ⁵³	sulu1241	714	28.41558				Sun1991		0
@@ -11841,7 +11841,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14293	180_theshoulder	the shoulder	Tangut	Tangut	Tangut	wa./a	wa/a	tang1334	1482	38.477453		13	FALSE	Li1997		13
 14294	180_theshoulder	the shoulder	KarbiMikir	Karbi (Mikir)	Mizo	phang(kor)	+phàng	karb1241	1482	25.735084		13	FALSE	Walker1925 KonnerthFC GruessnerNoDate		13
 14295	180_theshoulder	the shoulder	Rabha	Rabha	Rabha	pʰa+kroŋ	pʰa+kroŋ	rabh1238	1482	25.820135		13	FALSE	Joseph2007		13
-14296	180_theshoulder	the shoulder	MishmiKaman	Miju	Mishmi	ɑ³¹ pho⁵⁵	ɑ³¹ pho⁵⁵	miju1243	1482	28.416389				Sun1991		0
+14296	180_theshoulder	the shoulder	MishmiKaman	Miju	Mishmi	ɑ³¹ pho⁵⁵	ɑ³¹+pho⁵⁵	miju1243	1482	28.416389				Sun1991		0
 14297	180_theshoulder	the shoulder	KBEastPuroikSoja	Puroik	Kho-Bwa	poatok, puatok	pu+a+tok	sulu1241	1482	27.650542				RS09		0
 14298	180_theshoulder	the shoulder	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	puatuk	pua+tuk	sulu1241	1482	27.650542				Remsangpuia2008		0
 14299	180_theshoulder	the shoulder	KBEastPuroikSun	Puroik	Kho-Bwa	pua³³ tok¹¹	pua³³+tok¹¹	sulu1241	1482	28.41558				Sun1991		0
@@ -11895,7 +11895,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14400	182_thesickle	the sickle	Bola	Bola	Burmish	ʃɛ̃∼⁵⁵+ŋø̰³⁵	ʃɛ̃∼⁵⁵+ŋø̰³⁵	pela1242	341	24.405004		8475	FALSE	Huang1992 Hill2017		8475
 14401	182_thesickle	the sickle	Tangut	Tangut	Tangut	dʑji.	dʑji	tang1334	341	38.477453		0	FALSE	Li1997		0
 14402	182_thesickle	the sickle	KarbiMikir	Karbi (Mikir)	Mizo	nokerangso	nokerangso	karb1241	341	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-14403	182_thesickle	the sickle	MishmiKaman	Miju	Mishmi	dzɑ³¹ wɑ⁵⁵	dzɑ³¹ wɑ⁵⁵	miju1243	341	28.416389				Sun1991		0
+14403	182_thesickle	the sickle	MishmiKaman	Miju	Mishmi	dzɑ³¹ wɑ⁵⁵	dzɑ³¹+wɑ⁵⁵	miju1243	341	28.416389				Sun1991		0
 14572	185_theskin	the skin	TshDirangTshangla	Dirang Tshangla	Bodic	kʰɔp+taŋ	kʰɔp+taŋ	dira1243	763	27.343674				TB		689
 14573	185_theskin	the skin	TaniGalo	Galo	Tani	a-pìn	a+pin51	galo1242	763	27.98				Post07	*pɨn	130
 14574	185_theskin	the skin	TaniTangam	Tangam	Tani	ahɨk	a+hɨk	tang1377	763	28.956354				Post2017		5032
@@ -12152,7 +12152,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15074	190_thesmoke	the smoke	Hayu	Hayu	Kiranti	kulu	kulu	wayu1241	778	27.302102		68	FALSE	Michailovsky1989a		68
 15075	190_thesmoke	the smoke	KarbiMikir	Karbi (Mikir)	Mizo	hi, mehi	hi	karb1241	778	25.735084		10456	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10456
 15076	190_thesmoke	the smoke	Rabha	Rabha	Rabha	bár+kʰun+tʃi	bár+kʰun+tʃi	rabh1238	778	25.820135		68	FALSE	Joseph2007		68
-15077	190_thesmoke	the smoke	MishmiKaman	Miju	Mishmi	tɑ³¹ khɯi⁵³	tɑ³¹ khɯi⁵³	miju1243	778	28.416389				Sun1991		0
+15077	190_thesmoke	the smoke	MishmiKaman	Miju	Mishmi	tɑ³¹ khɯi⁵³	tɑ³¹+khɯi⁵³	miju1243	778	28.416389				Sun1991		0
 15078	190_thesmoke	the smoke	KBEastPuroikSoja	Puroik	Kho-Bwa	bae’khei’	bae+kʰeɯ	sulu1241	778	27.650542				RS09		0
 15079	190_thesmoke	the smoke	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	bae kɯˀ	bae+kɯˀ	sulu1241	778	27.650542				Remsangpuia2008		0
 15080	190_thesmoke	the smoke	KBEastPuroikSun	Puroik	Kho-Bwa	bæ³³ kɯ³³	bæ³³+kɯ³³	sulu1241	778	28.41558				Sun1991		0
@@ -12402,7 +12402,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15477	195_theson	the son	Tangut	Tangut	Tangut	gji	gji	tang1334	1620	38.477453		4211	FALSE	Li1997		4211
 15478	195_theson	the son	KarbiMikir	Karbi (Mikir)	Mizo	sopo	sopo	karb1241	1620	25.735084		73	FALSE	Walker1925 KonnerthFC GruessnerNoDate		73
 15479	195_theson	the son	Rabha	Rabha	Rabha	sábramúsa	sábramúsa	rabh1238	1620	25.820135		10527	FALSE	Joseph2007		10527
-15480	195_theson	the son	MishmiKaman	Miju	Mishmi	sɑ⁵⁵ wɑi⁵³	sɑ⁵⁵ wɑi⁵³	miju1243	1620	28.416389				Sun1991		0
+15480	195_theson	the son	MishmiKaman	Miju	Mishmi	sɑ⁵⁵ wɑi⁵³	sɑ⁵⁵+wɑi⁵³	miju1243	1620	28.416389				Sun1991		0
 15481	195_theson	the son	KBEastPuroikSoja	Puroik	Kho-Bwa	adaufu, afudau	a+dau+fu	sulu1241	1620	27.650542				RS09		0
 15482	195_theson	the son	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	adou fu	a+dou+fu	sulu1241	1620	27.650542				Remsangpuia2008		0
 15483	195_theson	the son	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ du³³ fu¹¹	a³³+du³³+fu¹¹	sulu1241	1620	28.41558				Sun1991		0
@@ -12453,7 +12453,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15528	196_thesparrow	the sparrow	Maru	Maru	Burmish	tʃɔ̆³¹+kʰjɔ̃∼⁵⁵	tʃɔ̆³¹+kʰjɔ̃∼⁵⁵	maru1249	1854	24.939981		8385	FALSE	Huang1992 Hill2017		8385
 15529	196_thesparrow	the sparrow	Tangut	Tangut	Tangut	so	so	tang1334	1854	38.477453		0	FALSE	Li1997		0
 15530	196_thesparrow	the sparrow	KarbiMikir	Karbi (Mikir)	Mizo	vopuru, vo arbipi	vopuru	karb1241	1854	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-15531	196_thesparrow	the sparrow	MishmiKaman	Miju	Mishmi	ɑ³¹ ɹik³⁵	ɑ³¹ ɹik³⁵	miju1243	1854	28.416389				Sun1991		0
+15531	196_thesparrow	the sparrow	MishmiKaman	Miju	Mishmi	ɑ³¹ ɹik³⁵	ɑ³¹+ɹik³⁵	miju1243	1854	28.416389				Sun1991		0
 15532	196_thesparrow	the sparrow	KBEastPuroikSoja	Puroik	Kho-Bwa	pedang pedau	pə+daŋ+pə+dau	sulu1241	1854	27.650542				RS09		0
 15533	196_thesparrow	the sparrow	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	patʃappariap	pa+tʃap+pa+riap	sulu1241	1854	27.650542				Remsangpuia2008		0
 15534	196_thesparrow	the sparrow	KBEastPuroikSun	Puroik	Kho-Bwa	pə³³ tu³³ du³³	pə³³+tu³³+du³³	sulu1241	1854	28.41558				Sun1991		0
@@ -12542,7 +12542,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15617	197_thespider	the spider	Tangut	Tangut	Tangut	tsju./u	tsju/u	tang1334	843	38.477453		4184	FALSE	Li1997		4184
 15618	197_thespider	the spider	KarbiMikir	Karbi (Mikir)	Mizo	sangman	sangman	karb1241	843	25.735084		10459	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10459
 15619	197_thespider	the spider	Rabha	Rabha	Rabha	bi+bur	bi+bur	rabh1238	843	25.820135		10458	FALSE	Joseph2007		10458
-15620	197_thespider	the spider	MishmiKaman	Miju	Mishmi	toŋ⁵⁵ dui⁵⁵ sɑm³⁵	toŋ⁵⁵ dui⁵⁵ sɑm³⁵	miju1243	843	28.416389				Sun1991		0
+15620	197_thespider	the spider	MishmiKaman	Miju	Mishmi	toŋ⁵⁵ dui⁵⁵ sɑm³⁵	toŋ⁵⁵+dui⁵⁵+sɑm³⁵	miju1243	843	28.416389				Sun1991		0
 15621	197_thespider	the spider	KBEastPuroikSoja	Puroik	Kho-Bwa	woong kasuak	wɔŋ+ka+suak	sulu1241	843	27.650542				RS09		0
 15622	197_thespider	the spider	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	uːŋkasuak	uːŋ+ka+suak	sulu1241	843	27.650542				Remsangpuia2008		0
 15623	197_thespider	the spider	KBEastPuroikSun	Puroik	Kho-Bwa	wuoŋ³³	wuoŋ³³	sulu1241	843	28.41558				Sun1991		0
@@ -12629,7 +12629,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15866	200_thestar	the star	Hayu	Hayu	Kiranti	xʷaːmen	xʷaːmen	wayu1241	1430	27.302102		3595	FALSE	Michailovsky1989a		3595
 15867	200_thestar	the star	KarbiMikir	Karbi (Mikir)	Mizo	chiklolongso	chiklolongso	karb1241	1430	25.735084		10469	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10469
 15868	200_thestar	the star	Rabha	Rabha	Rabha	a+pʰe	a+pʰe	rabh1238	1430	25.820135		10462	FALSE	Joseph2007		10462
-15869	200_thestar	the star	MishmiKaman	Miju	Mishmi	kɯ³¹ grun³⁵	kɯ³¹ grun³⁵	miju1243	1430	28.416389				Sun1991		0
+15869	200_thestar	the star	MishmiKaman	Miju	Mishmi	kɯ³¹ grun³⁵	kɯ³¹+grun³⁵	miju1243	1430	28.416389				Sun1991		0
 15870	200_thestar	the star	KBEastPuroikSoja	Puroik	Kho-Bwa	hagit	ha+git	sulu1241	1430	27.650542				RS09		0
 15871	200_thestar	the star	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hagait	ha+gait	sulu1241	1430	27.650542				Remsangpuia2008		0
 15872	200_thestar	the star	KBEastPuroikSun	Puroik	Kho-Bwa	ha³³ ɣat⁵³	ha³³+ɣat⁵³	sulu1241	1430	28.41558				Sun1991		0
@@ -12704,7 +12704,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16027	202_thestick	the stick	Tangut	Tangut	Tangut	bo	bo	tang1334	1295	38.477453		4186	FALSE	Li1997		4186
 16028	202_thestick	the stick	KarbiMikir	Karbi (Mikir)	Mizo	chin, kaibong	ràp	karb1241	1295	25.735084		10465	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10465
 16029	202_thestick	the stick	Rabha	Rabha	Rabha	kón	kón	rabh1238	1295	25.820135		10464	FALSE	Joseph2007	!COGID changed Macy cross semantic!	4659
-16030	202_thestick	the stick	MishmiKaman	Miju	Mishmi	ɕu⁵⁵ nɑ⁵³	ɕu⁵⁵ nɑ⁵³	miju1243	1295	28.416389				Sun1991		0
+16030	202_thestick	the stick	MishmiKaman	Miju	Mishmi	ɕu⁵⁵ nɑ⁵³	ɕu⁵⁵+nɑ⁵³	miju1243	1295	28.416389				Sun1991		0
 16031	202_thestick	the stick	KBEastPuroikSoja	Puroik	Kho-Bwa	hin miang chak	hin+miaŋ+tʃʰak	sulu1241	1295	27.650542				RS09		0
 16032	202_thestick	the stick	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	hamriaŋ	ham+riaŋ	sulu1241	1295	27.650542				Remsangpuia2008		0
 16033	202_thestick	the stick	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ ciaŋ³³ kuaŋ³³	mə³³+ciaŋ³³+kuaŋ³³	sulu1241	1295	28.41558				Sun1991		0
@@ -12968,7 +12968,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16365	206_thetail	the tail	Hayu	Hayu	Kiranti	mun	mun	wayu1241	1220	27.302102		3079	FALSE	Michailovsky1989a		3079
 16366	206_thetail	the tail	KarbiMikir	Karbi (Mikir)	Mizo	arme	armē	karb1241	1220	25.735084		84	FALSE	Walker1925 KonnerthFC GruessnerNoDate		84
 16367	206_thetail	the tail	Rabha	Rabha	Rabha	zí+miŋ	zí+miŋ	rabh1238	1220	25.820135		10471	FALSE	Joseph2007		10471
-16368	206_thetail	the tail	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑ̆i⁵⁵	ɑ³¹ mɑ̆i⁵⁵	miju1243	1220	28.416389				Sun1991		0
+16368	206_thetail	the tail	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑ̆i⁵⁵	ɑ³¹+mɑ̆i⁵⁵	miju1243	1220	28.416389				Sun1991		0
 16369	206_thetail	the tail	KBEastPuroikSoja	Puroik	Kho-Bwa	aanyime’, nyime’	aː+ɲi+me	sulu1241	1220	27.650542				RS09		0
 16370	206_thetail	the tail	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	anime	a+ni+me	sulu1241	1220	27.650542				Remsangpuia2008		0
 16371	206_thetail	the tail	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ȵuk³³ kuaŋ³³	a³³+ȵuk³³+kuaŋ³³	sulu1241	1220	28.41558				Sun1991		0
@@ -13121,7 +13121,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17325	218_thethunder	the thunder	KarbiMikir	Karbi (Mikir)	Mizo	ingder, sining kangder, sining kangreng	ingder	karb1241	1150	25.735084		10481	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10481
 17326	218_thethunder	the thunder	Rabha	Rabha	Rabha	raŋ+krɨŋa	raŋ+krɨŋa	rabh1238	1150	25.820135		10480	FALSE	Joseph2007		10480
 17327	218_thethunder	the thunder	OldBurmese	Old Burmese	Burmish	myuivḥ+khyunḥ	myuivḥ+khyunḥ	oldb1235	1150	21.624974		1240	FALSE	Hill2017		1240
-17328	218_thethunder	the thunder	MishmiKaman	Miju	Mishmi	tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵	tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵	miju1243	1150	28.416389				Sun1991		0
+17328	218_thethunder	the thunder	MishmiKaman	Miju	Mishmi	tɯ³¹ mɑuŋ⁵³ kɹɑ̆n⁵⁵	tɯ³¹+mɑuŋ⁵³+kɹɑ̆n⁵⁵	miju1243	1150	28.416389				Sun1991		0
 17329	218_thethunder	the thunder	KBEastPuroikSoja	Puroik	Kho-Bwa	raanmang	raːn+maŋ	sulu1241	1150	27.650542				RS09		0
 17330	218_thethunder	the thunder	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	raŋmaŋ	raŋ+maŋ	sulu1241	1150	27.650542				Remsangpuia2008		0
 17331	218_thethunder	the thunder	KBEastPuroikSun	Puroik	Kho-Bwa	ɣə³³ mək³³	ɣə³³+mək³³	sulu1241	1150	28.41558				Sun1991		0
@@ -13208,7 +13208,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17412	219_thetiger	the tiger	Tangut	Tangut	Tangut	le	le	tang1334	846	38.477453		1053	FALSE	Li1997		1053
 17413	219_thetiger	the tiger	KarbiMikir	Karbi (Mikir)	Mizo	teke	tèkè	karb1241	846	25.735084		433	FALSE	Walker1925 KonnerthFC GruessnerNoDate		433
 17414	219_thetiger	the tiger	Rabha	Rabha	Rabha	má+sa	má+sa	rabh1238	846	25.820135		4029	FALSE	Joseph2007		4029
-17415	219_thetiger	the tiger	MishmiKaman	Miju	Mishmi	bo⁵⁵ dɑ⁵⁵	bo⁵⁵ dɑ⁵⁵	miju1243	846	28.416389				Sun1991		0
+17415	219_thetiger	the tiger	MishmiKaman	Miju	Mishmi	bo⁵⁵ dɑ⁵⁵	bo⁵⁵+dɑ⁵⁵	miju1243	846	28.416389				Sun1991		0
 17416	219_thetiger	the tiger	KBEastPuroikSoja	Puroik	Kho-Bwa	paate	paː+tə	sulu1241	846	27.650542				RS09		0
 17417	219_thetiger	the tiger	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	madʒue	ma+dʒue	sulu1241	846	27.650542				Remsangpuia2008		0
 17418	219_thetiger	the tiger	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ vuat⁵³ bua¹¹	a³³+vuat⁵³+bua¹¹	sulu1241	846	28.41558				Sun1991		0
@@ -13559,7 +13559,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 18260	229_thewater	the water	Hayu	Hayu	Kiranti	ti	ti	wayu1241	948	27.302102		2787	FALSE	Michailovsky1989a		2787
 18262	229_thewater	the water	KarbiMikir	Karbi (Mikir)	Mizo	lang	lāng	karb1241	948	25.735084		10485	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10485
 18263	229_thewater	the water	Rabha	Rabha	Rabha	tʃi+ka	tʃi+ka	rabh1238	948	25.820135		2787	FALSE	Joseph2007		2787
-18264	229_thewater	the water	MishmiKaman	Miju	Mishmi	xɑ³¹ ŋɑp⁵⁵	xɑ³¹ ŋɑp⁵⁵	miju1243	948	28.416389				Sun1991		0
+18264	229_thewater	the water	MishmiKaman	Miju	Mishmi	xɑ³¹ ŋɑp⁵⁵	xɑ³¹+ŋɑp⁵⁵	miju1243	948	28.416389				Sun1991		0
 18265	229_thewater	the water	KBEastPuroikSoja	Puroik	Kho-Bwa	kua	kua	sulu1241	948	27.650542				RS09		0
 18266	229_thewater	the water	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kua	kua	sulu1241	948	27.650542				Remsangpuia2008		0
 18267	229_thewater	the water	KBEastPuroikSun	Puroik	Kho-Bwa	kua³³	kua³³	sulu1241	948	28.41558				Sun1991		0
@@ -13709,7 +13709,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 18897	237_thewife	the wife	Tangut	Tangut	Tangut	gji	gji	tang1334	1199	38.477453		0	FALSE	Li1997	!ignore double no link!	0
 18898	237_thewife	the wife	Tangut	Tangut	Tangut	mjaa	mjaa	tang1334	1199	38.477453		0	FALSE	Li1997		0
 18899	237_thewife	the wife	KarbiMikir	Karbi (Mikir)	Mizo	piso	+pīsō	karb1241	1199	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-18900	237_thewife	the wife	MishmiKaman	Miju	Mishmi	kɯ³¹ mɑi³⁵	kɯ³¹ mɑi³⁵	miju1243	1199	28.416389				Sun1991		0
+18900	237_thewife	the wife	MishmiKaman	Miju	Mishmi	kɯ³¹ mɑi³⁵	kɯ³¹+mɑi³⁵	miju1243	1199	28.416389				Sun1991		0
 18901	237_thewife	the wife	KBEastPuroikSoja	Puroik	Kho-Bwa	ajau	a+dʒau	sulu1241	1199	27.650542				RS09		0
 18902	237_thewife	the wife	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	awe	a+we	sulu1241	1199	27.650542				Remsangpuia2008		0
 18903	237_thewife	the wife	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ʑu¹¹	a³³+ʑu¹¹	sulu1241	1199	28.41558				Sun1991		0
@@ -14002,7 +14002,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19278	242_thewoman	the woman	Tangut	Tangut	Tangut	sji	sji	tang1334	962	38.477453		4195	FALSE	Li1997	!ignore double no link!	4195
 19279	242_thewoman	the woman	KarbiMikir	Karbi (Mikir)	Mizo	arloso	arlò	karb1241	962	25.735084		10495	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10495
 19280	242_thewoman	the woman	Rabha	Rabha	Rabha	mé+tʃa	mé+tʃa	rabh1238	962	25.820135		10494	FALSE	Joseph2007		10494
-19281	242_thewoman	the woman	MishmiKaman	Miju	Mishmi	kɯ³¹ mɑi³⁵ sɑ⁵³	kɯ³¹ mɑi³⁵ sɑ⁵³	miju1243	962	28.416389				Sun1991		0
+19281	242_thewoman	the woman	MishmiKaman	Miju	Mishmi	kɯ³¹ mɑi³⁵ sɑ⁵³	kɯ³¹+mɑi³⁵+sɑ⁵³	miju1243	962	28.416389				Sun1991		0
 19282	242_thewoman	the woman	KBEastPuroikSoja	Puroik	Kho-Bwa	déna	də+na	sulu1241	962	27.650542				AT90		0
 19283	242_thewoman	the woman	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	dana	da+na	sulu1241	962	27.650542				Remsangpuia2008		0
 19284	242_thewoman	the woman	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ mui⁵³	a³³+mui⁵³	sulu1241	962	28.41558				Sun1991		0
@@ -14073,7 +14073,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19349	243_thewoodmaterial	the wood (material)	Rangoon	Rangoon	Burmish	tθiʔ⁴+tõ∼⁵⁵	tθiʔ⁴+tõ∼⁵⁵	nucl1310	1803	16.874207		8174	FALSE	Huang1992 Hill2017		8174
 19350	243_thewoodmaterial	the wood (material)	Tangut	Tangut	Tangut	sji	sji	tang1334	1803	38.477453		0	FALSE	Li1997		0
 19351	243_thewoodmaterial	the wood (material)	KarbiMikir	Karbi (Mikir)	Mizo	theng	thengpī	karb1241	1803	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate	COGID changed Tim	2974
-19352	243_thewoodmaterial	the wood (material)	MishmiKaman	Miju	Mishmi	sɑ̆ŋ³⁵ khliŋ⁵⁵	sɑ̆ŋ³⁵ khliŋ⁵⁵	miju1243	1803	28.416389				Sun1991		0
+19352	243_thewoodmaterial	the wood (material)	MishmiKaman	Miju	Mishmi	sɑ̆ŋ³⁵ khliŋ⁵⁵	sɑ̆ŋ³⁵+khliŋ⁵⁵	miju1243	1803	28.416389				Sun1991		0
 19353	243_thewoodmaterial	the wood (material)	KBEastPuroikSoja	Puroik	Kho-Bwa	sangtak	saŋ+tak	sulu1241	1803	27.650542				RS09		0
 19354	243_thewoodmaterial	the wood (material)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ɹein	ɹein	sulu1241	1803	27.650542				Remsangpuia2008		0
 19355	243_thewoodmaterial	the wood (material)	KBEastPuroikSun	Puroik	Kho-Bwa	heʴn³³	heʴn³³	sulu1241	1803	28.41558				Sun1991		0
@@ -14229,7 +14229,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16590	209_there	there	Xiandao	Xiandao	Burmish	tʰɛ⁵⁵+tʰɔʔ⁵⁵	tʰɛ⁵⁵+tʰɔʔ⁵⁵	xian1249	1937	24.494153		8047	FALSE	Huang1992 Hill2017		8047
 16591	209_there	there	Rangoon	Rangoon	Burmish	tʰo²²+ɑ⁵³+nɑ⁵⁵	tʰo²²+ɑ⁵³+nɑ⁵⁵	nucl1310	1937	16.874207		8263	FALSE	Huang1992 Hill2017		8263
 16592	209_there	there	KarbiMikir	Karbi (Mikir)	Mizo	hadak	há	karb1241	1937	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-16593	209_there	there	MishmiKaman	Miju	Mishmi	ɑ³¹ hit⁵⁵ lɑm⁵⁵	ɑ³¹ hit⁵⁵ lɑm⁵⁵	miju1243	1937	28.416389				Sun1991		0
+16593	209_there	there	MishmiKaman	Miju	Mishmi	ɑ³¹ hit⁵⁵ lɑm⁵⁵	ɑ³¹+hit⁵⁵+lɑm⁵⁵	miju1243	1937	28.416389				Sun1991		0
 16594	209_there	there	KBEastPuroikSoja	Puroik	Kho-Bwa	bhuu, wa	buː	sulu1241	1937	27.650542				RS09		0
 16595	209_there	there	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	bɔː	bɔː	sulu1241	1937	27.650542				Remsangpuia2008		0
 16596	209_there	there	KBEastPuroikSun	Puroik	Kho-Bwa	ɟeh⁵³ la⁵³	ɟeh⁵³+la⁵³	sulu1241	1937	28.41558				Sun1991		0
@@ -14305,7 +14305,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16666	210_thick	thick	Tangut	Tangut	Tangut	laa	laa	tang1334	1244	38.477453		977	FALSE	Li1997		977
 16667	210_thick	thick	KarbiMikir	Karbi (Mikir)	Mizo	karthat	karthat	karb1241	1244	25.735084		3065	FALSE	Walker1925 KonnerthFC GruessnerNoDate		3065
 16668	210_thick	thick	Rabha	Rabha	Rabha	tʃat	tʃat	rabh1238	1244	25.820135		3065	FALSE	Joseph2007		3065
-16669	210_thick	thick	MishmiKaman	Miju	Mishmi	kɯ³¹ pɑ̆ŋ³⁵	kɯ³¹ pɑ̆ŋ³⁵	miju1243	1244	28.416389				Sun1991		0
+16669	210_thick	thick	MishmiKaman	Miju	Mishmi	kɯ³¹ pɑ̆ŋ³⁵	kɯ³¹+pɑ̆ŋ³⁵	miju1243	1244	28.416389				Sun1991		0
 16670	210_thick	thick	KBEastPuroikSoja	Puroik	Kho-Bwa	apik	a+pik	sulu1241	1244	27.650542				AT90		0
 16671	210_thick	thick	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	amam	a+mam	sulu1241	1244	27.650542				Remsangpuia2008		0
 16672	210_thick	thick	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ tsɯ³³	a³³+tsɯ³³	sulu1241	1244	28.41558				Sun1991		0
@@ -14391,7 +14391,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 16819	212_thinobject	thin (object)	Bola	Bola	Burmish	pa̱³⁵	pa̱³⁵	pela1242	2249	24.405004		3196	FALSE	Huang1992 Hill2017		3196
 16820	212_thinobject	thin (object)	Maru	Maru	Burmish	pɔ̱³⁵	pɔ̱³⁵	maru1249	2249	24.939981		3196	FALSE	Huang1992 Hill2017		3196
 16821	212_thinobject	thin (object)	Atsi	Atsi	Burmish	ja̱m⁵⁵	ja̱m⁵⁵	zaiw1241	2249	24.193367		5	FALSE	Huang1992 Hill2017		5
-16822	212_thinobject	thin (object)	MishmiKaman	Miju	Mishmi	kɯ³¹ pɑ³⁵	kɯ³¹ pɑ³⁵	miju1243	2249	28.416389				Sun1991		0
+16822	212_thinobject	thin (object)	MishmiKaman	Miju	Mishmi	kɯ³¹ pɑ³⁵	kɯ³¹+pɑ³⁵	miju1243	2249	28.416389				Sun1991		0
 16823	212_thinobject	thin (object)	KBEastPuroikSoja	Puroik	Kho-Bwa	achabdau, ataakdau	a+tʃʰab+dau	sulu1241	2249	27.650542				RS09		0
 16824	212_thinobject	thin (object)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	asarai	a+sarai	sulu1241	2249	27.650542				Remsangpuia2008		0
 16825	212_thinobject	thin (object)	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ tɕak⁵³	a³³+tɕak⁵³	sulu1241	2249	28.41558				Sun1991		0
@@ -14640,7 +14640,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17147	216_three	three	Tangut	Tangut	Tangut	so./o	so/o	tang1334	492	38.477453		283	FALSE	Li1997		283
 17148	216_three	three	KarbiMikir	Karbi (Mikir)	Mizo	kethom, thom-	kethòm	karb1241	492	25.735084		283	FALSE	Walker1925 KonnerthFC GruessnerNoDate		283
 17149	216_three	three	Rabha	Rabha	Rabha	an-tʰam	an-tʰam	rabh1238	492	25.820135		283	FALSE	Joseph2007		283
-17150	216_three	three	MishmiKaman	Miju	Mishmi	kɯ³¹ sɑ̆m⁵³	kɯ³¹ sɑ̆m⁵³	miju1243	492	28.416389				Sun1991		0
+17150	216_three	three	MishmiKaman	Miju	Mishmi	kɯ³¹ sɑ̆m⁵³	kɯ³¹+sɑ̆m⁵³	miju1243	492	28.416389				Sun1991		0
 17151	216_three	three	KBEastPuroikSoja	Puroik	Kho-Bwa	ek	ək	sulu1241	492	27.650542				RS09		0
 17152	216_three	three	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ɯeg [ɯək]	ɯək	sulu1241	492	27.650542				Remsangpuia2008		0
 17153	216_three	three	KBEastPuroikSun	Puroik	Kho-Bwa	ɣɯək³³	ɣɯək³³	sulu1241	492	28.41558				Sun1991		0
@@ -14712,7 +14712,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 594	8_tobealive	to be alive	Tangut	Tangut	Tangut	sjwu./u	sjwu/u	tang1334	1422	38.477453		280	FALSE	Li1997		280
 595	8_tobealive	to be alive	KarbiMikir	Karbi (Mikir)	Mizo	reng(et)	rèng	karb1241	1422	25.735084		3403	FALSE	Walker1925 KonnerthFC GruessnerNoDate		3403
 596	8_tobealive	to be alive	Rabha	Rabha	Rabha	kʰeŋ	kʰeŋ	rabh1238	1422	25.820135		10408	FALSE	Joseph2007		10408
-597	8_tobealive	to be alive	MishmiKaman	Miju	Mishmi	kɯ³¹ ɹɑ̆ŋ³⁵	kɯ³¹ ɹɑ̆ŋ³⁵	miju1243	1422	28.416389				Sun1991		0
+597	8_tobealive	to be alive	MishmiKaman	Miju	Mishmi	kɯ³¹ ɹɑ̆ŋ³⁵	kɯ³¹+ɹɑ̆ŋ³⁵	miju1243	1422	28.416389				Sun1991		0
 598	8_tobealive	to be alive	KBEastPuroikSoja	Puroik	Kho-Bwa	sikbae’	sik+bae	sulu1241	1422	27.650542				RS09		0
 599	8_tobealive	to be alive	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	sikduiˀ	sik+duiˀ	sulu1241	1422	27.650542				Remsangpuia2008		0
 600	8_tobealive	to be alive	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ ɕik³³	a³³+ɕik³³	sulu1241	1422	28.41558				Sun1991		0
@@ -15099,7 +15099,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 1831	23_tochew	to chew	Tangut	Tangut	Tangut	gjii	gjii	tang1334	321	38.477453		1534	FALSE	Li1997		1534
 1832	23_tochew	to chew	KarbiMikir	Karbi (Mikir)	Mizo	heje, om[...]	heje	karb1241	321	25.735084		10332	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10332
 1833	23_tochew	to chew	Rabha	Rabha	Rabha	tʃo+bai	tʃo+bai	rabh1238	321	25.820135		10333	FALSE	Joseph2007		10333
-1834	23_tochew	to chew	MishmiKaman	Miju	Mishmi	tɕɑ⁵⁵ xɑi⁵⁵	tɕɑ⁵⁵ xɑi⁵⁵	miju1243	321	28.416389				Sun1991		0
+1834	23_tochew	to chew	MishmiKaman	Miju	Mishmi	tɕɑ⁵⁵ xɑi⁵⁵	tɕɑ⁵⁵+xɑi⁵⁵	miju1243	321	28.416389				Sun1991		0
 1835	23_tochew	to chew	KBEastPuroikSoja	Puroik	Kho-Bwa	woe’china	woe+tʃʰi	sulu1241	321	27.650542				RS09		0
 1836	23_tochew	to chew	KBEastPuroikSun	Puroik	Kho-Bwa	we³³	we³³	sulu1241	321	28.41558				Sun1991		0
 2090	27_tocome	to come	TshDirangTshangla	Dirang Tshangla	Bodic	u	u	dira1243	1446	27.343674				TB		709
@@ -15270,7 +15270,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 2317	29_tocount	to count	Tangut	Tangut	Tangut	sej	sej	tang1334	1420	38.477453		10189	FALSE	Li1997		10189
 2318	29_tocount	to count	KarbiMikir	Karbi (Mikir)	Mizo	lakha	lakha	karb1241	1420	25.735084		10338	TRUE	Walker1925 KonnerthFC GruessnerNoDate		10338
 2319	29_tocount	to count	Rabha	Rabha	Rabha	li+xi	li+xi	rabh1238	1420	25.820135		10339	FALSE	Joseph2007		10339
-2320	29_tocount	to count	MishmiKaman	Miju	Mishmi	xɑ³¹ tsɯt⁵⁵	xɑ³¹ tsɯt⁵⁵	miju1243	1420	28.416389				Sun1991		0
+2320	29_tocount	to count	MishmiKaman	Miju	Mishmi	xɑ³¹ tsɯt⁵⁵	xɑ³¹+tsɯt⁵⁵	miju1243	1420	28.416389				Sun1991		0
 2321	29_tocount	to count	KBEastPuroikSoja	Puroik	Kho-Bwa	gie’kum	gie+kum	sulu1241	1420	27.650542				RS09		0
 2322	29_tocount	to count	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	gre	gre	sulu1241	1420	27.650542				Remsangpuia2008		0
 2323	29_tocount	to count	KBEastPuroikSun	Puroik	Kho-Bwa	gɛʴ⁵³	gɛʴ⁵³	sulu1241	1420	28.41558				Sun1991		0
@@ -15774,7 +15774,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 4267	53_tofight	to fight	Tangut	Tangut	Tangut	ɣwej	ɣwej	tang1334	1423	38.477453		10200	FALSE	Li1997		10200
 4268	53_tofight	to fight	KarbiMikir	Karbi (Mikir)	Mizo	kachechok, ron kachepi, ron, chervo, kachethu	rón	karb1241	1423	25.735084		10354	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10354
 4269	53_tofight	to fight	Rabha	Rabha	Rabha	ba+da+gur	ba+da+gur	rabh1238	1423	25.820135		10355	FALSE	Joseph2007		10355
-4270	53_tofight	to fight	MishmiKaman	Miju	Mishmi	dɑ̆m⁵⁵ kɹɑu⁵⁵	dɑ̆m⁵⁵ kɹɑu⁵⁵	miju1243	1423	28.416389				Sun1991		0
+4270	53_tofight	to fight	MishmiKaman	Miju	Mishmi	dɑ̆m⁵⁵ kɹɑu⁵⁵	dɑ̆m⁵⁵+kɹɑu⁵⁵	miju1243	1423	28.416389				Sun1991		0
 4271	53_tofight	to fight	KBEastPuroikSoja	Puroik	Kho-Bwa	fuingna	fuiŋ	sulu1241	1423	27.650542				RS09		0
 4272	53_tofight	to fight	KBEastPuroikSun	Puroik	Kho-Bwa	tsa⁵³ ɣɛ⁵³	tsa⁵³+ɣɛ⁵³	sulu1241	1423	28.41558				Sun1991		0
 4649	59_tofloat	to float	TshDirangTshangla	Dirang Tshangla	Bodic	bon	bon	dira1243	1574	27.343674				TB		2682
@@ -16075,7 +16075,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5258	66_toforget	to forget	Maru	Maru	Burmish	tɔ⁵⁵+mji̱k⁵⁵	tɔ⁵⁵+mji̱k⁵⁵	maru1249	1523	24.939981		1575	FALSE	Huang1992 Hill2017		1575
 5259	66_toforget	to forget	Atsi	Atsi	Burmish	to̱²¹+mji̱⁵	to̱²¹+mji̱⁵	zaiw1241	1523	24.193367		1575	FALSE	Huang1992 Hill2017		1575
 5260	66_toforget	to forget	Bantawa	Bantawa	Kiranti	mant-kʰat-	mant-kʰat-	bant1281	1523	27.117894		2553	FALSE	Jongens2009		2553
-5261	66_toforget	to forget	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑn⁵³ lɑ⁵⁵	ɑ³¹ mɑn⁵³ lɑ⁵⁵	miju1243	1523	28.416389				Sun1991		0
+5261	66_toforget	to forget	MishmiKaman	Miju	Mishmi	ɑ³¹ mɑn⁵³ lɑ⁵⁵	ɑ³¹+mɑn⁵³+lɑ⁵⁵	miju1243	1523	28.416389				Sun1991		0
 5262	66_toforget	to forget	KBEastPuroikSoja	Puroik	Kho-Bwa	bamidait	ba+mi+dait	sulu1241	1523	27.650542				RS09		0
 5263	66_toforget	to forget	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	bamidait	ba+mi+dait	sulu1241	1523	27.650542				Remsangpuia2008		0
 5264	66_toforget	to forget	KBEastPuroikSun	Puroik	Kho-Bwa	ba³³ mi³³ lua³³	ba³³+mi³³+lua³³	sulu1241	1523	28.41558				Sun1991		0
@@ -16164,7 +16164,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 5869	74_togive	to give	Tangut	Tangut	Tangut	khjow	khjow	tang1334	1447	38.477453		2125	FALSE	Li1997	!ignore double same!	2125
 5870	74_togive	to give	KarbiMikir	Karbi (Mikir)	Mizo	bi, chepi, hi	pī	karb1241	1447	25.735084		1913	FALSE	Walker1925 KonnerthFC GruessnerNoDate		1913
 5871	74_togive	to give	Rabha	Rabha	Rabha	rá+xu	rá+xu	rabh1238	1447	25.820135		10364	FALSE	Joseph2007		10364
-5872	74_togive	to give	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ sɑu³⁵	tɑ⁵⁵ sɑu³⁵	miju1243	1447	28.416389				Sun1991		0
+5872	74_togive	to give	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ sɑu³⁵	tɑ⁵⁵+sɑu³⁵	miju1243	1447	28.416389				Sun1991		0
 5873	74_togive	to give	KBEastPuroikSoja	Puroik	Kho-Bwa	tang na	taŋ	sulu1241	1447	27.650542				RS09		0
 5874	74_togive	to give	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	taŋna	taŋ+na	sulu1241	1447	27.650542				Remsangpuia2008		0
 5875	74_togive	to give	KBEastPuroikSun	Puroik	Kho-Bwa	taŋ³³	taŋ³³	sulu1241	1447	28.41558				Sun1991		0
@@ -16250,7 +16250,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 6810	85_tohear	to hear	Hayu	Hayu	Kiranti	tʰat	tʰat	wayu1241	1408	27.302102		2231	FALSE	Michailovsky1989a	COGID changed Tim	2854
 6811	85_tohear	to hear	KarbiMikir	Karbi (Mikir)	Mizo	ju, arju(thek)	arjū	karb1241	1408	25.735084		10376	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10376
 6812	85_tohear	to hear	Rabha	Rabha	Rabha	na	na	rabh1238	1408	25.820135		3004	FALSE	Joseph2007		3004
-6813	85_tohear	to hear	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ giɑt⁵⁵	tɑ⁵⁵ giɑt⁵⁵	miju1243	1408	28.416389				Sun1991		0
+6813	85_tohear	to hear	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ giɑt⁵⁵	tɑ⁵⁵+giɑt⁵⁵	miju1243	1408	28.416389				Sun1991		0
 6814	85_tohear	to hear	KBEastPuroikSoja	Puroik	Kho-Bwa	roong na	rɔŋ	sulu1241	1408	27.650542				RS09		0
 6815	85_tohear	to hear	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	rɔŋna	rɔŋ+na	sulu1241	1408	27.650542				Remsangpuia2008		0
 6816	85_tohear	to hear	KBEastPuroikSun	Puroik	Kho-Bwa	ɣɔŋ	ɣɔŋ	sulu1241	1408	28.41558				Sun1991		0
@@ -16409,7 +16409,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7282	91_tohold	to hold	KarbiMikir	Karbi (Mikir)	Mizo	nep, jang, thap[...]	tùm	karb1241	1448	25.735084		10384	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10384
 7283	91_tohold	to hold	Rabha	Rabha	Rabha	kʰep	kʰep	rabh1238	1448	25.820135		10383	FALSE	Joseph2007		10383
 7284	91_tohold	to hold	Lashi	Lashi	Burmish	juː³¹	juː³¹	lash1243	1448	24.111512		9	FALSE	Huang1992 Hill2017		9
-7285	91_tohold	to hold	MishmiKaman	Miju	Mishmi	ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵	ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵	miju1243	1448	28.416389				Sun1991		0
+7285	91_tohold	to hold	MishmiKaman	Miju	Mishmi	ɹɑ̆u⁵³ tɑ³¹ ɕɑuŋ³⁵	ɹɑ̆u⁵³+tɑ³¹+ɕɑuŋ³⁵	miju1243	1448	28.416389				Sun1991		0
 7286	91_tohold	to hold	KBEastPuroikSoja	Puroik	Kho-Bwa	neangkhein na kait khein na	neaŋ+kʰəin	sulu1241	1448	27.650542				RS09		0
 7287	91_tohold	to hold	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	naŋkeŋ	naŋ+keŋ	sulu1241	1448	27.650542				Remsangpuia2008		0
 7288	91_tohold	to hold	KBEastPuroikSun	Puroik	Kho-Bwa	jik³³	jik³³	sulu1241	1448	28.41558				Sun1991		0
@@ -16485,7 +16485,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 7866	99_tohunt	to hunt	Tangut	Tangut	Tangut	ba	ba	tang1334	1435	38.477453		1455	FALSE	Li1997		1455
 7867	99_tohunt	to hunt	KarbiMikir	Karbi (Mikir)	Mizo	o kung, sikar puri	o_kung	karb1241	1435	25.735084		10386	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10386
 7868	99_tohunt	to hunt	Rabha	Rabha	Rabha	rok	rok	rabh1238	1435	25.820135		3834	FALSE	Joseph2007		3834
-7869	99_tohunt	to hunt	MishmiKaman	Miju	Mishmi	ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵	ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵	miju1243	1435	28.416389				Sun1991		0
+7869	99_tohunt	to hunt	MishmiKaman	Miju	Mishmi	ɕin⁵⁵ tɑŋ⁵⁵ khil³⁵	ɕin⁵⁵+tɑŋ⁵⁵+khil³⁵	miju1243	1435	28.416389				Sun1991		0
 7870	99_tohunt	to hunt	KBEastPuroikSoja	Puroik	Kho-Bwa	mepiyana	mə+pi+ja	sulu1241	1435	27.650542				RS09		0
 7871	99_tohunt	to hunt	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	mapia	ma+pia	sulu1241	1435	27.650542				Remsangpuia2008		0
 7872	99_tohunt	to hunt	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ kaȶ⁵³	mə³³+kaȶ⁵³	sulu1241	1435	28.41558				Sun1991		0
@@ -16792,7 +16792,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 8772	111_tolaugh	to laugh	Achang	Achang	Burmish	ʐə⁵⁵	ʐə⁵⁵	acha1249	1355	24.466605		438	FALSE	Huang1992 Hill2017		438
 8773	111_tolaugh	to laugh	Xiandao	Xiandao	Burmish	ʐɯ⁵⁵	ʐɯ⁵⁵	xian1249	1355	24.494153		438	FALSE	Huang1992 Hill2017		438
 8774	111_tolaugh	to laugh	Atsi	Atsi	Burmish	vui⁵¹	vui⁵¹	zaiw1241	1355	24.193367		14	FALSE	Huang1992 Hill2017		14
-8775	111_tolaugh	to laugh	MishmiKaman	Miju	Mishmi	k ɹit⁵⁵	k ɹit⁵⁵	miju1243	1355	28.416389				Sun1991		0
+8775	111_tolaugh	to laugh	MishmiKaman	Miju	Mishmi	k ɹit⁵⁵	k+ɹit⁵⁵	miju1243	1355	28.416389				Sun1991		0
 8776	111_tolaugh	to laugh	KBEastPuroikSoja	Puroik	Kho-Bwa	ruae’na	ruae	sulu1241	1355	27.650542				RS09		0
 8777	111_tolaugh	to laugh	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	rue	rue	sulu1241	1355	27.650542				Remsangpuia2008		0
 8778	111_tolaugh	to laugh	KBEastPuroikSun	Puroik	Kho-Bwa	ɣuɛ³³	ɣuɛ³³	sulu1241	1355	28.41558				Sun1991		0
@@ -16849,7 +16849,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 8924	113_tolearn	to learn	Hayu	Hayu	Kiranti	lit	lit	wayu1241	504	27.302102		3665	FALSE	Michailovsky1989a		3665
 8925	113_tolearn	to learn	Tangut	Tangut	Tangut	ɣiew	ɣiew	tang1334	504	38.477453		119	FALSE	Li1997		119
 8926	113_tolearn	to learn	KarbiMikir	Karbi (Mikir)	Mizo	cherli, pechok	cherli	karb1241	504	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-8927	113_tolearn	to learn	MishmiKaman	Miju	Mishmi	tɑ³¹ mɑl⁵³; dʑoŋ⁵⁵	tɑ³¹+mɑl⁵³	miju1243	504	28.416389				Sun1991		0
+8927	113_tolearn	to learn	MishmiKaman	Miju	Mishmi	tɑ³¹ mɑl⁵³; dʑoŋ⁵⁵	tɑ³¹ mɑl⁵³	miju1243	504	28.416389				Sun1991		0
 8928	113_tolearn	to learn	KBEastPuroikSoja	Puroik	Kho-Bwa	migab hingab na	mi+gap+hin+gap	sulu1241	504	27.650542				RS09		0
 9017	115_tolick	to lick	TshDirangTshangla	Dirang Tshangla	Bodic	bɛn	bɛn	dira1243	319	27.343674				TB		4603
 9018	115_tolick	to lick	TaniGalo	Galo	Tani	rakH	rak55	galo1242	319	27.98				Post07	*rjak	101
@@ -17047,7 +17047,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 9862	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	Ukhrul	Ukhrul	Naga	ʃakkə+tsa	ʃakkə+tsa	ukhr1238	2164	25.092617		2135	FALSE	Mortensen2012		2135
 9863	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	Tangut	Tangut	Tangut	ta.	ta	tang1334	2164	38.477453		4218	FALSE	Li1997		4218
 9864	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	KarbiMikir	Karbi (Mikir)	Mizo	piso en	piso_en	karb1241	2164	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-9865	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ mphit⁵⁵	tɑ⁵⁵ mphit⁵⁵	miju1243	2164	28.416389				Sun1991		0
+9865	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ mphit⁵⁵	tɑ⁵⁵+mphit⁵⁵	miju1243	2164	28.416389				Sun1991		0
 9866	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	KBEastPuroikSoja	Puroik	Kho-Bwa	amui urue’ na	a+mui+u+rue	sulu1241	2164	27.650542				RS09		0
 9867	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	rai	rai	sulu1241	2164	27.650542				Remsangpuia2008		0
 9868	125_tomarryamanmarriesawoman	to marry (a man marries a woman)	KBEastPuroikSun	Puroik	Kho-Bwa	tap³³; lu⁵³	lu⁵³	sulu1241	2164	28.41558				Sun1991		0
@@ -17114,7 +17114,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12056	152_toplantvegetalsrice	to plant (vegetals, rice)	Hayu	Hayu	Kiranti	lʊt	lʊt	wayu1241	1486	27.302102		2755	FALSE	Michailovsky1989a		2755
 12057	152_toplantvegetalsrice	to plant (vegetals, rice)	Tangut	Tangut	Tangut	lji.	lji	tang1334	1486	38.477453		722	FALSE	Li1997		722
 12058	152_toplantvegetalsrice	to plant (vegetals, rice)	KarbiMikir	Karbi (Mikir)	Mizo	tei	è	karb1241	1486	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-12059	152_toplantvegetalsrice	to plant (vegetals, rice)	MishmiKaman	Miju	Mishmi	tɯ³¹ khɹɑ³⁵ thɑ⁵³	tɯ³¹ khɹɑ³⁵ thɑ⁵³	miju1243	1486	28.416389				Sun1991		0
+12059	152_toplantvegetalsrice	to plant (vegetals, rice)	MishmiKaman	Miju	Mishmi	tɯ³¹ khɹɑ³⁵ thɑ⁵³	tɯ³¹+khɹɑ³⁵+thɑ⁵³	miju1243	1486	28.416389				Sun1991		0
 12060	152_toplantvegetalsrice	to plant (vegetals, rice)	KBEastPuroikSoja	Puroik	Kho-Bwa	deina	dei	sulu1241	1486	27.650542				AT90		0
 12061	152_toplantvegetalsrice	to plant (vegetals, rice)	KBEastPuroikSun	Puroik	Kho-Bwa	θæ³³	θæ³³	sulu1241	1486	28.41558				Sun1991		0
 12062	153_toplay	to play	TshDirangTshangla	Dirang Tshangla	Bodic	ɲɛp	ɲɛp	dira1243	1413	27.343674				TB		5271
@@ -17201,7 +17201,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12143	153_toplay	to play	KarbiMikir	Karbi (Mikir)	Mizo	chelem, jui	jùi	karb1241	1413	25.735084		10420	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10420
 12144	153_toplay	to play	Rabha	Rabha	Rabha	kʰer	kʰer	rabh1238	1413	25.820135		3992	FALSE	Joseph2007		3992
 12145	153_toplay	to play	OldBurmese	Old Burmese	Burmish	ka+cāḥ	ka+cāḥ	oldb1235	1413	21.624974		1030	FALSE	Hill2017		1030
-12146	153_toplay	to play	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ do⁵³ kɹɑu⁵⁵	tɑ⁵⁵ do⁵³ kɹɑu⁵⁵	miju1243	1413	28.416389				Sun1991		0
+12146	153_toplay	to play	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ do⁵³ kɹɑu⁵⁵	tɑ⁵⁵+do⁵³+kɹɑu⁵⁵	miju1243	1413	28.416389				Sun1991		0
 12147	153_toplay	to play	KBEastPuroikSoja	Puroik	Kho-Bwa	laoe’ nyiang na	laoe+ɲiang	sulu1241	1413	27.650542				RS09		0
 12148	153_toplay	to play	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	laina	lai+na	sulu1241	1413	27.650542				Remsangpuia2008		0
 12149	153_toplay	to play	KBEastPuroikSun	Puroik	Kho-Bwa	læ³³	læ³³	sulu1241	1413	28.41558				Sun1991		0
@@ -17376,7 +17376,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 12318	155_topush	to push	Tangut	Tangut	Tangut	khwej	khwej	tang1334	1452	38.477453		4152	FALSE	Li1997		4152
 12319	155_topush	to push	KarbiMikir	Karbi (Mikir)	Mizo	doi	ingdōi	karb1241	1452	25.735084		10421	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10421
 12320	155_topush	to push	Rabha	Rabha	Rabha	pɨ+tar	pɨ+tar	rabh1238	1452	25.820135		10422	FALSE	Joseph2007		10422
-12321	155_topush	to push	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ nuŋ³⁵	tɑ⁵⁵ nuŋ³⁵	miju1243	1452	28.416389				Sun1991		0
+12321	155_topush	to push	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ nuŋ³⁵	tɑ⁵⁵+nuŋ³⁵	miju1243	1452	28.416389				Sun1991		0
 12322	155_topush	to push	KBEastPuroikSoja	Puroik	Kho-Bwa	noongna	nɔŋ	sulu1241	1452	27.650542				RS09		0
 12323	155_topush	to push	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	tʃe	tʃe	sulu1241	1452	27.650542				Remsangpuia2008		0
 12324	155_topush	to push	KBEastPuroikSun	Puroik	Kho-Bwa	noŋ³³	noŋ³³	sulu1241	1452	28.41558				Sun1991		0
@@ -17768,7 +17768,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14133	178_toshootanarrow	to shoot (an arrow)	Tangut	Tangut	Tangut	khia	khia	tang1334	1172	38.477453		4168	FALSE	Li1997		4168
 14134	178_toshootanarrow	to shoot (an arrow)	KarbiMikir	Karbi (Mikir)	Mizo	ap, bop	ap	karb1241	1172	25.735084		727	FALSE	Walker1925 KonnerthFC GruessnerNoDate		727
 14135	178_toshootanarrow	to shoot (an arrow)	Rabha	Rabha	Rabha	ko	ko	rabh1238	1172	25.820135		4009	FALSE	Joseph2007		4009
-14136	178_toshootanarrow	to shoot (an arrow)	MishmiKaman	Miju	Mishmi	top⁵⁵ kɑp³⁵	top⁵⁵ kɑp³⁵	miju1243	1172	28.416389				Sun1991		0
+14136	178_toshootanarrow	to shoot (an arrow)	MishmiKaman	Miju	Mishmi	top⁵⁵ kɑp³⁵	top⁵⁵+kɑp³⁵	miju1243	1172	28.416389				Sun1991		0
 14137	178_toshootanarrow	to shoot (an arrow)	KBEastPuroikSoja	Puroik	Kho-Bwa	re’ na	re	sulu1241	1172	27.650542				RS09		0
 14138	178_toshootanarrow	to shoot (an arrow)	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	rena	re+na	sulu1241	1172	27.650542				Remsangpuia2008		0
 14139	178_toshootanarrow	to shoot (an arrow)	KBEastPuroikSun	Puroik	Kho-Bwa	re⁵³	re⁵³	sulu1241	1172	28.41558				Sun1991		0
@@ -17856,7 +17856,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 14485	183_tosing	to sing	Tangut	Tangut	Tangut	kji	kji	tang1334	1261	38.477453		4172	TRUE	Li1997		4172
 14486	183_tosing	to sing	KarbiMikir	Karbi (Mikir)	Mizo	lun	lún	karb1241	1261	25.735084		10445	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10445
 14487	183_tosing	to sing	Rabha	Rabha	Rabha	tʃa+ruŋ	tʃa+ruŋ	rabh1238	1261	25.820135		3426	FALSE	Joseph2007		3426
-14488	183_tosing	to sing	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ dzɑi³⁵	tɑ⁵⁵ dzɑi³⁵	miju1243	1261	28.416389				Sun1991		0
+14488	183_tosing	to sing	MishmiKaman	Miju	Mishmi	tɑ⁵⁵ dzɑi³⁵	tɑ⁵⁵+dzɑi³⁵	miju1243	1261	28.416389				Sun1991		0
 14489	183_tosing	to sing	KBEastPuroikSoja	Puroik	Kho-Bwa	luitnyiang	luit+ɲiaŋ	sulu1241	1261	27.650542				RS09		0
 14490	183_tosing	to sing	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	luitnieŋ	luit+nieŋ	sulu1241	1261	27.650542				Remsangpuia2008		0
 14491	183_tosing	to sing	KBEastPuroikSun	Puroik	Kho-Bwa	bɹəʴ³³	bɹəʴ³³	sulu1241	1261	28.41558				Sun1991		0
@@ -18063,7 +18063,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19400	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	Lushai	Lushai	Mizo	kui	kui	lush1249	748	22.60535		1602	FALSE	Lorrain1940		1602
 19401	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	Hayu	Hayu	Kiranti	tsʰʊk	tsʰʊk	wayu1241	748	27.302102		2245	FALSE	Michailovsky1989a		2245
 19402	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	KarbiMikir	Karbi (Mikir)	Mizo	chili kangdir [chili=seed]	chili_kangdir	karb1241	748	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-19403	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	MishmiKaman	Miju	Mishmi	xɑ³¹ lɯl³⁵	xɑ³¹ lɯl³⁵	miju1243	748	28.416389				Sun1991		0
+19403	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	MishmiKaman	Miju	Mishmi	xɑ³¹ lɯl³⁵	xɑ³¹+lɯl³⁵	miju1243	748	28.416389				Sun1991		0
 19404	244_tosowbroadcastscatterseeds	to sow (broadcast, scatter seeds)	KBEastPuroikSoja	Puroik	Kho-Bwa	pook na	pɔk	sulu1241	748	27.650542				RS09		0
 15624	198_tospit	to spit	TshDirangTshangla	Dirang Tshangla	Bodic	tʰɔp+taŋ pʰir	tʰɔp+taŋ+pʰir	dira1243	1440	27.343674				TB		5300
 15625	198_tospit	to spit	TaniTangam	Tangam	Tani	cut	tɕut	tang1377	1440	28.956354				Post2017		4554
@@ -18309,7 +18309,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 15952	201_tosteal	to steal	Tangut	Tangut	Tangut	kwjɨɨ/ɨːr	kwjɨɨ/ɨːr	tang1334	713	38.477453		10464	FALSE	Li1997		10464
 15953	201_tosteal	to steal	KarbiMikir	Karbi (Mikir)	Mizo	inghu	inghū	karb1241	713	25.735084		10464	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10464
 15954	201_tosteal	to steal	Rabha	Rabha	Rabha	me+xoi	me+xoi	rabh1238	713	25.820135		10464	FALSE	Joseph2007		10464
-15955	201_tosteal	to steal	MishmiKaman	Miju	Mishmi	kɑl⁵⁵ xɯu⁵³	kɑl⁵⁵ xɯu⁵³	miju1243	713	28.416389				Sun1991		0
+15955	201_tosteal	to steal	MishmiKaman	Miju	Mishmi	kɑl⁵⁵ xɯu⁵³	kɑl⁵⁵+xɯu⁵³	miju1243	713	28.416389				Sun1991		0
 15956	201_tosteal	to steal	KBEastPuroikSoja	Puroik	Kho-Bwa	aana, meaa na	aː	sulu1241	713	27.650542				RS09		0
 15957	201_tosteal	to steal	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	maŋa	ma+ŋa	sulu1241	713	27.650542				Remsangpuia2008		0
 15958	201_tosteal	to steal	KBEastPuroikSun	Puroik	Kho-Bwa	mə³³ ɣa³³	mə³³+ɣa³³	sulu1241	713	28.41558				Sun1991		0
@@ -18820,7 +18820,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17499	220_today	today	Tangut	Tangut	Tangut	pɨjsjij	pɨjsjij	tang1334	1283	38.477453		1313	FALSE	Li1997		1313
 17500	220_today	today	KarbiMikir	Karbi (Mikir)	Mizo	pini, mini	pinì	karb1241	1283	25.735084		1313	FALSE	Walker1925 KonnerthFC GruessnerNoDate		1313
 17501	220_today	today	Rabha	Rabha	Rabha	té	té	rabh1238	1283	25.820135		10510	FALSE	Joseph2007		10510
-17502	220_today	today	MishmiKaman	Miju	Mishmi	tɯ³¹ ŋin⁵⁵ ɹɑ³⁵	tɯ³¹ ŋin⁵⁵ ɹɑ³⁵	miju1243	1283	28.416389				Sun1991		0
+17502	220_today	today	MishmiKaman	Miju	Mishmi	tɯ³¹ ŋin⁵⁵ ɹɑ³⁵	tɯ³¹+ŋin⁵⁵+ɹɑ³⁵	miju1243	1283	28.416389				Sun1991		0
 17503	220_today	today	KBEastPuroikSoja	Puroik	Kho-Bwa	heriu ri	hə+riu+ri	sulu1241	1283	27.650542				RS09		0
 17504	220_today	today	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	riuri	riu+ri	sulu1241	1283	27.650542				Remsangpuia2008		0
 17505	220_today	today	KBEastPuroikSun	Puroik	Kho-Bwa	ha³³ riu³³ ri⁵³	ha³³+riu³³+ri⁵³	sulu1241	1283	28.41558				Sun1991		0
@@ -18908,7 +18908,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17587	221_tomorrow	tomorrow	Tangut	Tangut	Tangut	narar	narar	tang1334	1329	38.477453		4216	FALSE	Li1997		4216
 17588	221_tomorrow	tomorrow	KarbiMikir	Karbi (Mikir)	Mizo	penap, menap	penàp	karb1241	1329	25.735084		10537	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10537
 17589	221_tomorrow	tomorrow	Rabha	Rabha	Rabha	ga+pʰuŋ	ga+pʰuŋ	rabh1238	1329	25.820135		10538	FALSE	Joseph2007		10538
-17590	221_tomorrow	tomorrow	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³	tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³	miju1243	1329	28.416389				Sun1991		0
+17590	221_tomorrow	tomorrow	MishmiKaman	Miju	Mishmi	tɯ³¹ ɹuɑŋ⁵⁵ ɹɑ⁵³	tɯ³¹+ɹuɑŋ⁵⁵+ɹɑ⁵³	miju1243	1329	28.416389				Sun1991		0
 17591	221_tomorrow	tomorrow	KBEastPuroikSoja	Puroik	Kho-Bwa	piyapiyae’	pi+ja+pi+jae	sulu1241	1329	27.650542				RS09		0
 17592	221_tomorrow	tomorrow	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	pjapɹe	pja+pɹe	sulu1241	1329	27.650542				Remsangpuia2008		0
 17593	221_tomorrow	tomorrow	KBEastPuroikSun	Puroik	Kho-Bwa	pia³³ pɹæ⁵³	pia³³+pɹæ⁵³	sulu1241	1329	28.41558				Sun1991		0
@@ -18979,7 +18979,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 17921	225_twenty	twenty	Achang	Achang	Burmish	tă³¹+sau⁵⁵	tă³¹+sau⁵⁵	acha1249	1710	24.466605		8105	FALSE	Huang1992 Hill2017		8105
 17922	225_twenty	twenty	Tangut	Tangut	Tangut	njɨɨɣa.	njɨɨɣa	tang1334	1710	38.477453		0	FALSE	Li1997		0
 17923	225_twenty	twenty	KarbiMikir	Karbi (Mikir)	Mizo	ingkoi	ingkòi	karb1241	1710	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-17924	225_twenty	twenty	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑl³⁵ mu⁵³	kɯ³¹ tɑl³⁵ mu⁵³	miju1243	1710	28.416389				Sun1991		0
+17924	225_twenty	twenty	MishmiKaman	Miju	Mishmi	kɯ³¹ tɑl³⁵ mu⁵³	kɯ³¹+tɑl³⁵+mu⁵³	miju1243	1710	28.416389				Sun1991		0
 17925	225_twenty	twenty	KBEastPuroikSoja	Puroik	Kho-Bwa	suait nyi	suait+ɲi	sulu1241	1710	27.650542				RS09		0
 17926	225_twenty	twenty	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	suanji	sua+nji	sulu1241	1710	27.650542				Remsangpuia2008		0
 17927	225_twenty	twenty	KBEastPuroikSun	Puroik	Kho-Bwa	suat³³ ȵi³³	suat³³+ȵi³³	sulu1241	1710	28.41558				Sun1991		0
@@ -19065,7 +19065,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 18007	226_two	two	Hayu	Hayu	Kiranti	nakpu	nakpu	wayu1241	1498	27.302102		102	FALSE	Michailovsky1989a		102
 18008	226_two	two	KarbiMikir	Karbi (Mikir)	Mizo	heni, -ni	+nì	karb1241	1498	25.735084		102	FALSE	Walker1925 KonnerthFC GruessnerNoDate		102
 18009	226_two	two	Rabha	Rabha	Rabha	a+niŋ	a+niŋ	rabh1238	1498	25.820135		102	FALSE	Joseph2007		102
-18010	226_two	two	MishmiKaman	Miju	Mishmi	kɯ³¹ jin⁵³	kɯ³¹ jin⁵³	miju1243	1498	28.416389				Sun1991		0
+18010	226_two	two	MishmiKaman	Miju	Mishmi	kɯ³¹ jin⁵³	kɯ³¹+jin⁵³	miju1243	1498	28.416389				Sun1991		0
 18011	226_two	two	KBEastPuroikSoja	Puroik	Kho-Bwa	nyi	ɲi	sulu1241	1498	27.650542				RS09		0
 18012	226_two	two	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	nji	nji	sulu1241	1498	27.650542				Remsangpuia2008		0
 18013	226_two	two	KBEastPuroikSun	Puroik	Kho-Bwa	ȵi³³	ȵi³³	sulu1241	1498	28.41558				Sun1991		0
@@ -19376,7 +19376,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 18639	234_where	where	Rangoon	Rangoon	Burmish	ɑ⁵³+bɛ²²+m̥ɑ²²	ɑ⁵³+bɛ²²+m̥ɑ²²	nucl1310	1237	16.874207		8252	FALSE	Huang1992 Hill2017		8252
 18640	234_where	where	Achang	Achang	Burmish	xoi⁵⁵+tʰɔʔ⁵⁵	xoi⁵⁵+tʰɔʔ⁵⁵	acha1249	1237	24.466605		8142	FALSE	Huang1992 Hill2017		8142
 18641	234_where	where	KarbiMikir	Karbi (Mikir)	Mizo	nathu, konat	kodāk	karb1241	1237	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-18642	234_where	where	MishmiKaman	Miju	Mishmi	ji⁵⁵ hɑi⁵³	ji⁵⁵ hɑi⁵³	miju1243	1237	28.416389				Sun1991		0
+18642	234_where	where	MishmiKaman	Miju	Mishmi	ji⁵⁵ hɑi⁵³	ji⁵⁵+hɑi⁵³	miju1243	1237	28.416389				Sun1991		0
 18643	234_where	where	KBEastPuroikSoja	Puroik	Kho-Bwa	kaila, kerua	kai+la	sulu1241	1237	27.650542				RS09		0
 18644	234_where	where	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	kai	kai	sulu1241	1237	27.650542				Remsangpuia2008		0
 18645	234_where	where	KBEastPuroikSun	Puroik	Kho-Bwa	kə³³ la⁵³ la¹¹	kə³³+la⁵³+la¹¹	sulu1241	1237	28.41558				Sun1991		0
@@ -19463,7 +19463,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 18726	235_white	white	Hayu	Hayu	Kiranti	dawaŋ+mi	dawaŋ+mi	wayu1241	1335	27.302102		2252	FALSE	Michailovsky1989a		2252
 18727	235_white	white	KarbiMikir	Karbi (Mikir)	Mizo	kelok	lòk	karb1241	1335	25.735084		10488	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10488
 18728	235_white	white	Rabha	Rabha	Rabha	bok	bok	rabh1238	1335	25.820135		10579	FALSE	Joseph2007		10579
-18729	235_white	white	MishmiKaman	Miju	Mishmi	kɯ³¹ mphlɑŋ⁵⁵	kɯ³¹ mphlɑŋ⁵⁵	miju1243	1335	28.416389				Sun1991		0
+18729	235_white	white	MishmiKaman	Miju	Mishmi	kɯ³¹ mphlɑŋ⁵⁵	kɯ³¹+mphlɑŋ⁵⁵	miju1243	1335	28.416389				Sun1991		0
 18730	235_white	white	KBEastPuroikSoja	Puroik	Kho-Bwa	arioong	a+riɔŋ	sulu1241	1335	27.650542				RS09		0
 18731	235_white	white	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	ariɔŋ	a+riɔŋ	sulu1241	1335	27.650542				Remsangpuia2008		0
 18732	235_white	white	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ rioŋ³³	a³³+rioŋ³³	sulu1241	1335	28.41558				Sun1991		0
@@ -19635,7 +19635,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19570	246_yellow	yellow	Hayu	Hayu	Kiranti	helduŋmi	helduŋmi	wayu1241	1424	27.302102		2254	FALSE	Michailovsky1989a		2254
 19571	246_yellow	yellow	KarbiMikir	Karbi (Mikir)	Mizo	etpi	+èt	karb1241	1424	25.735084		10499	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10499
 19572	246_yellow	yellow	Rabha	Rabha	Rabha	bai	bai	rabh1238	1424	25.820135		10498	FALSE	Joseph2007		10498
-19573	246_yellow	yellow	MishmiKaman	Miju	Mishmi	kɯ³¹ lɑ̆uŋ³⁵	kɯ³¹ lɑ̆uŋ³⁵	miju1243	1424	28.416389				Sun1991		0
+19573	246_yellow	yellow	MishmiKaman	Miju	Mishmi	kɯ³¹ lɑ̆uŋ³⁵	kɯ³¹+lɑ̆uŋ³⁵	miju1243	1424	28.416389				Sun1991		0
 19574	246_yellow	yellow	KBEastPuroikSoja	Puroik	Kho-Bwa	asoluwa	a+so+lu+wa	sulu1241	1424	27.650542				AT90		0
 19575	246_yellow	yellow	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	asulua	a+su+lua	sulu1241	1424	27.650542				Remsangpuia2008		0
 19576	246_yellow	yellow	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ riɛ³³	a³³+riɛ³³	sulu1241	1424	28.41558				Sun1991		0
@@ -19723,7 +19723,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19658	247_yesterday	yesterday	Tangut	Tangut	Tangut	jɨnjɨɨ	jɨnjɨɨ	tang1334	1174	38.477453		4215	FALSE	Li1997		4215
 19659	247_yesterday	yesterday	KarbiMikir	Karbi (Mikir)	Mizo	tumi	tumì	karb1241	1174	25.735084		10536	FALSE	Walker1925 KonnerthFC GruessnerNoDate		10536
 19660	247_yesterday	yesterday	Rabha	Rabha	Rabha	mi+a	mi+a	rabh1238	1174	25.820135		3471	FALSE	Joseph2007		3471
-19661	247_yesterday	yesterday	MishmiKaman	Miju	Mishmi	mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵	mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵	miju1243	1174	28.416389				Sun1991		0
+19661	247_yesterday	yesterday	MishmiKaman	Miju	Mishmi	mɯ³¹ ŋɑ⁵⁵ niŋ⁵⁵	mɯ³¹+ŋɑ⁵⁵+niŋ⁵⁵	miju1243	1174	28.416389				Sun1991		0
 19662	247_yesterday	yesterday	KBEastPuroikSoja	Puroik	Kho-Bwa	biari	bia+ri	sulu1241	1174	27.650542				RS09		0
 19663	247_yesterday	yesterday	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	biari	bia+ri	sulu1241	1174	27.650542				Remsangpuia2008		0
 19664	247_yesterday	yesterday	KBEastPuroikSun	Puroik	Kho-Bwa	bie³³ ri⁵³	bie³³+ri⁵³	sulu1241	1174	28.41558				Sun1991		0
@@ -19794,7 +19794,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19729	248_yousecondpersonplural	you [second person plural]	Rangoon	Rangoon	Burmish	mĩ∼⁵⁵+to⁵³	mĩ∼⁵⁵+to⁵³	nucl1310	1213	16.874207		8249	FALSE	Huang1992 Hill2017		8249
 19730	248_yousecondpersonplural	you [second person plural]	Lashi	Lashi	Burmish	ŋjaŋ³³+nuŋ⁵⁵	ŋjaŋ³³+nuŋ⁵⁵	lash1243	1213	24.111512		8192	FALSE	Huang1992 Hill2017		8192
 19731	248_yousecondpersonplural	you [second person plural]	KarbiMikir	Karbi (Mikir)	Mizo	nang, nangtum	nang	karb1241	1213	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		8189
-19732	248_yousecondpersonplural	you [second person plural]	MishmiKaman	Miju	Mishmi	ȵo⁵³ niŋ³⁵	ȵo⁵³ niŋ³⁵	miju1243	1213	28.416389				Sun1991		0
+19732	248_yousecondpersonplural	you [second person plural]	MishmiKaman	Miju	Mishmi	ȵo⁵³ niŋ³⁵	ȵo⁵³+niŋ³⁵	miju1243	1213	28.416389				Sun1991		0
 19733	248_yousecondpersonplural	you [second person plural]	KBEastPuroikSoja	Puroik	Kho-Bwa	narai	na+rai	sulu1241	1213	27.650542				AT90		0
 19734	248_yousecondpersonplural	you [second person plural]	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	nase	na+se	sulu1241	1213	27.650542				Remsangpuia2008		0
 19735	248_yousecondpersonplural	you [second person plural]	KBEastPuroikSun	Puroik	Kho-Bwa	nah³³ ɣəȵ³³	nah³³+ɣəȵ³³	sulu1241	1213	28.41558				Sun1991		0
@@ -19854,7 +19854,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	SUBGROUP	VALUE	FORM	GLOTTOLOG	CON
 19789	249_young	young	Xingning	Xingning	Sinitic	hiu⁵³₅₅saŋ⁴⁵	hiu⁵³₅₅saŋ⁴⁵	hakk1236	1207	24.13674		2028	FALSE	Lai2017FN		2028
 19790	249_young	young	Tangut	Tangut	Tangut	thjwi.	thjwi	tang1334	1207	38.477453		4222	FALSE	Li1997		4222
 19791	249_young	young	KarbiMikir	Karbi (Mikir)	Mizo	akebi	akebi	karb1241	1207	25.735084		0	FALSE	Walker1925 KonnerthFC GruessnerNoDate		0
-19792	249_young	young	MishmiKaman	Miju	Mishmi	kɯ³¹ ɕik⁵⁵ tsoŋ³⁵	kɯ³¹ ɕik⁵⁵ tsoŋ³⁵	miju1243	1207	28.416389				Sun1991		0
+19792	249_young	young	MishmiKaman	Miju	Mishmi	kɯ³¹ ɕik⁵⁵ tsoŋ³⁵	kɯ³¹+ɕik⁵⁵+tsoŋ³⁵	miju1243	1207	28.416389				Sun1991		0
 19793	249_young	young	KBEastPuroikSoja	Puroik	Kho-Bwa	sikcha bae’	sik+tʃʰa+bae	sulu1241	1207	27.650542				RS09		0
 19794	249_young	young	KBEastPuroikRemsangpuia	Puroik	Kho-Bwa	dʒuaŋ	dʒuaŋ	sulu1241	1207	27.650542				Remsangpuia2008		0
 19795	249_young	young	KBEastPuroikSun	Puroik	Kho-Bwa	a³³ dɯ⁵³ ba³³ bua³³	a³³+dɯ⁵³+ba³³+bua³³	sulu1241	1207	28.41558				Sun1991		0

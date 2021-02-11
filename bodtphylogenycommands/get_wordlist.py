@@ -128,7 +128,7 @@ def run(args):
     for idx, c, doc, fm, cid in cgid.iter_rows("concept", "doculect", "form", "cogid"):
         cgid_book[(c, doc, fm)] = [cid, cgid[idx, "cognacy"], cgid[idx, "notes"]]
 
-    prf = Profile.from_file(ds.dir.joinpath("etc", "orthography.tsv"))
+    prf = Profile.from_file(ds.dir.joinpath("etc", "orthography_tmp.tsv"))
     tmp_tokenizer = Tokenizer(profile=prf)
 
     for idx, c, doc, fm in wl.iter_rows("concept", "doculect", "form"):

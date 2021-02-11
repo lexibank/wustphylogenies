@@ -355,7 +355,7 @@ class Dataset(BaseDataset):
                             + str(Kaman_wl[idx, "entryid"]),
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
-                            Form=fm.rstrip().replace(" ", "+"),
+                            Form=fm.rstrip().replace(" ", "+"),
                             Source=["Sun1991"],
                             NOTES="",
                         )
