@@ -157,6 +157,10 @@ def run(args):
             sg = tmp_tokenizer(fm, column="IPA")
             wl[idx, "form"] = sg.rstrip("+").replace(" ", "")
 
+    for idx, fm in wl.iter_rows("form"):
+        if "_" in fm:
+            wl[idx, "form"] = fm.replace("_", "+")
+
     # final beautify
     for idx, fm in wl.iter_rows("form"):
         if "++" in fm:

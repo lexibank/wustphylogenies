@@ -4,7 +4,7 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 188017	gɹæn³³ gɹo⁵³	gɹæn³³+gɹo⁵³	ant	ANT	587	1431	Puroik	ZMYYC		
 193525	pua³³ kə³³ jo⁵³	pua³³+kə³³+jo⁵³	armpit	ARMPIT	1886	1431	Puroik	ZMYYC		
 223921	ba³³ niaŋ¹¹	ba³³+niaŋ¹¹	bad	BAD	1292	1431	Puroik	ZMYYC		
-189343	mə³³ tə³³	mə³³+tə³³	bamboo	BAMBOO	1927	1431	Puroik	ZMYYC		
+189343	mə³³ tə³³	mə³³+tə³³	bamboo	BAMBOO	1927	1431	Puroik	rje³³		
 219841	a³³ ɕik³³	a³³+ɕik³³	alive	BE ALIVE	1422	1431	Puroik	ZMYYC		
 193270	θui³³	θui³³	belly	BELLY	1251	1431	Puroik	ZMYYC		
 182968	a³³ ɣua¹¹	a³³+ɣua¹¹	underneath	BELOW OR UNDER	1485	1431	Puroik	ZMYYC		
@@ -14,7 +14,7 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 222901	a³³ ɦiɛ⁵³	a³³+ɦiɛ⁵³	black	BLACK	163	1431	Puroik	ZMYYC		
 193678	hue⁵³	hue⁵³	blood	BLOOD	946	1431	Puroik	ZMYYC		
 218413	huȶ³³	huȶ³³	blow (of wind)	BLOW (OF WIND)	175	1431	Puroik	ZMYYC		
-191485	heʴn³³chəʴ	heʴn³³+chəʴ	branch	BRANCH	1531	1431	Puroik	ZMYYC		
+191485	heʴn³³chəʴ	heʴn³³+tʃʰəʴ	branch	BRANCH	1531	1431	Puroik	ZMYYC		
 193219	a³³ niɛ¹¹	a³³+niɛ¹¹	breast	BREAST	1402	1431	Puroik	ZMYYC		
 211426	vɛʴ³³	vɛʴ³³	buy	BUY	1869	1431	Puroik	ZMYYC		
 207346	we³³	we³³	chew	CHEW	321	1431	Puroik	ZMYYC		
@@ -24,12 +24,12 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 225094	a³³ ɣɯək³³	a³³+ɣɯək³³	cold	COLD	1287	1431	Puroik	ZMYYC		
 217597	u³³	u³³	come	COME	1446	1431	Puroik	ZMYYC		
 211528	gɛʴ⁵³	gɛʴ⁵³	count	COUNT	1420	1431	Puroik	ZMYYC		
-222544	a³³ ciȶ³³	a³³+ciȶ³³	dark	DARK	706	1431	Puroik	ZMYYC		
+222544	a³³ ciȶ³³	a³³+tʃiȶ³³	dark	DARK	706	1431	Puroik	ZMYYC		
 197350	a³³ du³³ mui⁵³	a³³+du³³+mui⁵³	daughter	DAUGHTER	1357	1431	Puroik	ZMYYC		
 180724	a³³ vɯ³³	a³³+vɯ³³	dew	DEW	1977	1431	Puroik	ZMYYC		
 219790	ji³³	ji³³	die	DIE	1494	1431	Puroik	ZMYYC		
 210457	bɹo⁵³	bɹo⁵³	dig	DIG	1418	1431	Puroik	ZMYYC		
-223564	chə³³ chɛʴ⁵³	chə³³+chɛʴ⁵³	dirty	DIRTY	1230	1431	Puroik	ZMYYC		
+223564	chə³³ chɛʴ⁵³	tʃʰə³³+tʃʰɛʴ⁵³	dirty	DIRTY	1230	1431	Puroik	ZMYYC		
 186079	boh⁵³	boh⁵³	dog	DOG	2009	1431	Puroik	ZMYYC		
 206479	mə³³ bak³³	mə³³+bak³³	dream	DREAM	2374	1431	Puroik	ZMYYC		
 207244	rin³³	rin³³	drink	DRINK	1401	1431	Puroik	ZMYYC		
@@ -38,12 +38,12 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 192301	a³³ kuȶ³³	a³³+kuȶ³³	ear	EAR	1247	1431	Puroik	ZMYYC		
 224482	a³³ pɹəʴ⁵³	a³³+pɹəʴ⁵³	early	EARLY	672	1431	Puroik	ZMYYC		
 181591	mə³³ ɟɛ⁵³	mə³³+ɟɛ⁵³	earth	EARTH (SOIL)	1228	1431	Puroik	ZMYYC		
-188476	pə³³ chɹei⁵³	pə³³+chɹei⁵³	earthworm	EARTHWORM	2350	1431	Puroik	ZMYYC		
+188476	pə³³ chɹei⁵³	pə³³+tʃʰɹei⁵³	earthworm	EARTHWORM	2350	1431	Puroik	ZMYYC		
 207193	tɕih⁵³	tɕih⁵³	eat	EAT	1336	1431	Puroik	ZMYYC		
 188680	mə³³ ri³³	mə³³+ri³³	egg	EGG	744	1431	Puroik	ZMYYC		
 226828	la³³	la³³	eight	EIGHT	1705	1431	Puroik	ZMYYC		
 192148	kək³³	kək³³	eye	EYE	1248	1431	Puroik	ZMYYC		
-221677	a³³ ciɛ³³	a³³+ciɛ³³	far	FAR	1406	1431	Puroik	ZMYYC		
+221677	a³³ ciɛ³³	a³³+tʃiɛ³³	far	FAR	1406	1431	Puroik	ZMYYC		
 196279	a³³ pa³³	a³³+pa³³	father	FATHER	1217	1431	Puroik	ZMYYC		
 216169	tsa⁵³ ɣɛ⁵³	tsa⁵³+ɣɛ⁵³	fight	FIGHT	1423	1431	Puroik	ZMYYC		
 182305	bæ³³	bæ³³	fire	FIRE	221	1431	Puroik	ZMYYC		
@@ -85,7 +85,7 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 188935	ɕi³³ læ³³	ɕi³³+læ³³	hoof	HOOF	152	1431	Puroik	ZMYYC		
 221983	a³³ vien⁵³	a³³+vien⁵³	horizontal	HORIZONTAL	2376	1431	Puroik	ZMYYC		
 188986	a³³ kə³³ vuaŋ³³	a³³+kə³³+vuaŋ³³	horn	HORN (ANATOMY)	1393	1431	Puroik	ZMYYC		
-185773	ɕi³³ chəʴ³³	ɕi³³+chəʴ³³	horse	HORSE	615	1431	Puroik	ZMYYC		
+185773	ɕi³³ chəʴ³³	ɕi³³+tʃʰəʴ³³	horse	HORSE	615	1431	Puroik	ZMYYC		
 225043	a³³ ɟit³³	a³³+ɟit³³	hot	HOT	1286	1431	Puroik	ZMYYC		
 197758	tɕok³³	tɕok³³	house	HOUSE	1252	1431	Puroik	ZMYYC		
 227899	ləŋ³³	ləŋ³³	hundred	HUNDRED	1634	1431	Puroik	ZMYYC		
@@ -152,7 +152,7 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 221167	a³³ bɯ³³	a³³+bɯ³³	round	ROUND	1395	1431	Puroik	ZMYYC		
 209233	riȶ³³	riȶ³³	run	RUN	1519	1431	Puroik	ZMYYC		
 200308	hɔŋ³³	hɔŋ³³	salt	SALT	1274	1431	Puroik	ZMYYC		
-225451	a³³ cɛt³³	a³³+cɛt³³	salty	SALTY	1091	1431	Puroik	ZMYYC		
+225451	a³³ cɛt³³	a³³+tʃɛt³³	salty	SALTY	1091	1431	Puroik	ZMYYC		
 182203	pɹæʴ³³ tsət³³	pɹæʴ³³+tsət³³	sand	SAND	671	1431	Puroik	ZMYYC		
 208315	boʴ⁵³	boʴ⁵³	scratch	SCRATCH	1436	1431	Puroik	ZMYYC		
 206989	daȶ³³	daȶ³³	see	SEE	1409	1431	Puroik	ZMYYC		
@@ -169,7 +169,7 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 193576	a³³ kə⁵³	a³³+kə⁵³	skin	SKIN	763	1431	Puroik	ZMYYC		
 180061	kə³³ məŋ⁵³	kə³³+məŋ⁵³	sky	SKY	1732	1431	Puroik	ZMYYC		
 209692	ɣəŋ³³	ɣəŋ³³	sleep	SLEEP	1585	1431	Puroik	ZMYYC		
-220861	ciaŋ³³	ciaŋ³³	small	SMALL	1246	1431	Puroik	ZMYYC		
+220861	ciaŋ³³	tʃiaŋ³³	small	SMALL	1246	1431	Puroik	ZMYYC		
 207958	naŋ³³	naŋ³³	smell	SMELL (PERCEIVE)	1586	1431	Puroik	ZMYYC		
 182356	bæ³³ kɯ³³	bæ³³+kɯ³³	smoke	SMOKE (EXHAUST)	778	1431	Puroik	ZMYYC		
 224992	a³³ ɣəi³³	a³³+ɣəi³³	smooth	SMOOTH	1234	1431	Puroik	ZMYYC		
@@ -179,10 +179,10 @@ ENTRYID	form	segment	gloss	CONCEPTICON_GLOSS	CONCEPTICON_ID	gfn	language	source	
 197299	a³³ du³³ fu¹¹	a³³+du³³+fu¹¹	son	SON	1620	1431	Puroik	ZMYYC		
 187558	pə³³ tu³³ du³³	pə³³+tu³³+du³³	sparrow	SPARROW	1854	1431	Puroik	ZMYYC		
 188119	wuoŋ³³	wuoŋ³³	spider	SPIDER	843	1431	Puroik	ZMYYC		
-209029	cin³³ pua¹¹	cin³³+pua¹¹	stand	STAND	1442	1431	Puroik	ZMYYC		
+209029	cin³³ pua¹¹	tʃin³³+pua¹¹	stand	STAND	1442	1431	Puroik	ZMYYC		
 180214	ha³³ ɣat⁵³	ha³³+ɣat⁵³	star	STAR	1430	1431	Puroik	ZMYYC		
 216475	mə³³ ɣa³³	mə³³+ɣa³³	steal	STEAL	713	1431	Puroik	ZMYYC		
-201889	mə³³ ciaŋ³³ kuaŋ³³	mə³³+ciaŋ³³+kuaŋ³³	stick	STICK	1295	1431	Puroik	ZMYYC		
+201889	mə³³ ciaŋ³³ kuaŋ³³	mə³³+tʃiaŋ³³+kuaŋ³³	stick	STICK	1295	1431	Puroik	ZMYYC		
 182152	kə³³ pɔʴ³³	kə³³+pɔʴ³³	stone / rock	STONE	857	1431	Puroik	ZMYYC		
 221881	a³³ tak³³	a³³+tak³³	straight	STRAIGHT	1404	1431	Puroik	ZMYYC		
 180112	kə³³ ri³³	kə³³+ri³³	sun	SUN	1343	1431	Puroik	ZMYYC		
