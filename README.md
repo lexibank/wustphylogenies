@@ -30,7 +30,7 @@ cldfbench bodtphylogeny.get_wordlist --output='[data name]' --cognate_set='raw/w
 
 - **Varieties:** 86
 - **Concepts:** 250
-- **Lexemes:** 19,869
+- **Lexemes:** 19,868
 - **Sources:** 44
 - **Synonymy:** 1.04
 - **Cognacy:** 14,630 cognates in 4,905 cognate sets (2,722 singletons)
@@ -40,4 +40,4 @@ cldfbench bodtphylogeny.get_wordlist --output='[data name]' --cognate_set='raw/w
 
 
 
-- Entries missing sources: 1/19869 (0.01%)
+- Entries missing sources: 1/19868 (0.01%)

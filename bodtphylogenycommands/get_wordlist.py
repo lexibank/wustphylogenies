@@ -126,18 +126,19 @@ def run(args):
     cgid = Wordlist(args.cognate_set)
     cgid_book = {}
     for idx, c, doc, fm, cid in cgid.iter_rows("concept", "doculect", "form", "cogid"):
-        cgid_book[(c, doc, fm)] = [cid, cgid[idx, "cognacy"], cgid[idx, "notes"]]
+        cgid_book[(c, doc, fm)] = [cid, cgid[idx, "cognacy"], cgid[idx, "notes"], cgid[idx, 'loan']]
 
     prf = Profile.from_file(ds.dir.joinpath("etc", "orthography_tmp.tsv"))
     tmp_tokenizer = Tokenizer(profile=prf)
 
-    for idx, c, doc, fm in wl.iter_rows("concept", "doculect", "form"):
+    for idx, c, doc, fm, loan in wl.iter_rows("concept", "doculect", "form", "loan"):
         if doc == "KBWestPuroikLieberherr":
             doc = "KBBuluPuroik"
         if (c, doc, fm) in cgid_book.keys():
             wl[idx, "cogid"] = cgid_book[(c, doc, fm)][0]
             wl[idx, "cognacy"] = cgid_book[(c, doc, fm)][1]
             wl[idx, "notes"] = cgid_book[(c, doc, fm)][2]
+            wl[idx, 'loan'] = cgid_book[(c, doc, fm)][3]
         else:
             if doc not in [
                 "MishmiKaman",
@@ -161,10 +162,16 @@ def run(args):
         if "_" in fm:
             wl[idx, "form"] = fm.replace("_", "+")
 
-    # final beautify
-    for idx, fm in wl.iter_rows("form"):
-        if "++" in fm:
-            wl[idx, "form"] = fm.replace("++", "+")
+    # final beautify on word form, laons and language:
+    for idx, doc, fm, loan in wl.iter_rows("doculect","form","loan"):
+        if '++' in fm:
+            wl[idx, 'form'] = fm.replace("++","+")
+        if loan is None:
+            wl[idx, 'loan'] = 'FALSE'
+        if doc == "DarangTaraon":
+            wl[idx, 'doculect'] = "MishmiDarangTaraon"
+        elif doc == "Yidu":
+            wl[idx, 'doculect'] = "MishmiYidu"
 
     print("Cannot find the cognate sets for the following entries in our new data: ")
     print(tabulate(missing_cogid_set, headers=["concept", "doculect", "value", "form"]))
