@@ -85,7 +85,7 @@ class Dataset(BaseDataset):
         Puroik_Remsangpuia_concepticon = cbook(Puroik_Remsangpuia_wl, "concepticon_id")
         Puroik_Sun_concepticon = cbook(Puroik_Sun_wl, "concepticon_id")
         # source area
-        # args.writer.add_sources()
+        args.writer.add_sources()
 
         # concept area
         concepts_lookup = args.writer.add_concepts(
@@ -127,7 +127,7 @@ class Dataset(BaseDataset):
                             Parameter_ID=concepts_lookup.get(c),
                             Value=vl,
                             Form=fm,
-                            Source=["Post07"],
+                            Source=["Post2007"],
                             NOTES=Galo_wl[idx, "notes"],
                         )
             # Tangam
@@ -329,7 +329,7 @@ class Dataset(BaseDataset):
                             Parameter_ID=concepts_lookup[c],
                             Value=vl,
                             Form=fm,
-                            Source=Sagartst_wl[idx, "source"],
+                            Source=[x for x in Sagartst_wl[idx, "source"].split(' ')],
                             NOTES=Sagartst_wl[idx, "notes"],
                             LOAN=Sagartst_wl[idx, "loan"],
                             Cognacy=Sagartst_wl[idx, "cogid"],
