@@ -7,6 +7,7 @@
     ],
     "dc:isVersionOf": null,
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "Investigating the internal and external phylogenetics of three Trans-Himalayan subgroups: Kho-Bwa, Hrusish and Bodish",
     "dcat:accessURL": "https://github.com/seagal-project/bodtphylogeny_data",
     "prov:wasDerivedFrom": [
@@ -14,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/seagal-project/bodtphylogeny_data",
-            "dc:created": "2ab3add"
+            "dc:created": "50785b4"
         },
         {
             "rdf:type": "prov:Entity",
